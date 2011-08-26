@@ -8,21 +8,21 @@ gem install scylla
 
 Usage:
 
-require 'scylla'
+ require 'scylla'
 
- => "this is english text".language
+ "this is english text".language
  => "english" 
 
- => "Este es un texto español".language
- => => "spanish"
+ "Este es un texto español".language
+ => "spanish"
 
 Multiple results for other possible languages:
 
- => "isso poderia ser confundido com espanhol, bem".language
- => => "portuguese"
+ "isso poderia ser confundido com espanhol, bem".language
+ => "portuguese"
 
- => "isso poderia ser confundido com espanhol, bem".guess
- => => ["portuguese", "spanish"]
+ "isso poderia ser confundido com espanhol, bem".guess
+ => ["portuguese", "spanish"]
 
 == Contributing to scylla
  
