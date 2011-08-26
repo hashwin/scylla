@@ -3,6 +3,7 @@ require 'test/helper'
 class ScyllaTest < Test::Unit::TestCase
   context "String methods" do
     setup do
+      Scylla::Loader.set_dir(File.join("test","fixtures","lms"))
       text = "Hello? Is there anybody in there?"
       @language = text.language
       @languages = text.guess

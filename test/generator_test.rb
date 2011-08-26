@@ -3,6 +3,7 @@ require 'test/helper'
 class GeneratorTest < Test::Unit::TestCase
   context "create_lm ngrams" do
     setup do
+      Scylla::Loader.set_dir(File.join("test","fixtures","lms"))
       @text = "hello"
       @ngram = ["_", "l", "lo_", "ello", "lo", "o", "llo", "hel", "o_", "ell", "e", "ello_",
        "_he", "el", "hello", "hell", "he", "_hel", "h", "_hell", "llo_", "_h", "ll"]
@@ -31,18 +32,20 @@ class GeneratorTest < Test::Unit::TestCase
 
   context "create .lm files out of text files" do
     setup do
-      @engtext = 'test/fixtures/source_texts/english.txt'
-      @englm = 'test/fixtures/lms/english.lm'
-      @sg = Scylla::Generator.new('test/fixtures/source_texts', 'test/fixtures/lms')
-      languages = Dir.glob("**/*.lm")
+      Scylla::Loader.set_dir(File.join("test","fixtures","lms"))
+      sourcedir = File.join("test", "fixtures", "source_texts")
+      lmdir = File.join("test", "fixtures", "lms")
+      @engtext = File.join(sourcedir, "english.txt")
+      @englm = File.join(lmdir,"english.lm")
+      @sg = Scylla::Generator.new(sourcedir, lmdir)
+      languages = Scylla::Loader.languages
       text = ""
       File.readlines(@engtext).each {|line| text += line }
       @map = @sg.create_lm(text, true)
     end
 
     should "create lm file out of text file" do
-      path = 'test/fixtures/source_texts/english.txt'
-      @sg.write_lm(path)
+      @sg.write_lm(@engtext)
       i = 0
       File.readlines(@englm).each do |line|
         break if i > 400
@@ -56,7 +59,7 @@ class GeneratorTest < Test::Unit::TestCase
 
     should "create .lm files in bulk" do
       @sg.train
-      languages = Dir.glob("**/*.lm")
+      languages = Scylla::Loader.languages
       assert_equal 8, languages.size
       i = 0
       File.readlines(@englm).each do |line|

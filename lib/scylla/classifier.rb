@@ -1,6 +1,6 @@
 module Scylla
   class Classifier
-    attr_accessor :limit, :dir, :ngrams, :threshold, :input
+    attr_accessor :limit, :ngrams, :threshold, :input
 
     # limit    : Up to how many matching language results should be displayed
     # ngrams   : The total number of ngrams that are stored for each language
@@ -30,7 +30,7 @@ module Scylla
       results = Hash.new
       languages = Scylla::Loader.languages
       if languages.empty?
-        p "No languages (.lm files) found. Please run rake scylla:train after placing your training texts in the source_texts directory."
+        p "No languages (.lm files) found in + " + Scylla::Loader.dir + ". Please run rake scylla:train after placing your training texts in the source_texts directory."
         return
       end
       sg = Scylla::Generator.new

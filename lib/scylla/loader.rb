@@ -1,16 +1,20 @@
 module Scylla
   class Loader
+    @@dir = DEFAULT_TARGET_DIR
     # Loads all the language maps once into memory using the .lm files located
     # in lib/scylla/lm
     def self.load_language_maps
       languages = Hash.new
-      Dir.glob("**/*.lm").each do |filepath|
+      Dir.glob(File.join(@@dir, "*.lm")).each do |filepath|
         language = File.basename(filepath, ".lm")
         languages[language] = language_map(filepath)
       end
       return languages
     end
 
+    def self.dir
+      return @@dir
+    end
     # Returns a single language map from a specified .lm file
     def self.language_map(path)
       rank, ngram = 1, Hash.new
@@ -24,6 +28,9 @@ module Scylla
       return ngram
     end
 
+    def self.set_dir(dir)
+      @@dir = dir
+    end
     # Loads all maps from the .lm files, or loads them from memory if the 
     # files have already been read and loaded. 
     def self.languages

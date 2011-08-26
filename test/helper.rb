@@ -1,5 +1,10 @@
 require 'rubygems'
 require 'bundler'
+require 'test/unit'
+require 'shoulda'
+require 'scylla'
+require 'mocha'
+
 
 begin
   Bundler.setup(:default, :development)
@@ -9,14 +14,8 @@ rescue Bundler::BundlerError => e
   exit e.status_code
 end
 
-require 'test/unit'
-require 'shoulda'
-
 $LOAD_PATH.unshift(File.join(File.dirname(__FILE__), '..', 'lib'))
 $LOAD_PATH.unshift(File.dirname(__FILE__))
-
-require 'scylla'
-require 'mocha'
 
 class Test::Unit::TestCase
 end

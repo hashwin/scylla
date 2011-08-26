@@ -4,6 +4,7 @@ class LoaderTest < Test::Unit::TestCase
   context "#languages" do
     setup do
       Scylla::Loader.clear
+      Scylla::Loader.set_dir(File.join("test","fixtures","lms"))
       @englm = 'test/fixtures/lms/english.lm'
     end
 

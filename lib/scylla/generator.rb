@@ -14,7 +14,7 @@ module Scylla
     # and creates language maps using ngram frequencies. The maps are stored in
     # lib/scylla/lms as .lm files
     def train
-      languages = Dir.glob("**/*.lm")
+      languages = Dir.glob(@dirlm + "/*.lm")
       textpaths = Dir.glob(@dirtext + "/*.txt")
       languages.each {|l| File.delete(l) }
       textpaths.each do |path|

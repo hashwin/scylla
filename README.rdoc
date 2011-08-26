@@ -2,6 +2,28 @@
 
 Scylla is a language categorizing gem that allows you to guess the language of a given text. Scylla is a Ruby port of TextCat (http://www.let.rug.nl/~vannoord/TextCat) and is based on the text categorization algorithm presented in Cavnar, W. B. and J. M. Trenkle, ``N-Gram-Based Text Categorization'' In Proceedings of Third Annual Symposium on Document Analysis and Information Retrieval, Las Vegas, NV, UNLV Publications/Reprographics, pp. 161-175, 11-13 April 1994.
 
+Installation:
+
+gem install scylla
+
+Usage:
+
+require 'scylla'
+
+"this is english text".language
+ => "english" 
+
+"Este es un texto español".language
+=> "spanish"
+
+Multiple results for other possible languages:
+
+"isso poderia ser confundido com espanhol, bem".language
+=> "portuguese"
+
+"isso poderia ser confundido com espanhol, bem".guess
+=> ["portuguese", "spanish"]
+
 == Contributing to scylla
  
 * Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet

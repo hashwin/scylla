@@ -13,5 +13,4 @@ end
 group :test do
   gem "shoulda", ">= 0"
   gem "mocha", "~> 0.9.12", :require => nil
-  gem "ruby-debug"
 end
