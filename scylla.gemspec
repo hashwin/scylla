@@ -102,6 +102,7 @@ Gem::Specification.new do |s|
     "lib/scylla/loader.rb",
     "lib/scylla/string.rb",
     "lib/scylla/tasks.rb",
+    "scylla.gemspec",
     "source_texts/13375P33K.txt",
     "source_texts/afrikaans.txt",
     "source_texts/albanian.txt",
