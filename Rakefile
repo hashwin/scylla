@@ -1,7 +1,12 @@
 # encoding: utf-8
 
+$LOAD_PATH.unshift(File.expand_path(File.join(File.dirname(__FILE__), "lib")))
+
 require 'rubygems'
 require 'bundler'
+require 'scylla'
+require 'scylla/tasks'
+
 begin
   Bundler.setup(:default, :development)
 rescue Bundler::BundlerError => e
@@ -17,8 +22,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "scylla"
   gem.homepage = "http://github.com/hashwin/scylla"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = "Ruby port of Textcat language guesser"
+  gem.description = "Allows for text categorization by guessing the language of a given text using n-grams"
   gem.email = "ahegde@zendesk.com"
   gem.authors = ["Ashwin Hegde"]
   # dependencies defined in Gemfile
@@ -28,16 +33,8 @@ Jeweler::RubygemsDotOrgTasks.new
 require 'rake/testtask'
 Rake::TestTask.new(:test) do |test|
   test.libs << 'lib' << 'test'
-  test.pattern = 'test/**/test_*.rb'
+  test.pattern = 'test/**/*_test.rb'
   test.verbose = true
-end
-
-require 'rcov/rcovtask'
-Rcov::RcovTask.new do |test|
-  test.libs << 'test'
-  test.pattern = 'test/**/test_*.rb'
-  test.verbose = true
-  test.rcov_opts << '--exclude "gems/*"'
 end
 
 task :default => :test
@@ -51,3 +48,5 @@ Rake::RDocTask.new do |rdoc|
   rdoc.rdoc_files.include('README*')
   rdoc.rdoc_files.include('lib/**/*.rb')
 end
+
+Scylla::Tasks.new

@@ -1,6 +1,6 @@
 = scylla
 
-Description goes here.
+Scylla is a language categorizing gem that allows you to guess the language of a given text. Scylla is a Ruby port of TextCat (http://www.let.rug.nl/~vannoord/TextCat) and is based on the text categorization algorithm presented in Cavnar, W. B. and J. M. Trenkle, ``N-Gram-Based Text Categorization'' In Proceedings of Third Annual Symposium on Document Analysis and Information Retrieval, Las Vegas, NV, UNLV Publications/Reprographics, pp. 161-175, 11-13 April 1994.
 
 == Contributing to scylla
  
