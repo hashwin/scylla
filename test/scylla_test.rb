@@ -3,9 +3,7 @@ require 'test/helper'
 class ScyllaTest < Test::Unit::TestCase
   context "String methods" do
     setup do
-      text = "Hello, is there anybody in there? Just nod if you can hear me. Is there anyone at home? Come on, now. I hear you're feeling
-              down. I can ease the pain, put you on your feet again. Relax, I need some information first. Just the basic facts, can you
-              show me where it hurts?"
+      text = "Hello? Is there anybody in there?"
       @language = text.language
       @languages = text.guess
     end

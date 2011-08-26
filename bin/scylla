@@ -1,0 +1,13 @@
+#!/usr/bin/env ruby
+
+require 'scylla'
+phrase = ""
+puts "Welcome to Scylla Language Guesser"
+puts "Enter a phrase which you would like to identify"
+puts "Type exit to quit"
+while(phrase != "exit")
+  puts "Phrase:"
+  STDOUT.flush
+  phrase = gets.chomp
+  puts phrase.guess.join(" or ")
+end

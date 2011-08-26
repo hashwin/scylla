@@ -1,6 +1,7 @@
 module Scylla
   class Classifier
     attr_accessor :limit, :dir, :ngrams, :threshold, :input
+
     # limit    : Up to how many matching language results should be displayed
     # ngrams   : The total number of ngrams that are stored for each language
     # threshold: The threshold score for matches
@@ -41,7 +42,7 @@ module Scylla
       results = results.sort {|a,b| a[1]<=>b[1]}
       a = results[0][1]
       answers = [results.shift[0]]
-      while (!results.empty? && results[0][1] < (@threshold *a))
+      while (!results.empty? and results[0][1] < (@threshold * a))
         answers << results.shift[0]
       end
       return answers

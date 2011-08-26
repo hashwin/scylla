@@ -57,7 +57,7 @@ class GeneratorTest < Test::Unit::TestCase
     should "create .lm files in bulk" do
       @sg.train
       languages = Dir.glob("**/*.lm")
-      assert_equal 5, languages.size
+      assert_equal 8, languages.size
       i = 0
       File.readlines(@englm).each do |line|
         break if i > 400
