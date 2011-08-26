@@ -5,7 +5,7 @@
 
 Gem::Specification.new do |s|
   s.name = %q{scylla}
-  s.version = "0.1.0"
+  s.version = "0.2.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Ashwin Hegde"]
@@ -33,6 +33,7 @@ Gem::Specification.new do |s|
     "lib/scylla/lms/13375P33K.lm",
     "lib/scylla/lms/afrikaans.lm",
     "lib/scylla/lms/arabic.lm",
+    "lib/scylla/lms/bulgarian.lm",
     "lib/scylla/lms/catalan.lm",
     "lib/scylla/lms/chinese.lm",
     "lib/scylla/lms/danish.lm",
@@ -50,6 +51,7 @@ Gem::Specification.new do |s|
     "lib/scylla/lms/irish.lm",
     "lib/scylla/lms/italian.lm",
     "lib/scylla/lms/japanese.lm",
+    "lib/scylla/lms/kannada.lm",
     "lib/scylla/lms/korean.lm",
     "lib/scylla/lms/latin.lm",
     "lib/scylla/lms/malay.lm",
@@ -82,6 +84,7 @@ Gem::Specification.new do |s|
     "lib/scylla/loader.rb",
     "lib/scylla/string.rb",
     "lib/scylla/tasks.rb",
+    "scylla-0.1.0.gem",
     "scylla.gemspec",
     "source_texts/13375P33K.txt",
     "source_texts/afrikaans.txt",
@@ -135,6 +138,14 @@ Gem::Specification.new do |s|
     "source_texts/welsh.txt",
     "source_texts/yiddish-utf.txt",
     "test/classifier_test.rb",
+    "test/fixtures/lms/13375p33k.lm",
+    "test/fixtures/lms/danish.lm",
+    "test/fixtures/lms/english.lm",
+    "test/fixtures/lms/french.lm",
+    "test/fixtures/lms/german.lm",
+    "test/fixtures/lms/japanese.lm",
+    "test/fixtures/lms/kannada.lm",
+    "test/fixtures/lms/spanish.lm",
     "test/fixtures/source_texts/13375P33K.txt",
     "test/fixtures/source_texts/danish.txt",
     "test/fixtures/source_texts/english.txt",
