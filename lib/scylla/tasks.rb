@@ -10,8 +10,9 @@ module Scylla
     def define_training_task
       namespace :scylla do
         desc "Trains Scylla in new languages"
-        task :train do
-          sg = Scylla::Generator.new
+        task :train, :dir do |t, args|
+          args.with_defaults(:dir => DEFAULT_SOURCE_DIR)
+          sg = Scylla::Generator.new(args[:dir])
           sg.train
         end
       end

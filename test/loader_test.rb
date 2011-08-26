@@ -9,7 +9,7 @@ class LoaderTest < Test::Unit::TestCase
     end
 
     context "when being read" do
-      should_eventually "only load from disk once" do
+      should "only load from disk once" do
        Scylla::Loader.expects(:load_language_maps).once.returns([])
         Scylla::Loader.languages
         Scylla::Loader.languages

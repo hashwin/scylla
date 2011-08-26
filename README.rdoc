@@ -2,11 +2,11 @@
 
 Scylla is a language categorizing gem that allows you to guess the language of a given text. Scylla is a Ruby port of TextCat (http://www.let.rug.nl/~vannoord/TextCat) and is based on the text categorization algorithm presented in Cavnar, W. B. and J. M. Trenkle, ``N-Gram-Based Text Categorization'' In Proceedings of Third Annual Symposium on Document Analysis and Information Retrieval, Las Vegas, NV, UNLV Publications/Reprographics, pp. 161-175, 11-13 April 1994.
 
-Installation:
+== Installation
 
-gem install scylla
+ gem install scylla
 
-Usage:
+== Usage
 
  require 'scylla'
 
@@ -23,6 +23,22 @@ Multiple results for other possible languages:
 
  "isso poderia ser confundido com espanhol, bem".guess
  => ["portuguese", "spanish"]
+
+== Training
+
+You can train scylla in new languages by providing sample texts in different languages. The default set is located in the 'source_texts' folder in the gem directory. Add new .txt files to this directory named according to the language i.e. a text file full of Hebrew text should be called 'hebrew.txt'. At least 500 lines of text recommended. Then, in the gem folder, run this:
+
+ rake scylla:train
+
+If you want to store texts in your own folder, you can specify that to the rake task.
+WARNING: specifying a different folder deletes all language support for files located in the default directory if they are not copied over.
+
+ rake scylla:train[/Users/hash/mytextdir]
+ "Creating language map for /Users/hash/mytextdir/english.txt"
+ "Creating language map for /Users/hash/mytextdir/kannada.txt"
+ .
+ .
+ etc
 
 == Contributing to scylla
  

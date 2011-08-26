@@ -6,6 +6,7 @@ module Scylla
     # minsize: The minimum size of the ngrams that you would like to store
     def initialize(dirtext = DEFAULT_SOURCE_DIR, dirlm = DEFAULT_TARGET_DIR, minsize = 0, silent = false)
       @dirtext = dirtext
+      p @dirtext
       @dirlm   = dirlm
       @minsize = minsize
     end
