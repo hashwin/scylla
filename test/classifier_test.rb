@@ -7,7 +7,7 @@ class ClassifierTest < Test::Unit::TestCase
       Scylla::Loader.set_dir(File.join("test","fixtures","lms"))
       @entext = "Please allow me to introduce myself, I'm a man of wealth and taste."
       @frtext = "Veux-tu m'épouser? C'est juste une blague."
-      @detext = "Alle warten auf das Licht, fürchtet euch fürchtet euch nicht"
+      @detext = "Alle warten auf das Licht, fürchtet euch nicht"
       @estext = "Que hora son mi corazon. Te lo dije bien clarito."
       @datext = "Gennem anstrengelser når man stjernerne."
       @jptext = " ラ゜珥 ドゥ背騥ヴェ祟 ウァ諤椺と䤎 覥ヒュぱカキャ ゝド"

@@ -1,11 +1,25 @@
 class String
-  def guess
-    sc = Scylla::Classifier.new
-    sc.classify_string(self)
-  end
 
   def language
     sc = Scylla::Classifier.new
     sc.classify_string(self).first
+  end
+
+  def locale
+    sc = Scylla::Classifier.new
+    Scylla::Resources.locales[sc.classify_string(self).first]
+  end
+
+  def guess_locale
+    sc = Scylla::Classifier.new
+    languages = sc.classify_string(self)
+    locales = []
+    languages.each {|lan| locales << Scylla::Resources.locales[lan]}
+    return locales
+  end
+
+  def guess_language
+    sc = Scylla::Classifier.new
+    sc.classify_string(self)
   end
 end
