@@ -5,11 +5,11 @@
 
 Gem::Specification.new do |s|
   s.name = %q{scylla}
-  s.version = "0.3.0"
+  s.version = "0.4.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Ashwin Hegde"]
-  s.date = %q{2011-08-26}
+  s.date = %q{2011-08-29}
   s.default_executable = %q{scylla}
   s.description = %q{Allows for text categorization by guessing the language of a given text using n-grams}
   s.email = %q{ahegde@zendesk.com}
@@ -42,7 +42,7 @@ Gem::Specification.new do |s|
     "lib/scylla/lms/finnish.lm",
     "lib/scylla/lms/french.lm",
     "lib/scylla/lms/german.lm",
-    "lib/scylla/lms/greek-iso8859-7.lm",
+    "lib/scylla/lms/greek.lm",
     "lib/scylla/lms/hebrew.lm",
     "lib/scylla/lms/hindi.lm",
     "lib/scylla/lms/hungarian.lm",
@@ -67,9 +67,9 @@ Gem::Specification.new do |s|
     "lib/scylla/lms/russian.lm",
     "lib/scylla/lms/sanskrit.lm",
     "lib/scylla/lms/scots_gaelic.lm",
-    "lib/scylla/lms/serbian-ascii.lm",
-    "lib/scylla/lms/slovak-ascii.lm",
-    "lib/scylla/lms/slovenian-ascii.lm",
+    "lib/scylla/lms/serbian.lm",
+    "lib/scylla/lms/slovak.lm",
+    "lib/scylla/lms/slovenian.lm",
     "lib/scylla/lms/spanish.lm",
     "lib/scylla/lms/swahili.lm",
     "lib/scylla/lms/swedish.lm",
@@ -77,11 +77,12 @@ Gem::Specification.new do |s|
     "lib/scylla/lms/tamil.lm",
     "lib/scylla/lms/thai.lm",
     "lib/scylla/lms/turkish.lm",
-    "lib/scylla/lms/ukrainian-koi8_u.lm",
+    "lib/scylla/lms/ukrainian.lm",
     "lib/scylla/lms/vietnamese.lm",
     "lib/scylla/lms/welsh.lm",
-    "lib/scylla/lms/yiddish-utf.lm",
+    "lib/scylla/lms/yiddish.lm",
     "lib/scylla/loader.rb",
+    "lib/scylla/resources.rb",
     "lib/scylla/string.rb",
     "lib/scylla/tasks.rb",
     "scylla-0.1.0.gem",
@@ -98,7 +99,7 @@ Gem::Specification.new do |s|
     "source_texts/finnish.txt",
     "source_texts/french.txt",
     "source_texts/german.txt",
-    "source_texts/greek-iso8859-7.txt",
+    "source_texts/greek.txt",
     "source_texts/hebrew.txt",
     "source_texts/hindi.txt",
     "source_texts/hungarian.txt",
@@ -123,9 +124,9 @@ Gem::Specification.new do |s|
     "source_texts/russian.txt",
     "source_texts/sanskrit.txt",
     "source_texts/scots_gaelic.txt",
-    "source_texts/serbian-ascii.txt",
-    "source_texts/slovak-ascii.txt",
-    "source_texts/slovenian-ascii.txt",
+    "source_texts/serbian.txt",
+    "source_texts/slovak.txt",
+    "source_texts/slovenian.txt",
     "source_texts/spanish.txt",
     "source_texts/swahili.txt",
     "source_texts/swedish.txt",
@@ -133,7 +134,7 @@ Gem::Specification.new do |s|
     "source_texts/tamil.txt",
     "source_texts/thai.txt",
     "source_texts/turkish.txt",
-    "source_texts/ukrainian-koi8_u.txt",
+    "source_texts/ukrainian.txt",
     "source_texts/vietnamese.txt",
     "source_texts/welsh.txt",
     "source_texts/yiddish-utf.txt",
