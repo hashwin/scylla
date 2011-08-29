@@ -22,7 +22,7 @@ module Scylla
     "croatian" => "hr",
     "indonesian" => "id",
     "czech" => "cs",
-    "portugese" => "pt",
+    "portuguese" => "pt",
     "finnish" => "fi",
     "korean" => "ko",
     "greek" => "el",
