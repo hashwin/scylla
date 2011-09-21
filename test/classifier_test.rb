@@ -11,7 +11,7 @@ class ClassifierTest < Test::Unit::TestCase
       @estext = "Que hora son mi corazon. Te lo dije bien clarito."
       @datext = "Gennem anstrengelser når man stjernerne."
       @jptext = " ラ゜珥 ドゥ背騥ヴェ祟 ウァ諤椺と䤎 覥ヒュぱカキャ ゝド"
-      @katext = "ಚಿತ್ರಲಿಪಿಯಿಂದ ಹಿಡಿದು ಇಂದಿನ ಮುದ್ರಣ— ಕಂಪ್ಯೂಟರ್"
+      @hitext = "ಚಿತ್ರಲಿಪಿಯಿಂದ ಹಿಡಿದು ಇಂದಿನ ಮುದ್ರಣ— ಕಂಪ್ಯೂಟರ್"
       @lstext = "wtf j00 t41k1n b0ut"
       @sc = sc = Scylla::Classifier.new
     end
@@ -24,7 +24,7 @@ class ClassifierTest < Test::Unit::TestCase
       assert_equal "spanish", @sc.classify_string(@estext).first
       assert_equal "danish", @sc.classify_string(@datext).first
       assert_equal "japanese", @sc.classify_string(@jptext).first
-      assert_equal "kannada", @sc.classify_string(@katext).first
+      assert_equal "hindi", @sc.classify_string(@hitext).first
       assert_equal "13375p33k", @sc.classify_string(@lstext).first
     end
 

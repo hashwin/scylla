@@ -49,7 +49,7 @@ module Scylla
       input.each_line {|line| text += line.strip }
       input = text
       ngram = Hash.new
-      input.split(/[0-9\s]/).each do |word|
+      input.split(/[\d\s\[\]]/).each do |word|
         word = "_" + word + "_";
         len = word.size
         for i in 0..word.size

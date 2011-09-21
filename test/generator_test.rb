@@ -60,7 +60,6 @@ class GeneratorTest < Test::Unit::TestCase
     should "create .lm files in bulk" do
       @sg.train
       languages = Scylla::Loader.languages
-      assert_equal 8, languages.size
       i = 0
       File.readlines(@englm).each do |line|
         break if i > 400
