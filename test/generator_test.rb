@@ -30,6 +30,19 @@ class GeneratorTest < Test::Unit::TestCase
     end
   end
 
+  context "#clean" do
+    setup do
+      @bad_text = "***Hello*** Go to http://www.youtube.com to watch some shitty videos."
+      @bad_text += ">>> Woooooo <<< <a href='blah.com/no'>friend</a> WIN TODAY!!!!"
+      @bad_text += "???? @#!!(**%#)} [[}}||]]"
+      @sg = Scylla::Generator.new
+    end
+
+    should "Remove characters that throw off language detection" do
+      assert_equal "Hello Go to  to watch some shitty videos. Woooooo friend WIN TODAY", @sg.clean(@bad_text)
+    end
+  end
+
   context "create .lm files out of text files" do
     setup do
       Scylla::Loader.set_dir(File.join("test","fixtures","lms"))

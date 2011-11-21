@@ -1,8 +1,10 @@
 require 'rubygems'
+require 'ruby-debug'
 require 'bundler'
 require 'test/unit'
 require 'shoulda'
 require 'scylla'
+require 'sanitize'
 require 'mocha'
 
 

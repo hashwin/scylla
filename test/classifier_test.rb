@@ -12,8 +12,7 @@ class ClassifierTest < Test::Unit::TestCase
       @datext = "Gennem anstrengelser når man stjernerne."
       @jptext = " ラ゜珥 ドゥ背騥ヴェ祟 ウァ諤椺と䤎 覥ヒュぱカキャ ゝド"
       @hitext = "ಚಿತ್ರಲಿಪಿಯಿಂದ ಹಿಡಿದು ಇಂದಿನ ಮುದ್ರಣ— ಕಂಪ್ಯೂಟರ್"
-      @lstext = "wtf j00 t41k1n b0ut"
-      @sc = sc = Scylla::Classifier.new
+      @sc = Scylla::Classifier.new
     end
 
     should "correctly identify the languages based on the given text" do
@@ -25,7 +24,6 @@ class ClassifierTest < Test::Unit::TestCase
       assert_equal "danish", @sc.classify_string(@datext).first
       assert_equal "japanese", @sc.classify_string(@jptext).first
       assert_equal "hindi", @sc.classify_string(@hitext).first
-      assert_equal "13375p33k", @sc.classify_string(@lstext).first
     end
 
     should "correctly identify the language based on a given file" do
