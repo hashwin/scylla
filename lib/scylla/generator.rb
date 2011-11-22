@@ -29,7 +29,7 @@ module Scylla
     # lib/scylla/lms
     def write_lm(path)
       text = ""
-      File.open(path).each { |line| text += clean(line) }
+      File.open(path).each { |line| text += " " + line }
       p "Creating language map for " + path
       lm = create_lm(text, true)
       lmname = File.join(@dirlm, File.basename(path, ".txt") + ".lm")
@@ -45,21 +45,18 @@ module Scylla
     end
 
     def clean(string)
-      string.strip!
       string = Sanitize.clean(string)
       string = CGI.unescapeHTML(string)
       string.gsub!(/(?:http|https):\/\/[a-z0-9]+(?:[\-\.]{1}[a-z0-9]+)*\.[a-z]{2,5}(?:(?::[0-9]{1,5})?\/[^\s]*)?/, "")
-      string.gsub!(/[\*\^><!\"#\$%&\'\(\)\*\+:;=\?@\{\}\[\]|-]/,"")
-      string.strip
+      string.gsub!(/[\*\^><!\"#\$%&\'\(\)\*\+:;=\?@\{\}\[\]|\-\n\r0-9]/," ")
+      string.strip.split(" ").join(" ")
     end
 
     # Creates a language map for a given input string. 
     # The frequencies boolean specifies whether or not the method should
     # return the freqencies of the ngrams, or simply an array in sorted order
     def create_lm(input, frequencies = false)
-      text = ""
-      input.each_line {|line| text += clean(line) }
-      input = text
+      input = clean(input)
       ngram = Hash.new
       input.split(/[\d\s\[\]]/).each do |word|
         word = "_" + word + "_";

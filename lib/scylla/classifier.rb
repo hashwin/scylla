@@ -5,7 +5,7 @@ module Scylla
     # limit    : Up to how many matching language results should be displayed
     # ngrams   : The total number of ngrams that are stored for each language
     # threshold: The threshold score for matches
-    def initialize(limit = 10, ngrams = 400, threshold = 1.05)
+    def initialize(limit = 10, ngrams = 400, threshold = 1.01)
       @limit = limit
       @ngrams = ngrams
       @threshold = threshold
@@ -13,15 +13,14 @@ module Scylla
 
     # Classifies a string to a list of languages in order of best match
     def classify_string(text)
-      @input = ""
-      text.each_line { |line| @input += line.strip }
+      @input = text
       classify
     end
 
     # Classifies a file to a list of languages in order of best match
     def classify_file(path)
       @input = ""
-      File.readlines(path).each { |line| @input += line.strip }
+      File.readlines(path).each { |line| @input += " " + line.strip }
       classify
     end
 
