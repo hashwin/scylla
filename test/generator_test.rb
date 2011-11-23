@@ -39,7 +39,7 @@ class GeneratorTest < Test::Unit::TestCase
     end
 
     should "Remove characters that throw off language detection" do
-      assert_equal "Hello Go to  to watch some shitty videos. Woooooo friend WIN TODAY", @sg.clean(@bad_text)
+      assert_equal "Hello Go to to watch some shitty videos. Woooooo friend WIN TODAY", @sg.clean(@bad_text)
     end
   end
 
