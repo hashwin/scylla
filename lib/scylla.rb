@@ -4,7 +4,7 @@ module Scylla
   DEFAULT_TARGET_DIR = File.join(File.dirname(__FILE__), "scylla", "lms")
 
   def self.version
-    "0.5.0"
+    "0.8.1"
   end
 end
 
