@@ -18,7 +18,7 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.5.3}
   s.summary = %q{Ruby port of Textcat language guesser}
-  s.add_dependency(%q<bundler>, ["~> 1.0.0"])
+  s.add_development_dependency(%q<bundler>, ["~> 1.0.0"])
   s.add_dependency(%q<sanitize>, ["~> 2.0.0"])
 end
 
