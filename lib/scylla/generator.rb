@@ -30,6 +30,7 @@ module Scylla
     def write_lm(path)
       text = ""
       File.open(path).each { |line| text += " " + line }
+      text = text
       p "Creating language map for " + path
       lm = create_lm(text, true)
       lmname = File.join(@dirlm, File.basename(path, ".txt") + ".lm")
@@ -48,7 +49,7 @@ module Scylla
       string = Sanitize.clean(string)
       string = CGI.unescapeHTML(string)
       string.gsub!(/(?:http|https):\/\/[a-z0-9]+(?:[\-\.]{1}[a-z0-9]+)*\.[a-z]{2,5}(?:(?::[0-9]{1,5})?\/[^\s]*)?/, "")
-      string.gsub!(/[\*\^><!\"#\$%&\'\(\)\*\+:;=\?@\{\}\[\]|\-\n\r0-9]/," ")
+      string.gsub!(/[\*\^><!\"#\$%&\'\(\)\*\+:;,._\/=\?@\{\}\[\]|\-\n\r0-9]/," ")
       string.strip.split(" ").join(" ")
     end
 
@@ -61,12 +62,9 @@ module Scylla
       input.split(/[\d\s\[\]]/).each do |word|
         word = "_" + word + "_";
         len = word.size
-        for i in 0..word.size
-          (1..5).each do |j|
-            ngram[word[i,j]] ||= 0
-            ngram[word[i,j]] += 1 if (len > (j - 1))
-          end
-          len = len - 1
+        for i in (0..(word.size - 1))
+            ngram[word[i].chr] ||= 0
+            ngram[word[i].chr] += 1
         end
       end
       ngram.each_key do |key|

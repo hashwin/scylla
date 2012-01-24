@@ -10,6 +10,7 @@ group :development do
   gem "jeweler", "~> 1.6.4"
   gem "mail"
   gem "sanitize"
+  gem "character-encodings"
 end
 
 group :test do
