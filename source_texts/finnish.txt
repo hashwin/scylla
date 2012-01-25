@@ -1,271 +1,1061 @@
-Suomen tasavalta eli Suomi (ruots. Republiken Finland, Finland) on valtio Pohjois-Euroopassa Itämeren rannalla. Suomi kuuluu Pohjoismaihin ja Euroopan unioniin. Se rajautuu idässä Venäjään ja sen alaiseen Karjalan tasavaltaan, pohjoisessa Norjaan ja lännessä Ruotsiin. Etelässä lähin maa on Viro Suomenlahden eteläpuolella. Ahvenanmaa on Suomen demilitarisoitu maakunta, jolla on itsehallinto.
-Suomi kuuluu maapallon lämpövyöhykkeistä pääosin lauhkeaan vyöhykkeeseen ja sen pohjoisosaan, jota voidaan nimittää myös viileäksi vyöhykkeeksi. Kasvillisuusvyöhykkeistä Suomi kuuluu pääosin pohjoiseen havumetsävyöhykkeeseen.
-Suomi on verraten harvaan asuttu maa, ja sen 5,4 miljoonaa asukasta[7] keskittyvät pääosin maan etelä- ja keskiosiin. Maan perustuslaki määrittelee kansalliskieliksi suomen (puhujia 90,4 % väestöstä vuoden 2010 lopussa) ja ruotsin (5,4 %).[8]
+ on sanan suomi muita merkityksiä.}}
+{{Valtion_tiedot|koko-nimi =Suomen tasavalta<br />Republiken Finland|
+nimi-genetiivissä=Suomen|
+lippu=|
+vaakuna=|
+sijainti=|
+motto =ei virallista mottoa|
+viralliset-kielet= ja <sup>1</sup>|
+pääkaupunki =,  }} as.|
+pääkaupungin-koordinaatit = )_region:FI}} |
+suurin-kaupunki=|
+valtionpäämiehen-nimike=<br />|
+nykyinen-valtionpäämies=<br />|
+alan-sijaluku =64|
+pinta-ala =338&nbsp;430,53 <ref name="pinta-ala"></ref>|
+vesipinta-ala=34&nbsp;538,07 km² (10,2 %)|
+väestönlaskentavuosi=2011|
+väkiluvun-sijaluku =110|
+väkiluku=5 400 519 <ref></ref>|
+väestötiheys=17,70 |
+itsenäisyystapahtumat =&nbsp;– stä julistautui <br />&nbsp;– tunnustettu|
+itsenäisyysvuodet = <br /> |
+valuutta=|valuuttatunnus=EUR|
+aikavyöhyke=+2|kesäaika=UTC+3|
+kansallislaulu=|
+verkkotunnus=fi|
+suuntanumero=358|
+bkt-vuosi=2008|bkt-sija=34|bkt=186&nbsp;164&nbsp;miljoonaa&nbsp;|bkt-per-asukas=35 041 € <ref></ref> ()
+|hdi-vuosi	=
+|hdi-sija	=
+|hdi		=<ref name="hdr"></ref>
+|alaviite=<sup>1</sup>Suomen perustuslain määrittelemät kansalliskielet. Lisäksi laki turvaa myös , en ja  oikeuden käyttää omaa kieltään.<ref></ref> |
+valtiomuoto=
+|muut-kaupungit=,  }} as.<br />,  }} as.<br />,  }} as.<br />,  }} as.<br />,  }} as.<br />,  }} as.<br />,  }} as.<br />,  }} as.<br />  }} as.<br /> 
+|väestönkasvu=0,43 <ref name="väestönkasvu"></ref>
+|väestönkasvuvuosi=2010 
+|maatalous=3,3
+|teollisuus=30,2
+|palvelut=66,5
+|lyhenne=FI, FIN
+|ajoneuvo=FIN
+|lentokone=OH
+|edeltäjät=
+}}
+'''Suomen tasavalta''' eli '''Suomi''' () on    rannalla. Suomi kuuluu  ja in. Se rajautuu idässä än ja sen alaiseen an, pohjoisessa an ja lännessä in. Etelässä lähin maa on   eteläpuolella.  on Suomen , jolla on .
 
-Sanan Suomi etymologiasta ei ole täyttä varmuutta. Se on ilmeisesti ollut alun perin Suomenlahden ympäristöä ja sittemmin lähinnä Varsinais-Suomea koskeva nimitys ja laajentunut vasta myöhemmin tarkoittamaan koko maata. Sanaa on käytetty jo Pähkinäsaaren rauhansopimuksessa nimen Somewesi osana, jolloin se on kuitenkin merkinnyt Viipurinlahden pohjukkaa, jonka suomenkielisenä nimenä vieläkin on Suomenvedenpohja. Varhaisimmissa selityksissä sana on selitetty suon tai suomun johdokseksi, mutta uudempien tulkintojen mukaan se on lainasana. Lainan yhdeksi mahdolliseksi lähteeksi on esitetty kantabaltin maata (merkityksessä 'seutu', 'alue', 'valtapiiri') tarkoittavaa sanaa *zemē, josta myös nimet Häme ja saame olisivat peräisin. Toisen selityksen mukaan sana olisi lainattu indoeurooppalaisesta ihmistä tarkoittavasta sanasta (merkityksessä 'väki', 'kansa'), jolloin se olisi samaa juurta kuin esimerkiksi latinan homo, ihminen.[9]
-Nykyään nimen Suomi vastineita käytetään itämerensuomalaisten kielten lisäksi saamelaiskielissä, latviassa, liettuassa ja gaelissa.[10] Valtaosassa maailman kieliä maasta käytetään ruotsin ”Finland”-nimeä vastaavaa sanaa. Tämänkään nimen etymologiasta ei ole varmuutta. Tacituksen antiikin aikana mainitsemat fennit ovat todennäköisimmin viitanneet saamelaisiin. Latinankielinen bulla ”Gravis admodum” vuodelta 1171 tai 1172 saattaa olla ensimmäinen asiakirjalähde, jossa finneillä on tarkoitettu suomalaisia. Termi on Suomen tavoin viitannut aluksi läntisen Suomen alueeseen, kuten nimi Fialanda paavi Innocentius III:n kirjeessä vuodelta 1209 ja Finland Egillin, Kalju-Grímrin pojan, saagassa 1200-luvun alkupuoliskolta. Se on tarkentunut sitten Varsinais-Suomeksi, kirjallisessa lähteessä ensimmäisen kerran 23. tammikuuta 1229, seuraavaksi vasta 1300-luvulla keskiajan asiakirjoissa.[11]
-Kun Ruotsi oli vuonna 1340 liittänyt valloittamansa Länsi-Karjalan, jota oli aiemmin hallittu erillisenä, samaan hallintokokonaisuuteen muun valloittamansa alueen kanssa,[12] alettiin uutta kokonaisuutta nimittää ”Itämaaksi” (ruots. Österland) erotuksena jo aiemmin valloitetusta läntisestä Suomesta. Nimi Itämaa esiintyy asiakirjoissa ensi kerran 6. joulukuuta [1344.[13] Termi Finland esiintyy kuitenkin jo 1300- ja 1400-luvuilla toisinaan rinnasteisena Österlandille. Termi ”Finland” vakiintui vähitellen koko Ruotsin valloittaman alueen, siis läntisen Suomen ja Länsi-Karjalan, yhteiseksi nimeksi etenkin 1400-luvun jälkipuoliskolla, mutta sitä käytettiin samanaikaisesti myös Varsinais-Suomesta. Lukija joutui aina päättelemään asiayhteydestä, kummasta on kyse, samoin kuin Svecia-termin kohdalla jouduttiin päättelemään, onko kyse koko Ruotsista vai vain Sveanmaasta. Viimeksi termiä Österland käytti Kustaa Vaasa vuonna 1525.[14][15] Pohjanmaata Suomi-käsite ei kuitenkaan aina sisältänyt vielä 1700-luvullakaan.[16]
+Suomi kuuluu maapallon lämpövyöhykkeistä pääosin  ja sen pohjoisosaan, jota voidaan nimittää myös . Kasvillisuusvyöhykkeistä Suomi kuuluu pääosin .
 
-Kivikausi
-Jos Pohjanmaalta esiin kaivetun Karijoen Susiluolan löydöt on tulkittu oikein, Suomessa on asunut neandertalinihmisiä jo paleoliittisella kivikaudella 130 000 vuotta sitten, ennen edellistä jääkautta.[17] Vanhimmat varmat todisteet ihmisasutuksesta Suomen alueella ovat Lahden Ristolasta ja Orimattilasta noin vuodelta 8700 eaa. Väestö saapui etelän ja kaakon suunnasta. Suomen asutus on jatkunut keskeytyksettä jääkauden päättymisestä nykyaikaan.[18] Mesoliittisen kivikauden jälkeen Suomi kuului 5200 eaa. alkaen kampakeramiikan alueeseen, joka ulottui laajasti Veikseliltä Uralille.[19] Kivikautisten kulttuurien elämäntapa perustui enimmäkseen metsästykseen ja kalastukseen. Mahdollisesti neoliittisen kivikauden lopulla (noin 3200–1500 eaa.) tehtiin silti Suomessakin jo maanviljely- ja karjanhoitokokeiluja. Yleisesti otaksutaan, että suomalais-ugrilaista kieltä on puhuttu Suomen alueella jo jostain kivikauden vaiheesta lähtien, mutta tarkemmasta ajankohdasta on erimielisyyttä, ja myös kivikautta myöhäisempiä ajoituksia on annettu.
-[muokkaa]Pronssi- ja rautakausi
-Suomen pronssikausi ajoitetaan tavallisesti 1500/1300–500-luvuille eaa. Pronssin valmistus levisi Suomen alueelle kahdesta suunnasta: länsirannikolle Skandinaviasta yhdessä muun muassa uuden hautaustavan kanssa, ja maan sisä- ja pohjoisosiin idästä. Kaudella maanviljelyn (pääasiassa ehkä kaskiviljelyä) merkitys kasvoi pyyntitalouden rinnalla erityisesti rannikolla, ja se yhdessä karjankasvatuksen kanssa vakiinnutti asumista.lähde?
-Raudan valmistustaito saapui Suomeen sekä idästä että lännestä 500-luvulla eaa. Roomalaisella rautakaudella ja kansainvaellusajalla yhteydet Baltiaan ja Skandinaviaan vilkastuivat. Merovingi- ja viikinkiajalla etenkin maan eteläalueiden väestö kasvoi ja asutus levisi Hämeessä ja Savossa. Viimeistään 1000-luvulla Suomi päätyi myös kristinuskon vaikutuspiiriin. Itä-Suomessa ja Laatokan alueella rautakautinen maanviljelijäkulttuuri syntyi länttä myöhemmin, ja sen kukoistuskausi sijoittuu ristiretkiajalle 1000–1200-luvuille. Karjalan alueelle kristinusko levisi idästä, ja samalla Novgorodin vaikutus kasvoi.lähde?
-[muokkaa]Ruotsin vallan aika
-Pääartikkeli: Ruotsin vallan aika Suomessa
-[muokkaa]Keskiaika
-Läntinen Suomi liitettiin Ruotsin valtakuntaan. Ensimmäinen ristiretki Suomeen 1100-luvulla on tarunomainen tapahtuma, jonka todenperäisyydestä on väitelty paljon. Nykytutkimuksessa on usein omaksuttu kanta, jonka mukaan Suomen valloitus alkoi vasta 1249, kun Birger-jaarli, kuten Lyypekin kaupunginkronikka asian ilmaisee, "pakotti Suomen Ruotsin kruunulle". Ensimmäinen asiakirja, jossa Suomi on selvästi osa Ruotsia, on päivätty 11. helmikuuta 1253.[20] Ruotsin ja Novgorodin välinen raja ja samalla Suomen itäraja määriteltiin säilyneiden lähteiden mukaan ensimmäisen kerran Pähkinäsaaren rauhassa vuonna 1323. Kirkko, ruotsalaisten siirtolaisuus, lainsäädäntö ja hallinto, muun muassa verotus, maakuntalaitos ja linnat, liittivät uudet alueet kiinteämmin osaksi Ruotsia. Turun- ja Hämeen linnaa alettiin rakentaa noin vuonna 1280, ja vuonna 1300 vihittiin Turun tuomiokirkko. Vuonna 1362 Suomen laamanni sai myös oikeuden osallistua Ruotsin kuninkaanvaaliin. Keskiajalla Suomeen syntyivät eurooppalainen sääty-yhteiskunta, kaupunkilaitos ja katolinen kirkko-organisaatio. 1300-luvun lopulta 1500-luvulle Suomi kuului Ruotsin mukana Kalmarin unioniin, joka hajosi Kustaa Vaasan aikana.
-[muokkaa]1500- ja 1600-luvut
-Kustaa Vaasan valtakaudella Ruotsiin syntyi vahva keskusvaltio, joka loi perustan maan 1600-luvun suurvalta-asemalle. Uskonpuhdistuksessa katolinen usko vaihtui Martti Lutherin oppeihin, mikä antoi alkusysäyksen myös suomen kirjakielen kehittämiselle. Suurvalta-aikana Ruotsi onnistui Tanskaa, Puolaa ja Venäjää vastaan käydyissä sodissa laajentamaan alueitaan Itämeren ympärillä. Jo 1500-luvulla Ruotsin alueisiin liitettiin Viro sekä Stolbovan rauhassa vuonna 1617 myös Inkerinmaa ja Käkisalmen lääni, joka käsitti Laatokan- ja Pohjois-Karjalan. Nämä aluelaajennukset vähensivät Suomen merkitystä Ruotsin politiikassa, mutta toisaalta maa ei joutunut sataan vuoteen taistelukentäksi.[21] 1600-luvulla Suomi kytkettiinkin hallinnollisesti tiukemmin emämaahan ja ruotsin kielen asema Suomessa vahvistui, kun Ruotsista tuli Suomeen virkamiehiä.[22] Hallintoa kehitettiin: Turkuun perustettiin yliopisto ja hovioikeus, kaupunkilaitosta uudistettiin ja Pietari Brahen aikana maahan perustettiin postilaitos.
+Suomi on  maa, ja sen 5,4 miljoonaa asukasta<ref name="suomi.fi"></ref> keskittyvät pääosin maan etelä- ja keskiosiin. Maan  määrittelee ksi  (puhujia 90,4&nbsp;% väestöstä vuoden 2010 lopussa) ja  (5,4&nbsp;%).<ref>[http://tilastokeskus.fi/til/vaerak/2010/vaerak_2010_2011-03-18_tie_001_fi.html]</ref>
 
+== Nimi ==
 
-Suomenlinnan rakentaminen Helsingin edustalle oli yksi niistä toimista, joilla Ruotsi yritti lujittaa Suomen puolustusta hattujen sodan jälkeen.
-[muokkaa]1700-luku
-Ruotsin asema murentui 1700-luvulla suuressa Pohjan sodassa. Narvan taistelussa vuonna 1700 Ruotsi saavutti voiton, mutta seuraavina vuosina Venäjän keisarin Pietari Suuren onnistui rauhassa vallata Ruotsilta Inkerinmaa ja aloittaa uuden pääkaupungin Pietarin rakentaminen alueelle. Sota päättyi vasta vuonna 1721 isonvihan, Suomen vuosia kestäneen venäläismiehityksen, jälkeen Uudenkaupungin rauhaan. Sodan aikana Venäjän miehittämänä ollut Suomi palautettiin suurimmaksi osaksi Ruotsille, mutta maan kaakkoisosa liitettiin Venäjään suunnilleen nykyistä rajaa myöten. Hattujen sodassa 1741–1743 Suomea miehitettiin jälleen, ja Ruotsin itäraja siirtyi Kymijoelle. Sodista huolimatta etenkin 1700-luvun jälkipuolisko oli maalle edellisestä vuosisadasta poiketen suhteellisen kehityksen ja vaurastumisen aikaa.
-[muokkaa]Autonomian aika
+Sanan ''Suomi'' sta ei ole täyttä varmuutta. Se on ilmeisesti ollut alun perin Suomenlahden ympäristöä ja sittemmin lähinnä  koskeva nimitys ja laajentunut vasta myöhemmin tarkoittamaan koko maata. Sanaa on käytetty jo nsopimuksessa nimen '''' osana, jolloin se on kuitenkin merkinnyt  pohjukkaa, jonka suomenkielisenä nimenä vieläkin on . Varhaisimmissa selityksissä sana on selitetty ''n'' tai ''n'' johdokseksi, mutta uudempien tulkintojen mukaan se on . Lainan yhdeksi mahdolliseksi lähteeksi on esitetty kantabaltin maata (merkityksessä 'seutu', 'alue', 'valtapiiri') tarkoittavaa sanaa *zemē, josta myös nimet  ja  olisivat peräisin. Toisen selityksen mukaan sana olisi lainattu  ihmistä tarkoittavasta sanasta (merkityksessä 'väki', 'kansa'), jolloin se olisi samaa juurta kuin esimerkiksi n ''homo'', ihminen.<ref>Häkkinen 2004, 1210–1211, Koivulehto, Jorma: Suomi, Virittäjä 3/1993, ks. myös Laurila, Vihtori: Suomen saari ja muinaisrunon saari, Kalevalaseuran vuosikirja 44, 1964.</ref>
 
+Nykyään nimen ''Suomi'' vastineita käytetään  lisäksi , ,  ja ssa.<ref>[http://gd.wikipedia.org/wiki/Suòmaidh Gaelinkielisen Wikipedian artikkeli Suomesta]</ref> Valtaosassa maailman kieliä maasta käytetään  ”Finland”-nimeä vastaavaa sanaa. Tämänkään nimen etymologiasta ei ole varmuutta.  antiikin aikana mainitsemat '''' ovat todennäköisimmin viitanneet saamelaisiin. Latinankielinen  ”” vuodelta 1171 tai 1172 saattaa olla ensimmäinen asiakirjalähde, jossa ''finneillä'' on tarkoitettu suomalaisia. Termi on ''Suomen'' tavoin viitannut aluksi läntisen Suomen alueeseen, kuten nimi ''Fialanda'' paavi :n kirjeessä vuodelta 1209 ja ''Finland'' ssa 1200-luvun alkupuoliskolta. Se on tarkentunut sitten Varsinais-Suomeksi, kirjallisessa lähteessä ensimmäisen kerran 23. tammikuuta 1229, seuraavaksi vasta 1300-luvulla keskiajan asiakirjoissa.<ref>Suomen varhaiskeskiajan lähteitä, 1989, no 21, tässäkin asiakirjassa kuitenkin mainitaan Suomen piispa koko läntistä Suomea koskevassa merkityksessä. Hyvä esimerkki termin kahdesta varhaisemmasta merkityksestä on vuodelta 1326 Finlands Medeltidsurkunder nrot 330: ”terrarum nostrarum Finlandie”, (Suomen maakuntiemme) ja 331: ”...advocacie Fillandensis inhabitores, videlicet Fillandie, Allandie, Nylandie, Tauestie et aliarum terrarum advocacie predicte” (Suomen voutikunnan asukkaiden, nimittäin Varsinais-Suomen, Ahvenanmaan, Uudenmaan, Hämeen ja muiden sanotun voutikunnan maakuntien asukkaiden...)</ref>
 
-Keisari Aleksanteri I:n sanoin "kansakunnaksi kohotetun" Suomen liittyminen Venäjään muodollistettiin keisarin määräyksestä kokoontuneilla Porvoon valtiopäivillä vuonna 1809.[23]
-Pääartikkeli: Suomen suuriruhtinaskunta
-[muokkaa]Suomen suuriruhtinaskunta
-Venäjä ryhtyi sotaan Ruotsia vastaan helmikuussa vuonna 1808, koska ruotsalaiset kieltäytyivät liittymästä Napoleonin Britannian vastaiseen mannermaasulkuun. Sodan seurauksena Suomi liitettiin Venäjään. Venäläisten valtaamasta suomalaisalueesta muodostettiin Suomen suuriruhtinaskunta vuonna 1809 Porvoon valtiopäivillä. Käsite Suomen suuriruhtinaskunta oli esiintynyt jo Ruotsin vallan aikana, mutta varsinaista hallinnollista ja valtiollista merkitystä se alkoi saada vasta nyt.
-Suomi säilytti Ruotsin vallan aikaisen virallisen kielen, uskonnon sekä lainsäädännön, ja sillä oli Ruotsin valtakauden lopusta poiketen oma hallinto ja oikeusjärjestelmä. Venäjän keskusjohdon ja suomalaisten aloitteellisuuden yhteisvaikutuksesta suuriruhtinaskunnalle muotoutui ajan myötä autonomia, joka laajeni 1800-luvun lopulle asti. Vuoden 1809 vallanvaihdosta seurasivat uudistukset: Vanhan Suomen alue liitettiin muuhun Suomeen vuonna 1812, pääkaupunki ja Turun palon jälkeen myös yliopisto siirrettiin Turusta Helsinkiin ja maahan perustettiin senaatti ja keskusvirastoja.[24]
-[muokkaa]Modernisoituva Suomi
+Kun Ruotsi oli vuonna 1340 liittänyt valloittamansa Länsi-Karjalan, jota oli aiemmin hallittu erillisenä, samaan hallintokokonaisuuteen muun valloittamansa alueen kanssa,<ref>Finlands Medeltidsurkunbder (FMU) nro 470</ref> alettiin uutta kokonaisuutta nimittää ”Itämaaksi” () erotuksena jo aiemmin valloitetusta läntisestä Suomesta. Nimi Itämaa esiintyy asiakirjoissa ensi kerran 6. joulukuuta [1344.<ref>FMU492</ref> Termi Finland esiintyy kuitenkin jo 1300- ja 1400-luvuilla toisinaan rinnasteisena Österlandille. Termi ”Finland” vakiintui vähitellen koko Ruotsin valloittaman alueen, siis läntisen Suomen ja Länsi-Karjalan, yhteiseksi nimeksi etenkin 1400-luvun jälkipuoliskolla, mutta sitä käytettiin samanaikaisesti myös Varsinais-Suomesta. Lukija joutui aina päättelemään asiayhteydestä, kummasta on kyse, samoin kuin Svecia-termin kohdalla jouduttiin päättelemään, onko kyse koko Ruotsista vai vain Sveanmaasta. Viimeksi termiä Österland käytti Kustaa Vaasa vuonna 1525.<ref>M. G. Schybergson: Suomen historia, 1904 s. 32–33, Olav Ahlbäck: Legifer Iuris Finnonici, Historisk Tidskrift för Finland (HTF) 1964, Jarl Gallén: Finland och Österland, HTF 1964, sama: Mera om Österland, HTF 1965, s. 1: ”Kristinuskon voimaan saattamisen ja Suomen Ruotsiin liittämisen jälkeen puhuttiin Suomen piispasta ja Suomen käskynhaltijasta ja herttuasta, myös sen jälkeen kun Häme oli alistettu Ruotsin kruunulle. Niinpä käsite Finland kattoi yleensä kaikki ne maakunnat, jotka kuuluivat Turun hiippakuntaan tai Turun käskynhaltijakuntaan,” (käännös tämän kirjoittajan), Martti Linna: Suomen alueellinen pyhimyskultti ja vanhemmat aluejaot, Vesilahti 1346–1996, 1996 s. 151–158, sama: Suomen vanhemmista aluejaoista, Muinaistutkija 4/1996, Suomi kautta aikojen, s. 29, 51 ja 61. Tapa nimetä koko taustamaa ensivaiheessa lähimpien tunnettujen tai tärkeimpien asukkaiden mukaan on säännönmukainen. Näin esimerkiksi Skåne-Skandinavia, Alemannia-Allemagne (Saksa), Ugandi-Igaunia (Viro), Saksi-Saksa, Roslagen-Ruotsi, Virumaa-Viro, Anglia-Englanti, Schwütz-Sveitsi ym.</ref><ref>ta Suomi-käsite ei kuitenkaan aina hallinnollisissa yhteyksissä sisältänyt, vaan se saatettiin joskus mainita erikseen, vaikka se alusta asti kuului Suomen (Turun) hiippakuntaan ja Itämaan laamannikuntaan, vuodesta 1435 Pohjois-Suomen laamannikuntaan. Niinpä jo vuonna 1374 puhutaan helsinglandilaisten ja suomalaisten välisestä ”inter Helsingenses et Finlandenses” rajasta Pohjanmaalla, ks. Turun tuomiokirkon Mustakirja, Registrum Ecclesiae Aboensis (REA) nro 230 ja muun muassa Ruotsin kuninkaan entinen arkistonhoitaja Johannes Messenius katsoo 1620-luvulla Pohjanmaan Suomeen kuuluvaksi Suomen riimikronikassaan. Ks. Johannes Messenius, Suomen riimikronikka, 2004, s. 61, Jussila, Osmo: Suomen historian suuret myytit. WSOY, Helsinki 2007, s. 228: ”Vielä 1700-luvulla ei Pohjanmaata yleisesti luettu 'Suomeen' kuuluvaksi”, Klinge, Matti, Kaksi Suomea, 1982, s. 39 (Jussilan viittaus): ”...käsitettä Suomi, joka suunnilleen vastasi myöhempää Suomea, kuitenkin niin etteivät Pohjanmaa ja Karjala usein siihen kuulu...”</ref> ta Suomi-käsite ei kuitenkaan aina sisältänyt vielä 1700-luvullakaan.<ref>Jussila 2007, s.228: ”Vielä 1700-luvulla ei Pohjanmaata yleisesti luettu Suomeen kuuluvaksi.”</ref>
 
+== Historia ==
+}}
 
-Tampereella sijaitsevan Tammerkosken rannat ovat Suomen vanhimpiin kuuluvaa teollisuusmiljöötä.
-Suomen kehitystä 1850-luvulta eteenpäin leimasivat voimakas väestönkasvu, kansallinen herääminen, teollistumisen tuoma taloudellinen nousu ja uuden hallitsijan, Aleksanteri II:n, myötä syntynyt vapaamielinen ilmapiiri. 1860-luvulta lähtien valtiopäivät saivat kokoontua useiden kymmenien vuosien tauon jälkeen säännöllisesti. Aleksanteri III valtakaudella 1880-luvulla Suomen säädyt saivat lisäksi lakien esitysoikeuden.[25] Suomen ensimmäinen rautatie valmistui, ja ensimmäinen liikepankki perustettiin 1860-luvulla. Elinkeinojen vapautumisen ja liikenneyhteyksien kehittymisen seurauksena myös muuttoliike ja kaupungistuminen kiihtyivät. Näitä uudistuksia edelsivät oma rahayksikkö, omat postimerkit ja ensimmäinen lennätinlinja sekä oma tullilaitos. Keskeinen osa maan teollistumisessa oli sahateollisuudella, jonka osuus kokonaistuotannosta 1900-luvun toisella vuosikymmenellä oli 35 prosenttia. Käsi kädessä edellä mainitun kehityksen kanssa kulkivat koululaitoksen ja kansansivistyksen voimakas kehittäminen, naisen aseman kohentuminen sekä työväenliikkeen synty.
-[muokkaa]Sortokausista kansallistunteen nousuun
-Taiteeseen ja kulttuuriin kehitys toi tullessaan Suomen taiteen kultakauden ja suomenkielisen kirjallisuuden nousun. Tänä aikana suomalaisten keskuudessa syntyi käsitys Suomesta Venäjästä erillisenä valtiona. Tämä johti ristiriitoihin venäläisten kanssa, koska samaan aikaan emämaassa oli menossa päinvastainen kehitys: Venäjän valtiorakenteen yhtenäistäminen ja tiivistäminen. Seurauksena olivat vuosina 1899–1905 ja 1908–1916 suomalaisiin kohdistetut valtakunnallistamis- eli venäläistämistoimet. Suomalaiset ovat kutsuneet näitä, kansakuntaa yhdistäneitä ajanjaksoja sortokausiksi.[26] Ensimmäisen venäläistämiskauden päätti vuoden 1905 suurlakko, jonka seurauksena suomalaiset saivat yleisen äänioikeuden ja kansanedustuslaitoksen, eduskunnan. Tämän seurauksena maahan syntyi nykyaikainen puoluejärjestelmä. Täten myös Suomen poliittinen kehitys alkoi lopulta seurata muuta yhteiskunnassa ilmennyttä modernisaatiota.[27][28]
-[muokkaa]Itsenäinen Suomi
-Pääartikkeli: Itsenäisen Suomen historia
-[muokkaa]Maaliskuun ja lokakuun 1917 vallankumoukset
-Ensimmäinen maailmansota aiheutti Venäjän keisarikunnan sisäisen romahduksen keväällä 1917 ja taistelun maan hallinnasta. Myös Suomen suuriruhtinaskunta hajosi ja seuranneessa sekavassa tilanteessa Suomi julistautui itsenäiseksi valtioksi 6. joulukuuta 1917. Venäjän hajaannusta oli kuitenkin seurannut vastaava valtatyhjiö sekä oikeiston ja vasemmiston välinen taistelu vallasta Suomessa, jossa siirtyminen säätyjärjestelmästä parlamentarismiin oli parhaillaan menossa, ja kansa oli jakautunut taloudellisesti ja sosiaalisesti kahteen. Valtataistelu pirstoi suomalaisen yhteiskunnan ja esti kansallisen yksituumaisuuden ja rauhallisen kehityksen. Lisäksi maassa vallitsi uhkaava elintarvikepula. Suomessa oli edelleen hajoamistilassa olleen Venäjän armeijan joukkoja, ja keisarillisen Venäjän poliisi- ja santarmilaitos olivat lakanneet olemasta. Järjestysvaltaa hoitamaan oli perustettu keväästä 1917 alkaen järjestyskaarteja, jotka alkoivat jakautua aseistetuiksi työväen järjestyskaarteiksi ja punakaarteiksi ja porvariston suojeluskunniksi (valkokaarteiksi), valtataistelun ja yhteiskunnan hajoamisen seurauksena. Yrityksistä huolimatta Suomeen ei kyetty luomaan poliittisesti vahvaa ja laajaa tukea nauttinutta hallitusta. Sen sijaan vasemmisto ja oikeisto pyrkivät ratkaisemaan ongelmat vain omista lähtökohdistaan. Vuoden 1917 loppuun mennessä punakaarteista ja suojeluskunnista muodostui lopulta keskeinen valtatekijä, ja siten sisäpoliittisen tilanteen kehitystä säätelivät etenevässä määrin kaksi keskenään vallasta kilpailevaa sotajoukkoa, joiden välinen jännitys purkautui aseellisiksi kahakoiksi jo marraskuun 1917 suurlakon aikana.[29]
-[muokkaa]Sisällissota – kansan kahtiajakautuminen
+=== Esihistoria ===
+}}
+}}
+ ssa ssa Suomen esihistorialliselta ajalta kuuluvat Pohjois-Euroopan laajimpiin.]]
+==== Kivikausi ====
 
+Jos lta esiin kaivetun  n löydöt on tulkittu oikein, Suomessa on asunut  jo  130&nbsp;000 vuotta sitten, ennen edellistä jääkautta.<ref>[http://www.nba.fi/fi/susiluola Museovirasto: Susiluola]</ref> Vanhimmat varmat todisteet ihmisasutuksesta Suomen alueella ovat Lahden  ja sta noin vuodelta 8700 eaa. Väestö saapui etelän ja kaakon suunnasta. Suomen asutus on jatkunut keskeytyksettä jääkauden päättymisestä nykyaikaan.<ref>[http://www.nba.fi/fi/skm_opetus_esihist_tulost_0. Museovirasto, väliotsikko Väestön kehitys esihistoriallisella ajalla]</ref>  jälkeen Suomi kuului 5200 eaa. alkaen  alueeseen, joka ulottui laajasti Veikseliltä Uralille.<ref>[http://www.nba.fi/fi/skm_opetus_esihist_kivik5 Museovirasto: Kampakeraaminen kulttuuri]</ref> Kivikautisten kulttuurien elämäntapa perustui enimmäkseen metsästykseen ja kalastukseen. Mahdollisesti  lopulla (noin 3200–1500 eaa.) tehtiin silti Suomessakin jo maanviljely- ja karjanhoitokokeiluja. Yleisesti otaksutaan, että  on puhuttu Suomen alueella jo jostain kivikauden vaiheesta lähtien, mutta tarkemmasta ajankohdasta on erimielisyyttä, ja myös kivikautta myöhäisempiä ajoituksia on annettu.
 
-Suomen tasavallan ensimmäinen lippu, joka vaihtui sinivalkoiseen ristilippuun 29. toukokuuta 1918.
-Tammikuun 1918 aikana keväästä 1917 lähtien kiihtynyt vastakkainasettelu kärjistyi punaisten ja valkoisten väliseksi sisällissodaksi 27. tammikuuta 1918. Suomi jakaantui Kansanvaltuuskunnan Etelä-Suomea Helsingistä käsin hallitsemaan punaiseen Suomeen ja Suomen Senaatin Keski- ja Pohjois-Suomea Vaasasta käsin hallitsemaan valkoiseen Suomeen. Sisällissodassa valkoiset saivat merkittävää tukea keisarilliselta Saksalta ja punaiset Neuvosto-Venäjän bolševikeilta. Sotaan osallistui vajaat 200 000 suomalaista ja noin 20 000 ulkomaista sotilasta. Suomalaisarmeijoissa merkillepantavaa oli alaikäisten lapsisotilaiden suuri osuus, ja myös naisten osallistuminen sotaan. Valkoiset voittivat sodan. Tämä oli seurausta punakaartien alkeellisesta taistelutaidosta, saksalaisten laatuyksiköiden ja suomalaisjääkäreiden antamasta sotilaallisesta tuesta Vaasan senaatille ja sen käytössä olleista ammattiupseereista, jotka mahdollistivat heikosti koulutettujen suojeluskuntien ja asevelvollisten joukkojen tehokkaamman käytön. Valkoisen armeijan voittoon päättynyt taistelu Tampereen kaupungista ja Saksan armeijan osastojen maihinnousut Hangossa ja Loviisassa sekä saksalaisten suorittama Helsingin valtaus olivat sodan kannalta ratkaisevat tapahtumat. Sodan molemmat osapuolet harjoittivat poliittista terroria yhtenä sodankäynnin muotona. Terrorissa sai surmansa kaikkiaan noin 11 000 – 13 000 uhria. Sodan jälkeen noin 70 000 punaista ja punaiseksi epäiltyä suljettiin vankileireille, valtiorikosoikeuksien tuomittaviksi. Vuoden 1918 sisäisen sodan romahduttaman elintarviketilanteen ja hävinneen osapuolen huonon kohtelun vuoksi leireillä menehtyi kesän 1918 aikana nälkään ja tauteihin (erityisesti espanjantautiin) noin 13 000 henkeä. Sisällissodassa sai surmansa kaikkiaan noin 37 000 ihmistä.[30]
-[muokkaa]Tasavalta vakiintuu
+==== Pronssi- ja rautakausi ====
 
+Suomen  ajoitetaan tavallisesti 1500/1300–500-luvuille eaa. Pronssin valmistus levisi Suomen alueelle kahdesta suunnasta: länsirannikolle sta yhdessä muun muassa  kanssa, ja maan sisä- ja pohjoisosiin idästä. Kaudella n (pääasiassa ehkä ä) merkitys kasvoi pyyntitalouden rinnalla erityisesti rannikolla, ja se yhdessä karjankasvatuksen kanssa vakiinnutti asumista.
 
-Suomi 1920–1940. Silloin Suomen pinta-ala oli noin 385 000 km².lähde?
-Sisällissodan aikana ja sen jälkeen, Suomi liittyi Saksan valtapiiriin. Maaliskuussa 1918 Suomen sotilas- ja kauppapolitiikka oli sidottu Saksaan. Suomea suunniteltiin muutettavaksi kuningaskunnaksi, ja lokakuussa Suomelle valittiinkin saksalainen kuningas Friedrich Karl. Tämä supisti merkittävästi suomalaisten itsenäisyyttä. Ensimmäisen maailmansodan päätyttyä marraskuussa 1918 Saksan tappioon Suomen itsenäisyys toteutui konkreettisesti. Seuraavana vuonna Suomelle vahvistettiin tasavaltainen hallitusmuoto. Maan ulkopolitiikka suuntautui Länsi-Eurooppaan ja Skandinaviaan. Saksalaissuuntauksen päättyminen vahvisti maltillisten väestöryhmien asemaa Suomessa, mikä teki sovinnollisen sisäpolitiikan mahdolliseksi. Merkittävimmät vasemmiston toiveet kuten torpparivapautus, oppivelvollisuuslaki ja uskonnonvapaus toteutuivat vapaamielisten porvarien ja maltillisten sosiaalidemokraattien yhteistyönä. Tasavallan ensimmäiseksi presidentiksi valittu K. J. Ståhlberg vakiinnutti suomalaisen parlamentarismin, jossa eduskunnan lisäksi presidentillä oli tärkeä asema.[31] Ståhlbergin kaudella kahtiajakautunut kansakunta alkoi eheytyä lukuisten sosiaalisten uudistusten ja elintason kasvun ansiosta.[32]
-[muokkaa]Yhteiskunnallinen levottomuus
-Vuonna 1928 Suomessa alkanut talouslama aiheutti kommunistien ja oikeistoradikaalien voimistumisen. Vahva oikeistoradikaali Lapuan liike vaati kommunistien toiminnan kieltämistä lainsäädännöllä, mikä myös toteutui. Poliittinen kenttä oikeistolaistui, mikä näkyi kokoomuksen Pehr Evind Svinhufvudin valinnassa tasavallan presidentiksi vuonna 1931. Lapuan liikkeen jäsenet sieppasivat ja pahoinpitelivät, eli muiluttivat satoja vasemmistolaisia kesällä 1930. Vuonna 1932 Lapuan liikkeen toiminta huipentui Mäntsälän kapinaan, joka kukistui verettömästi kansan pääosan ja puolustusvoimien annettua tukensa tasavaltaa puolustaneelle presidentti Svinhufvudille.
+ valmistustaito saapui Suomeen sekä idästä että lännestä 500-luvulla eaa.  ja  yhteydet Baltiaan ja Skandinaviaan vilkastuivat. - ja  etenkin maan eteläalueiden väestö kasvoi ja asutus levisi Hämeessä ja Savossa. Viimeistään 1000-luvulla Suomi päätyi myös n vaikutuspiiriin. Itä-Suomessa ja  alueella rautakautinen maanviljelijäkulttuuri syntyi länttä myöhemmin, ja sen kukoistuskausi sijoittuu  1000–1200-luvuille. Karjalan alueelle kristinusko levisi idästä, ja samalla in vaikutus kasvoi.
+
+=== Ruotsin vallan aika ===
+}}
+
+==== Keskiaika ====
+
+Läntinen Suomi liitettiin Ruotsin valtakuntaan.  1100-luvulla on tarunomainen tapahtuma, jonka todenperäisyydestä on väitelty paljon. Nykytutkimuksessa on usein omaksuttu kanta, jonka mukaan  alkoi vasta 1249, kun , kuten  kaupunginkronikka asian ilmaisee, "pakotti Suomen Ruotsin kruunulle". Ensimmäinen asiakirja, jossa Suomi on selvästi osa Ruotsia, on päivätty 11. helmikuuta 1253.<ref>Suomen varhaiskeskiajan lähteitä, no 60. Suvanto, Seppo: Birger Jaarli, Suomen Kansallisbiografia, 2003, s. 612, Heikkilä, Tuomas: Pyhän Henrikin legenda, 2005, s. 72–73, Vahtola, Jouko: Keskiaika, Suomen historian pikkujättiläinen, 2003, s. 67–68, Linna, Martti: Suomen alueellinen pyhimyskultti ja vanhemmat aluejaot, Vesilahti 1346–1996, 1996. s. 195–202, Weibull, Jörgen: Sveriges historia, 1993, s. 21: Legenden (om St. Erik & St. Henrik) uppstod vid 1200-talets mitt, då den egentliga erövringen av Finland inleddes av Birger Jarls regering och därefter fortsattes av Torgils Knutson. (suom: Legenda /Eerikistä ja Henrikistä/ syntyi 1200-luvun puolivälissä, kun Birger Jaarlin hallinto pani alulle Suomen todellisen valloituksen ja Torkkeli Knuutinpoika sen jälkeen jatkoi sitä.)</ref> Ruotsin ja Novgorodin välinen raja ja samalla Suomen itäraja määriteltiin säilyneiden lähteiden mukaan ensimmäisen kerran ssa vuonna 1323. Kirkko, ruotsalaisten siirtolaisuus, lainsäädäntö ja hallinto, muun muassa verotus, maakuntalaitos ja linnat, liittivät uudet alueet kiinteämmin osaksi Ruotsia. Turun- ja Hämeen linnaa alettiin rakentaa noin vuonna 1280, ja vuonna 1300 vihittiin Turun tuomiokirkko.
+Vuonna 1362 Suomen laamanni sai myös oikeuden osallistua Ruotsin kuninkaanvaaliin.  Suomeen syntyivät eurooppalainen , kaupunkilaitos ja katolinen kirkko-organisaatio. 1300-luvun lopulta 1500-luvulle Suomi kuului Ruotsin mukana in, joka hajosi n aikana.
+
+==== 1500- ja 1600-luvut ====
+
+Kustaa Vaasan valtakaudella Ruotsiin syntyi vahva keskusvaltio, joka loi perustan maan 1600-luvun suurvalta-asemalle.  katolinen usko vaihtui in oppeihin, mikä antoi alkusysäyksen myös suomen kirjakielen kehittämiselle. Suurvalta-aikana Ruotsi onnistui a, a ja ä vastaan käydyissä sodissa laajentamaan alueitaan Itämeren ympärillä. Jo 1500-luvulla Ruotsin alueisiin liitettiin  sekä ssa vuonna 1617 myös  ja , joka käsitti  ja n. Nämä aluelaajennukset vähensivät Suomen merkitystä Ruotsin politiikassa, mutta toisaalta maa ei joutunut sataan vuoteen taistelukentäksi.<ref>Suomi kautta aikojen, s. 104 ja 114</ref> 1600-luvulla Suomi kytkettiinkin hallinnollisesti tiukemmin emämaahan ja ruotsin kielen asema Suomessa vahvistui, kun Ruotsista tuli Suomeen virkamiehiä.<ref>Suomi kautta aikojen, s. 123</ref> Hallintoa kehitettiin: Turkuun perustettiin  ja , kaupunkilaitosta uudistettiin ja n aikana maahan perustettiin postilaitos.
+
+n rakentaminen Helsingin edustalle oli yksi niistä toimista, joilla Ruotsi yritti lujittaa Suomen puolustusta hattujen sodan jälkeen.]]
+
+==== 1700-luku ====
+
+Ruotsin asema murentui 1700-luvulla . ssa vuonna 1700 Ruotsi saavutti voiton, mutta seuraavina vuosina Venäjän keisarin  onnistui rauhassa vallata Ruotsilta Inkerinmaa ja aloittaa uuden pääkaupungin  rakentaminen alueelle. Sota päättyi vasta vuonna 1721 , Suomen vuosia kestäneen venäläismiehityksen, jälkeen an. Sodan aikana Venäjän miehittämänä ollut Suomi palautettiin suurimmaksi osaksi Ruotsille, mutta maan kaakkoisosa liitettiin Venäjään suunnilleen nykyistä rajaa myöten.  1741–1743 Suomea miehitettiin jälleen, ja Ruotsin itäraja siirtyi . Sodista huolimatta etenkin 1700-luvun jälkipuolisko oli maalle edellisestä vuosisadasta poiketen suhteellisen kehityksen ja vaurastumisen aikaa.
+
+=== Autonomian aika ===
+:n sanoin "kansakunnaksi kohotetun" Suomen liittyminen Venäjään muodollistettiin keisarin määräyksestä kokoontuneilla  vuonna 1809.<ref>Puheen ruotsinkielisen käännöksen mukaan "Upphöjd för framtiden bland nationernas antal" [http://lib.eduskunta.fi/Resource.phx/kirjasto/arkisto/historiallisia-dokumentteja/porvoonvaltiopaivat.htx Eduskunnan kirjasto, Historiallisia dokumentteja]</ref>]]
+}}
+
+==== Suomen suuriruhtinaskunta ====
+
+Venäjä ryhtyi sotaan Ruotsia vastaan helmikuussa vuonna 1808, koska ruotsalaiset kieltäytyivät liittymästä in Britannian vastaiseen . Sodan seurauksena Suomi liitettiin Venäjään. Venäläisten valtaamasta suomalaisalueesta muodostettiin  vuonna 1809 . Käsite Suomen suuriruhtinaskunta oli esiintynyt jo Ruotsin vallan aikana, mutta varsinaista hallinnollista ja valtiollista merkitystä se alkoi saada vasta nyt.
+
+Suomi säilytti Ruotsin vallan aikaisen virallisen kielen, uskonnon sekä lainsäädännön, ja sillä oli Ruotsin valtakauden lopusta poiketen oma hallinto ja oikeusjärjestelmä. Venäjän keskusjohdon ja suomalaisten aloitteellisuuden yhteisvaikutuksesta suuriruhtinaskunnalle muotoutui ajan myötä , joka laajeni 1800-luvun lopulle asti. Vuoden 1809 vallanvaihdosta seurasivat uudistukset:  alue liitettiin muuhun Suomeen vuonna 1812, pääkaupunki ja n jälkeen myös yliopisto siirrettiin Turusta in ja maahan perustettiin senaatti ja keskusvirastoja.<ref>Suomen historian dokumentteja 2, 1970, s.17, Klinge 1997, Jutikkala & Pirinen 2002, Pulma 2003, Jussila 2004 ja 2007, Meinander 2006</ref>
+
+==== Modernisoituva Suomi ====
+ella sijaitsevan  rannat ovat Suomen vanhimpiin kuuluvaa teollisuusmiljöötä.]]
+Suomen kehitystä 1850-luvulta eteenpäin leimasivat voimakas väestönkasvu, kansallinen herääminen,  tuoma taloudellinen nousu ja uuden hallitsijan, :n, myötä syntynyt vapaamielinen ilmapiiri. 1860-luvulta lähtien  saivat kokoontua useiden kymmenien vuosien tauon jälkeen säännöllisesti. Aleksanteri III valtakaudella 1880-luvulla Suomen säädyt saivat lisäksi lakien esitysoikeuden.<ref>Suomi kautta aikojen, sivut 266–269, Klinge 1997</ref> Suomen ensimmäinen rautatie valmistui, ja ensimmäinen liikepankki perustettiin 1860-luvulla. Elinkeinojen vapautumisen ja liikenneyhteyksien kehittymisen seurauksena myös muuttoliike ja kaupungistuminen kiihtyivät. Näitä uudistuksia edelsivät , omat postimerkit ja ensimmäinen lennätinlinja sekä oma tullilaitos. Keskeinen osa maan teollistumisessa oli sahateollisuudella, jonka osuus kokonaistuotannosta 1900-luvun toisella vuosikymmenellä oli 35 prosenttia. Käsi kädessä edellä mainitun kehityksen kanssa kulkivat koululaitoksen ja kansansivistyksen voimakas kehittäminen, naisen aseman kohentuminen sekä työväenliikkeen synty.
+
+==== Sortokausista kansallistunteen nousuun ====
+
+Taiteeseen ja kulttuuriin kehitys toi tullessaan  ja suomenkielisen kirjallisuuden nousun. Tänä aikana suomalaisten keskuudessa syntyi käsitys Suomesta Venäjästä erillisenä valtiona. Tämä johti ristiriitoihin venäläisten kanssa, koska samaan aikaan emämaassa oli menossa päinvastainen kehitys: Venäjän valtiorakenteen yhtenäistäminen ja tiivistäminen. Seurauksena olivat vuosina 1899–1905 ja 1908–1916 suomalaisiin kohdistetut valtakunnallistamis- eli venäläistämistoimet. Suomalaiset ovat kutsuneet näitä, kansakuntaa yhdistäneitä ajanjaksoja .<ref>Jussila 2004, Suomen suuriruhtinaskunta, sivut 19–20</ref> Ensimmäisen venäläistämiskauden päätti , jonka seurauksena suomalaiset saivat  ja kansanedustuslaitoksen, eduskunnan. Tämän seurauksena maahan syntyi nykyaikainen . Täten myös Suomen poliittinen kehitys alkoi lopulta seurata muuta yhteiskunnassa ilmennyttä modernisaatiota.<ref>Klinge 1997</ref><ref>Jussila 2004, Suomi kautta aikojen, s. 300</ref>
+
+=== Itsenäinen Suomi ===
+}}
+
+==== Maaliskuun ja lokakuun 1917 vallankumoukset ====
+
+ aiheutti Venäjän keisarikunnan  keväällä 1917 ja taistelun maan hallinnasta. Myös Suomen suuriruhtinaskunta hajosi ja seuranneessa sekavassa tilanteessa Suomi julistautui itsenäiseksi valtioksi 6. joulukuuta 1917. Venäjän hajaannusta oli kuitenkin seurannut vastaava valtatyhjiö sekä oikeiston ja vasemmiston välinen taistelu vallasta Suomessa, jossa siirtyminen säätyjärjestelmästä parlamentarismiin oli parhaillaan menossa, ja kansa oli jakautunut taloudellisesti ja sosiaalisesti kahteen. Valtataistelu pirstoi suomalaisen yhteiskunnan ja esti kansallisen yksituumaisuuden ja rauhallisen kehityksen. Lisäksi maassa vallitsi uhkaava elintarvikepula. Suomessa oli edelleen hajoamistilassa olleen Venäjän armeijan joukkoja, ja keisarillisen Venäjän poliisi- ja santarmilaitos olivat lakanneet olemasta. Järjestysvaltaa hoitamaan oli perustettu keväästä 1917 alkaen järjestyskaarteja, jotka alkoivat jakautua aseistetuiksi työväen järjestyskaarteiksi ja  ja porvariston  (valkokaarteiksi), valtataistelun ja yhteiskunnan hajoamisen seurauksena. Yrityksistä huolimatta Suomeen ei kyetty luomaan poliittisesti vahvaa ja laajaa tukea nauttinutta hallitusta. Sen sijaan vasemmisto ja oikeisto pyrkivät ratkaisemaan ongelmat vain omista lähtökohdistaan. Vuoden 1917 loppuun mennessä punakaarteista ja suojeluskunnista muodostui lopulta keskeinen valtatekijä, ja siten sisäpoliittisen tilanteen kehitystä säätelivät etenevässä määrin kaksi keskenään vallasta kilpailevaa sotajoukkoa, joiden välinen jännitys purkautui aseellisiksi kahakoiksi jo marraskuun 1917 suurlakon aikana.<ref>Klinge 1997, Haapala 2008</ref>
+
+==== Sisällissota – kansan kahtiajakautuminen ====
+ 29. toukokuuta 1918.]]
+
+Tammikuun 1918 aikana keväästä 1917 lähtien kiihtynyt vastakkainasettelu kärjistyi punaisten ja valkoisten väliseksi  27. tammikuuta 1918. Suomi jakaantui  Etelä-Suomea Helsingistä käsin hallitsemaan punaiseen Suomeen ja  Keski- ja Pohjois-Suomea Vaasasta käsin hallitsemaan valkoiseen Suomeen. Sisällissodassa valkoiset saivat merkittävää tukea keisarilliselta lta ja punaiset Neuvosto-Venäjän bolševikeilta. Sotaan osallistui vajaat 200&nbsp;000 suomalaista ja noin 20&nbsp;000 ulkomaista sotilasta. Suomalaisarmeijoissa merkillepantavaa oli alaikäisten lapsisotilaiden suuri osuus, ja myös naisten osallistuminen sotaan. Valkoiset voittivat sodan. Tämä oli seurausta punakaartien alkeellisesta taistelutaidosta, saksalaisten laatuyksiköiden ja suomalaisjääkäreiden antamasta sotilaallisesta tuesta Vaasan senaatille ja sen käytössä olleista ammattiupseereista, jotka mahdollistivat heikosti koulutettujen suojeluskuntien ja  joukkojen tehokkaamman käytön. Valkoisen armeijan voittoon päättynyt taistelu Tampereen kaupungista ja Saksan armeijan osastojen maihinnousut Hangossa ja Loviisassa sekä saksalaisten suorittama Helsingin valtaus olivat sodan kannalta ratkaisevat tapahtumat. Sodan  molemmat osapuolet harjoittivat poliittista terroria yhtenä sodankäynnin muotona. Terrorissa sai surmansa kaikkiaan noin 11&nbsp;000 – 13&nbsp;000 uhria. Sodan jälkeen noin 70&nbsp;000 punaista ja punaiseksi epäiltyä suljettiin vankileireille, valtiorikosoikeuksien tuomittaviksi. Vuoden 1918 sisäisen sodan romahduttaman elintarviketilanteen ja hävinneen osapuolen huonon kohtelun vuoksi leireillä menehtyi kesän 1918 aikana nälkään ja tauteihin (erityisesti in) noin 13&nbsp;000 henkeä. Sisällissodassa sai surmansa kaikkiaan noin 37&nbsp;000 ihmistä.<ref>Tikka 2006, Haapala 2008</ref>
+
+==== Tasavalta vakiintuu ====
+]]
+Sisällissodan aikana ja sen jälkeen, Suomi liittyi Saksan valtapiiriin. Maaliskuussa 1918 Suomen sotilas- ja kauppapolitiikka oli sidottu Saksaan. Suomea suunniteltiin muutettavaksi , ja lokakuussa Suomelle valittiinkin saksalainen kuningas . Tämä supisti merkittävästi suomalaisten itsenäisyyttä. Ensimmäisen maailmansodan päätyttyä marraskuussa 1918 Saksan tappioon Suomen itsenäisyys toteutui konkreettisesti. Seuraavana vuonna Suomelle vahvistettiin tasavaltainen . Maan ulkopolitiikka suuntautui Länsi-Eurooppaan ja Skandinaviaan. Saksalaissuuntauksen päättyminen vahvisti maltillisten väestöryhmien asemaa Suomessa, mikä teki sovinnollisen sisäpolitiikan mahdolliseksi. Merkittävimmät vasemmiston toiveet kuten ,  ja  toteutuivat vapaamielisten porvarien ja maltillisten sosiaalidemokraattien yhteistyönä. Tasavallan ensimmäiseksi presidentiksi valittu  vakiinnutti suomalaisen parlamentarismin, jossa eduskunnan lisäksi presidentillä oli tärkeä asema.<ref>Haapala 1995, Vares 1998</ref> Ståhlbergin kaudella kahtiajakautunut kansakunta alkoi  lukuisten sosiaalisten uudistusten ja elintason kasvun ansiosta.<ref>Kohi et al. 2006, s. 85–89</ref>
+
+==== Yhteiskunnallinen levottomuus ====
+
+Vuonna 1928 Suomessa alkanut talouslama aiheutti kommunistien ja oikeistoradikaalien voimistumisen. Vahva oikeistoradikaali  vaati kommunistien toiminnan kieltämistä lainsäädännöllä, mikä myös toteutui. Poliittinen kenttä oikeistolaistui, mikä näkyi  in valinnassa tasavallan presidentiksi vuonna 1931. Lapuan liikkeen jäsenet sieppasivat ja pahoinpitelivät, eli  satoja vasemmistolaisia kesällä 1930. Vuonna 1932 Lapuan liikkeen toiminta huipentui an, joka kukistui verettömästi kansan pääosan ja  annettua tukensa tasavaltaa puolustaneelle presidentti Svinhufvudille.
+
 1930-luvun laman synnyttämä työttömyys kasvatti monin paikoin yhteiskunnallista tyytymättömyyttä. Monet suomalaiset liikkuivat maan sisällä työn perässä.
-Noin 10 000 suomalaista loikkasi Neuvostoliittoon vuosina 1918–1939. Monet tekivät tämän lama-aikana paremman elämän toivossa. Suuri osa näistä emigranttisuomalaisista surmattiin Stalinin vainoissa Tšeljabinskissä vuonna 1938.[33][34][35]
-[muokkaa]Heikkenevä turvallisuustilanne
-Euroopan poliittinen tilanne kiristyi 1930-luvulla, ja vuodesta 1935 alkaen oli selvää, että Suomen turvanaan pitämä Kansainliitto ei kyennyt takaamaan vakavasti otettavaa turvallisuutta pienille maille. Tämä johti ulkopolitiikan linjan muuttumiseen. Suomi alkoi varustautua resursseihinsa nähden melko voimakkaasti ja haki turvaa pohjoismaisesta yhteistyöstä. Sisäpolitiikassa maailmanpoliittinen tilanne näkyi entistä suurempana sovinnollisuutena vasemmiston ja oikeiston välillä. Tämä loi pohjan myöhemmälle talvisodan hengelle.lähde?
-[muokkaa]Talvisota
-Pääartikkeli: Talvisota
 
+Noin 10&nbsp;000 suomalaista loikkasi Neuvostoliittoon vuosina 1918–1939. Monet tekivät tämän lama-aikana paremman elämän toivossa. Suuri osa näistä emigranttisuomalaisista surmattiin Stalinin vainoissa issä vuonna 1938.<ref>Rislakki, Lahti-Argutina 1997</ref><ref>[http://agricola.utu.fi/nyt/arvos/arvostelut.php?hakukohde=&jarjestys=&haku=&sivu=12&vps=100&arvostelu=82 Agricolan kirja-arvostelut] Loikkareiden kärsimyshistoria. 21.1.2009</ref><ref>Olimme joukko vieras vaan: venäjänsuomalaiset vainonuhrit Neuvostoliitossa 1930-luvun alusta 1950-luvun alkuun, Lahti-Argutina, Eila: Turku: Siirtolaisinstituutti, 2001</ref>
 
-Suomalaisia sotilaita talvisodassa.
-Vuonna 1938 Neuvostoliitto esitti ensimmäisen kerran epävirallisesti alueluovutuksia Karjalan kannaksella. Suomi kieltäytyi ehdottomasti. Seuraavan vuoden syksyllä, kun toinen maailmansota oli alkanut, Neuvostoliitto vaati Suomelta tukikohtaa Hangossa ja alueluovutuksia Kannaksella. Samanlaiset vaatimukset esitettiin myös Baltian maille. Toisin kuin ne, Suomi ei suostunut vaatimuksiin, minkä seurauksena Neuvostoliitto aloitti marraskuun 1939 lopussa talvisodan. Sota päättyi maaliskuussa 1940 rauhansopimukseen, jossa Suomi joutui luovuttamaan laajoja maa-alueita Karjalasta ja Lapin Sallasta. Alueiden väestö evakuoitiin muualle Suomeen.
-[muokkaa]Välirauhasta jatkosotaan ja Lapin sotaan
-Pääartikkelit: Välirauhan aika, Jatkosota ja Lapin sota
+==== Heikkenevä turvallisuustilanne ====
 
+Euroopan poliittinen tilanne kiristyi 1930-luvulla, ja vuodesta 1935 alkaen oli selvää, että Suomen turvanaan pitämä  ei kyennyt takaamaan vakavasti otettavaa turvallisuutta pienille maille. Tämä johti ulkopolitiikan linjan muuttumiseen. Suomi alkoi varustautua resursseihinsa nähden melko voimakkaasti ja haki turvaa  yhteistyöstä. Sisäpolitiikassa maailmanpoliittinen tilanne näkyi entistä suurempana sovinnollisuutena vasemmiston ja oikeiston välillä. Tämä loi pohjan myöhemmälle .
 
-Suomen jatkosodan seurauksena menettämät alueet. Neuvostoliitolle tukikohdaksi vuokrattu Porkkala palautettiin Suomelle vuonna 1956.
-Välirauhan aikana Neuvostoliiton ja Suomen suhteet säilyivät kireinä. Saksalaisten miehitettyä Norjan Suomi sopi Petsamon nikkelituotannon luovutuksesta saksalaisille, salli saksalaisten joukkojen kuljetukset alueensa läpi ja hankki maasta aseita. Samaan aikaan Neuvostoliitto painosti Suomea vaatimuksilla alueluovutuksista, kauttakulusta ja nikkelituotannosta. Ulkomaankaupan vähyydestä kärsivässä Suomessa Liinahamarin satama Petsamossa oli ainoa vapaa reitti valtamerille.
-Suomelle ja Saksalle kehittyivät läheiset asevelisuhteet, ja Saksan hyökätessä kesällä 1941 Neuvostoliittoon Suomi aloitti myös hyökkäyksen. Jatkosodassa Suomi valloitti vanhan valtioalueensa takaisin Saksan tuella, sekä miehitti Itä-Karjalan. Pohjois-Suomessa puolustus ja rintamavastuu oli luovutettu saksalaisjoukoille. Kesäkuussa 1944 alkaneen Neuvostoliiton suurhyökkäyksen tuloksena rintamalinja siirtyi kuitenkin lähelle talvisodan rajoja. Presidentti Risto Ryti erosi ja hänen tilalleen nousi sota-ajan ylipäällikkö, Suomen marsalkka C. G. E. Mannerheim. Syyskuussa 1944 Suomen ja Neuvostoliiton välille tehtiin välirauhansopimus, joka edellytti saksalaisten joukkojen häätämistä Suomesta.
-Jatkosodan jälkeen osa Suomen Neuvostoliitolle menettämistä maa-alueista liitettiin Karjalais-suomalaiseen sosialistiseen neuvostotasavaltaan, osa taas Leningradin ja Murmanskin alueisiin. Jatkosodan jälkeen Suomella oli merkittävä määrä selvitettäviä ongelmia. Saksan kanssa jouduttiin käymään Lapin sota entisten aseveljien karkottamiseksi Lapista.
-[muokkaa]Rauhan tultua
-Jatkosodan jälkeen Karjalasta evakuoitu siirtoväki sekä rintamamiehet oli asutettava, minkä vuoksi säädettiin maanhankintalaki. Lisäksi maan oli maksettava suuret sotakorvaukset Neuvostoliitolle, mutta toisaalta estettävä Neuvostoliiton vaikutusvallan liiallinen kasvu. Ulkopoliittiseksi linjaksi muodostui Paasikiven–Kekkosen linja. Linja pyrki ottamaan huomioon Neuvostoliiton turvallisuusintressit mutta estämään sen liiallisen vaikutuksen sisäpolitiikkaan. Toisin kuin muissa Neuvostoliiton vaikutuspiiriin jääneissä maissa, kommunistit eivät nousseet valtaan Suomessa, vaikka vaaran vuosina kommunistien vallankaappauksen uhkaa pidettiin todellisena. Merkittävänä syynä oli se, että Neuvostoliitto ei sotilaallispoliittisen kokonaistilanteen vuoksi halunnut tukea suomalaisten kommunistien mahdollisia vallankaappaussuunnitelmia millään tavoin.[36] Kommunistit joutuivat jättämään hallituksen vuonna 1948, Suomi liittyi Pohjoismaiden neuvostoon ja Yhdistyneisiin kansakuntiin vuonna 1955 ja sai Neuvostoliitolle tukikohdaksi vuokratun Porkkalan takaisin vuonna 1956. Toisaalta Suomi joutui vuonna 1948 solmimaan YYA-sopimuksen, joka sitoi Suomen sotilaallisesti Neuvostoliiton vaikutuspiiriin.
+==== Talvisota ====
+}}
+
+Vuonna 1938  esitti ensimmäisen kerran epävirallisesti alueluovutuksia . Suomi kieltäytyi ehdottomasti. Seuraavan vuoden syksyllä, kun  oli alkanut, Neuvostoliitto vaati Suomelta tukikohtaa Hangossa ja alueluovutuksia Kannaksella. Samanlaiset vaatimukset esitettiin myös . Toisin kuin ne, Suomi ei suostunut vaatimuksiin, minkä seurauksena Neuvostoliitto aloitti marraskuun 1939 lopussa talvisodan. Sota päättyi maaliskuussa 1940 rauhansopimukseen, jossa Suomi joutui luovuttamaan  ja Lapin Sallasta. Alueiden väestö evakuoitiin muualle Suomeen.
+
+==== Välirauhasta jatkosotaan ja Lapin sotaan ====
+||}}
+ palautettiin Suomelle  vuonna 1956.]]
+
+Välirauhan aikana Neuvostoliiton ja Suomen suhteet säilyivät kireinä. Saksalaisten miehitettyä Norjan Suomi sopi  luovutuksesta saksalaisille, salli saksalaisten joukkojen kuljetukset alueensa läpi ja hankki maasta aseita. Samaan aikaan Neuvostoliitto painosti Suomea vaatimuksilla alueluovutuksista, kauttakulusta ja nikkelituotannosta. Ulkomaankaupan vähyydestä kärsivässä Suomessa n satama ssa oli ainoa .
+
+Suomelle ja lle kehittyivät läheiset asevelisuhteet, ja Saksan  kesällä 1941 Neuvostoliittoon Suomi aloitti myös hyökkäyksen. Jatkosodassa Suomi valloitti vanhan valtioalueensa takaisin Saksan tuella, sekä miehitti n. Pohjois-Suomessa puolustus ja rintamavastuu oli luovutettu saksalaisjoukoille. Kesäkuussa 1944 alkaneen Neuvostoliiton suurhyökkäyksen tuloksena rintamalinja siirtyi kuitenkin lähelle talvisodan rajoja. Presidentti  erosi ja hänen tilalleen nousi sota-ajan ylipäällikkö, Suomen marsalkka . Syyskuussa 1944 Suomen ja Neuvostoliiton välille tehtiin välirauhansopimus, joka edellytti saksalaisten joukkojen häätämistä Suomesta.
+
+Jatkosodan jälkeen osa Suomen Neuvostoliitolle menettämistä maa-alueista liitettiin , osa taas  ja isiin. Jatkosodan jälkeen Suomella oli merkittävä määrä selvitettäviä ongelmia. Saksan kanssa jouduttiin käymään Lapin sota entisten aseveljien karkottamiseksi Lapista.
+
+==== Rauhan tultua ====
+
+Jatkosodan jälkeen sta evakuoitu  sekä rintamamiehet oli asutettava, minkä vuoksi säädettiin . Lisäksi maan oli maksettava suuret  Neuvostoliitolle, mutta toisaalta estettävä Neuvostoliiton vaikutusvallan liiallinen kasvu. Ulkopoliittiseksi linjaksi muodostui . Linja pyrki ottamaan huomioon Neuvostoliiton turvallisuusintressit mutta estämään sen liiallisen vaikutuksen sisäpolitiikkaan. Toisin kuin muissa Neuvostoliiton vaikutuspiiriin jääneissä maissa, kommunistit eivät nousseet valtaan Suomessa, vaikka  kommunistien vallankaappauksen uhkaa pidettiin todellisena. Merkittävänä syynä oli se, että Neuvostoliitto ei sotilaallispoliittisen kokonaistilanteen vuoksi halunnut tukea suomalaisten kommunistien mahdollisia vallankaappaussuunnitelmia millään tavoin.<ref>[http://personal.inet.fi/koti/jukka.tarkka/06-04-05.htm Jukka Tarkan sivusto]</ref> Kommunistit joutuivat jättämään hallituksen vuonna , Suomi liittyi on ja  vuonna  ja sai Neuvostoliitolle tukikohdaksi vuokratun Porkkalan takaisin vuonna 1956. Toisaalta Suomi joutui vuonna 1948 solmimaan , joka sitoi Suomen sotilaallisesti Neuvostoliiton vaikutuspiiriin.
+
 Suomi myös myi Jäniskosken alueen Neuvostoliitolle vuonna 1947.
-[muokkaa]Kekkosen kausi
+
+==== Kekkosen kausi ====
 
 
-Pohjoismainen yhteistyö leimasi Kekkosen ja Koiviston presidenttikausien ulkopolitiikkaa.
-Urho Kekkosen pitkän presidenttikauden (1956–1981) aikana Suomi muuttui maatalousmaasta moderniksi teollisuus- ja palveluyhteiskunnaksi. Niinpä maaseutu alkoi autioitua 1960-luvulta alkaen maaseutuväestön muuttaessa teollisuuskeskuksiin ja Ruotsiin. Samalla yhteiskunnan koulutustaso alkoi merkittävästi nousta 1970-luvulla peruskoulujärjestelmään siirtymisen ja korkeakoulutuksen voimakkaan laajenemisen myötä.
-Taloudellisesti Suomi integroitui länteen liittymällä EFTAan ja solmimalla vapaakauppasopimuksen EEC:n kanssa.
-Sisäpoliittisesti Kekkosen pitkä presidenttikausi oli kuitenkin hajanainen. Sitä luonnehti esimerkiksi sosiaalidemokraattien ja sittemmin kommunistien hajaannus. Kekkonen käytti valtaoikeuksiaan täysimittaisemmin kuin kenties kukaan toinen Suomen presidentti. Hän turvautui myös eduskunnan hajotusoikeuteen. Useimmat hallitukset jäivät lyhytikäisiksi. 1970-luvulla Neuvostoliiton vaikutus sisäpolitiikkaan kasvoi.lähde?
-[muokkaa]1980-luvulta syvään lamaan
-Mauno Koiviston presidenttikaudella Suomi siirtyi parlamentaristiseen hallintoon, jossa hallitukset istuvat koko vaalikauden. Samalla itänaapuriin alettiin ottaa varovaisesti etäisyyttä. Suomen ja Neuvostoliiton kahdenvälinen nk. clearing-kauppa oli kasvanut merkittävään rooliin Suomen taloudessa 1980-luvun loppuun mennessä.
-Neuvostoliiton hajotessa Suomen idänkauppa romahti kokonaan loppuvuodesta 1990, mikä yhdessä 1980-luvulla toteutetun rahoitusmarkkinoiden hallitsemattoman vapautuksen kanssa syöksi Suomen syvään taloudelliseen lamaan. Neuvostoliitto jäi velkaa päättyneen clearing-kaupan seurauksena Suomelle, mikä johti useiden suomalaisten suuryritysten yhtäaikaiseen konkurssiin ja talouden syvään lamaan. Lamaa seurannut suurtyöttömyys on purkautunut hitaasti. Ulospääsytieksi Suomi valitsi talouden voimakkaan liberalisoinnin ja entistä tiiviimmän integraation Eurooppaan. Neuvostoliiton hajoamisen ja Saksan yhdistymisen luomaa tilannetta Koivisto hyödynsi sanomalla irti YYA-sopimuksen sekä Pariisin rauhansopimuksen sotilaalliset, Suomen aseistautumista rajoittaneet artiklat.
-[muokkaa]Suomi osana Euroopan unionia
-Suomi liittyi Euroopan unioniin 1995. Yhteisvaluutta euron käyttöön Suomi siirtyi yhtenä ensimmäisistä maista vuonna 2002.[37] Euroopan unionissa suomalaiset edustavat noin 1 prosenttia Euroopan unionin 500-miljoonaisesta väestöstä.
-Euroopan unioniin liittyminen lisäsi väestön muuttoa kaupunkeihin, samanaikaisesti kun maataloudessa työskentelevän väestönosan määrä laski. Maatilojen keskikoko kasvoi koko 1990–2000-luvun ajan suuresti ja tilojen määrä laski. Maataloudessa siirryttiin suurelta osin kansallisista maataloustuista yhteisiin EU-tukimuotoihin[38], joiden Suomea koskea rahoitusosuus tulee kuitenkin Suomen EU-jäsenmaksuista.
-[muokkaa]Kansainvälistyen nousukauteen
-1990-luvun aikana suomalainen yhteiskunta alkoi kansainvälistyä ja Suomessa asuvien maahanmuuttajien määrä moninkertaistui.[39] Siirtolaisia tuli Suomeen rajojen avauduttua huomattavia määriä etenkin entisen Neuvostoliiton alueelta, noin 70 000 ihmistä, sekä Somaliasta noin 10 000 henkeä.lähde? Myös talouden vaikutusvalta yhteiskunnan rakenteissa ja päätöksenteossa voimistui.
-Laman jälkeisinä vuosina suomalaisissa heräsi suuri usko tietotekniikan voittokulkuun talouden veturina. Vuosina 1999–2000 tapahtunut it-buumi aiheutti it-osakkeiden hurjan pörssinousun ja sitä seuranneen romahduksen. Pörssikeinottelu loi Suomeen myös uuden äkkirikastuneiden yhteiskuntaluokan.lähde? Kansalaisten tuloerot kasvoivat Suomessa erityisen nopeasti vuosina 1995–2005. Erojen kasvussa Suomi on ollut teollisuusmaiden kärjessä.[40]
-[muokkaa]Rakennemuutoksesta talouden lamaan
-Suomen talouselämän riippuvuus ulkomailla tapahtuvasta tuotannosta lisääntyi kovaa vauhtia koko 2000-luvun ajan. Etenkin perinteinen mekaaninen metsäteollisuus on joutunut sopeutumaan muuttuvaan talousrakenteeseen ja sulkemaan useita tuotantolaitoksia, mikä on aiheuttanut paikallisia ongelmia entisillä tehdaspaikkakunnilla. Myös perinteisesti maaseudulla työllistäneen metsätalouden kannattavuus on heikentynyt pahasti, puun käytön vähentyessä. Myös venäläisen tuontipuun käytön lopettaminen tuontitullien vuoksi vähensi sitä jalostavaa teollisuutta huomattavasti. Monet suomalaiset yritykset on myyty ulkomaisille sijoittajille ja lukuisia yhteiskunnan hallitsemia toimintoja on siirretty yksityisille toimijoille 2000-luvun alun aikana. Julkinen hallinnon organisaatiot on järjestetty Suomessa 2000-luvulla pitkälti uudelleen, Amerikassa kehitettyä uutta julkisjohtamisen oppia noudattaen.[41] Valtion tuottavuusohjelman avulla julkishallinnon työpaikkoja on vähennetty runsaasti[42] ja hajasijoittamisen ohjelmalla yksittäisiä Helsingissä sijainneita valtion virastoja on hajautettu maakuntiin.[43]
-Suomi on osallistunut Naton kriisinhallintaoperaatioon Afganistanissa vuodesta 2002 alkaen, mikä on herättänyt keskustelua rauhanturvaoperaation ja sodan rajasta, sekä Suomen osallisuudesta Afganistanin sisällissotaan.
-Koko maailmaan levinnyt talouskriisi lamaannutti Suomen viennin syksyllä 2008 ja Suomen talous painui syvään lamaan.lähde?
-[muokkaa]Hallinto ja politiikka
+ pitkän presidenttikauden (1956–1981) aikana Suomi muuttui maatalousmaasta moderniksi teollisuus- ja palveluyhteiskunnaksi. Niinpä maaseutu alkoi autioitua 1960-luvulta alkaen maaseutuväestön muuttaessa teollisuuskeskuksiin ja Ruotsiin. Samalla yhteiskunnan koulutustaso alkoi merkittävästi nousta 1970-luvulla järjestelmään siirtymisen ja korkeakoulutuksen voimakkaan laajenemisen myötä.
 
-Pääartikkelit: Suomen politiikka ja Suomen hallinto
+Taloudellisesti Suomi integroitui länteen liittymällä an ja solmimalla vapaakauppasopimuksen :n kanssa.
 
+Sisäpoliittisesti Kekkosen pitkä presidenttikausi oli kuitenkin hajanainen. Sitä luonnehti esimerkiksi sosiaalidemokraattien ja sittemmin kommunistien hajaannus. Kekkonen käytti valtaoikeuksiaan täysimittaisemmin kuin kenties kukaan toinen Suomen presidentti. Hän turvautui myös eduskunnan hajotusoikeuteen. Useimmat hallitukset jäivät lyhytikäisiksi. 1970-luvulla Neuvostoliiton vaikutus sisäpolitiikkaan kasvoi.
 
-Suomen eduskunta kokoontuu Eduskuntatalolla
-Suomen valtiomuoto on tasavalta. Suomen valtion päämies on tasavallan presidentti, joka valitaan kuudeksi vuodeksi kerrallaan suoralla kansanvaalilla.[44] Presidentti vahvistaa lait,[45] nimittää korkeimmat virkamiehet[46] ja johtaa ulkopolitiikkaa yhteistyössä valtioneuvoston kanssa.[47] Yleensä Euroopan unionia koskevia asioita hoitaa pääministeri.
-Virallisesti pääministeri ja muut ministerit sekä oikeuskansleri muodostavat valtioneuvoston, mutta arkikielessä ministerien kokoonpanoa kutsutaan hallitukseksi.
-[muokkaa]Hallinto
+==== 1980-luvulta syvään lamaan ====
 
+n presidenttikaudella Suomi siirtyi parlamentaristiseen hallintoon, jossa hallitukset istuvat koko vaalikauden. Samalla itänaapuriin alettiin ottaa varovaisesti etäisyyttä. Suomen ja Neuvostoliiton kahdenvälinen nk.  oli kasvanut merkittävään rooliin Suomen taloudessa 1980-luvun loppuun mennessä.
 
-Suomen valtiolippu.
+Neuvostoliiton hajotessa Suomen idänkauppa romahti kokonaan loppuvuodesta 1990, mikä yhdessä 1980-luvulla toteutetun rahoitusmarkkinoiden hallitsemattoman vapautuksen kanssa syöksi Suomen syvään taloudelliseen . Neuvostoliitto jäi velkaa päättyneen clearing-kaupan seurauksena Suomelle, mikä johti useiden suomalaisten suuryritysten yhtäaikaiseen konkurssiin ja talouden syvään lamaan. Lamaa seurannut suurtyöttömyys on purkautunut hitaasti. Ulospääsytieksi Suomi valitsi talouden voimakkaan liberalisoinnin ja entistä tiiviimmän integraation Eurooppaan. Neuvostoliiton hajoamisen ja Saksan yhdistymisen luomaa tilannetta Koivisto hyödynsi sanomalla irti YYA-sopimuksen sekä  sotilaalliset, Suomen aseistautumista rajoittaneet artiklat.
+
+=== Suomi osana Euroopan unionia ===
+
+Suomi liittyi in . Yhteisvaluutta euron käyttöön Suomi siirtyi yhtenä ensimmäisistä maista vuonna .<ref></ref> Euroopan unionissa suomalaiset edustavat noin 1 prosenttia Euroopan unionin 500-miljoonaisesta väestöstä.
+
+Euroopan unioniin liittyminen lisäsi väestön muuttoa kaupunkeihin, samanaikaisesti kun maataloudessa työskentelevän väestönosan määrä laski. Maatilojen keskikoko kasvoi koko 1990–2000-luvun ajan suuresti ja tilojen määrä laski. Maataloudessa siirryttiin suurelta osin kansallisista maataloustuista yhteisiin EU-tukimuotoihin<ref>http://herkules.oulu.fi/isbn9514267745/html/c91.html</ref>, joiden Suomea koskea rahoitusosuus tulee kuitenkin Suomen EU-jäsenmaksuista.
+
+==== Kansainvälistyen nousukauteen ====
+
+1990-luvun aikana suomalainen yhteiskunta alkoi kansainvälistyä ja Suomessa asuvien maahanmuuttajien määrä moninkertaistui.<ref>http://www.yhdenvertaisuus.net/seis-koulutusmateriaali/05/4.htm</ref> Siirtolaisia tuli Suomeen rajojen avauduttua huomattavia määriä etenkin entisen Neuvostoliiton alueelta, noin 70&nbsp;000 ihmistä, sekä Somaliasta noin 10&nbsp;000 henkeä. Myös talouden vaikutusvalta yhteiskunnan rakenteissa ja päätöksenteossa voimistui.
+
+Laman jälkeisinä vuosina suomalaisissa heräsi suuri usko tietotekniikan voittokulkuun talouden veturina. Vuosina 1999–2000 tapahtunut it-buumi aiheutti it-osakkeiden hurjan pörssinousun ja sitä seuranneen romahduksen. Pörssikeinottelu loi Suomeen myös uuden äkkirikastuneiden yhteiskuntaluokan. Kansalaisten tuloerot kasvoivat Suomessa erityisen nopeasti vuosina 1995–2005. Erojen kasvussa Suomi on ollut teollisuusmaiden kärjessä.<ref></ref>
+
+==== Rakennemuutoksesta talouden lamaan ====
+Suomen talouselämän riippuvuus ulkomailla tapahtuvasta tuotannosta lisääntyi kovaa vauhtia koko 2000-luvun ajan. Etenkin perinteinen mekaaninen metsäteollisuus on joutunut sopeutumaan muuttuvaan talousrakenteeseen ja sulkemaan useita tuotantolaitoksia, mikä on aiheuttanut paikallisia ongelmia entisillä tehdaspaikkakunnilla. Myös perinteisesti maaseudulla työllistäneen metsätalouden kannattavuus on heikentynyt pahasti, puun käytön vähentyessä. Myös venäläisen tuontipuun käytön lopettaminen tuontitullien vuoksi vähensi sitä jalostavaa teollisuutta huomattavasti. Monet suomalaiset yritykset on myyty ulkomaisille sijoittajille ja lukuisia yhteiskunnan hallitsemia toimintoja on siirretty yksityisille toimijoille 2000-luvun alun aikana. Julkinen hallinnon organisaatiot on järjestetty Suomessa 2000-luvulla pitkälti uudelleen, Amerikassa kehitettyä  noudattaen.<ref>Heikki Patomäki:Uusliberalismi Suomessa, Uusi julkisjohtamisen oppi, WSOY, 2009. ISBN 978-951-032562-9</ref> n avulla julkishallinnon työpaikkoja on vähennetty runsaasti<ref>http://www.vm.fi/vm/fi/05_hankkeet/02_tuottavuusohjelma/index.jsp</ref> ja hajasijoittamisen ohjelmalla yksittäisiä Helsingissä sijainneita valtion virastoja on hajautettu maakuntiin.<ref></ref>
+
+Suomi on osallistunut n  vuodesta 2002 alkaen, mikä on herättänyt keskustelua rauhanturvaoperaation ja sodan rajasta, sekä Suomen osallisuudesta Afganistanin sisällissotaan.
+
+Koko maailmaan levinnyt talouskriisi lamaannutti Suomen viennin syksyllä 2008 ja Suomen talous painui syvään lamaan.
+
+== Hallinto ja politiikka ==
+|}}
+ kokoontuu lla]]
+Suomen valtiomuoto on . Suomen valtion päämies on , joka valitaan kuudeksi vuodeksi kerrallaan suoralla kansanvaalilla.<ref>Hänninen, Liuskari ja Suonio 2007 s. 86</ref> Presidentti vahvistaa lait,<ref>Hänninen, Liuskari ja Suonio 2007, s. 88</ref> nimittää korkeimmat virkamiehet<ref>Hänninen, Liuskari ja Suonio 2007, s. 93</ref> ja johtaa ulkopolitiikkaa yhteistyössä n kanssa.<ref name="forum">Hänninen, Liuskari ja Suonio 2007, s. 90</ref> Yleensä Euroopan unionia koskevia asioita hoitaa pääministeri.
+
+Virallisesti  ja muut t sekä  muodostavat n, mutta arkikielessä ministerien kokoonpanoa kutsutaan hallitukseksi.
+
+=== Hallinto ===
+
 Hallitus, jota johtaa pääministeri, käyttää toimeenpanovaltaa eli huolehtii hallinnon juoksevista asioista. Pääministeri valitaan puolueiden välisissä hallitusneuvotteluissa ja pääministeri nimittää hallitukseen yleensä toistakymmentä ministeriä. Valtion budjetin laatiminen ja lakiehdotusten valmistelu tapahtuvat myös osittain ministerien alaisissa ministeriöissä.
-Perustuslain mukaan valta kuuluu Suomessa kansalle ja korkeinta hallitusvaltaa Suomessa käyttää tasavallan presidentti sekä valtioneuvosto, jonka jäsenten tulee nauttia eduskunnan luottamusta.[48] Eduskunta on 200-jäseninen, suhteellisilla vaaleilla valittava yksikamarinen parlamentti. Eduskuntavaalit pidetään neljän vuoden välein. Eduskunnan enemmistö voi vaihtaa hallituksen antamalla istuvalle hallitukselle epäluottamuslauseen. Eduskunta säätää lait ja hyväksyy valtion budjetin. Suomessa ei ole perustuslaillista tuomioistuinta, vaan eduskunnan perustuslakivaliokunta valvoo valmistavien lakien perustuslain mukaisuutta.lähde?
-Suomi siirtyi ensimmäisten maiden joukossa yleiseen ja yhtäläiseen äänioikeuteen 1905. Suurimmat puolueet olivat pitkään lähes tasavahvat Suomen Keskusta, Kansallinen Kokoomus ja Suomen Sosialidemokraattinen Puolue, kunnes vuoden 2011 eduskuntavaaleissa Perussuomalaiset nousi suurimpien puolueiden joukkoon. Tulopolitiikassa Suomessa on käytössä niin sanottu kolmikanta, jossa tulonjaosta ja työehdoista sovitaan työmarkkinajärjestöjen ja valtion kesken. Valtiollisia neuvoa antavia kansanäänestyksiä on järjestetty vain kaksi Suomen historiassa: kieltolain kumoamisesta ja Euroopan unionin jäsenyydestä.[49]
-[muokkaa]Tuomioistuimet
-Tuomiovaltaa käyttävät riippumattomat tuomioistuimet. Yleisiä tuomioistuimia ovat käräjäoikeudet, hovioikeudet ja korkein oikeus, jotka käsittelevät riita- ja rikosasioita. Julkisen hallinnon toiminnasta ja päätöksistä tehtyjä valituksia käsittelevät hallinto-oikeudet. Korkeimmat oikeusasteet ovat korkein oikeus ja korkein hallinto-oikeus.[50]
 
-Paikallishallinto
-Pääartikkeli: Luettelo Suomen kunnista
-Suomen aluejako
-maakunnat
-maakuntien liitot
-seutukunnat
-kunnat
-väkiluvun mukaan
-pinta-alan mukaan
-väestötiheyden mukaan
-NUTS:FI
-ISO 3166-2:FI
-Itsehallinnollinen perusyksikkö on kunta, joita on vuoden 2011 alussa 336. Kunnat perustettiin 1860-luvulla annetun kuntalain mukaisesti. Perustana olivat vanhat kirkkopitäjät. Pitkään kuntien olemassaoloa säätelikin kirkollinen aluejako, ja usein entiset kappeliseurakunnat itsenäistyivät omiksi melko pieniksi kunnikseen. Nykyisin tavoitteena on aiempaa suurempien kuntayksiköiden syntyminen.
+ mukaan valta kuuluu Suomessa kansalle ja korkeinta hallitusvaltaa Suomessa käyttää tasavallan  sekä , jonka jäsenten tulee nauttia eduskunnan luottamusta.<ref>Forum, Yhteiskuntatieto, 5. painos</ref> Eduskunta on 200-jäseninen, suhteellisilla vaaleilla valittava yksikamarinen .  pidetään neljän vuoden välein. Eduskunnan enemmistö voi vaihtaa hallituksen antamalla istuvalle hallitukselle epäluottamuslauseen. Eduskunta säätää lait ja hyväksyy valtion budjetin. Suomessa ei ole perustuslaillista tuomioistuinta, vaan eduskunnan perustuslakivaliokunta valvoo valmistavien lakien perustuslain mukaisuutta.
+
+Suomi siirtyi ensimmäisten maiden joukossa yleiseen ja yhtäläiseen  1905. Suurimmat puolueet olivat pitkään lähes tasavahvat ,  ja , kunnes   nousi suurimpien puolueiden joukkoon.  Suomessa on käytössä niin sanottu kolmikanta, jossa tulonjaosta ja työehdoista sovitaan työmarkkinajärjestöjen ja valtion kesken. Valtiollisia neuvoa antavia  on järjestetty vain kaksi Suomen historiassa:  ja .<ref>[http://www.vaalit.fi/15896.htm Vaalit.fi] Valtiollinen neuvoa-antava kansanäänestys.</ref>
+
+=== Tuomioistuimet ===
+
+Tuomiovaltaa käyttävät riippumattomat tuomioistuimet. Yleisiä tuomioistuimia ovat ,  ja , jotka käsittelevät riita- ja rikosasioita. Julkisen hallinnon toiminnasta ja päätöksistä tehtyjä valituksia käsittelevät hallinto-oikeudet. Korkeimmat oikeusasteet ovat korkein oikeus ja .<ref>[http://www.finlex.fi/fi/laki/ajantasa/1999/19990731 Finlex.fi] Suomen hallitusmuoto, 3 §</ref>
 
 
-Suomen maakunnat vaakunoineen.
-Kuntien hallinnon ja talouden ylin päättävä elin on kunnanvaltuusto, joka valitaan joka neljäs vuosi järjestettävillä yleisillä, yhtäläisillä ja salaisilla kunnallisvaaleilla. Kunnanvaltuuston keskeisin tehtävä on päättää kunnan tuloista ja menoista. Valtuuston päätösten toimeenpanevana elimenä kunnassa toimii kunnanhallitus, jonka jäsenet valitaan suhteellisesti valtuustopaikkojen jakautumisen mukaan. Hallitus myös valmistelee asiat valtuustolle. Kaupunginjohtajat ja muut korkeimmat virkamiehet toimivat kunnanhallituksen esittelijöinä. Erilaiset lautakunnat avustavat hallitusta toimissaan. Lautakuntien kokoonpano noudattelee kunnanhallituksen esimerkkiä. Kunnanhallitus voi alistaa kaikki lautakunnissa tehtävät päätökset omaan päätökseensä.lähde?
-[muokkaa]Paikallinen aluehallinto
-Pääartikkeli: Suomen maakunnat
-Maakunnat toteuttavat kunnallisen itsehallinnon alueellisella tasolla. Läänijaon uudistuksen yhteydessä 1997 perustettiin maahan 20 maakuntaa, jotka osittain perustuvat historiallisiin maakuntiin. Nykyiset maakunnat ovat erillään valtionhallinnosta, ja niitä ohjataan ja johdetaan kunnallisen itsehallinnon antamin opastein.lähde?
-Heti perustamisensa jälkeen maakunnilla ei ollut kovin selvää roolia, ja niiden tehtävät muodostuivat lähinnä aluesuunnittelusta ja seutukaavoituksesta. Euroopan unioni korostaa toimissaan paljon alue- ja maakuntatasoa, mikä on antanut näille itsehallinnollisille yksiköille runsaasti uusia tehtäviä.lähde?
-Koska on ehdotettu, että kunnallishallintoon tullaan tekemään muutoksia lähivuosina, on mitä todennäköisintä että myös maakuntatason aluehallinto tulee muuttumaan. Eräiden tavoitteiden mukaan se tulisikin olemaan aluehallinnon perusyksikkö, johon nykyiset kunnat tehtävineen sulautettaisiin, tai korkeintaan kuhunkin maakuntaan kuuluisi vain muutama erillinen kunta, ja maakunta hoitaisi kaikki keskeiset toimialat.lähde?
-[muokkaa]Puolustusvoimat
-Pääartikkeli: Suomen puolustusvoimat
-Suomen puolustusvoimat jaetaan kolmeen haaraan: maavoimiin, merivoimiin ja ilmavoimiin. Sisäasiainministeriön alainen Rajavartiolaitos ei kuulu puolustusvoimiin, mutta voidaan liittää siihen sodan aikana. Puolustusvoimien komentaja on 2009–2014 kenraali Ari Puheloinen.[52] Suomessa on voimassa miehiä koskeva yleinen asevelvollisuus, ja myös naisilla on oikeus värväytyä vapaaehtoisena. Asevelvollisuuden voi täyttää varusmiespalveluksena tai siviilipalveluksena. Varusmiespalvelun suorittavien osuus Suomessa on maailman korkeimpia. Vastuu asepalveluksen järjestämisestä on puolustusvoimilla, jonka reserviin koulutetaan miehiä asevelvollisuuden avulla. Asevelvollisuus alkaa sen vuoden alusta, jolloin mies täyttää 18 vuotta ja päättyy sen vuoden lopussa, kun mies täyttää 60 vuotta. Vastuu siviilipalveluksen järjestämisestä on työ- ja elinkeinoministeriöllä. Vuosittain noin 2 500 henkilöä ei valitse aseellista palvelusta. Suomen puolustusvoimien henkilöstön koko on noin 16 500, joista 8 700 on ammattisotilaita. Valmiustilassa on noin 34 000 asepuvullista ja reservin koko on noin 350 000.[53][54]
-[muokkaa]Maantiede ja geologia
+=== Valtion aluehallinto ===
+|}}
+Valtion aluehallintoa varten Suomi on jaettu kuuteen  ja niihin rinnastettavaan Ahvenanmaan valtionvirastoon:
+* 
+* 
+* 
+* 
+* 
+* 
+* 
 
-Pääartikkelit: Suomen maantiede ja Suomen kallioperä
+Ennen nykyistä aluehallintojakoa käytetty  oli voimassa vuoden 1997  lähtien aina vuoden2009 loppuun. Tätä aiemmin  oli Ahvenanmaa mukaan lukien kaksitoista. Läänejä johti presidentin nimittämä  johtaja, .
+
+Valtion paikallishallintoa varten läänit jaettiin vuoden 2008 alkuun asti edelleen 90 an.<ref></ref>
+
+=== Paikallishallinto ===
+}}
+
+Itsehallinnollinen perusyksikkö on , joita on vuoden 2011 alussa 336. Kunnat perustettiin 1860-luvulla annetun kuntalain mukaisesti. Perustana olivat vanhat t. Pitkään kuntien olemassaoloa säätelikin kirkollinen aluejako, ja usein entiset kappeliseurakunnat itsenäistyivät omiksi melko pieniksi kunnikseen. Nykyisin tavoitteena on aiempaa suurempien kuntayksiköiden syntyminen.
+
+Kuntien hallinnon ja talouden ylin päättävä elin on , joka valitaan joka neljäs vuosi järjestettävillä yleisillä, yhtäläisillä ja salaisilla . Kunnanvaltuuston keskeisin tehtävä on päättää kunnan tuloista ja menoista. Valtuuston päätösten toimeenpanevana elimenä kunnassa toimii , jonka jäsenet valitaan suhteellisesti valtuustopaikkojen jakautumisen mukaan. Hallitus myös valmistelee asiat valtuustolle. Kaupunginjohtajat ja muut korkeimmat virkamiehet toimivat kunnanhallituksen esittelijöinä. Erilaiset lautakunnat avustavat hallitusta toimissaan. Lautakuntien kokoonpano noudattelee kunnanhallituksen esimerkkiä. Kunnanhallitus voi alistaa kaikki lautakunnissa tehtävät päätökset omaan päätökseensä.
+
+=== Paikallinen aluehallinto ===
+}}
+Maakunnat toteuttavat kunnallisen itsehallinnon alueellisella tasolla. Läänijaon uudistuksen yhteydessä 1997 perustettiin maahan 20 maakuntaa, jotka osittain perustuvat . Nykyiset maakunnat ovat erillään valtionhallinnosta, ja niitä ohjataan ja johdetaan kunnallisen itsehallinnon antamin opastein.
+
+Heti perustamisensa jälkeen maakunnilla ei ollut kovin selvää roolia, ja niiden tehtävät muodostuivat lähinnä aluesuunnittelusta ja seutukaavoituksesta. Euroopan unioni korostaa toimissaan paljon alue- ja maakuntatasoa, mikä on antanut näille itsehallinnollisille yksiköille runsaasti uusia tehtäviä.
+
+Koska on ehdotettu, että kunnallishallintoon tullaan tekemään muutoksia lähivuosina, on mitä todennäköisintä että myös maakuntatason aluehallinto tulee muuttumaan. Eräiden tavoitteiden mukaan se tulisikin olemaan aluehallinnon perusyksikkö, johon nykyiset kunnat tehtävineen sulautettaisiin, tai korkeintaan kuhunkin maakuntaan kuuluisi vain muutama erillinen kunta, ja maakunta hoitaisi kaikki keskeiset toimialat.
+
+=== Puolustusvoimat ===
+}}
+ jaetaan kolmeen haaraan: ,  ja . n alainen  ei kuulu puolustusvoimiin, mutta voidaan liittää siihen sodan aikana. Puolustusvoimien komentaja on 2009–2014  .<ref></ref>
+Suomessa on voimassa miehiä koskeva yleinen , ja myös naisilla on oikeus värväytyä vapaaehtoisena. Asevelvollisuuden voi täyttää varusmiespalveluksena tai . Varusmiespalvelun suorittavien osuus Suomessa on maailman korkeimpia. Vastuu asepalveluksen järjestämisestä on puolustusvoimilla, jonka reserviin koulutetaan miehiä asevelvollisuuden avulla. Asevelvollisuus alkaa sen vuoden alusta, jolloin mies täyttää 18 vuotta ja päättyy sen vuoden lopussa, kun mies täyttää 60 vuotta. Vastuu siviilipalveluksen järjestämisestä on llä. Vuosittain noin 2&nbsp;500 henkilöä ei valitse aseellista palvelusta. Suomen puolustusvoimien henkilöstön koko on noin 16&nbsp;500, joista 8&nbsp;700 on ammattisotilaita. Valmiustilassa on noin 34&nbsp;000 asepuvullista ja reservin koko on noin 350&nbsp;000.<ref></ref><ref></ref>
+
+== Maantiede ja geologia ==
+|}}
 
 
-Kesäinen Suomi satelliittikuvassa.
-Suomen kallioperä kuuluu vanhaan Fennoskandian kilpeen, jossa vain pienet osat ovat nuorempia kuin 1 800 miljoonaa vuotta. Peruskallio on monin paikoin näkyvillä. Kallioperän vanhinta osaa on Itä- ja Pohjois-Suomessa esiintyvä, 2 800 – 2 700 miljoonaa vuotta vanha arkeeinen kallioperä. Pääosan Suomen kallioperästä muodostaa 1 930 – 1 800 miljoonaa vuotta sitten varhaisproterotsooisella kaudella syntynyt svekofenninen kallioperä. Pohjois-Lapissa on merkittävä granuliittimuodostuma. Nuoremmista kallioperistä merkittävimpiä ovat Etelä-Suomen 1 650 – 1 540 miljoonaa vuotta sitten keskiproterotsooisella kaudella syntyneet rapakivigraniitit.[55]
-Suomen pinta-ala on 338 424 km² (2009). Lukuun sisältyvät maa- ja sisävesialueet. Merialueita on lisäksi 52 496 km².[1] Maankohoamisen vuoksi maapinta-ala kasvaa vuosittain noin 7 km². Maapinta-alasta on rakennettua 4 %, maatalousmaata 9 %, metsää 77 % ja muuta maata 10 %.[56] Maan eteläosa ja Pohjanmaan rannikko ovat tasaisia, mutta Keski-Suomessa maasto muuttuu kumpuilevaksi. Itä-Suomen vaarat ja Lapin tunturit ovat jäänne muinoin Itä-Karjalasta Lappiin ulottuneesta Karelidien vuoristosta. Käsivarren Lapin korkeimmat tunturit kuuluvat Skandeihin, joiden kallioperä on iältään 400–450 miljoonaa vuotta. Suomen korkein kohta on Skandeihin kuuluva Haltitunturi, jonka rinne kohoaa Suomen puolella 1 324 metriin merenpinnasta.[57]
-Yleisin kivennäismaalaji on moreeni, jonka päälle on paikoin kasautunut savikkoa. Eloperäisistä maalajeista soille on muodostunut turvetta ja kangasmetsiin kangashumusta. Viimeisen jääkauden lopulla syntyneet jäätikön reunan suuntaiset reunamuodostumat ja liikesuunnan mukaiset harjut ovat Suomelle tunnusomaisia maastonmuotoja. Reunamuodostumista merkittävimmät ovat Salpausselät, jotka kulkevat eteläisen Suomen poikki lounaasta koilliseen. Pitkittäisharjuista tunnetuimpia ovat Pyynikin harju Pirkanmaalla, joka on maailman korkein soraharju, sekä Punkaharju Saimaan Puruvedellä.
-Suomessa on poikkeuksellisen paljon järviä. Yhteensä maassa lasketaan olevan 187 888 yli 500 neliömetrin kokoista järveä. Suurin järvi on Saimaa ja syvin Päijänne. Runsasjärvisintä aluetta on Järvi-Suomi. Järvet ovat rikkonaisia, runsassaarisia ja matalia, keskisyvyys on seitsemän metriä. Järvet muodostavat jokien välityksellä järvireittejä ja nämä vesistöjä. Suurimmat vesistöt ovat Vuoksen, Kymijoen, Kokemäenjoen, Oulujoen ja Kemijoen vesistöt. Järvien tapaan myös rannikot ovat rikkonaisia ja runsassaarisia. Saaristomeri ja Ahvenanmaa muodostavat Euroopan toiseksi monisaarisimman saariston. Suurin saari on Saimaalla sijaitseva Sääminginsalo (1 069 km²) ja toiseksi suurin Ahvenanmaan pääsaari (685 km²). Suurimmaksi saareksi mainitaan usein Soisalo (1 638 km²), jota ei kuitenkaan maantieteellisesti lasketa saareksi, sillä sitä ympäröivä vedenpinta ei ole kauttaaltaan samassa tasossa. Suomen merialueilla ja sisävesillä saaria on yhteensä 179 584.[58]
-[muokkaa]Luonto
+Suomen  kuuluu vanhaan n kilpeen, jossa vain pienet osat ovat nuorempia kuin 1&nbsp;800 miljoonaa vuotta.  on monin paikoin näkyvillä. Kallioperän vanhinta osaa on Itä- ja Pohjois-Suomessa esiintyvä, 2&nbsp;800 – 2&nbsp;700 miljoonaa vuotta vanha  kallioperä. Pääosan Suomen kallioperästä muodostaa 1&nbsp;930 – 1&nbsp;800 miljoonaa vuotta sitten  kaudella syntynyt  kallioperä. Pohjois-Lapissa on merkittävä muodostuma. Nuoremmista kallioperistä merkittävimpiä ovat Etelä-Suomen 1&nbsp;650 – 1&nbsp;540 miljoonaa vuotta sitten  kaudella syntyneet graniitit.<ref>[http://www.geologinenseura.fi/suomenkalliopera/CH3.pdf Geologinenseura.fi] Suomen kallioperän yleispiirteet.</ref>
 
-Pääartikkeli: Suomen luonto
-Eläinmaantieteellisesti Suomi kuuluu palearktiseen alueeseen, jonka eläimistö on tyypillistä pohjoiselle havumetsävyöhykkeelle. Nisäkkäitä on tunnistettu kaikkiaan yli 60 lajia, joista yleisiä ovat muun muassa orava, metsäjänis ja kettu. Suurista nisäkäslajeista esiintyvät karhu, susi, hirvi ja peuran alalajit metsäpeura ja poro, joka on kesytetty tunturipeurasta. Lintulajeja on havaittu noin 450,[59] joista suurin osa on muuttolintuja. Kalalajeja on yli 70, matelijalajeja viisi ja sammakkoeläinlajeja viisi. Suomen matelija- ja sammakkoeläinlajisto on melko köyhää, sillä esimerkiksi Virossa pelkästään sammakkoeläinlajeja on jo 13.
-Kasvillisuusvyöhykkeistä suurin osa Suomea kuuluu boreaaliseen vyöhykkeeseen eli pohjoiseen havumetsävyöhykkeeseen. Vain maan eteläisin rannikkoseutu kuuluu havu- ja lehtimetsävyöhykkeen vaihettumisalueeseen, hemiboreaaliseen vyöhykkeeseen. Tämä vaihettumisvyöhyke luetaan välillä havumetsiin, välillä lauhkeisiin lehtimetsiin kuuluvaksi, riippuen tietolähteestä. Suomen pohjoisimmat osat edustavat jo havumetsävyöhykkeen ja tundran vaihettumisaluetta.
-Suomen luonto voidaan jakaa pääpiirteissään seuraaviin alueisiin:lähde?
-Lounais- ja Etelä-Suomi
-Itä-, Länsi-, Sisä- ja Pohjois-Suomi
-Metsä-Lappi
-Tunturi-Lappi
-[muokkaa]Lounais- ja Etelä-Suomi
+Suomen pinta-ala on 338&nbsp;424&nbsp;km² (2009). Lukuun sisältyvät maa- ja sisävesialueet. Merialueita on lisäksi 52&nbsp;496&nbsp;km².<ref name="pinta-ala"/>  vuoksi maapinta-ala kasvaa vuosittain noin 7&nbsp;km². Maapinta-alasta on rakennettua 4&nbsp;%, maatalousmaata 9&nbsp;%, metsää 77&nbsp;% ja muuta maata 10&nbsp;%.<ref name="Taloussanomat:"></ref> Maan eteläosa ja Pohjanmaan rannikko ovat tasaisia, mutta Keski-Suomessa maasto muuttuu kumpuilevaksi. Itä-Suomen t ja Lapin t ovat jäänne muinoin Itä-Karjalasta Lappiin ulottuneesta  vuoristosta. Käsivarren Lapin korkeimmat tunturit kuuluvat , joiden kallioperä on iältään 400–450 miljoonaa vuotta. Suomen korkein kohta on Skandeihin kuuluva tunturi, jonka rinne kohoaa Suomen puolella 1&nbsp;324 metriin merenpinnasta.<ref></ref>
 
+Yleisin kivennäismaalaji on , jonka päälle on paikoin kasautunut kkoa. Eloperäisistä maalajeista  on muodostunut tta ja  kangashumusta.  lopulla syntyneet jäätikön reunan suuntaiset t ja liikesuunnan mukaiset t ovat Suomelle tunnusomaisia maastonmuotoja. Reunamuodostumista merkittävimmät ovat , jotka kulkevat eteläisen Suomen poikki lounaasta koilliseen. Pitkittäisharjuista tunnetuimpia ovat  , joka on maailman korkein soraharju, sekä  n .
 
-Eteläsuomalaista metsää Repoveden kansallispuistossa.
-Alue käsittää lähinnä Ahvenanmaan, Varsinais-Suomen ja Uudenmaan maakuntien alueen. Alueen kasvillisuutta leimaa korkea biodiversiteetti muuhun Suomeen verrattuna, ja kasvillisuuden eteläiset piirteet. Alueella on sekä Keski-Euroopalle että Siperian taigalle tyypillisiä kasvi- ja eliölajeja. Alueen metsät vaihtelevat metsätyypin mukaan rehevistä pähkinä- ja jalopuulehdoista kuiviin karukkokankaisiin. Kuitenkin yli 90 prosenttia alueen metsistä on havupuuvaltaisia kankaita. Lounaisrannikolla eteläiset piirteet ovat kasvillisuudessa sen verran hyvin edustettuina, että alue luetaan hemiboreaaliseen eli sekametsävyöhykkeeseen. Muu osa alueesta on eteläboreaalista havupuuvaltaisempaa metsää. Koko alueella tavallisimmat puulajit ovat metsäkuusi, koivut ja mänty. Yleisiä ovat myös haapa, raita, pihlaja sekä harmaa- ja tervaleppä. Harvinaisempia puita ja pensaita ovat pähkinäpensas, lehmus, jalava ja vaahtera. Saarni ja tammi kasvavat luonnostaan vain Helsingin ja Uudenkaupungin välisellä rannikkokaistaleella, sielläkin harvinaisina, joskin saarnella on muutama yksittäinen luonnontilainen esiintymä sisämaassakin. Metsien aluskasvillisuudessa tyypillisiä lajeja ovat metsätyypistä riippuen mustikka, puolukka, saniaiset, oravanmarja, valkovuokko, käenkaali sekä sammalet ja jäkälät. Kevätlinnunherne, valkovuokko, sinivuokko ja käenrieskat kasvavat Suomessa pääosin vain tällä alueella.
-Alueen suot ovat pääosin keidassoita, mutta ihminen on kuivattanut niistä suuren osan. Haihdunta on kesäisin kohtalaista, ja luontaisesti soita on alueelle muodostunut lähinnä rotkoihin ja laakson pohjille kosteisiin painanteisiin.
-Nisäkkäitä, joita Suomessa esiintyy pääasiassa vain maan eteläosissa, ovat esimerkiksi liito-orava ja rusakko. Alueella elää viisi sammakkoeläin- ja viisi matelijalajia. Hyönteislajistosta vain lähinnä täälläpäin Suomea tavattavia lajeja ovat perhosista pikkuapollo, lehmuskiitäjä ja tamminopsasiipi.
-[muokkaa]Itä-, Länsi-, Sisä- ja Pohjois-Suomi
+Suomessa on poikkeuksellisen paljon ä. Yhteensä maassa lasketaan olevan 187&nbsp;888 yli 500 neliömetrin kokoista järveä. Suurin järvi on Saimaa ja syvin . Runsasjärvisintä aluetta on . Järvet ovat rikkonaisia, runsassaarisia ja matalia, keskisyvyys on seitsemän metriä. Järvet muodostavat jokien välityksellä  ja nämä vesistöjä. Suurimmat vesistöt ovat , , ,  ja . Järvien tapaan myös rannikot ovat rikkonaisia ja runsassaarisia.  ja  muodostavat Euroopan toiseksi monisaarisimman saariston. Suurin saari on Saimaalla sijaitseva  (1&nbsp;069&nbsp;km²) ja toiseksi suurin  (685&nbsp;km²). Suurimmaksi saareksi mainitaan usein  (1&nbsp;638&nbsp;km²), jota ei kuitenkaan maantieteellisesti lasketa saareksi, sillä sitä ympäröivä vedenpinta ei ole kauttaaltaan samassa tasossa. Suomen merialueilla ja sisävesillä saaria on yhteensä 179&nbsp;584.<ref></ref>
+
+== Luonto ==
+}}
+
+ Suomi kuuluu , jonka eläimistö on tyypillistä pohjoiselle havumetsävyöhykkeelle. Nisäkkäitä on tunnistettu kaikkiaan yli 60 lajia, joista yleisiä ovat muun muassa ,  ja . Suurista nisäkäslajeista esiintyvät , ,  ja n alalajit  ja , joka on kesytetty sta. Lintulajeja on havaittu noin 450,<ref>[http://www.birdlife.fi/havainnot/rk/suomessa_tavatut_lintulajit.shtml BirdLife Suomi – Suomessa tavatut lintulajit]</ref> joista suurin osa on ja. Kalalajeja on yli 70, matelijalajeja viisi ja sammakkoeläinlajeja viisi. Suomen matelija- ja sammakkoeläinlajisto on melko köyhää, sillä esimerkiksi Virossa pelkästään sammakkoeläinlajeja on jo 13.
+
+ suurin osa Suomea kuuluu  eli pohjoiseen havumetsävyöhykkeeseen. Vain maan eteläisin rannikkoseutu kuuluu havu- ja lehtimetsävyöhykkeen vaihettumisalueeseen, . Tämä vaihettumisvyöhyke luetaan välillä havumetsiin, välillä lauhkeisiin  kuuluvaksi, riippuen tietolähteestä. Suomen pohjoisimmat osat edustavat jo havumetsävyöhykkeen ja n vaihettumisaluetta.
+
+Suomen luonto voidaan jakaa pääpiirteissään seuraaviin alueisiin:
+# Lounais- ja Etelä-Suomi
+# Itä-, Länsi-, Sisä- ja Pohjois-Suomi
+# Metsä-Lappi
+# Tunturi-Lappi
+
+=== Lounais- ja Etelä-Suomi ===
+ssa.]]
+
+Alue käsittää lähinnä n,  ja  maakuntien alueen. Alueen kasvillisuutta leimaa korkea  muuhun Suomeen verrattuna, ja kasvillisuuden eteläiset piirteet. Alueella on sekä Keski-Euroopalle että Siperian lle tyypillisiä kasvi- ja eliölajeja. Alueen metsät vaihtelevat  mukaan rehevistä  ja  kuiviin . Kuitenkin yli 90 prosenttia alueen metsistä on havupuuvaltaisia . Lounaisrannikolla eteläiset piirteet ovat kasvillisuudessa sen verran hyvin edustettuina, että alue luetaan hemiboreaaliseen eli sekametsävyöhykkeeseen. Muu osa alueesta on eteläboreaalista havupuuvaltaisempaa metsää. Koko alueella tavallisimmat puulajit ovat ,  ja . Yleisiä ovat myös , ,  sekä  ja . Harvinaisempia puita ja pensaita ovat , ,  ja .  ja  kasvavat luonnostaan vain Helsingin ja Uudenkaupungin välisellä rannikkokaistaleella, sielläkin harvinaisina, joskin saarnella on muutama yksittäinen luonnontilainen esiintymä sisämaassakin. Metsien aluskasvillisuudessa tyypillisiä lajeja ovat metsätyypistä riippuen , , , , ,  sekä  ja . , valkovuokko, sinivuokko ja käenrieskat kasvavat Suomessa pääosin vain tällä alueella.
+
+Alueen t ovat pääosin keidassoita, mutta ihminen on kuivattanut niistä suuren osan. Haihdunta on kesäisin kohtalaista, ja luontaisesti soita on alueelle muodostunut lähinnä rotkoihin ja laakson pohjille kosteisiin painanteisiin.
+
+Nisäkkäitä, joita Suomessa esiintyy pääasiassa vain maan eteläosissa, ovat esimerkiksi  ja . Alueella elää viisi  ja viisi . Hyönteislajistosta vain lähinnä täälläpäin Suomea tavattavia lajeja ovat perhosista ,  ja .
+
+=== Itä-, Länsi-, Sisä- ja Pohjois-Suomi ===
+
 Alue on Etelä-Suomea voimakkaammin lähinnä taigan eliö- ja kasvilajistoa. Kasvillisuus on alueen eteläosissa eteläboreaalista, pohjoisempana se vaihtuu keskiboreaaliin. Metsien pääpuulajit ovat boreaalisille metsille tyypilliset kuusi, koivu ja mänty. Harvalukuisempia ovat raita, haapa ja pihlaja, etelässä kasvavat harvinaisina relikteinä myös jalava ja lehmus. Metsätyypit ovat lähinnä havupuuvaltaisia kangasmetsiä. Ne ovat huomattavasti selkeämpiä ja karumpia kuin Etelä- ja Lounais-Suomen alueella kasvavat metsät. Tyypillisimmät aluskasvillisuuden muodostajat ovat mustikka ja puolukka sekä sammalet ja jäkälät. Soita on enemmän kuin etelässä, ja ne voivat olla joko keidas- tai aapasoita. Lehtoja kasvaa yleensä purolaaksoissa, ja ne ovat tavallisesti kosteita saniaislehtoja, varsinaisten lehtimetsien piirteitä alueen lehdoista ei täällä kuitenkaan löydy, vaan lehdon lehtipuut ovat yleensä havumetsillekin tyypillisiä, kuten koivuja.
+
 Alue on hyvin soista, sillä sademäärät ovat yhtä korkeat kuin Etelä-Suomenkin alueella, mutta haihdunta huomattavasti etelää vähäisempää. Esimerkiksi Pohjanmaalla on laajoja tasankosuo alueita.
-Alueen nisäkäslajisto on tyypillistä havumetsälajistoa kuten karhu, metsäsopuli, metsämyyrä, majavat, hirvi ja ilves. Yleisiä lintuja ovat käpylinnut, tiaiset, peipot, tikat, suokukko, uikut, sorsat, rantakanat, pöllöt ja haukat. Erityisesti metso, pyy ja teeri ovat tyypillistä taigan linnustoa. Alueella on neljä matelija- ja sammakkoeläinlajia. Hyönteislajisto on muuten samaa kuin eteläisimmässäkin Suomessa, mutta eräät eteläiset lajit puuttuvat tai ovat harvinaisia.
+
+Alueen nisäkäslajisto on tyypillistä havumetsälajistoa kuten , , , ,  ja . Yleisiä lintuja ovat , , , , , , , ,  ja . Erityisesti ,  ja  ovat tyypillistä taigan linnustoa. Alueella on neljä matelija- ja sammakkoeläinlajia. Hyönteislajisto on muuten samaa kuin eteläisimmässäkin Suomessa, mutta eräät eteläiset lajit puuttuvat tai ovat harvinaisia.
+ on yksi tunnetuimmista Itä-Suomen luontokohteista ja nähtävyyksistä.]]
+
+=== Metsä-Lappi ===
 
 
-Kolin kansallispuisto on yksi tunnetuimmista Itä-Suomen luontokohteista ja nähtävyyksistä.
-[muokkaa]Metsä-Lappi
+Alue on tyypillistä taigaa ja edustaa sen karumpaa pohjoista osaa. Alueen kasvillisuus on eteläosissa keskiboreaalista, pohjoisemmassa pohjoisboreaalista. Metsät ovat hieman matalampia kuin etelässä, ja erityisesti kuuset kärsivät alueella tykystä, mikä tekee niistä kapeampia. Alueen pääpuulajit ovat kuusi, koivu ja mänty, mutta alueen pohjoisosissa kuusi on jo harvinainen, pohjoisimpien metsien ja kitumaiden ollessa mänty ja tunturikoivuvaltaisia. Aluskasvillisuudessa kasvaa metsätyypistä riippuen joko mustikkaa tai a ja puolukkaa, toisinaan jopa suokasveja, kuten a, joka Pohjois-Suomessa kasvaa metsissäkin mutta Etelä-Suomessa vain soilla. Alueella yleisenä kasvava  on Etelä-Suomessa harvinainen. Kullero on Lapin .
 
+Alueella on runsaasti soita, ja ne ovat lähinnä aapasoita, paikoin ja. Alueen eläimistö on taigalajistoa, kuten karhu, poro, hirvi, , ,  ja . Linnuista mainittakoon , , , , , , ,  ja . Alueella on kaksi matelija- ja kolme sammakkoeläinlajia. Hyönteislajisto on niukempi kuin etelässä ja täysin taigalajistoa.
 
-Suomalaista pohjoisboreaalista metsää Syötteen kansallispuistossa, Metsä-Lappi.
-Alue on tyypillistä taigaa ja edustaa sen karumpaa pohjoista osaa. Alueen kasvillisuus on eteläosissa keskiboreaalista, pohjoisemmassa pohjoisboreaalista. Metsät ovat hieman matalampia kuin etelässä, ja erityisesti kuuset kärsivät alueella tykystä, mikä tekee niistä kapeampia. Alueen pääpuulajit ovat kuusi, koivu ja mänty, mutta alueen pohjoisosissa kuusi on jo harvinainen, pohjoisimpien metsien ja kitumaiden ollessa mänty ja tunturikoivuvaltaisia. Aluskasvillisuudessa kasvaa metsätyypistä riippuen joko mustikkaa tai variksenmarjaa ja puolukkaa, toisinaan jopa suokasveja, kuten suopursua, joka Pohjois-Suomessa kasvaa metsissäkin mutta Etelä-Suomessa vain soilla. Alueella yleisenä kasvava kullero on Etelä-Suomessa harvinainen. Kullero on Lapin maakuntakukka.
-Alueella on runsaasti soita, ja ne ovat lähinnä aapasoita, paikoin lettoja. Alueen eläimistö on taigalajistoa, kuten karhu, poro, hirvi, metsäpeura, susi, ahma ja ilves. Linnuista mainittakoon laulujoutsen, suokukko, kurki, tiaiset, korppi, kuukkeli, piekana, taviokuurna ja tilhi. Alueella on kaksi matelija- ja kolme sammakkoeläinlajia. Hyönteislajisto on niukempi kuin etelässä ja täysin taigalajistoa.
-[muokkaa]Tunturi-Lappi
-Alue on pääosin pohjoisboreaalia kitukasvuista havu- tai tunturikoivumetsää tai tunturien paljakoita. Puulajit ovat mänty ja tunturikoivu. Kuusi ei kasva tällä alueella ja paljakoilla ei kasva lainkaan puita. Metsien aluskasvillisuus on sekoitus tundraa ja taigaa, paljakoilla taas on tyypillistä tundrakasvillisuutta kuten riekonmarjaa ja jäkälää. Tunturikoivikoissa aluskasvillisuus on yleensä vaivaiskoivua ja pajua. Tunturikoivikoissa on myös havumetsien tapaan runsaasti sieniä. Soita on lähes kaikkialla, ja ne ovat joko aapasoita tai palsasoita. Alueelle tyypillisiä eläimiä ovat poro, ahma ja sopuli. Linnustosta löytyvät maakotka, koskikara, korppi, riekko ja sinirinta.
+=== Tunturi-Lappi ===
 
+Alue on pääosin pohjoisboreaalia kitukasvuista havu- tai tunturikoivumetsää tai tunturien paljakoita. Puulajit ovat mänty ja . Kuusi ei kasva tällä alueella ja paljakoilla ei kasva lainkaan puita. Metsien aluskasvillisuus on sekoitus tundraa ja taigaa, paljakoilla taas on tyypillistä tundrakasvillisuutta kuten a ja jäkälää. Tunturikoivikoissa aluskasvillisuus on yleensä a ja a. Tunturikoivikoissa on myös havumetsien tapaan runsaasti sieniä.  on lähes kaikkialla, ja ne ovat joko aapasoita tai palsasoita. Alueelle tyypillisiä eläimiä ovat ,  ja . Linnustosta löytyvät , , ,  ja .
+n komeimmista nähtävyyksistä, kuvattuna Ukselmapään laelta.]]
 
-Paratiisikuru, yksi Urho Kekkosen kansallispuiston komeimmista nähtävyyksistä, kuvattuna Ukselmapään laelta.
-[muokkaa]Ilmasto
+== Ilmasto ==
+}}
 
-Pääartikkeli: Suomen ilmasto
+Suomen ilmasto on maan sijainnin takia , jossa on - tai n piirteitä riippuen ilmavirtauksien ajoittaisesta suunnasta. Alueen lämpötilaan vaikuttavat suuresti sen sijainti  suurimmaksi osaksi pohjoisten leveyspiirien 60° ja 70° välillä ja  n länsipuolella virtaava , joka kohottaa Suomen lämpötilaa talvisin korkeammalle verrattuna muihin saman leveysvyöhykkeen alueisiin.<ref></ref> Golfvirran aiheuttama lämpötilan korotus on noin 6–11&nbsp;°C.<ref></ref> Myös  lahtineen kohottaa talvilämpötiloja rannikoilla ja suurimmat järvet niiden lähiympäristössä. Vuotuinen lämpötilan keskiarvo on lounaisimmassa Suomessa 5,5&nbsp;°C. Keskiarvo laskee kuljettaessa koilliseen, mutta on kuitenkin matalimmillaan maan luoteisimmissa osissa, jossa se on noin &minus;2&nbsp;°C.<ref></ref>
 
+Suomen sademäärä vaihtelee voimakkaasti alueittain. Vähäsateisinta on Lapissa ja Pohjanmaan rannikolla, jossa vuotuinen sademäärä on noin 40&nbsp;cm.<ref>http://www.gaisma.com/en/location/pietarsaari.html</ref> Pohjanmaanrannikolla vähäsateisuuteen vaikuttaa mm. . Sateisinta on Itä-ja kaakkois-Suomessa, jossa vuotuinen sademäärä on noin 70&nbsp;cm. Myös lounais-ja etelärannikolla päästään lähelle 70&nbsp;cm vuotuista sademäärää.<ref name="gaisma.com">http://www.gaisma.com/en/location/vantaa.html</ref> Sateisin kuukausi on muualla kuin Etelä-Suomessa elokuu, jolloin keskimäärin sataa noin 70&nbsp;mm. Etelä-Suomessa sateisin aika jatkuu pelkän elokuun sijasta pitkälle syksyyn, toisin kuin pohjoisempana. Kun marraskuussa on Oulun läänissä ja Lapissa jo varsin kuivaa, Etelä-Suomessa saadaan keskimäärin vielä 70&nbsp;mm vettä yleisesti.<ref name="gaisma.com"/><ref>http://www.gaisma.com/en/location/oulu.html</ref> Sateet voivat Suomessa muodostua usealla tavalla. Tyypillisimmät ovat kesä-aikaan maaperän ja kasvillisuuden tuottamasta haihdunnasta johtuvat rankkasateina ja ukkoskuuroina ilmenevät konvektiosateet, kylmien -ja lämpimien ilmamassojen törmäyksissä lämpötilaerojen aiheuttamat rintamasateet, ja Atlantin matalapaineiden mukana tulevat sateet, josta suurin osa tulee tihkusateena. Lisäksi alkutalvella tilanteessa, jossa Itämeri on vielä lämmin ja maa-alueilla on kova pakkanen, voi merenpuoleisen tuulen käydessä ilmetä konvektiosateen kaltaista tiivistymäsadetta, jolloin lämmin meri-ilma tiivistyy rannikolla kylmässä säässä rankoiksi lumipyryiksi.
 
-Suomessa talvi alkaa marraskuun aikana, Lapissa yleensä jo lokakuussa. Kattojen pitää kestää alueelle tyypillinen lumikuorma.
-Suomen ilmasto on maan sijainnin takia väli-ilmasto, jossa on meri- tai mannerilmaston piirteitä riippuen ilmavirtauksien ajoittaisesta suunnasta. Alueen lämpötilaan vaikuttavat suuresti sen sijainti keskileveysasteilla suurimmaksi osaksi pohjoisten leveyspiirien 60° ja 70° välillä ja Atlantilla Skandinavian länsipuolella virtaava Golfvirta, joka kohottaa Suomen lämpötilaa talvisin korkeammalle verrattuna muihin saman leveysvyöhykkeen alueisiin.[60] Golfvirran aiheuttama lämpötilan korotus on noin 6–11 °C.[61] Myös Itämeri lahtineen kohottaa talvilämpötiloja rannikoilla ja suurimmat järvet niiden lähiympäristössä. Vuotuinen lämpötilan keskiarvo on lounaisimmassa Suomessa 5,5 °C. Keskiarvo laskee kuljettaessa koilliseen, mutta on kuitenkin matalimmillaan maan luoteisimmissa osissa, jossa se on noin −2 °C.[62]
-Suomen sademäärä vaihtelee voimakkaasti alueittain. Vähäsateisinta on Lapissa ja Pohjanmaan rannikolla, jossa vuotuinen sademäärä on noin 40 cm.[63] Pohjanmaanrannikolla vähäsateisuuteen vaikuttaa mm. föhntuuli. Sateisinta on Itä-ja kaakkois-Suomessa, jossa vuotuinen sademäärä on noin 70 cm. Myös lounais-ja etelärannikolla päästään lähelle 70 cm vuotuista sademäärää.[64] Sateisin kuukausi on muualla kuin Etelä-Suomessa elokuu, jolloin keskimäärin sataa noin 70 mm. Etelä-Suomessa sateisin aika jatkuu pelkän elokuun sijasta pitkälle syksyyn, toisin kuin pohjoisempana. Kun marraskuussa on Oulun läänissä ja Lapissa jo varsin kuivaa, Etelä-Suomessa saadaan keskimäärin vielä 70 mm vettä yleisesti.[64][65] Sateet voivat Suomessa muodostua usealla tavalla. Tyypillisimmät ovat kesä-aikaan maaperän ja kasvillisuuden tuottamasta haihdunnasta johtuvat rankkasateina ja ukkoskuuroina ilmenevät konvektiosateet, kylmien -ja lämpimien ilmamassojen törmäyksissä lämpötilaerojen aiheuttamat rintamasateet, ja Atlantin matalapaineiden mukana tulevat sateet, josta suurin osa tulee tihkusateena. Lisäksi alkutalvella tilanteessa, jossa Itämeri on vielä lämmin ja maa-alueilla on kova pakkanen, voi merenpuoleisen tuulen käydessä ilmetä konvektiosateen kaltaista tiivistymäsadetta, jolloin lämmin meri-ilma tiivistyy rannikolla kylmässä säässä rankoiksi lumipyryiksi.
 Jokaisena vuodenaikana vallitsevat sille tyypilliset säätyypit. Keskitalvella, tammi-helmikuussa, Etelä-Suomessa vuorottelevat lauhat Atlantilta pyrkivät kosteat matalapaineet, sekä arktinen, pohjoisesta pyrkivä kuiva pakkassää. Pohjois-Suomessa asetelma on muuten sama, mutta pakkasjaksot ovat vallitsevampia. Keväällä, huhti-toukokuulla matalapainetoiminta on talven jäljiltä yleensä heikkoa, ja vallitseva säätyyppi on kuiva ja aurinkoinen. Kesällä matalapainetoiminta alkaa kiihtyä. Kesäisin, tyypillisesti kesäkuun puolenvälin ja elokuun puolen välin pituisella ajanjaksolla Suomessa koetaan myös hellepäiviä, helleilmamassa pyrkii Suomeen yleensä kaakosta ja idästä. Helteisiin liittyvät myös konvektiosateet ja ukkosrintamat. Elokuusta lähtien ilmamassa alkaa viiletä, mutta matalapainetoiminta runsastuu vielä pitkälle syksyyn ja niiden reitit suuntautuvat yhä voimakkaammin Etelä-Suomen päältä, jättäen Pohjois-Suomen kuivaksi, mitä pidemmälle syksyyn edetään. Lokakuulla sää on jo yleisemmin pilvinen, kuin selkeä. Marraskuussa Etelä-Suomessa vallitsee yleensä lauha ja pilvinen matalapainevoittoinen sää, ja samaanaikaan Pohjois-Suomessa on tällöin jo kuivempaa pakkassäätä. Joulukuulla sää-astelma muuttuu Etelä-Suomessakin talviseksi, jolloin lauhat säät ja kuivat pakkasjaksot taas alkavat vuorottelemaan.
-Kovia tuulia ei Suomessa ole usein ja varsinkin sisämaassa ne ovat harvinaisia. Sisämaan tuulen keskinopeus on 3–4 m/s ja rannikoilla ja merialueilla 5–7 m/s. Tuulisinta on lokakuusta tammikuuhun ja vähätuulisinta huhtikuusta heinäkuuhun. Pilviset päivät ovat Suomessa yleisempiä kuin selkeät ja talvisin sekä loppusyksyisin pilvisyys on jopa 65–85 %.[66] Selkeintä on yleensä touko-kesäkuussa, jolloin pilvisyys on noin 30–40 %.
-Köppenin ilmastoluokituksessa Suomi kuuluu luokkaan Df, eli kylmätalvisiin ilmastoihin, jossa sadetta saadaan suhteellisen tasaisesti ympäri vuoden. Lämpimin kuukausi on keskilämpötilaltaan alle 22 °C. Maan eteläosissa neljä kuukautta ylittää keskilämpötilaltaan +10 °C (kesäkuu–syyskuu).
-[muokkaa]Vuodenajat
-Suomessa on neljä vuodenaikaa, jotka termisen määrityksen mukaan ovat seuraavat:
-talvi: keskilämpötila on lounaissaaristoa lukuun ottamatta 0 °C:n alapuolella.
-kevät: keskilämpötila nousee 0 °C:n ja +10 °C:n välille.
-kesä: keskilämpötila kohoaa yli +10 °C.
-syksy: keskilämpötila laskee 0 °C:n ja +10 °C:n välille.
-[muokkaa]Talous
 
-Pääartikkeli: Suomen talous
+Kovia tuulia ei Suomessa ole usein ja varsinkin sisämaassa ne ovat harvinaisia. Sisämaan tuulen keskinopeus on 3–4&nbsp;m/s ja rannikoilla ja merialueilla 5–7&nbsp;m/s. Tuulisinta on lokakuusta tammikuuhun ja vähätuulisinta huhtikuusta heinäkuuhun. Pilviset päivät ovat Suomessa yleisempiä kuin selkeät ja talvisin sekä loppusyksyisin pilvisyys on jopa 65–85&nbsp;%.<ref></ref> Selkeintä on yleensä touko-kesäkuussa, jolloin pilvisyys on noin 30–40&nbsp;%.
 
+ Suomi kuuluu luokkaan Df, eli kylmätalvisiin ilmastoihin, jossa sadetta saadaan suhteellisen tasaisesti ympäri vuoden. Lämpimin kuukausi on keskilämpötilaltaan alle 22&nbsp;°C. Maan eteläosissa neljä kuukautta ylittää keskilämpötilaltaan +10&nbsp;°C (kesäkuu–syyskuu).
 
-Suomen reaalisen bruttokansantuotteen vuosimuutos 2000–2011 (tähdellä merkityt ennakkotietoja).
-Suomen teollisuudelle tärkeitä ovat puu-, metalli-, teknologia-, telekommunikaatio- ja elektroniikkateollisuus. Suuret teollisuusyritykset ovat huomattavassa asemassa, erityisesti Nokia ja metsäyhtiöt, minkä vuoksi Suomi nähdään joskus haavoittuvaisena. Suomessa on luonnonvaroina puuta ja mineraaleja. Suomen palvelusektori muodostaa suurimman osan taloudesta. Sitä pidetään muihin OECD-maihin verrattuna monilta osin kehittymättömänä.[67] Palvelujen kehittymistä vaikeuttavat verotuksesta ja palkoista johtuva korkea kustannustaso.[67][68]
-Maan liiketoiminta pohjautuu vahvasti kansainvälisiin markkinoihin. Viennin osuus on kolmasosa koko kansantuotteesta. Suomen tärkeimmät kauppakumppanit ovat Saksa (15 % tuonnista ja 11 % viennistä), Venäjä (14 % tuonnista ja 11 % viennistä) ja Ruotsi (11 % tuonnista ja 11 % viennistä).[69] Kauppa Euroopan unionin sisällä muodostaa noin 60 % koko ulkomaankaupasta.
+=== Vuodenajat ===
 
-Tätä artikkelia tai sen osaa on pyydetty parannettavaksi, koska se ei täytä Wikipedian laatuvaatimuksia.
-Voit auttaa Wikipediaa parantamalla artikkelia. Lisää tietoa saattaa olla keskustelusivulla.
-Tarkennus: Talous ja yritysosiossa on paljon vanhentunutta, lähteetöntä, epämääräistä ja merkityksetöntä tietoa. Tekstiä tulisi muokata, ajantasaistaa ja poistaa.
-[muokkaa]Energia
+Suomessa on neljä a, jotka  mukaan ovat seuraavat:
+* : keskilämpötila on lounaissaaristoa lukuun ottamatta 0&nbsp;°C:n alapuolella.
+* : keskilämpötila nousee 0&nbsp;°C:n ja +10&nbsp;°C:n välille.
+* : keskilämpötila kohoaa yli +10&nbsp;°C.
+* : keskilämpötila laskee 0&nbsp;°C:n ja +10&nbsp;°C:n välille.
 
+== Talous ==
+}}
+– (tähdellä merkityt ennakkotietoja).]]
 
-Stora Enson tuotantolaitos Oulussa.
+Suomen teollisuudelle tärkeitä ovat puu-, metalli-, teknologia-, telekommunikaatio- ja elektroniikkateollisuus. Suuret teollisuusyritykset ovat huomattavassa asemassa, erityisesti  ja metsäyhtiöt, minkä vuoksi Suomi nähdään joskus haavoittuvaisena. Suomessa on luonnonvaroina puuta ja mineraaleja. Suomen  muodostaa suurimman osan taloudesta. Sitä pidetään muihin OECD-maihin verrattuna monilta osin kehittymättömänä.<ref name="palvelut">[http://www.kilpailuvirasto.fi/cgi-bin/suomi.cgi?sivu=uut/u-2005-3-1 OECD:n raportti suosittelee kilpailun lisäämistä palvelualoilla]</ref> Palvelujen kehittymistä vaikeuttavat verotuksesta ja palkoista johtuva korkea kustannustaso.<ref name="palvelut"/><ref>[http://www.mckinsey.com/locations/Helsinki/our_work/~/media/Reports/Helsinki/Finland%20s%20economy%20%20%20achievements%20%20challenges%20and%20priorities.ashx McKinsey: Finland's Economy]</ref>
 
-
-Suomessa toimii monia kansainvälisiä yrityksiä kuten suomalaislähtöinen kännykkäjätti Nokia.
-Suomessa käytetään verrattain paljon energiaa. Osa suuresta tarpeesta johtuu maan pohjoisesta sijainnista, osa raskaan teollisuuden, etenkin metsäteollisuuden, isosta määrästä. Energian kokonaiskulutus Suomessa oli vuonna 2007 noin 400 TWh, josta tuontienergian osuus oli noin 70 %. Suurin yksittäinen energianlähde oli öljy 24 % osuudella.[70] Uusiutuvan energian osuus oli noin neljännes (26 % vuonna 2009) kokonaiskulutuksesta.[71] Uusiutuvaa energiaa on biopolttoaineiden ja bioenergian tuotanto, maalämmön tai aurinkoenergian talteenotto, tuulivoiman ja vesivoiman tuotanto sekä muihin uusiutuviin energialähteisiin perustuva energiantuotanto.
-Ydinvoimaa Suomessa tuottavat neljä toimivaa ydinvoimalaitosyksikköä. Teollisuuden Voima (TVO) rakentaa Olkiluotoon uutta 1600 MW ydinvoimalaa. Olkiluoto-3 on EPR-tyyppinen voimala ja sen on valmistuessaan määrä olla maailman suurin sähköä tuottava ydinvoimala.[72] Eduskunta päätti 1. heinäkuuta 2010 myöntää Teollisuuden Voimalle luvan rakentaa Olkiluotoon vielä yhden ydin­voimala­yksikön ja Fennovoimalle luvan rakentaa uusi ydinvoimala joko Simoon tai Pyhä­joelle.[73]
-[muokkaa]Yritykset
-Nokia Oyj on suurin Suomessa toimiva yritys. Ahlstrom on globaali yritys, joka kehittää ja valmistaa korkealaatuisia kuitukomposiitteja ja erikoispapereita. Stora Enso on yksi maailman suurimmista paperinvalmistajista, jonka lisäksi suuria metsäyhtiöitä ovat muun muassa UPM-Kymmene ja Metsäliitto. Metsäliiton tytäryhtiöitä ovat sellunvalmistaja Metsä-Botnia, paperinvalmistaja M-real sekä pehmopaperia valmistava Metsä Tissue. Neste Oil on Suomen ja Itä-Euroopan markkinoille suuntautuva öljy-yhtiö. Kone valmistaa hissejä ja liukuportaita. Wärtsilä valmistaa voimalaitoksia, koneistoja ja laivamoottoreita. Finnair on Helsinki-Vantaata kotikenttänään käyttävä lentoyhtiö. Nordea on Pohjoismaiden ja Itämeren suurin finanssiyhtiö ja OP-Pohjola-ryhmä on Suomessa suurin.[74] Sanoma on Suomen suurin ja yksi Pohjoismaiden suurimmista viestintäkonserneista.
-Vuonna 2003 suomalaiset työskentelivät samassa työpaikassa keskimäärin 10,1 vuotta ja luku oli kasvusuunnassa.[75]
-[muokkaa]Kulutus
-Suomessa oli Tilastokeskuksen mukaan vuonna 2006 noin 1,2 miljoonaa asuinrakennusta. Asumiseen käytettiin noin 25 prosenttia tuloista ja noin 60 prosenttia asui omistusasunnossa. 40 prosenttia asui yksin, 32 prosenttia kaksin ja 28 prosenttia useamman hengen asunnossa. Tilaa oli keskimäärin 38 neliömetriä per henkilö. Asunnot (ilman tontin hintaa) maksoivat keskimäärin 1 187 euroa neliömetriltä ja tontit 8,6 euroa neliömetriltä.[76] Sähkö maksaa 8-12 senttiä kilowattitunnilta.[77] 74 prosentilla väestöstä on auto.[78] Henkilöautoja on runsaat 2,5 miljoonaa ja muita ajoneuvoja 0,4 miljoonaa.[79]
-Elintarvikkeisiin käytettiin keskimäärin 11 prosenttia kotitalouksien tuloista. Lisäksi alkoholiin ja tupakkaan käytettiin viisi prosenttia.[78] Kulttuuriin ja vapaa-aikaan käytettiin 10 prosenttia tuloista. Terveyteen käytettiin neljä prosenttia ja koulutukseen vain 0,4 prosenttia.[78]
-[muokkaa]Pohjoismainen malli
-Suomen ja muiden Pohjoismaiden nykytalouksia kuvaavat avoimuus globalisaatiolle ja julkisen sektorin vahva asema.[80]
-1990-luvulla markkinoita vapautettiin, ja ne kuuluvat nykyään Euroopan vapaimpiin.[80] Suomi liittyi Euroopan unioniin vuonna 1995 ja otti ainoana pohjoismaana euron valuutaksi vuonna 2001. Inflaatio on pysynyt alhaisena. Suomessa on laaja yrittämisen vapaus, toimiva omaisuuden suoja ja korruptio on vähäistä.[81] Tosin vuosina 2008–2009 julkisuuteen tullut laaja vaalirahoituskohu, jossa liikemiehet ovat rahoittaneet laajasti poliitikkojen toimintoja, on heikentänyt luottamusta suomalaisen poliittisen järjestelmän vähäiseen korruptioon.
-Suomessa valtio on rohkaissut maltillisiin palkankorotuksiin tulopoliittisissa kokonaisratkaisuissa (TUPO, kolmikanta). 1980-luvulle asti kilpailukykyä parannettiin ajoittain devalvoimalla, tavoitteena etenkin matala työttömyys.[80] TUPOssa määrätään lähes kaikkea Suomessa tehtyä työtä.[80] TUPOssa on määrätty työsopimusten lisäksi muun muassa veroista, sosiaalipalveluista ja juhlapyhien paikoista.
-Tyypillisen työntekijän tuloista verotetaan lähes 60 prosentin verokiila.[80] Arvonlisävero on 23 prosenttia, pääomatulovero 28 prosenttia ja yritysvero 26 prosenttia. Valtionvelkaa on noin 10 000 euroa kansalaista kohti.[82]
-Suomessa oli 6,9 prosentin työttömyys ja 67 prosentin työllisyys helmikuussa 2008.[83] Suomen eläkejärjestelmä on yksityisten vakuutusyritysten hallinnoima. Suomalaisessa järjestelmässä työeläke riippuu vain ansaitusta eläkkeestä, eikä ns. henkilökohtaisia eläketilejä, joissa eläkkeen määrä voisi vaihdella valittavan sijoitusstrategian tuoton mukaan ole. Eläkejärjestelmä on osittain rahastoiva ja eläkkeiden maksu riippuu tulevista maksajista. Nykyisillä maahanmuuttoluvuilla Suomen huoltosuhde on heikentymässä.[84] Luvattujen eläkkeiden rahoittamisen arvioidaan olevan kuitenkin useimpia Länsi-Euroopan maita kestävämmällä pohjalla.[84]
-[muokkaa]Matkailu
+Maan liiketoiminta pohjautuu vahvasti kansainvälisiin markkinoihin.  osuus on kolmasosa koko kansantuotteesta. Suomen tärkeimmät kauppakumppanit ovat  (15&nbsp;% tuonnista ja 11&nbsp;% viennistä),  (14&nbsp;% tuonnista ja 11&nbsp;% viennistä) ja  (11&nbsp;% tuonnista ja 11&nbsp;% viennistä).<ref name="tils">[http://tilastokeskus.fi/tup/suoluk/suoluk_ulkomaankauppa.html Tilastokeskus: Ulkomaankauppa]</ref> Kauppa Euroopan unionin sisällä muodostaa noin 60&nbsp;% koko ulkomaankaupasta.
 
 
 
-Viking Linen matkustaja-aluksia Helsingissä.
-Vuonna 2005 Suomessa tilastoitiin viisi miljoonaa ulkomaalaista kävijää ja 31 miljoonaa kotimaista vähintään yhden yön matkaa. Eniten matkailijoista hyötyi Uusimaa, jonka osuus matkailusta oli vuonna 2002 noin 3,1 miljardia euroa eli 37,6 prosenttia.[85] Kaakkois-Suomen, Lapin, Pirkanmaan, Pohjanmaan ja Ahvenanmaan markkinaosuudet olivat noin 600–400 miljoonaa euroa.
-Suosittu matkakohde on Lapin lääni, jossa järjestetään muun muassa kelkka-ajeluja, hiihtoretkiä, Joulupukin tapaamisia ja muuta luontoon liittyvää toimintaa. Etenkin Utsjoki on kaunis, rauhaisa ja hyvä kalastus- ja patikointikylä. Kesäisin maassa järjestetään erityisen paljon eri teemoilla toimivia kesäjuhlia, muun muassa musiikkifestivaaleja. Etelä-Suomessa merkittävintä vapaa-ajan matkailua ovat laivaristeilyt Ruotsiin ja Viroon Helsingistä ja Turusta. Turun ja Ahvenanmaan välillä sijaitseva Saaristomeri on maailman suurin saaristo saarien määrässä mitattuna. Helsingissä pysähtyy vuodessa noin 260 risteilylaivaa[86] pääasiallisesti kesällä. Lisäksi oman ryhmänsä muodostavat Suomea välietappina käyttävät matkailijat, jotka jatkavat matkaa laivalla Tallinnaan tai junalla Pietariin. Neuvostoliiton hajottua matkailu Venäjältä on kasvanut ja keskittyy vuoden vaihteeseen.[87]
-Suomalaisten vapaa-ajanmatkailu vuonna 2010 suuntautui Viroon ja Ruotsiin. Viron-matkat olivat lisääntyneet Ruotsia enemmän. Laivayöhön rajoittuvat risteilyt Ruotsiin kasvattivat kuitenkin suosiotaan jopa kolmanneksella 2009 vuoden alkupuoliskoon nähden.[88]
-Suomella on Pohjoismaiden heikoin imago. 50 maan imagotutkimuksessa se sijoittui 18:nneksi. Korkeimmat arviot Suomi sai ruotsalaisilta ja venäläisiltä, alhaisimmat Latinalaisesta Amerikasta ja Afrikasta.[89]
-[muokkaa]Liikenne
+=== Energia ===
+ssa.]]
+.]]
+Suomessa käytetään verrattain paljon energiaa. Osa suuresta tarpeesta johtuu maan pohjoisesta sijainnista, osa raskaan teollisuuden, etenkin metsäteollisuuden, isosta määrästä. Energian kokonaiskulutus Suomessa oli vuonna 2007 noin 400 TWh, josta tuontienergian osuus oli noin 70&nbsp;%. Suurin yksittäinen energianlähde oli öljy 24&nbsp;% osuudella.<ref>FINBIO – Suomen Bioenergiayhdistys ry, Suomen energiankäyttö 2008-esitelmä, www.finbioenergy.fi</ref> Uusiutuvan energian osuus oli noin neljännes (26&nbsp;% vuonna 2009) kokonaiskulutuksesta.<ref>http://www.tilastokeskus.fi/til/ehkh/2009/04/ehkh_2009_04_2010-03-24_kuv_021.html</ref> Uusiutuvaa energiaa on biopolttoaineiden ja bioenergian tuotanto, maalämmön tai aurinkoenergian talteenotto, tuulivoiman ja vesivoiman tuotanto sekä muihin uusiutuviin energialähteisiin perustuva energiantuotanto.
 
-Pääartikkeli: Liikenne Suomessa
+Ydinvoimaa Suomessa tuottavat neljä toimivaa ydinvoimalaitosyksikköä. Teollisuuden Voima (TVO) rakentaa Olkiluotoon uutta 1600 MW ydinvoimalaa. Olkiluoto-3 on EPR-tyyppinen voimala ja sen on valmistuessaan määrä olla maailman suurin sähköä tuottava ydinvoimala.<ref>http://www.tvo.fi/www/page/ol3projekti/</ref> Eduskunta päätti 1. heinäkuuta 2010 myöntää lle luvan rakentaa Olkiluotoon vielä yhden ydin­voimala­yksikön ja lle luvan rakentaa uusi ydinvoimala joko on tai .<ref>[http://www.hs.fi/politiikka/artikkeli/Eduskunta+hyv%C3%A4ksyi+ydinvoimaluvat+%E2%80%93+moni+keskustalainen+%C3%A4%C3%A4nesti+vastaan/1135258269050 Uutinen Helsingin Sanomien verkkosivulla 1.7.2010]</ref>
+
+=== Yritykset ===
+ on suurin Suomessa toimiva yritys.  on globaali yritys, joka kehittää ja valmistaa korkealaatuisia kuitukomposiitteja ja erikoispapereita.  on yksi maailman suurimmista paperinvalmistajista, jonka lisäksi suuria metsäyhtiöitä ovat muun muassa  ja . Metsäliiton tytäryhtiöitä ovat sellunvalmistaja , paperinvalmistaja  sekä pehmopaperia valmistava .  on Suomen ja Itä-Euroopan markkinoille suuntautuva öljy-yhtiö.  valmistaa hissejä ja liukuportaita.  valmistaa voimalaitoksia, koneistoja ja laivamoottoreita.  on ta kotikenttänään käyttävä lentoyhtiö.  on Pohjoismaiden ja Itämeren suurin finanssiyhtiö ja -ryhmä on Suomessa suurin.<ref></ref>  on Suomen suurin ja yksi Pohjoismaiden suurimmista viestintäkonserneista.
+
+Vuonna 2003 suomalaiset työskentelivät samassa työpaikassa keskimäärin 10,1 vuotta ja luku oli kasvusuunnassa.<ref>[http://www.etk.fi/Page.aspx?Section=58009&Item=60362 Keskustelua suomalaisen työelämän luonteesta ja sen muuttumisesta]</ref>
+
+=== Kulutus ===
+
+Suomessa oli  mukaan vuonna 2006 noin 1,2 miljoonaa asuinrakennusta. Asumiseen käytettiin noin 25 prosenttia tuloista ja noin 60 prosenttia asui omistusasunnossa. 40 prosenttia asui yksin, 32 prosenttia kaksin ja 28 prosenttia useamman hengen asunnossa. Tilaa oli keskimäärin 38 neliömetriä per henkilö. Asunnot (ilman tontin hintaa) maksoivat keskimäärin 1&nbsp;187 euroa neliömetriltä ja tontit 8,6 euroa neliömetriltä.<ref>[http://www.tilastokeskus.fi/tup/suoluk/suoluk_asuminen_en.html Tilastokeskus] Housing 17.6.2009 </ref> Sähkö maksaa 8-12 senttiä kilowattitunnilta.<ref>[http://www.stat.fi/til/ehkh/2007/03/ehkh_2007_03_2007-12-13_kuv_011.html Sähkön hinta kuluttajatyypeittäin 1994–, c/kWh]</ref> 74 prosentilla väestöstä on auto.<ref name="consumption">[http://www.tilastokeskus.fi/tup/suoluk/suoluk_tulot_en.html Statistics Finland: Income and Consumption]</ref> Henkilöautoja on runsaat 2,5 miljoonaa ja muita ajoneuvoja 0,4 miljoonaa.<ref>[http://www.tilastokeskus.fi/tup/suoluk/suoluk_liikenne_en.html Statistics Finland: Transport and Tourism]</ref>
+
+Elintarvikkeisiin käytettiin keskimäärin 11 prosenttia kotitalouksien tuloista. Lisäksi alkoholiin ja tupakkaan käytettiin viisi prosenttia.<ref name="consumption"/> Kulttuuriin ja vapaa-aikaan käytettiin 10 prosenttia tuloista. Terveyteen käytettiin neljä prosenttia ja koulutukseen vain 0,4 prosenttia.<ref name="consumption"/>
+
+=== Pohjoismainen malli ===
+
+Suomen ja muiden Pohjoismaiden nykytalouksia kuvaavat avoimuus globalisaatiolle ja julkisen sektorin vahva asema.<ref name="nordicmodel">[http://www.etla.fi/files/1893_the_nordic_model_kansineen.pdf Nordic Model], tutkijat Torben M. Andersen, Bengt Holmström, Seppo Honkapohja, Sixten Korkman, Hans Tson Söderström, Juhana Vartiainen</ref>
+
+1990-luvulla markkinoita vapautettiin, ja ne kuuluvat nykyään Euroopan vapaimpiin.<ref name="nordicmodel"/> Suomi liittyi Euroopan unioniin vuonna 1995 ja otti ainoana pohjoismaana euron valuutaksi vuonna 2001. Inflaatio on pysynyt alhaisena.
+Suomessa on laaja yrittämisen vapaus, toimiva omaisuuden suoja ja korruptio on vähäistä.<ref name="freedom">[http://www.heritage.org/index/country.cfm?id=Finland Finland economy], Heritage Foundation</ref> Tosin vuosina 2008–2009 julkisuuteen tullut laaja vaalirahoituskohu, jossa liikemiehet ovat rahoittaneet laajasti poliitikkojen toimintoja, on heikentänyt luottamusta suomalaisen poliittisen järjestelmän vähäiseen korruptioon.
+
+Suomessa valtio on rohkaissut maltillisiin palkankorotuksiin  (TUPO, kolmikanta). 1980-luvulle asti kilpailukykyä parannettiin ajoittain , tavoitteena etenkin matala työttömyys.<!-- sivu 105, --><ref name="nordicmodel"/> TUPOssa määrätään lähes kaikkea Suomessa tehtyä työtä.<ref name="nordicmodel"/> TUPOssa on määrätty työsopimusten lisäksi muun muassa veroista, sosiaalipalveluista ja juhlapyhien paikoista.
+
+Tyypillisen työntekijän tuloista verotetaan lähes 60 prosentin .<ref name="nordicmodel"/>  on 23 prosenttia, pääomatulovero 28 prosenttia ja  26 prosenttia. Valtionvelkaa on noin 10&nbsp;000 euroa kansalaista kohti.<ref>[http://www.treasuryfinland.fi/public/default.aspx?contentid=18601&nodeid=18401 Valtiovelan rakenne 31.1.2008]</ref>
+
+Suomessa oli 6,9 prosentin työttömyys ja 67 prosentin työllisyys helmikuussa 2008.<ref>[http://www.tilastokeskus.fi/tup/suoluk/suoluk_tyoelama_en.html Statistics Finland: Labour Market]</ref>  on yksityisten vakuutusyritysten hallinnoima. Suomalaisessa järjestelmässä työeläke riippuu vain ansaitusta eläkkeestä, eikä ns. henkilökohtaisia eläketilejä, joissa eläkkeen määrä voisi vaihdella valittavan sijoitusstrategian tuoton mukaan ole. Eläkejärjestelmä on osittain rahastoiva ja eläkkeiden maksu riippuu tulevista maksajista. Nykyisillä maahanmuuttoluvuilla Suomen huoltosuhde on heikentymässä.<ref name="ikääntyminen">[http://www.vnk.fi/julkaisukansio/2007/j10-ikaantymisen-taloudelliset-vaikutukset/pdf/fi.pdf Ikääntymisen taloudelliset vaikutukset ja niihin varautuminen]</ref>
+Luvattujen eläkkeiden rahoittamisen arvioidaan olevan kuitenkin useimpia Länsi-Euroopan maita kestävämmällä pohjalla.<ref name="ikääntyminen"/>
+
+== Matkailu ==
+n matkustaja-aluksia Helsingissä.]]
+
+Vuonna 2005 Suomessa tilastoitiin viisi miljoonaa ulkomaalaista kävijää ja 31 miljoonaa kotimaista vähintään yhden yön matkaa. Eniten matkailijoista hyötyi , jonka osuus matkailusta oli vuonna 2002 noin 3,1 miljardia euroa eli 37,6 prosenttia.<ref>[http://web.archive.org/web/20070125122204/http://www.investinfinland.fi/industries/en_GB/trade_and_services/_files/76347918779942285/default/Travel+and+Tourism+in+Finland.pdf Travel and tourism in Finland]</ref> , , n, n ja Ahvenanmaan markkinaosuudet olivat noin 600–400 miljoonaa euroa.
+
+Suosittu matkakohde on , jossa järjestetään muun muassa kelkka-ajeluja, retkiä,  tapaamisia ja muuta luontoon liittyvää toimintaa. Etenkin  on kaunis, rauhaisa ja hyvä kalastus- ja patikointikylä. Kesäisin maassa järjestetään erityisen paljon eri teemoilla toimivia kesäjuhlia, muun muassa . Etelä-Suomessa merkittävintä vapaa-ajan matkailua ovat laivaristeilyt Ruotsiin ja Viroon Helsingistä ja Turusta. Turun ja n välillä sijaitseva  on maailman suurin saaristo saarien määrässä mitattuna. Helsingissä pysähtyy vuodessa noin 260 risteilylaivaa<ref name="helsat">[http://www.portofhelsinki.fi/default.asp?docId=12525 Helsingin satama: Matkustajaliikenne]</ref> pääasiallisesti kesällä. Lisäksi oman ryhmänsä muodostavat Suomea välietappina käyttävät matkailijat, jotka jatkavat matkaa laivalla an tai junalla .  hajottua matkailu Venäjältä on kasvanut ja keskittyy vuoden vaihteeseen.<ref></ref>
+
+Suomalaisten vapaa-ajanmatkailu vuonna 2010 suuntautui Viroon ja Ruotsiin. Viron-matkat olivat lisääntyneet Ruotsia enemmän. Laivayöhön rajoittuvat risteilyt Ruotsiin kasvattivat kuitenkin suosiotaan jopa kolmanneksella 2009 vuoden alkupuoliskoon nähden.<ref></ref>
+
+Suomella on Pohjoismaiden heikoin imago. 50 maan imagotutkimuksessa se sijoittui 18:nneksi. Korkeimmat arviot Suomi sai ruotsalaisilta ja venäläisiltä, alhaisimmat Latinalaisesta Amerikasta ja Afrikasta.<ref>[http://www.yle.fi/uutiset/kotimaa/oikea/id102226.html Yle:Suomella on pohjoismaiden heikoin imago, viitattu 22 syyskuuta 2008]</ref>
+
+== Liikenne ==
+}}
 
 
-Suomen maantie- ja rautatieverkko.
-[muokkaa]Tieliikenne
-Pääartikkeli: Suomen tieverkko
-Suomen tieverkko jakautuu valtion omistamiin ja Tiehallinnon hallinnoimiin maanteihin, kuntien omistamiin ja ylläpitämiin katuihin sekä yksityisten ylläpitämiin yksityisteihin. Maantieverkon rungon muodostaa 29 valtatietä, joita täydentävät kanta-, seutu- ja yhdystiet. Osa tärkeimmistä teistä on myös eurooppateitä. Vuoden 2009 alussa maantieverkon koko pituus oli noin 78 000 kilometriä, josta valtateiden osuus oli noin 8 600 kilometriä. Moottoriteitä oli noin 740 kilometriä. Liikennesuorite maanteillä oli noin 35,6 miljardia autokilometriä, josta valtateiden osuus oli noin 17,9 miljardia.[90] Maanteiden rakentaminen ja kunnossapito on kilpailutettu. Suomi on harvaan asuttu maa, joten liikennettäkin on keskimäärin vähän. Liikennemääriin nähden tieverkko onkin kattava ja hyväkuntoinen, joskin jotkin vilkkaimmat valtatiet ja kaupunkiseutujen pääväylät ovat liikenneturvallisuuden kannalta ongelmallisia. Lisäksi alemman tieverkon kunto on ajoittain herättänyt keskustelua.
-[muokkaa]Rautatieliikenne
-Pääartikkeli: Rautatieliikenne Suomessa
-Suomen rataverkosta vastaa rautatieviranomaisena toimiva, liikenne- ja viestintäministeriön alainen Ratahallintokeskus. Suomen koko rataverkon pituus on 5 851 km, josta sähköistettyä 2 619 km. Koko verkosta liikennöityä rataa on 5 741 km.[91] Toistaiseksi ainoa vakituinen liikennöitsijä valtion rataverkolla on valtionyhtiö VR, joka omistaa suurimman osan rataverkolla liikkuvasta kalustosta, mukaan lukien myös pääkaupunkiseudun lähijunat. Ennen liikennöinnin ja radanpidon hoiti Valtionrautatiet-niminen valtion keskusvirasto, joka oli 1991–1994 valtion liikelaitos, joka muutettiin vuonna 1995 Ratahallintokeskukseksi ja VR-Yhtymä Oy:ksi. Ratoja on melko kattavasti koko Etelä-Suomessa sekä tärkeimmillä reiteillä Pohjois-Suomessa napapiirille asti. Suomen tavaraliikenteestä kulkee rautateitä pitkin noin 25 %.[92]
-[muokkaa]Lentoliikenne
-Katso myös: Suomen lentoasemat ja -paikat
+=== Tieliikenne ===
+}}
+
+ jakautuu valtion omistamiin ja  hallinnoimiin maanteihin, kuntien omistamiin ja ylläpitämiin ihin sekä yksityisten ylläpitämiin . Maantieverkon rungon muodostaa 29 , joita täydentävät -, - ja t. Osa tärkeimmistä teistä on myös . Vuoden 2009 alussa maantieverkon koko pituus oli noin 78&nbsp;000 kilometriä, josta valtateiden osuus oli noin 8&nbsp;600 kilometriä.  oli noin 740 kilometriä. Liikennesuorite maanteillä oli noin 35,6 miljardia autokilometriä, josta valtateiden osuus oli noin 17,9 miljardia.<ref name="tietilasto2008pika"></ref> Maanteiden rakentaminen ja kunnossapito on kilpailutettu. Suomi on harvaan asuttu maa, joten liikennettäkin on keskimäärin vähän. Liikennemääriin nähden tieverkko onkin kattava ja hyväkuntoinen, joskin jotkin vilkkaimmat valtatiet ja kaupunkiseutujen pääväylät ovat liikenneturvallisuuden kannalta ongelmallisia. Lisäksi alemman tieverkon kunto on ajoittain herättänyt keskustelua.
+
+=== Rautatieliikenne ===
+}}
+
+ vastaa rautatieviranomaisena toimiva, n alainen . Suomen koko rataverkon pituus on 5&nbsp;851&nbsp;km, josta sähköistettyä 2&nbsp;619&nbsp;km. Koko verkosta liikennöityä rataa on 5&nbsp;741&nbsp;km.<ref name="rhkr">[http://www.rhk.fi/rataverkko/ Ratahallintokeskus]</ref> Toistaiseksi ainoa vakituinen liikennöitsijä valtion rataverkolla on valtionyhtiö , joka omistaa suurimman osan rataverkolla liikkuvasta kalustosta, mukaan lukien myös . Ennen liikennöinnin ja radanpidon hoiti Valtionrautatiet-niminen valtion keskusvirasto, joka oli 1991–1994 , joka muutettiin vuonna 1995 Ratahallintokeskukseksi ja VR-Yhtymä Oy:ksi. Ratoja on melko kattavasti koko  sekä tärkeimmillä reiteillä  napapiirille asti. Suomen tavaraliikenteestä kulkee rautateitä pitkin noin 25&nbsp;%.<ref name="ljvr">[http://www.lvm.fi/scripts/cgiip.exe/WService=lvm/cm/pub/showdoc.p?docid=2033&menuid=119 Liikenne- ja viestintäministeriö, Rautatieliikenne]</ref>
+
+=== Lentoliikenne ===
+}}
+ kuvattuna lentokoneesta.]]
+
+Suomeen lentää noin 26 kansainvälistä lentoyhtiötä. Suomen suurin lentoyhtiö on valtion pääosin omistama . Muita suomalaisia lentoyhtiöitä ovat muun muassa ,  ja . Suomessa on 28 , joista suurin on lla sijaitseva . Lähes kaikkia lentoasemia ylläpitää valtiollinen . Tavaraliikenteen osalta 14 prosenttia Suomen viennistä kulkee lentoteitse.<ref name="ljvl">[http://www.lvm.fi/scripts/cgiip.exe/WService=lvm/cm/pub/showdoc.p?docid=2035&menuid=121 Liikenne- ja viestintäministeriö, Ilmailu]</ref>
+
+=== Laivaliikenne ===
+
+Meriliikenne on elintärkeä osa Suomen ulkomaankauppaa, sillä meriteitse kulkee jopa 90 prosenttia maan viennistä ja 70 prosenttia tuonnista.<ref name="ljv">[http://www.lvm.fi/scripts/cgiip.exe/WService=lvm/cm/pub/showdoc.p?docid=2034&menuid=120 Liikenne- ja viestintäministeriö, Merenkulku]</ref> Suomen suurin satama tonnimäärältään on  ssa sekä tuonnilla että viennillä mitattuna. Yleissatamista suurimmat ovat , joka syntyi vuonna 2011 n ja n yhdistyessä sekä  ja .<ref name="finnports1"></ref>
+
+Matkustajaliikenteeltään suurimmat satamat manner-Suomessa ovat Helsingin Satama,  ja .<ref name="finnports2"></ref> Matkustajalaivayhtiöistä suurimmat, jotka liikennöivät Helsinkiin ja Turkuun, ovat  ja virolainen  (johon myös  nykyään kuuluu). Lisäksi Suomesta liikennöivät muun muassa välillä Vaasa–Uumaja , välillä Helsinki–Tallinna  ja , sekä välillä Maarianhamina–Tukholma . Laivaliikenteen suosiota nostaa veroton -myynti.
+
+Suomessa liikenne- ja viestintäministeriön alaisuudessa toimiva  vastaa vesiliikenteen toimivuudesta. Sen vastuualueita ovat väylänpito, merikartoitus, talvimerenkulku, meriliikenteen ohjaus ja meriturvallisuus.
+
+== Väestö ==
+}}
+
+{{Valtion väestötiedot|
+|vuosi=2007<ref name="cia">}}</ref>
+|0_14=16,9
+|15_64=66,7
+|yli 64=16,4
+|mediaani-ikä=41,6
+|väestönkasvu=0,127
+|syntyvyys=10,42
+|kuolleisuus=9,93
+|maahanmuuttonopeus=0,78
+|eliniänodote-ka=78,66
+|eliniänodote-miehet=75,15
+|eliniänodote-naiset=82,31
+|lapsikuolleisuus=3,52
+|hiv=<0,1
+|lukutaito=100
+}}
+
+Suomessa asuu noin 5,4 miljoonaa ihmistä. Asukastiheys on suhteellisen alhainen, keskimäärin noin 15 ihmistä neliökilometrillä. Yli kolmannes Suomen alueesta on pohjoisen napapiirin pohjoispuolella, jossa asuu valtaosa Suomen saamelaisista. Suurin osa väestöstä asuu etelässä, noin miljoona . Muuttoliike kaupunkialueille on ollut selvä suuntaus, joka edelleen keskittää asumista suurimpien kasvukeskusten ympärille. Suomi kaupungistui verrattain myöhään, minkä seurauksena väestörakenteen kaupungistumisen odotetaan jatkuvan vielä vuosikymmeniä.
+
+Suomeen muuttaneiden osuus väestöstä on EU-maiden pienimpiä, vaikka se onkin noussut merkittävästi viimeisen 20 vuoden aikana. Noin kaksi prosenttia maassa asuvista ihmisistä on muiden maiden kansalaisia. Pääosa tästä joukosta asuu  ja muissa suurissa kaupungeissa. Suomesta muutetaan eniten , muuhun an,  ja an.
+
+=== Väestön ikä- ja sukupuolijakauma ===
+
+Suomen väestö jakautuu iän ja sukupuoleen mukaan tarkasteltuna siten, että alle 55-vuotiaissa suomalaisissa on miehiä enemmän kuin naisia. Tätä vanhemmissa ikäryhmissä on taas naisia enemmän kuin miehiä. Ikäryhmässä 20–54-vuotiaat on miehiä 43&nbsp;200 henkilöä eli 3,6&nbsp;% enemmän kuin naisia.<ref name="vaesto2007">[http://www.stat.fi/tup/suoluk/suoluk_vaesto.html Tilastokeskus]</ref>
+
+=== Väestöryhmät ===
+
+Väestö kansalaisuuden mukaan 31.12.2010:[http://pxweb2.stat.fi/database/StatFin/vrm/vaerak/vaerak_fi.asp]
+*suomalaiset 96,9 prosenttia (5&nbsp;207&nbsp;322)
+* 0,53 prosenttia (28&nbsp;426)
+* 0,54 prosenttia (29&nbsp;080)
+* 0,16 prosenttia (8&nbsp;510)
+
+Suomen väestöstä oli ulkomaiden kansalaisia 3,1 prosenttia, ja 4,6 prosenttia oli ulkomailla syntyneitä.[http://pxweb2.stat.fi/Dialog/varval.asp?ma=040_vaerak_tau_103_fi&ti=Syntym%E4valtio+i%E4n+ja+sukupuolen+mukaan+maakunnittain+1990+%2D+2010&path=../Database/StatFin/vrm/vaerak/&lang=3&multilang=fi]
+
+=== Kielet ===
+}}
+
+Suomen perustuslain mukaan maan kansalliskielet ovat  ja .<ref>Suomen perustuslaki 11.6.1999/731 2 luku 17 § 1 mom.</ref> Suomea puhuu äidinkielenään 90,4 prosenttia ja ruotsia 5,42 prosenttia väestöstä. Suomi on Viron ja n ohella yksi kolmesta itsenäisestä valtiosta, jonka valtakieli on . Ruotsinkielinen väestö on keskittynyt etelärannikolle ja n rannikkoseudulle sekä lle. Muita Suomessa perinteisesti puhuttuja vähemmistökieliä ovat kolme : ,  ja  (äidinkielenä yhteensä noin 1&nbsp;830:llä) sekä fennoromani, tataari ja . Saamelaisten sekä  ja muiden ryhmien oikeus ylläpitää ja kehittää omaa kieltään ja kulttuuriaan on turvattu , mutta viralliseksi vähemmistökieleksi luetaan yleensä vain saamen kieli. Vironkielisiksi katsotaan vain 1900-luvun loppupuolelta lähtien maahan Virosta muuttaneet vironkieliset asukkaat.  Suomessa on asunut  enimmillään noin 50&nbsp;000, 2000-luvun alussa noin 35&nbsp;000, enimmäkseen  alkaneen muuttoliikkeen matkassa tulleina.  ovat kasvaneet 1990-luvun alusta lähtien käytännössä nollasta merkittäväksi vähemmistöksi.
+Kasvaneen maahanmuuton seurauksena Suomessa ainakin 36 kielellä on yli 1&nbsp;000 puhujaa.[http://pxweb2.stat.fi/Dialog/varval.asp?ma=030_vaerak_tau_102_fi&ti=Kieli+i%E4n+ja+sukupuolen+mukaan+maakunnittain+1990+%2D+2010&path=../Database/StatFin/vrm/vaerak/&lang=3&multilang=fi]
 
 
-Helsinki-Vantaan lentoasema kuvattuna lentokoneesta.
-Suomeen lentää noin 26 kansainvälistä lentoyhtiötä. Suomen suurin lentoyhtiö on valtion pääosin omistama Finnair. Muita suomalaisia lentoyhtiöitä ovat muun muassa Blue1, Finncomm Airlines ja Air Finland. Suomessa on 28 lentoasemaa, joista suurin on Vantaalla sijaitseva Helsinki-Vantaan lentoasema. Lähes kaikkia lentoasemia ylläpitää valtiollinen Finavia. Tavaraliikenteen osalta 14 prosenttia Suomen viennistä kulkee lentoteitse.[93]
-[muokkaa]Laivaliikenne
-Meriliikenne on elintärkeä osa Suomen ulkomaankauppaa, sillä meriteitse kulkee jopa 90 prosenttia maan viennistä ja 70 prosenttia tuonnista.[94] Suomen suurin satama tonnimäärältään on Sköldvikin satama Porvoossa sekä tuonnilla että viennillä mitattuna. Yleissatamista suurimmat ovat Haminakotka Satama, joka syntyi vuonna 2011 Kotkan Sataman ja Haminan Sataman yhdistyessä sekä Helsingin Satama ja Naantalin satama.[95]
-Matkustajaliikenteeltään suurimmat satamat manner-Suomessa ovat Helsingin Satama, Turun satama ja Vaasan satama.[96] Matkustajalaivayhtiöistä suurimmat, jotka liikennöivät Helsinkiin ja Turkuun, ovat Viking Line ja virolainen Tallink (johon myös Silja Line nykyään kuuluu). Lisäksi Suomesta liikennöivät muun muassa välillä Vaasa–Uumaja RG Line, välillä Helsinki–Tallinna Eckerö Line ja Linda Line Express, sekä välillä Maarianhamina–Tukholma Birka Line. Laivaliikenteen suosiota nostaa veroton tax-free-myynti.
-Suomessa liikenne- ja viestintäministeriön alaisuudessa toimiva Merenkulkulaitos vastaa vesiliikenteen toimivuudesta. Sen vastuualueita ovat väylänpito, merikartoitus, talvimerenkulku, meriliikenteen ohjaus ja meriturvallisuus.
-[muokkaa]Väestö
 
-Suomessa asuu noin 5,4 miljoonaa ihmistä. Asukastiheys on suhteellisen alhainen, keskimäärin noin 15 ihmistä neliökilometrillä. Yli kolmannes Suomen alueesta on pohjoisen napapiirin pohjoispuolella, jossa asuu valtaosa Suomen saamelaisista. Suurin osa väestöstä asuu etelässä, noin miljoona pääkaupunkiseudulla. Muuttoliike kaupunkialueille on ollut selvä suuntaus, joka edelleen keskittää asumista suurimpien kasvukeskusten ympärille. Suomi kaupungistui verrattain myöhään, minkä seurauksena väestörakenteen kaupungistumisen odotetaan jatkuvan vielä vuosikymmeniä.
-Suomeen muuttaneiden osuus väestöstä on EU-maiden pienimpiä, vaikka se onkin noussut merkittävästi viimeisen 20 vuoden aikana. Noin kaksi prosenttia maassa asuvista ihmisistä on muiden maiden kansalaisia. Pääosa tästä joukosta asuu pääkaupunkiseudulla ja muissa suurissa kaupungeissa. Suomesta muutetaan eniten Pohjoismaihin, muuhun Eurooppaan, Yhdysvaltoihin ja Aasiaan.lähde?
-[muokkaa]Väestön ikä- ja sukupuolijakauma
-Suomen väestö jakautuu iän ja sukupuoleen mukaan tarkasteltuna siten, että alle 55-vuotiaissa suomalaisissa on miehiä enemmän kuin naisia. Tätä vanhemmissa ikäryhmissä on taas naisia enemmän kuin miehiä. Ikäryhmässä 20–54-vuotiaat on miehiä 43 200 henkilöä eli 3,6 % enemmän kuin naisia.[98]
+==== Väestö kielen mukaan ====
+
+21 suurinta kieliryhmää vuoden 2010 lopussa:[http://pxweb2.stat.fi/Dialog/varval.asp?ma=030_vaerak_tau_102_fi&ti=Kieli+i%E4n+ja+sukupuolen+mukaan+maakunnittain+1990+%2D+2010&path=../Database/StatFin/vrm/vaerak/&lang=3&multilang=fi]
+
+{| class="prettytable" width=430
+|-
+|align="right"|'''Sija'''
+|'''Kieli'''
+|align="right"|'''Määrä'''
+|align="right"|'''Sija'''
+|'''Kieli'''
+|align="right"|'''Määrä'''
+|-
+|align="right"|1.
+|
+|align="right"|4&nbsp;857&nbsp;903
+|align="right"|12.
+|
+|align="right"|5&nbsp;722
+|-
+|align="right"|2.
+|
+|align="right"|291&nbsp;153
+|align="right"|13.
+|
+|align="right"|5&nbsp;637
+|-
+|align="right"|3.
+|
+|align="right"|54&nbsp;559
+|align="right"|14.
+|
+|align="right"|5&nbsp;447
+|-
+|align="right"|4.
+|
+|align="right"|28&nbsp;493
+|align="right"|15.
+|
+|align="right"|5&nbsp;374
+|-
+|align="right"|5.
+|
+|align="right"|12&nbsp;985
+|align="right"|16.
+|
+|align="right"|5&nbsp;020
+|-
+|align="right"|6.
+|
+|align="right"|12&nbsp;855
+|align="right"|17.
+|
+|align="right"|4&nbsp;594
+|-
+|align="right"|7.
+|
+|align="right"|10&nbsp;415
+|align="right"|18.
+|
+|align="right"|2&nbsp;972
+|-
+|align="right"|8.
+|
+|align="right"|9&nbsp;000<ref>[http://www.kl-deaf.fi/Page/82f0b31c-10e4-4892-8cfb-2e6a9e45369a.aspx Kuurojen liitto]</ref>
+|align="right"|19.
+|
+|align="right"|2&nbsp;883
+|-
+|align="right"|9.
+|
+|align="right"|8&nbsp;032
+|align="right"|20.
+|
+|align="right"|1&nbsp;947
+|-
+|align="right"|10.
+|
+|align="right"|7&nbsp;546
+|align="right"|21.
+|
+|align="right"|1&nbsp;832
+|-
+|align="right"|11.
+|
+|align="right"|7&nbsp;113
+|align="right"|
+|||
+|-
+|}
+
+=== Uskonnot ===
+a pidetään Suomen kansallispyhäkkönä ja se kuuluu maan merkittävimpiin historiallisiin rakennuksiin.<ref></ref>]]
+}}
+}}
+
+Kristinusko saapui Suomeen 1000-luvulta lähtien, mutta maaseudun kansanuskossa säilyi esikristilliseltä ajalta juontuvia piirteitä 1800-luvulle saakka. Vuoden 2010 lopussa 78,2 prosenttia kansasta kuului .<ref>[http://evl.fi/EVLUutiset.nsf/Documents/959955AEA9D43EDFC22578290040F985?OpenDocument&lang=FI Luterilaiseen kirkkoon kuuluu 78,2 prosenttia suomalaisista] evl.fi</ref> Toiseksi suurin kirkkokunta on , johon kuuluvia on 1,1 prosenttia. Suomen perustuslaissa luterilaisella kirkolla on erityisasema<ref>[http://www.finlex.fi/fi/laki/ajantasa/1999/1999073 Suomen perustuslaki (73/1999), 76 §]</ref> ja myös ortodoksisesta kirkosta on olemassa erityislaki<ref>[http://www.finlex.fi/fi/laki/ajantasa/2006/20060985 Laki ortodoksisesta kirkosta (985/2006)]</ref> ja niillä on eräissä suhteissa on verrattava asema, mutta  eli mahdollisuus muiden uskontojen harjoittamiseen on turvattu lailla.<ref>[http://www.finlex.fi/fi/laki/ajantasa/1999/1999073 Suomen perustuslaki, 11 §]</ref><ref>[http://www.finlex.fi/fi/laki/ajantasa/2003/20030453 Uskonnonvapauslaki (453/2003)]</ref> Uskontokuntiin kuulumattomien osuus on lisääntynyt viime vuosina. Vuoden 2010 lopussa heitä oli 19,2 prosenttia.<ref name="tk_vaesto"></ref> Lisäksi noin 47&nbsp;000 suomalaista eli vajaa prosentti väestöstä kuuluu yhdistysmuotoisiin , jotka eivät ole rekisteröityneet uskonnollisiksi yhdyskunniksi.<ref>Helluntaiherätys, Seurakuntaopas, 2006</ref>
+
+Muut yli tuhannen jäsenen uskonnolliset yhdyskunnat vuoden 2007 lopussa:<ref>[http://www.vaestorekisterikeskus.fi/vrk/home.nsf/pages/7DB30905CD412FC8C22571FE0033B947?opendocument Väestörekisterikeskus: Uskonnolliset yhdyskunnat]</ref>
+
+#  18&nbsp;071
+#  13&nbsp;786 
+#  9&nbsp;117
+#  3&nbsp;813
+#  3&nbsp;251
+#  3&nbsp;246
+#  1&nbsp;585
+#  1&nbsp;498
+#  1&nbsp;482
+#  1&nbsp;059
+
+=== Terveys ===
+ vastaa n keskitasoa.
+
+Suomessa  määrää kansanterveystyön kunnan vastuulle. Työ jaetaan sairaanhoitoon ja ehkäisevään terveydenhoitoon. Jokaisen kunnan on tarjottava tietyt perusterveyspalvelut, joita ei kuitenkaan määritellä yksityiskohtaisesti. Kunnassa on oltava terveydenhoitopalveluja varten  ja mahdollisia sivutoimipisteitä. Terveydenhoidon kalleuden vuoksi useat kunnat ovat perustaneet kansanterveystyön kuntayhtymiä. Kunta voi myös hoitaa terveyspalvelut ostamalla palvelut toiselta kunnalta tai yksityiseltä palvelun tuottajalta.<ref name="forum"/>
+
+Odottaville äideille on tarjolla ilmainen terveydenhuolto ja "äitiyspakkaus", joka sisältää joko rahaa tai vauvan perustarvikkeita kuten vaatteita, vaippoja, tuttipulloja (25 prosenttia perheistä valitsee rahan).<ref name="äp">[http://www.kela.fi/in/internet/suomi.nsf/NET/130302123032PB?OpenDocument Kelan tiedote: "Äitiyspakkauksen arvostus pysyy korkealla"]</ref> Perheet, joissa on alle 17-vuotiaita lapsia, saavat myös avustuksia valtiolta. Lapset saavat ilmaisen terveyden- ja hammashuollon 18-vuotiaaksi.
+
+Suomessa yksi suurimmista terveysalan ammattijärjestöistä on , jolla on noin 131&nbsp;000 jäsentä.<ref></ref>
+
+
+
+=== Suurimpia kuntia ===
+}}
+
+Suomen suurimmat kunnat   |  }}.
+{| class="prettytable" width=500
+|-
+|align="left"|'''Sija'''
+|'''Kaupunki'''
+|align="left"|'''Asukasluku'''
+|align="left"|'''Sija'''
+|'''Kaupunki'''
+|align="left"|'''Asukasluku'''
+|-
+|align="left"|1.
+|
+|align="left"|}}}}
+|align="left"|11.
+|
+|align="left"|}}}}
+|-
+|align="left"|2.
+|
+|align="left"|}}}}
+|align="left"|12.
+|
+|align="left"|}}}}
+
+|-
+|align="left"|3.
+|
+|align="left"|}}}}
+|align="left"|13.
+|
+|align="left"|}}}}
+|-
+|align="left"|4.
+|
+|align="left"|}}}}
+|align="left"|14.
+|
+|align="left"|}}}}
+|-
+|align="left"|5.
+|
+|align="left"|}}}}
+|align="left"|15.
+|
+|align="left"|}}}}
+|-
+|align="left"|6.
+|
+|align="left"|}}}}
+|align="left"|16.
+|
+|align="left"|}}}}
+|-
+|align="left"|7.
+|
+|align="left"|}}}}
+|align="left"|17.
+|
+|align="left"|}}}}
+|-
+|align="left"|8.
+|
+|align="left"|}}}}
+|align="left"|18.
+|
+|align="left"|}}}}
+|-
+|align="left"|9.
+|
+|align="left"|}}}}
+|align="left"|19.
+|
+|align="left"|}}}}
+|-
+|align="left"|10.
+|
+|align="left"|88&nbsp;407
+|align="left"|20.
+|
+|align="left"|48&nbsp;667
+|-
+|}
+
+== Koulutus ==
+}}
+]]
+
+Suomessa on lainsäädännöllinen oppivelvollisuus 7–16-vuotiaille. Suurin osa aloittaa seitsemän vuoden iässä tyypillisesti yhdeksänvuotisen n. Peruskoulutuksen jälkeen nuorten suosituimmat toisen asteen koulutusvalinnat ovat ammatillinen perustutkinto ja , joiden suorittaminen kestää yleensä kahdesta neljään vuotta. Kunnat hallitsevat alueensa peruskouluja, lukioita ja osaa ammatillisista oppilaitoksista.<ref>[http://www.kunnat.net/k_peruslistasivu.asp?path=1;29;351;9184 Kunnat.net: Ammatillinen koulutus]</ref>
+
+Korkeakoulujärjestelmä jakautuu ihin ja ihin samaan tapaan kuin Saksassa. Yliopistojen tehtävänä on omien alojensa ylin opetus ja tutkimus. Ammatillisesti suuntautunutta koulutusta annetaan lisäksi issa, jotka ovat kuntien ja yksityisten säätiöiden omistamia. Korkeakoulujen rahoitus määräytyy opetusministeriön kanssa tehdyillä tulossopimuksilla, joissa määritetään korkeakoulun tutkintotavoitteet. Tutkimusta korkeakoulut tekevät pääasiassa n ja  myöntämällä rahoituksella. Korkeakoulujärjestelmä on hajautettu alueellisesti, jotta voitaisiin taata koulutuksen tasa-arvoinen saanti maan eri osissa. 
+ on Suomen ja Euroopan unionin pohjoisin ammattikorkeakoulu.]]
+
+Korkeakoulujen opetuskieli on pääasiallisesti suomi, mutta ruotsinkielisen väestönosan tarpeisiin järjestetään myös ruotsinkielistä yliopisto- ja ammattikorkeakoulutusta. Kansainvälistymisen myötä käytännössä kaikki korkeakoulut tarjoavat opetusta myös vierailla kielillä, pääasiassa englanniksi. Henkilökuntaa on opiskelijaa kohti kansainvälisesti vähän. Opetus on ilmaista yliopistotasolle saakka, ja lisäksi opiskelijat saavat  opintorahaa, asumistukea sekä valtion takaamaa lainaa. Korkeakoulututkinnon suorittavien osuus ikäluokasta on kansainvälisesti katsoen korkea. Pääasiallisena tutkintona yliopistoissa on n tai , ammattikorkeakouluissa puolestaan , joka rinnastetaan useimmissa yhteyksissä . Keskeytysprosentit vaihtelevat voimakkaasti aloittain. Yleisintä keskeyttäminen on yliopistoissa humanistisella ja luonnontieteellisellä alalla, ammattikorkeakouluissa puolestaan tekniikan alalla. Ylemmän korkeakoulututkinnon suorittaminen vie keskimäärin 5,1 vuotta tehollista työaikaa, mutta opiskelijoiden työnteko pidentää opintoihin kuluvaa kokonaisaikaa.<ref>[http://www.minedu.fi/export/sites/default/OPM/Julkaisut/2003/liitteet/opm_146_tr27.pdf?lang=fi Oikeusministeriö] korkeakoulujen opintoaikojen lyhentämisen toimenpideohjelma. Opetusministeriön työryhmämuistioita ja selvityksiä 2003:27, Viitattu 23.2.2007</ref>
+
+Suurin osa n käyneistä suomalaisista osaa hyvin  ja hieman .  ja  opetetaan kaikille suomalaisille äidinkielenä tai vieraana kielenä. Lisäksi  on opiskeltu lukioissa melko yleisesti. Suomen 15-vuotiaiden koululaisten saamien pisteiden keskiarvot olivat in, n ja n ohella yksiä korkeimmista eräässä -tutkimuksessa. Suomalaisten menestystä PISA-kokeissa on selitetty kansallisella vuonna 1996 käynnistetyllä ''luonnontieteet ja matematiikka'' -ohjelmalla (LUMA), heikoimpienkin koululaisten hyvillä suorituksilla ja tasa-arvoisuudella koulutuksessa perheen sosioekonomisesta taustasta huolimatta.<ref>[http://ktl.jyu.fi/arkisto/publications/ierpd056.htm The Finnish Success in PISA – And Some Reasons Behind It] (jyu.fi; PDF)</ref> Suomalaisista yliopistoista kansainvälisissä vertailuissa parhaiten on menestynyt , joka erään arvion mukaan on maailman 76. paras yliopisto.<ref>[http://ed.sjtu.edu.cn/rank/2005/ARWU2005_Top100.htm Top 500 World Universities]</ref>
+
+Vuosittain yli 40&nbsp;% Suomen työvoimasta osallistuu epämuodolliseen työhön liittyvään koulutukseen tai harjoitteluun. Tämä vastaa monia teollisuusmaita kuten Tanska ja Yhdysvallat.
+
+== Kulttuuri ==
+
+}}
+ . Saunominen on merkittävä suomalaisuutta edustava perinteen muoto. Savusaunoja on vain prosentin verran kaikista saunoista.<ref></ref>]]
+
+Laajassa mielessä Suomi on ollut lähes koko historiansa ajan  piirissä. Kulttuuriin on keskeisesti vaikuttanut läntinen kristillinen perinne katolisessa ja protestanttisessa muodossaan.
+
+Suomalainen kulttuuri sai vanhastaan vaikutteita varsinkin Saksasta sekä Ruotsista, jonka osa Suomi oli noin 700 vuotta. Itä-Suomen ja Karjalan alueille tuli jo varhain vaikutusta myös venäläis-ortodoksiselta kulttuurialueelta. Myöhemmin suomalaiseen kulttuuriin on vaikuttanut voimakkaasti  ja kansainvälinen populaarikulttuuri. Suomalaiset itse luonnostelevat kulttuuriaan usein mielellään esimerkiksi lla, lla ja luonnonläheisyydellä.
+
+Suomalaisessa kulttuurissa on ollut jakoja maantieteellisesti ja väestöryhmittäin, mutta kulttuurit ovat sittemmin voimakkaasti sulautuneet. Esimerkiksi alueittaiset -erot ovat edelleen havaittavissa. Vähemmistöt ylläpitävät omia kulttuurisia piirteitään, huomattavina saamelaisten, romanien ja suomenruotsalaisten alakulttuurit. Koska maan kaupungistuminen on myöhäistä perua, suurella osalla suomalaista on sidos maaseutuun ja syrjäisiin asuinkeskuksiin. Suurempiin asutuskeskuksiin muuttaneet suomalaiset esimerkiksi viettävät usein vapaa-aikaa maaseudulla, erityisesti vesistöjen äärellä.
+
+=== Viestimet ===
+ sijaitsevassa ssa on muun muassa Ilta-Sanomien, Helsingin Sanomien ja Taloussanomien toimitukset.]]
+, }}
+
+Suomessa pyrittiin 1990-luvun aikana määrätietoisesti tietoyhteiskunnan kärkijoukkoon, mutta 2010-luvulle tultaessa tavoitteista on luovuttu ja Suomi on tietoyhteiskunnan kehityksessä lähinnä keskikastia.<ref></ref> Suomessa ilmestyy vuosittain noin 370 sanomalehteä ja 5&nbsp;500 aikakauslehteä.<ref name="Kansallisarkiston tiedotus/20.1.2009">[http://savotta.helsinki.fi/halvi/tiedotus/lehti.nsf/e1e392ad852e72f5c225680000404fa8/412eacd244da9e6cc225754400373bc0?OpenDocument Kansallisarkiston tiedotus] Kansalliskirjasto: Digitoitujen sisältöjen käyttö lisääntyi 42 prosentilla, 20.1.2009</ref> Kirjoja julkaistaan vuodessa 14&nbsp;000.<ref name="Kansallisarkiston tiedotus/20.1.2009"/> Suomen luetuin päivälehti on , jonka levikki vuonna 2006 oli 426&nbsp;117.<ref>[http://www.levikintarkastus.fi/levikintarkastus/tilastot.php Levikintarkastus Oy: Levikkitilastot]</ref> Lehdellä on keskimäärin 1&nbsp;046&nbsp;000 lukijaa.<ref>[http://www.levikintarkastus.fi/mediatutkimus/lukijamaarat.php Levikintarkastus Oy: KMT Lukijamäärät]</ref> Helsingin Sanomien julkaisija  on Pohjoismaiden johtava viestintäkonserni, jonka muita Suomessa julkaisemia sanomalehtiä ovat  ja . Toinen Suomen mainosrahoitteisen viestinnän merkittävimmistä tekijöistä, , julkaisee yli 30 sanomalehteä, mukaan lukien ,  ja .
+
+Suomessa, kuten monissa Euroopan maissa, television käyttö on maksullista. Laskutuksen hoitaa Viestintävirasto, ja televisiomaksut käytetään valtiollisen viestintäyhtiö n toiminnan kustantamiseen. Suomen kuunnelluin radiokanava on Yleisradion tuottama , joka koostuu 20 maakuntaradiosta sekä valtakunnallista ohjelmaa lähettävästä kanavatoimituksesta.
+
+Suomen suurin  on vuonna 1957 perustettu , joka on nykyisin ruotsalaisen in omistuksessa oleva.  on Suomen toiseksi tavoittavin mainosmedia. Suosituin kaupallinen radiokanava on .
+
+=== Kirjallisuus ===
+}}
+.]]
+
+Suomessa on kirjoitettu suomenkielisiä kirjoja kirjakielen luomisesta ja käyttöönotosta 1500-luvulta lähtien, 1800-luvulle asti tosin lähinnä vain ä ja muuta uskonnollista kirjallisuutta sekä lakitekstejä. Maan kansallisrunoilija on , jonka tunnetuin teos on ''''. Suomen kansalliseepoksen ''n'' koonnut  eli kuitenkin 1800-luvulla, ja aloitti näihin aikoihin suomenkielisen kirjallisuuden perinteen kokoamalla kirjan karjalaisista kansallislauluista. Suomenkielisen romaanikirjallisuuden perustaja oli  vuonna 1870 ilmestyneellä ''''. Häntä seurasivat muun muassa  ja yhteiskunnallisiin epäkohtiin huomionsa keskittänyt . Lyriikan puolella  kehitti kalevalaisvaikutteista, kansallisromanttista tyyliä.  sai  vuonna 1939 etenkin maaseutuväestön kuvauksistaan. Toisen maailmansodan jälkeen n ja in kirjat tulivat hyvin suosituiksi myös ulkomailla.
+
+Ruotsinkielisessä runoudessa vuosisadan alkupuolen modernistit, kuten  ja  saavuttivat kansainvälistäkin huomiota. Suomenkielinen lyriikka siirtyi modernismiin sotien jälkeen tärkeimpinä niminään muun muassa  ja myöhemmin .  kuvasi kansakunnan kohtalonvuosia uusista näkökulmista romaaneissaan '''' ja ''''. Nykykirjailijoista tunnettuja ovat muun muassa humoristit , ,  ja  sekä lukuisat kotimaiset stit kuten . Myös historialliset romaanit ovat Suomessa suosittu tyylilaji, jota edustavat esimerkiksi  ja  (ent. Hietamies).
+
+=== Musiikki ===
+}}
+
+==== Taidemusiikki ====
+ on Suomen kansallissäveltäjä.]]
+Suomen kansallislaulu on -laulu, jonka on säveltänyt . Sama sävel on käytössä myös n kansallislaulussa. Suomen kansallissäveltäjä on , jonka suomalaisille tunnetuin sävellys on . Suomea on kutsuttu ''" suurvallaksi"'', koska toisen maailmansodan jälkeen rakennetun - ja -järjestelmän avulla Suomesta on tullut väkilukuun suhteutettuna suuri määrä maailmanluokan  kuten ,  ja ; laulajia kuten , ,  ja  sekä  ja n kaltaisia solisteja ja säveltäjiä kuten ,  ja .
+
+ juuret Suomessa eivät ole niin syvät kuin esimerkiksi Keski-Euroopan maissa eikä  ja  ajalta tunneta suomalaisia säveltäjiä. Musiikkielämä alkoi syntyä vasta  lopulla: muun muassa  -seura perustettiin vuonna 1790. Tämän aikakauden merkittävin säveltäjä oli . Varhaisromantiikan ajan keskeinen vaikuttaja oli nykyisin "Suomen musiikin isäksi" nimitetty saksalaissyntyinen , joka toimi Helsingin yliopistossa musiikinopettajana. 1800-luvun puolesta välistä aina toiseen maailmansotaan asti keskeinen Suomen taidemusiikin tyylisuunta oli  ja etenkin kansallisromantiikka, jonka keulahahmo oli . Kansainvälisestikin laajalti tunnetun Sibeliuksen vaikutus Suomen musiikkielämään oli mittava. Ensimmäiset suomalaiset , muun muassa sta ja sta vaikutteita saaneet  (1891–1945) ja  ilmaantuivat musiikkielämään jo 1920-luvulla, mutta heidän modernisminsa ei kuitenkaan horjuttanut romantiikan valta-asemaa.
+
+1950-luvulla modernismi rantautui Suomeen toden teolla niin sanotun modernismin toisen aallon myötä, jossa siirryttiin jo än ja muihin uusiin sävellystekniikoihin. Ensimmäisiä suomalaisia kaksitoistasäveljärjestelmää käyttäneitä säveltäjiä oli . 1950-luvulla käytettiin myös  ja sointi- ja kenttätekniikoita. 1970-luvulla alkoi suomalaisen n renessanssi  ja  sointimaailmaltaan perinteisten, niin sanottujen  myötä, mutta toisaalta nuoret säveltäjät ja muusikot toivat eurooppalaista radikaalia modernismia Suomeen muun muassa  -yhdistyksen piirissä. Monet näistä 1970-luvun nuorista radikaaleista, kuten ,  ja  ovat nousseet kansainväliseen kuuluisuuteen 1980- ja 1990-lukujen aikana.
+
+==== Populaarimusiikki ====
+
+Populaarimusiikkiin syntyi 1970-luvulla käsite , jonka tunnetuimpia edustajia ovat muun muassa , ,  ja . Suomalaiset rockyhtyeet ovat tavoitelleet ulkomaisen yleisön suosiota 1970-luvulta lähtien, mutta esimerkiksi  saamat myönteiset arvostelut eivät johtaneet läpimurtoon.
+
+Ensimmäinen ulkomailla lyhytaikaista menestystä saanut yhtye oli , joka oli 1980-luvun in edelläkävijöitä maailmalla. 1990-luvun lopulta alkaen suomalainen populaarimusiikki on saanut laajempaa menestystä ulkomailla. Konemusiikkiyhtyeistä  teki yhden Keski-Euroopassa menestyneen singlen ja  kaksi. Rockyhtye  sekä metallimusiikkiyhtyeet , , ,  ja  ovat julkaisseet albumeita, jotka ovat menestyneet eri puolilla maailmaa. HIMille albumi toi  kultalevyn. Selloilla metallia soittava  on saanut myös suosiota. a edustava yhtye  on sekin menestynyt ulkomailla. Suomalainen hardcore punk on myös menestynyt hyvin ulkomailla, esimerkiksi  ja .
+
+Suomen menestys issa on ollut pääosin huonoa, mutta vuonna  kisat voitti  kappaleellaan ''''<ref>[http://yle.fi/elavaarkisto/?s=s&g=5&ag=82&t=535&a=2152 Yle.fi – Elävä arkisto] Lordi ylivoimaiseen voittoon. 8.9.2006</ref> ja teki uuden piste-ennätyksen 292, joka säilyi vuoteen 2009 asti.
+
+=== Elokuva ===
+}}
+
+Suomalainen elokuva syntyi 1900-luvun alkupuoliskolla pian itse elokuvan keksimisen jälkeen. Ensimmäinen suomalainen näytelmäelokuva oli '''', joka sai ensi-iltansa vuonna 1907. Ensimmäisen maailmansodan syttyminen kuitenkin tyrehdytti suomalaisen elokuvateollisuuden väliaikaisesti. Sodan jälkeen elokuva koki Suomessa nousukauden kun  perusti elokuvayhtiö n (entinen ''Suomen Biografi'') vuonna 1919. Ensimmäinen ulkomaillakin esitetty suomalaiselokuva on vuonna 1922 valmistunut '''', jota esitettiin myös Ruotsissa. Äänielokuva löi itsensä läpi maailmalla 1920-luvun loppupuoliskolla ja ensimmäinen täysin suomalaisvoimin valmistunut äänielokuva '''' valmistui 1931. Vuonna 1933 Suomi-Filmistä lähtenyt Karu perusti uuden elokuvayhtiön . SF:n alkuaikoina julkaisemia elokuvia olivat muun muassa ''Meidän poikamme ilmassa'' ja ''Pohjalaisia''. Vuonna 1936 yritys kohosi tuotantoluvuissaan samalle tasolle siihen asti Suomen elokuva-alaa yksin hallinneen Suomi-Filmin kanssa.<ref name="elokhist"></ref> Ajan tunnettuja näyttelijöitä olivat muun muassa  ja , jotka säilyttivät suosionsa aina 1950-luvulle asti. Heidän ensimmäinen yhteiselokuvansa '''' sai ensi-iltansa syksyllä 1935.
+
+Toisen maailmansodan (1939–1945) aikana Suomessa tuotettiin runsaasti isänmaallispaatoksellisia draamaelokuvia sekä todellisuuspakoisia epookkielokuvia ja komedioita. Vain harvassa teoksessa oli suoria viittauksia meneillään olevaan suursotaan. Materiaalipula pani mielikuvituksen koetukselle. Suuret yhtiöt tuottivat useita menestyselokuvia, kuten SF:n '''', '''', '''' ja '''' -elokuvasarja. Erityisesti 1940-luvun suosikki valkokankailla oli , joka tähditti muun muassa Valentin Vaalan reippaita komediaelokuvia. Sodan jälkeen materiaalipula alkoi vähitellen helpottua. Vuosikymmenen loppupuolella valmistuivat muun muassa Vaalan '''' ja '''' sekä Särkän ''''.  johdolla esitelttin niin kutsuttu rillumarei-elokuva 1950-luvun alkupuolella. Kriitikot vihasivat, kansa rakasti. Kymmenen vuotta sodan päättymisestä valmistui n saman nimiseen romaaniin perustuva elokuva ''''.<ref name="elokhist"/> 1955 julkaistun elokuvan ohjasi  ja se on edelleen kaikkien aikojen katsotuin elokuva Suomen elokuvateattereissa.<ref></ref> Tuntematon sotilas keräsi suosiota myös ulkomailla.
+
+Tunnettuja suomalaisia elokuvantekijöitä ovat muun muassa näyttelijä ja käsikirjoittaja , jonka suosituimpia luomuksia on '''' -elokuvasarja, sekä kansainvälistäkin suosiota kerännyt elokuvaohjaaja . Kaurismäen '''' on yksi Suomen elokuvahistorian kansainvälisesti menestyneimpiä elokuvia. Se oli esimerkiksi -ehdokkaana parhaan ulkomaalaisen elokuvan kategoriassa ja voitti in elokuvajuhlien Grand Prix -palkinnon. 2000-vuosikymmenen loppupuolella myös suomalaiset animaatiot ovat nostaneet suosiotaan maailmalla, etunenässä poroseikkailu .
+
+=== Valokuvaus Suomessa ===
+}}
+
+
+ kuvasi 3. marraskuuta 1842 Turussa ensimmäisen suomalaisen .<ref></ref> 1850-luvulla jo kaikissa suurimmissa kaupungeissa toimi valokuvaajia. Yleisempää merkitystä  sai 1860-luvulla, jolloin etenkin muotokuvia ja kaupunkikuvia voitiin alkaa monistaa. 1880-luvulla sta tuli suomalaisen valokuvauksen keskeisalue.
+
+Maailmansotien välisen ajan kuvaajia olivat muun muassa , ,  ja .<ref></ref>  Sekä talvi-, että jatkosodasta reportaaseja tehneillä TK-kuvaajilla oli jo käytössään pienkamerat ja jonkin verran myös värifilmiä.<ref></ref><ref>[http://www.hs.fi/kulttuuri/nayttelyt/artikkeli/Talvisota+ruotsalaisin+silmin/HS20091204SI1KU03s0m Talvisota ruotsalaisin silmin] Helsingin Sanomat</ref>
+
+1950-luvulla  miellettiin omaksi, usein  vaalituksi erilliseksi alueekseen. Johtavia valokuvaajia olivat , , ,  sekä  ja .
+
+Valokuvataiteesta tuli aktiivinen osa  1980-luvulta lähtien.  valokuvaa käyttävien tekijöiden ja yleisön lukumäärä on moninkertaistunut, kenttä kansainvälistynyt ja valokuvaus on digitalisoituneessa kulttuurissa, osana uutta a saanut 2000-luvun alkua leimanneita ilmenemismuotoja ja toimintatapoja. Tunnetuimpia uudemmista valokuvaa ilmaisukeinonaan käyttävistä nykytaiteilijoista ovat esimerkiksi ,  , ,  ja . <ref>[http://www.bluemedia.fi/uutiset/vankka-luottamus-taidemarkkinoihin Vankka luottamus taidemarkkinoihin] Blue Media</ref>
+
+=== Kuvataide ===
+, '', 1895.]]
+}}
+
+Kuuluisia suomalaistaiteilijoita ovat esimerkiksi , , , , ,  ja . Helsingissä sijaitsevat muun muassa on kuuluvat , nykytaiteen museo  ja  sekä yksityinen . Sekä lla että lla on huomattavat taidekokoelmat. Pohjoisempia merkittäviä taidemuseoita edustavat muassa , ,  ja . Nykytaiteilijoista kansainvälisesti toimivia ovat esimerkiksi ssa asuva ,<ref>[http://www.mtv3.fi/uutiset/kulttuuri.shtml/arkistot/kulttuuri/2007/12/590946 MTV3 uutiset] Väisänen: ”Kirjoitan, koska osaan kirjoittaa" 13.12.2007</ref> n kunniakonsuli ,<ref>[http://www.vantaanlauri.fi/arkisto/2008/2008-01-17/ajankohtaista/Uusi_alku Vantaan Lauri] Uusi alku. 17.1.2008</ref> Paavin muotokuvan maalari <ref>[http://www.karjalainen.fi/Karjalainen/Kulttuuri/yrj%C3%B6_laakkosesta_muotokuva_3896824.html Karjalainen] Yrjö Laakkosesta muotokuva. 21.6.2009</ref><ref>[http://www.didrichsenmuseum.fi/archive/jakobsson.htm Didrichsenin taidemuseo] Fritz Jakobsson.</ref> ja marginaalikulttuurin mestari .<ref>[http://www.eroticartcollection.com/Tom_of_Finland_Biography.html Eroticartcollection.com] Biogrraphy: Tom of Finlanf alias Touko Laaksonen. </ref>
+
+=== Urheilu ===
+ sytyttää olympiatulen  1952.]]
+ on Suomen suosituin ja arvostetuin urheilulaji.<ref></ref>]]
+}}
+
+Suomalaiset pitävät itseään urheilukansana,<ref>[http://www.yle.fi/radiopeili/sivu.php?uname=kimi Laitaneva, J. Me suomalaiset olemme urheilukansaa] Radio Peili. Yleisradio. Viitattu 21.2.2007</ref> ja monien muiden vastaitsenäistyneiden kansojen tavoin suomalaiset muodostivat erityisesti 1900-luvun alussa kansallista identiteettiään urheilusaavutusten avulla.<ref>[http://www.lts.fi/?sid=34&tid=81&LTS_reg=tg37t9b9mhmja6lknbk3prg6q3 Kokkonen, J. (2003) Urheilu uskoo nationalismiin] Liikuntatieteellinen seura. Viitattu 21.2.2007</ref>  kehittämä  oli suosittu urheilulaji, mutta sen paikan seuratuimpana urheilulajina on sittemmin ottanut . Määrällisesti eniten harrastajia on ssä, , , ssa, ssa ja ssä.<ref>[http://www.kihu.fi/faktapankki/lisenssit/ Lajien harrastaja- ja lisenssimäärät] Huippu-urheilun faktapankki. Kilpa- ja huippu-urheilun tutkimuskeskus KIHU. Viitattu 14.3.2007</ref>
+
+1920-luvulla suomalaiset juoksijat ,  ja  olivat aikansa parhaimpia juoksijoita. Nurmi on edelleen yksi  menestyneimpiä urheilijoita yhdeksällä kultaisella olympiamitalillaan. Painija  oli 1920-luvulla menestynyt painija kahdella . Painija  oli ensimmäinen suomalainen joka hankki Suomelle olympiakullan. Luistelija  saavutti talviolympialaisissa 1920-luvulla menestystä, jota verrattiin Nurmen suorituksiin kesäkisojen puolella.  tuli maailmansotien välillä maailman siihen asti paras keihäänheittäjä.
+
+ tuli 1950-luvulla yksi kaikkien aikojen hiihtourheilijoista. Vielä aktiiviaikanaan hän sai manttelinperijän .
+
+Ralliajajat  ja  olivat suomalaisen autourheilun airueita 1960-luvulla menestyessään muun muassa maineikkaassa ssa. Heitä seurasivat huipulla 1970-luvulla ,  ja .  tuli nelinkertainen maailmanmestari ja samaan pystyi myöhemmin myös . 2000-luvulla MM-aateliin liittyi vielä .
+
+Autoilun arvostetuimmassa luokassa Formula 1:ssä  saavutti maailmanmestaruuden 1982 ja  ylsi samaan kaksi kertaa 1990-luvun lopulla.  tuli kolmas suomalainen F1-mestari vuonna 2007.
+
+ palautti 1970-luvulla suomalaisen juoksu-urheilun kunnian saavuttaessaan kaksissa peräkkäisissä olympialaisissa yhteensä neljä kultaa 5&nbsp;000 ja 10&nbsp;000 metrin matkoilla.
+
+Soutaja  saavutti kolme perättäistä kultaa olympiakisoissa 1976–1984.
+
+Suomalaiset nousivat 1990-luvulla huipulle yhdessä maailman kilpailluimmista lajeissa: uinnissa.  ja  johtivat uintitriumfia 1990-luvulla ja  on jatkanut allasmenestystä 2000-luvulla.
+
+Nykyisin suomalaiset menestyvät n sijaan esimerkiksi ,  ja muissa talviurheilulajeissa sekä ssa ja ssa. Eräitä viime aikojen menestyneitä suomalaisurheilijoita ovat olleet mäkihyppääjä , maastohiihtäjät  ja , taitoluistelijat  ja , formulakuljettajat ,  ja , jääkiekkoilijat  ja veljekset  ja , jalkapalloilijat  ja , lumilautailijat kaksinkertainen MM-kultamitalisti , olympia- ja MM-mitalisti  ja olympiapronssimitalisti  sekä painija , nyrkkeilijät , , keihäänheittäjät  ja , moukarinheittäjä  ja kuulantyönnön olympiakultamitalisti Sydneystä 2000 .
+
+Koripalloilija  varattiin NBA:han. Pari vuotta myöhemmin  tuli NBA:n ensimmäisenä NBA Draft kierroksen ensimmäisellä kierroksella varattu suomalainen.
+
+== Katso myös ==
+*
+* 
+* 
+* 
+* 
+
+== Lähteet ==
+
+* 
+* Haapala, Pertti: ”Monta totuutta”, teoksessa 
+*
+* 
+*
+*
+* 
+* 
+*
+*
+* 
+* 
+* Pulma, Panu: ”Rauhoituspolitiikan kausi”, teoksessa 
+*
+* 
+* 
+* 
+
+=== Viitteet ===
+
+
+== Aiheesta muualla ==
+
+
+
+=== Hallinto ===
+*[http://www.suomi.fi/ Suomi.fi – Suomen julkishallinnon verkkopalveluiden yhteinen osoite]
+*[http://www.government.fi/etusivu/fi.jsp Suomen valtioneuvosto]
+*[http://www.president.fi/ Suomen presidentti]
+*[http://web.eduskunta.fi/Resource.phx/eduskunta/index.htx?lng=fi Suomen eduskunta]
+*[http://www.eu2006.fi/en_GB/ Suomen EU-puheenjohtajuus]
+
+=== Muut ===
+*[http://www.tilastokeskus.fi/tup/suoluk/index.html Suomi lukuina]
+*[http://www.infopankki.fi Tietoa Suomesta 15 kielellä]
+*[http://agricola.utu.fi/ Agricola Suomen historiaverkko]
+*[http://www3.intermin.fi/PPA/PPA Suomi-tietokanta]
+*[http://www.lib.hel.fi/Page/3156f7ee-682f-4b68-82ea-ec756f214f22.aspx?groupId=f6a59db9-bce1-4f22-bad3-7eca2addfe4a&announcementId=7fa1b3e7-33dd-4fbe-979b-6d428517347d&refererUrl=%2ffi-FI%2faihepaketit%2f%3fgroupId%3df6a59db9-bce1-4f22-bad3-7eca2addfe4a%26refererUrl%3d%252f Helsingin kaupunginkirjaston Suomi muiden silmin -aihepaketti]
+*[http://www.visitfinland.com Visit Finland – Matkailun edistämiskeskuksen matkailusivusto]
+*[http://www.yle.fi/elavaarkisto/?s=s&g=5&ag=82&t=00535 Ylen Elävän arkiston Suomi 90 vuotta -sivusto (muun muassa videoleikkeitä)]
+*[http://maps.google.fi/maps?f=q&source=s_q&hl=fi&geocode=&q=Suomi&aq=&sll=62.593341,27.575684&sspn=16.299978,57.084961&ie=UTF8&hq=&hnear=Suomi&ll=61.918271,25.751953&spn=16.66414,57.084961&z=5 Suomi Google Maps -karttapalvelussa]
+*
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

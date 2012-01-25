@@ -7,14 +7,14 @@ class String
 
   def locale
     sc = Scylla::Classifier.new
-    Scylla::Resources.locales[sc.classify_string(self).first]
+    Scylla::Resources.locales[sc.classify_string(self).first][0]
   end
 
   def guess_locale
     sc = Scylla::Classifier.new
     languages = sc.classify_string(self)
     locales = []
-    languages.each {|lan| locales << Scylla::Resources.locales[lan]}
+    languages.each {|lan| locales << Scylla::Resources.locales[lan][0]}
     return locales
   end
 

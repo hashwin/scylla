@@ -1,161 +1,418 @@
-Suid-Afrika is 'n republiek aan die suidpunt van Afrika. Dit word begrens aan die noorde deur Namibië, Botswana en Zimbabwe, en na die noordooste deur Mosambiek en Swaziland. Lesotho is heeltemal vervat binne die grense van Suid-Afrika.
-Suid-Afrika is een van die mees etnies-diverse lande in Afrika. Die land het meer Europese immigrante ontvang as enige ander land in Afrika en het die hoogste bevolking van Europese, Indiese en gemengde afkoms. Rasse- en etniese stryd was nog altyd 'n groot deel van die geskiedenis en politiek van die land. 'n Ander belangrike faktor in die ontwikkeling van die land is die ryk mineraalbronne waaroor die land beskik. Die land se ekonomie is die grootste en mees ontwikkelde in die kontinent met moderne infrastruktuur in die hele land.
-Rassekonflik tussen die wit minderheid en die swart meerderheid het die land se geskiedenis en politiek oorheers. Die tema het 'n hoogtepunt bereik met die apartheidbewind tussen 1948 en die negentien-negentigs. Nadat die Nasionale Party in 1948 aan bewind gekom het, is 'n stelsel gegrond op rassediskriminasie opgerig. Die wette is van 1990 af afgeskaf na 'n lang en gewelddadige stryd teen apartheid waarin swart mense die leiding geneem het. Wit, bruin en Indiër- Suid-Afrikaners het egter ook deelgeneem en buitelandse druk was 'n belangrike faktor in die uiteindelike aftakeling van apartheid.
-Die dramatiese verandering in die politieke stelsel is egter op die ou einde op wonderbaarlike wyse relatief vreedsaam bewerkstellig. Suid-Afrika is een van die min lande in Afrika en die res van die ontwikkelende lande wat nie 'n staatsgreep deurgemaak het nie. Die veelpartysamesprekings, waarvolgens die nuwe Suid-Afrika in plek gestel is, het gelei tot die ontwikkeling van een van die voorste grondwette ter wêreld met stewige beskerming van menseregte.
-Vandag word daar gereeld na Suid-Afrika as die Reënboognasie verwys - 'n term wat aanvanklik deur Aartsbiskop Desmond Tutu bedink is en later op uitgebrei is deur die toenmalige President Nelson Mandela as 'n metafoor vir die land se nuutgevonde multikulturele diversiteit na die beëindiging van die skeiding wat deur die apartheidsideologie meegebring is. Suid-Afrika is die eerste, en sover enigste, land wat kernwapens ontwikkel het en daarna vrywillig sy hele kernwapenprogram ontbind het.
+{{Inligtingskas Taal
+|naam=Afrikaans
+|inheemsenaam=
+|familiekleur=Indo-Europees
+|state=<br/><br/><br/><br/><br/><br/><br/>
+|streek=
+|sprekers= omtrent 6,49 miljoen (eerste taal)<br/>10,3 miljoen (tweede of derde taal)<ref>[http://www.ethnologue.com/show_language.asp?code=afr www.ethnologue.com].</ref>
+|rang=99
+|skrif=
+|fam2=
+|fam3=
+|fam4=
+|nasie=<br /> (erken as minderheidstaal)
+|agentskap=Die  van die  (in Suid-Afrika)
+|iso1=af|iso2=afr|iso3=afr
+|kaart=
+}}
 
-Prehistoriese geskiedenis [wysig]
-Suid-Afrika het van die oudste argeologiese terreine in Afrika. Uitgebreide fossieloorblyfsels by die Sterkfontein-, Kromdraai- en Makapansgatgrotte dui aan dat verskeie australopithecines in Suid-Afrika gewoon het vanaf ongeveer drie miljoen jaar gelede. Hulle is gevolg deur verskeie Homo-spesies insluitend Homo habilis, Homo erectus en die moderne mens, Homo sapiens.
-Bantoe ystergebruikende landbouers en veewagters het teen die 4de- of 5de eeu suid oor die Limpoporivier in hedendaagse Suid-Afrika in beweeg (die Bantoe-uitbreiding). Hulle het stadig verder suid getrek, waar die vroegste ystergieterye in die hedendaagse KwaZulu-Natalprovinsie uit ongeveer 1050 gedateer word. Die mees suidelike groep was die Xhosa wat tot by die Visrivier getrek het, wat vandag in die Oos-Kaapprovinsie lê. Die ystertydperkgroepe het vroeëre jagter-versamelaargroepe verplaas soos hulle suid getrek het.
-Nederlanders en Xhosas in die Kaap [wysig]
+'''Afrikaans''' is 'n e taal wat weer tuishoort onder die  tale. Afrikaans is een van die jongste erkende tale. Dit is op 8 Mei 1925 as 'n amptelike taal erken, en is tans die derde jongste Germaanse taal wat amptelike status geniet, naas Faroërs (of ) wat in 1948 grondwetlik erken is en  (of Lëtzebuergesch) wat hierdie status in 1984 gekry het.
 
+Afrikaans is tans een van die elf amptelike tale van  en daarnaas ook 'n belangrike taal van . Dit word deur ongeveer 6.4 miljoen mense as eerste taal gebruik. Afrikaans het uit 17de eeuse  ontwikkel en is meer as 95 persent van sy woordeskat van Nederlandse oorsprong. 'n Klein aantal woorde is ontleen uit tale soos , , , ,  en ander Afrikatale.<ref>Sien ''Language in South Africa'' deur Rajend Mesthrie, bladsye 200 tot 206:
+* : "amper" van ''hampir'', "baadjie" van ''badju'', "baie" van ''badju'' en "piering" van ''piring'';
+* : "gogga" van ''xoxon'';
+* : "bredie" van ''bredo'', "kombers" van ''cobertas'' en "kraal" van ''curral'';
+* : "moetie" en afleidings daarvan soos "moetieman", "moetiemoord" en "moeitiewinkel" van die  ''umuthi'' wat medisyne beteken.</ref><ref>Taalgeskiedenis, CJ Conradie:
+* Woordeskat uit swart-tale: donga, dagha ("klei" of "sement"), mopanie, maroela, moepel, kaboe(-mielies), tollie, mamba, tsetse(-vlieg), indaba, indoena, impie, loboloa, pasella, babalaas, haiköna, ietermagö, sakaboela, tamboekie(-gras) , kaia, marog, skokiaan, poetoe(-pap).
+* Maleis: nartjie, blatjang, bobotie, borrie, sosatie, mebos, doepa, paljas, sieal, ramkie, nonnie, nonna, kierang, pamperlang, lieplapper;
+* Portugees: froetangs, makou, bredie, tamaai, maskie;
+* : strawasie, laer, werda, jaarhonderd, sweis, verfoes, werskaf, hekel;
+* : pawee(-perske), sermyn(-peer), bermotsersan(-peer). Let daarop dat meeste ander Afrikaanse woorde wat van Franse afkoms is eers in Nederlands opgeneem is en daardeur in Afrikaans beland het;
+* Khoekhoens: , karee, dagga, koekmakranka, kambro, kanna, , noem-noem, kwagga, oorbietjie, geitjie, gogga, karos, abba, kamma, kamalielies, kamtig, kastig, hoeka, ga(ng), soe, aitsa, arrie, eina, gonna, kierie, hn'n, ghnarra, gorra, karkoer, koedoe.
+</ref> Afrikaans het op sy beurt weer 'n groot invloed uitgeoefen op Suid-Afrikaanse Engels en plaaslike swart tale en 'n aantal Afrikaanse woorde is in baie ander tale opgeneem.<ref>Rajend Mesthrie, ''Language in South Africa''</ref>
 
-Skildery wat Jan van Riebeeck se aankoms in die Kaap uitbeeld
-Die geskrewe geskiedenis van Suid-Afrika begin op 6 April 1652 toe 'n verversingstasie by die Kaap van Goeie Hoop deur Jan van Riebeeck namens die Verenigde Oos-Indiese Maatskappy gevestig is. Vir die grootste deel van die 17de en 18de eeue was die vestiging, wat stadig aan die uitbrei was, 'n Nederlandse besitting. Die Nederlandse setlaars het uiteindelik naby die Visrivier met die Xhosas, wat besig was om in 'n suidwestelike rigting uit te brei, in aanraking gekom.
-'n Reeks oorloë, wat as die Kaapse grensoorloë bekend staan, het hierop gevolg. Die oorloë is meestal deur botsende belange oor grond veroorsaak. Om arbeidstekorte in die Kaap te verlig, is slawe uit Indonesië, Madagaskar, en Indië deur die Nederlandse owerheid ingevoer. Die meeste afstammelinge van dié slawe, wat gereeld met Nederlandse setlaars getrou het, is later saam met die oorblyfsels van die oorspronklike Khoikhoi as Kaapse kleurlinge en "Kaapse Maleiers" geklassifiseer. Hierdie twee groepe verteenwoordig sowat vyftig persent van die bevolking van die provinsie Wes-Kaap. Die Europese immigrante uit Nederland is onder meer aangevul deur Duitsers en Franse Hugenote.
-Britse kolonie [wysig]
+Sowat een miljoen van Suid-Afrika se 6,44 miljoen Afrikaanstaliges<ref>[http://www.ethnologue.com/show_language.asp?code=afr www.ethnologue.com]</ref> is tweetalige moedertaalsprekers van Afrikaans en Engels.<ref name=louw/> Daar is groot groepe Afrikaanstaliges in lande soos  (146&nbsp;000), die  (ongeveer 100&nbsp;000)<ref>Volgens amptelike statistiek het 140&nbsp;236 Suid-Afrikaanse burgers in 2001 in die Verenigde Koninkryk gebly, [http://www.statssa.gov.za/PublicationsHTML/Report-03-51-032003/html/Report-03-51-032003_12.html ''Statistics South Afica - Comparative Assessment of Data on Self-Declared Emigration, 2002 Update'']</ref>,  (21&nbsp;000 in 2006)<ref>[http://www.stats.govt.nz/census/2006-census-data/quickstats-about-culture-identity/quickstats-about-culture-and-identity.htm?page=para011Master ''Statistics New Zealand - QuickStats about Culture and Identity'']</ref>,  (20&nbsp;000),  (13&nbsp;000), en  (2&nbsp;400 volgens die sensus van 1974; die aantal Suid-Afrikaanse immigrante beloop tans egter meer as 60&nbsp;000).<ref name=louw>[http://www.geocities.com/TheTropics/8240/afrikaan.htm ''Gerhard Louw: Afrikaans'']</ref>
 
+== Klassifikasie ==
 
-Die plek van die eerste Goudmyne in Johannesburg
-Groot-Brittanje neem die Kaap van Goeie Hoop in 1797 vir die eerste keer tydens die Vierde Engelse-Nederlandse oorlog in besit. Nederland is in 1795 deur die Franse weermag onder die leierskap van Napoléon Bonaparte oorwin. Brittanje wou verhoed dat die Kaap in Franse hande val en die Britse weermag, onder Generaal Sir James Henry Craig vaar na Kaapstad om die kolonie te beskerm namens die Stadhouer Prins Willem V van Oranje.
-Die goewerneur van Kaapstad weier aanvanklik om enige instruksies van die prins te gehoorsaam, maar na die Britte gedreig het om kragdadig op te tree, stem hy in. In Februarie 1803 lei die Vrede van Amiens daartoe dat die kolonie weer onder Nederlandse beheer kom in die vorm van die Bataafse Republiek. Ná oorlog weer uitbreek, word 'n Britse mag weereens na die Kaap gestuur en na 'n slag in Januarie 1806 op die strande van Tafelbaai gee die Nederlandse vesting van die Kasteel oor aan die Britte onder Sir David Baird, en die Britte annekseer die Kaapkolonie in 1806.
-Die Britte sit die oorlog teen die Xhosas voort en stoot die oostelike grens ooswaarts tot by 'n lyn van forte, wat langs die Visrivier opgerig is, en konsolideer die gebied deur Britse Setlaars aan te moedig om hulle in dié gebied te vestig. As gevolg van druk deur afskaffingsverenigings in Brittanje, beëindig die Britse parlement sy wêreldwye slawehandel in 1806 en skaf slawerny in al sy kolonies af in 1833.
-Die voortslepende grensoorloë, ongelukkigheid met die wyse waarop slawerny afgeskaf is en ander verskille met die Britse owerheid lei daartoe dat 'n gedeelte van die Nederlandssprekende bevolking as deel van die Groot Trek verder in die binneland in trek buite Britse beheer. Die groep, wat eers as Voortrekkers en later as Boere bekend sou staan, kom in teenstand met swart stamme soos die Zoeloes. Hulle vestig 'n reeks Boererepublieke, waarvan die Zuid-Afrikaansche Republiek en Oranje-Vrystaat die belangrikste is.
-Eerste en Tweede Vryheidsoorloë [wysig]
-Hoofartikel: Eerste Vryheidsoorlog en Tweede Vryheidsoorlog.
+*
+**
+***
+****
+*****
+******
+*******Afrikaans
 
+Afrikaans is 'n  wat aan die  tak van die  behoort. Afrikaans behoort saam met  aan die e taalgroep wat van  afstam. Nederfrankiese verskeidenhede word in  in , die noorde van ,  in  en die  gebied langs die  tussen  en die grens tussen Duitsland en Nederland gepraat. Buite Europa word Nederfrankiese verskeidenhede in , ,  en die Nederlandse eilande in die Karibiese See gepraat.
 
-Boere by Spioenkop in 1900
-Die ontdekking van diamante in 1867 en goud in 1886 het ekonomiese groei en immigrasie aangemoedig wat tot verdere onderdrukking van die plaaslike bevolking gelei het. Die Boere weer Britse indringing in die Eerste Vryheidsoorlog (1880–1881) suksesvol af deur taktiek wat baie meer gepas tot plaaslike toestande is, te gebruik.
-Die Boere het byvoorbeeld kakiekleure gedra wat dieselfde kleur as die veld was terwyl die Britte helderrooi baadjies gedra het wat hulle maklike teikens vir die Boereskerpskutters gemaak het. Die Britte keer ondanks teenstand deur die Liberale Party in die Britse Parlement in die Tweede Vryheidsoorlog (1899–1902) in groter getalle terug. Ondanks aanvanklike suksesse en verbete weerstand deur die Boere, oorweldig die Britse magte die Boere as gevolg van hulle getalleoorwig en beter toevoerlyne.
-Nadat die Boer na guerillataktiek oorslaan, slaag die Britte eers daarin om die Boere tot oorgawe te dwing toe hulle die geskroeide aarde beleid en gepaardgaande konsentrasiekampe gebruik om dit vir die Boere onmoontlik te maak om verder te veg. By die Vrede van Vereeniging word volle heerskappy oor die Suid-Afrikaanse republieke aan Brittanje gegee. Die Britse regering kom ooreen om die £3 000 000 oorlogskuld van die Boereregerings oor te neem. Een van die hoofvoorwaardes van die verdrag wat die oorlog beëindig het, was dat swart mense geen stemreg sou hê nie behalwe in die Kaapkolonie.
-Unie van Suid-Afrika [wysig]
-Hoofartikel: Unie van Suid-Afrika.
-Na vier jaar van onderhandelinge is die Unie van Suid-Afrika geskep uit die Kaap-en Natalkolonies en die Oranje-Vrystaat en Transvaalse Republieke op 31 Mei 1910, presies agt jaar na die einde van die Tweede Vryheidsoorlog. Die nuut geskepte Unie van Suid-Afrika was 'n Britse dominium. In 1934 smelt die Suid-Afrikaanse Party en die Nasionale Party saam om die Verenigde Party te vorm, wat versoening tussen Afrikaners en Engelssprekende blankes nagestreef het. Dit skeur egter in 1939 oor die Unie se deelname aan die Tweede Wêreldoorlog as 'n bondgenoot van die Verenigde Koninkryk. Die regsgesinde Nasionale Party het met Duitsland gesimpatiseer en wou sterker rassesegregasie implementeer.
-Bosoorlog 1966 - 1989 [wysig]
-Geskiedenis omtrent hierdie oorlog is 'n baie omstrede onderwerp in Suid-Afrika en word inligting oor veldslae, oorwinnings, helde en nederlae tot nog toe nie aan die wye publiek bekend gemaak nie.
-Apartheid en die Nuwe Suid-Afrika [wysig]
-Hoofartikel: Apartheid.
+Die Nederfrankiese verskeidenhede word saam met  onder  gegroepeer. Daar het 'n skeiding gekom tussen Nederduits en Hoogduits vanweë die .<ref>Glück, H. (ed.): ''Metzler Lexikon Sprache'', pages 472, 473. Stuttgart, Weimar: Metzler, 2000 (entries ''niederdeutsch'' and ''niederfränkisch'')</ref>
 
+== Geskiedenis ==
+:Sien Hoofartikel: .
+=== Ontstaan van die Afrikaanse omgangsvariëteite ===
+ in  () versinnebeeld die erkenning van  as amptelike taal in die .]]
+ in  () versinnebeeld ook die invloed van ander tale by die ontstaan van Afrikaans.]]
 
-'n Kennisgewing in die apartheidsera.
-In 1948 wen die Nasionale Party die algemene verkiesing en word 'n reeks strawwe afsonderingswette ingestel om die apartheidsbeleid te implementeer. Onder apartheid, is mense van verskillende rasse geskei en is swart mense stemreg binne die "wit Suid-Afrika" ontsê. Implementering van die beleid veroorsaak oneindige leed aan miljoene Suid-Afrikaners deur gedwonge verskuiwings, beperkings op beweging, indiensneming en gewelddadige onderdrukking van die stryd teen apartheid.
-Apartheid knou ook die ekonomiese vooruitgang van veral swart Suid-Afrikaners. Terwyl die wit minderheid van die hoogste lewenstandaarde in Afrika geniet het, in baie opsigte soortgelyk aan die in die "eerste wêreld" se westerse lande, is die swart meerderheid agtergelaat in terme van byna elke moontlike meetbare standaard, insluitend inkomste, opvoeding, behuising, en lewensverwagting.
-Apartheid het al hoe meer omstrede geword in die internasionale arena wat tot sanksies en onttrekking van beleggings gelei het, wat gepaard gegaan het met al hoe erger onluste. Die spanning het 'n hoogtepunt bereik in 1984-85 toe die regering met al hoe strawwer teenmaatreëls reageer. Dit het weer gelei tot feller weerstand van anti-apartheidbewegings (veral die ANC).
-Die land is op sy knieë gedwing deur die kombinasie van internasionale boikotte en ekonomiese sanksies, stakings, optogte, betogings, en sabotasie. In 1990 neem die Nasionale Partyregering die eerste stappe tot 'n onderhandelde skikking toe dit die ANC en ander politieke organisasies ontban en ANC-leier Nelson Mandela na 27 jaar in die tronk vrylaat. Apartheidwetgewing is geleidelik geskrap en die eerste veelrassige verkiesing is in 1994 gehou. Die ANC het met 'n oorweldigende meerderheid gewen en is steeds aan bewind.
-Ten spyte van die beëindiging van Apartheid leef miljoene swart Suid-Afrikaners steeds in armoede. Dit word gereeld toegeskryf aan die nalatingskap van apartheid, maar daar is ook druk op die huidige regering om dienslewering op te knap en sosiale vraagstukke aan te spreek. Die regering het wel baie vordering gemaak wat betref behuising, elektrisiteitsvoorsiening en toegang tot water, en lewenskwaliteit het in baie opsigte verbeter.
-Ander name [wysig]
+Teen die middel van die  het Europeërs hulle gevestig aan die Kaap. Op taalgebied sou hier 'n proses afspeel wat in alle Nuwe Wêreldlande afgespeel het, waar mense van verskillende tale en kulture vermeng het. Nuwe omgangsvariëteite sou ontstaan. Aan die Kaap sou ook taalontwikkelinge wat latent in  aanwesig was tot ontplooiing kom)<ref>Raidt, Edith H.: ''Afrikaans en sy Europese Verlede''. Kaapstad: Nasou Beperk 1991, bl. 230</ref>, (soos die sinkopee van die intervokaliese -d- en -g- (byvoorbeeld: sadel > saal en regen > reën).
 
-Suid-Afrika het 11 amptelike tale, met slegs Indië wat meer het. As gevolg hiervan is daar vele aanvaarde amptelike name vir die land. Agt nie-amptelike tale word ook erken: Fanagalo, Lobedu, Noord-Ndebele, Phuthi, Gebaretaal, Khoe, Nama en San. Sien ook tale in Suid-Afrika.
-Politiek [wysig]
+By die ontwikkeling van sommige Afrikaans-Hollandse omgangsvariëteite was die invloed van vreemde tale gering, maar ander variëteite het 'n  ondergaan, byvoorbeeld Hottentot-Hollands en Slawe-Hollands. Alle vreemdelinge aan die Kaap het Nederlands egter eie probeer maak. Veral ander Europeërs is binne 'n relatief kort tydperk geassimileer. Die nuwe omgangsvariëteite word wel gekenmerk deur 'n eenvoudiger taalkode. Hierdie proses was egter nie alleen tot die Kaap beperk nie. In  sou in dieselfde tyd 'n omgangsvariëteit ontstaan het wat grammatikaal eenvoudiger is as Europese . Ook in  sou 'n omgangsvariëteit ontstaan wat grammatikaal eenvoudiger is as Europese . 
 
+As gevolg van die Europese , verhuis , ,  en  van die Europese vasteland na die Britse eilande waar hierdie Germaanse immigrante vermeng met die Britse . Tussen 800 en 1100 sou ook  of Vikinge hulle vestig op die Britse Eilande. Die nuwe Germaanse taal wat hier ontwikkel het en later as Engels (afkomstig van Angele) bekend sou staan, is ook grammatikaal eenvoudiger as die Germaanse tale van die Europese vasteland.
 
+As gevolg van die grootskaalse taal- en kultuurvermenging in Amerika, sou dáár ook nuwe omgangsvariëteite ontstaan het wat grammatikaal eenvoudiger is as Standaardengels. Die bekendste voorbeeld hiervan is .
 
-Die stadskern van Pretoria, die administratiewe hoofstad van Suid-Afrika
-Suid-Afrika het 'n tweekamerparlement wat bestaan uit 'n Nasionale raad van Provinsies (of hoër-huis) met 90 lede, en 'n Nasionale Vergadering (of laerhuis) met 400 lede. Lede van die laerhuis word volgens proporsionele verteenwoordiging verkies: helfte van die lede word direk verkies op grond van nasionale lyste en die ander helfte word verkies uit provinsiale lyste. Tien lede word verkies om elke provinsie in die Nasionale Raad van Provinsies te verteenwoordig, ongeag die bevolkingsgrootte van die provinsie. Verkiesings vir beide kamers word elke vyf jaar gehou. Die regering word in die laerhuis gevorm, en die leier van die meerderheidsparty in die Nasionale Vergadering is die President.
-Tans word Suid-Afrikaanse politiek oorheers deur die ANC wat 65,9% van die stemme in die algemene verkiesing van 2009 ontvang het. Die hoofteenstander teen die ANC se heerskappy is die Demokratiese Alliansie wat 16,66% van die stemme ontvang het. Die voorheen dominante Nuwe Nasionale Party, waarvan die voorganger, die Nasionale Party, apartheid aanvanklik ingestel het, het na 1994 spoedig steun verloor en het op 9 April 2005 gestem om finaal te ontbind.
+Die Nederlandse omgansvariëteite aan die Kaap tussen 1652 en omstreeks 1800 is selde op skrif gesit, wat beteken dat ons vandag nie presies weet hoe hierdie variëteite gelyk het nie.<ref>Raidt, Edith H.: Afrikaans en sy Europese Verlede. Derde hersiene en uitgebreide uitgawe. Kaapstad: Nasou 1991, bl. 171</ref> Teen omstreeks 1800 is die volgende omgangsvariëteite aan die Kaap gepraat, naamlik:
+:1) Suiwer Nederlands;
+:2) Burger Afrikaans of Kaaps-Hollands, soos gebruik deur die aristokrasie;
+:3) Boere-Afrikaans, veral op die platteland;
+:4) Hottentot-Hollands (of Hottentot-Afrikaans);
+:5) Slawe-Afrikaans;
+:6) Vreemdeling-Afrikaans.<ref>van der Merwe H.J.J.M.: Herkoms en Ontwikkeling van Afrikaans. Afrikaanse Pers-Boekhandel: Johannesburg 1970, bl. 69</ref>
 
-Geografie [wysig]
+Die skywer  vermeld dat in 1844 die volgende variëteite aan die Kaap gepraat was, naamlik:
+:1) Suiwer Nederlands;
+:2) Hoog-Hollands, soos gebruik in die gegoede burgerlike kringe aan die Kaap;
+:3) Plat-Kaaps van ander blankes en Engelse;
+:4) Plat-Kaaps van die Hottentotte en ander 'gepeupel'.<ref>Changuion, A.N.E.: De Nederduitsche Taal in Zuid-Afrika Hersteld. Kaapstad: Richert Pike 1844</ref>
 
+In 1875 was  van mening dat daar drie soorte Afrikaans gepraat was aan die Kaap en dit was volgens hom:
+:1) Heere-Afrikaans;
+:2) Boere-Afrikaans;
+:3) Hottentot-Afrikaans.<ref>E.H. Raidt: Taalvariasie in Negentiende-Eeuse Afrikaans. Tydskrif vir Geesteswetenskappe, jaargang 32(4), 240-256, bl. 241</ref>
 
+S.J. du Toit was van mening dat die 'regte' inwoners van Suid-Afrika, Boere-Afrikaners was en het hy Boere-Afrikaans beskou as die model waarop Standaardafrikaans geskoei moes word.
 
-Kaart van Suid-Afrika
-Suid-Afrika is aan die heel suidelikste deel van Afrika geleë met 'n lang kuslyn van meer as 2 500 kilometer (1 550 myl) wat oor twee oseane strek (die Atlantiese en Indiese). Suid-Afrika het 'n groot verskeidenheid klimaatsones, van die woestyntoestande in die Kalahari naby Namibië tot welige subtropiese klimaat langs die grens met Mosambiek. Dit rys vinnig oor 'n bergagtige platorand tot die binnelandse plato wat as die hoëveld bekend staan. Selfs al word Suid-Afrika as semi-droog beskou, is daar aansienlike wisseling in klimaat sowel as topografie.
+=== Standaardisering en ontwikkeling van Afrikaans as kultuurtaal ===
 
+Aan die Kaap is verskillende Afrikaans-Hollandse omgangsvariëteite gepraat met Nederlands as oorkoepelende kultuurtaal. Nederlands was die algemeen aanvaarde kultuurtaal en het gedien as skryftaal, bestuurstaal, kerktaal en die taal van die onderwys. In  het die Kaapkolonie vir die tweede keer in Britse hande geval waarna Engels aan 'n kragtige opmars begin het. Onder Engelse bestuur is die gebruik van Afrikaans-Nederlands ontmoedig.
 
-Waterpompe in Namakwaland (Noord-Kaap)
-Ondanks sy ligging in die subtropiese klimaatsone word groot dele van die land danksy die invloed van die oseane en die feit dat die sentrale gebiede meer as 1 000 meter bo seevlak geleë is eerder deur 'n gematigde en sonnige klimaat gekenmerk. Pretoria se gemiddelde jaarlikse temperatuur is net 0,5 °C hoër as dié van Kaapstad. Kaapstad se gemiddelde 8,6 daaglikse sonskynure vergelyk baie gunstig met byvoorbeeld die Spaanse hoofstad Madrid (7,9 ure) en die Italiaanse hoofstad Rome (6,5 ure).
-Die Suid-Afrikaanse binneland wissel van die bergagtige en yl bevolkte Karoo tot gras- en bosveld in die noordelike dele van die land. Die ooste van die land lê in die somerreënstreek - die oostelike kuslyn kry heelwat reën en is amper tropies in aard. Die heel suidwestelike gedeelte van die land is weer mediterreens met nat winters en warm, droë somers. Die suidwestelike gebiede van die Wes-Kaap produseer die meeste van Suid-Afrika se wyn. Dit word gekenmerk deur wind, wat die grootste deel van die jaar met tussenposes in Maart en April waai. Veral Kaapstad staan bekend vir sy Suidooster-wind.
-Die felheid van die winde het die vaart om die kus van die Kaap van Goeie Hoop in die verlede lewensgevaarlik vir seevaarders gemaak en baie skipbreuke is daardeur veroorsaak. Effens meer oos aan die suidkus van die land, waar reënval in die vorm van kort buie meer konstant deur die jaar is, word die Tuinroete aangetref, wat bestaan uit 'n beeldskone groen landskap.
-Plant- en dierelewe [wysig]
+In 1854 het die Oranje Vrystaat Nederlands aanvaar as amptelike taal. In 1882 is Nederlands erken as amptelike taal in die Kaap naas Engels. In  is Nederlands erken as amptelike taal in die Transvaalse Republiek (ZAR). Om die erkenning van Nederlands as amptelike taal in die Kaapse parlement te herdenk, is te  Burgersdorp die  opgerig in . Aan die einde van die 19de eeu was daar mense wat van mening was dat Afrikaans (veral Boere-Afrikaans) meer erkenning moes geniet en het hulle voorspraak begin maak vir 'n eie inheemse taal: Afrikaans. In die Nederlandstalige pers is toe soms briewe en artikels geplaas in Afrikaans.
 
+Ook het die Kaapse Maleiers begin om Afrikaans-Nederlands naas Arabies te gebruik in hulle godsdiensgeoefening. Die Maleiers het onder andere Afrikaans-Nederlands geskryf maar in die Arabiese alfabet.
 
+== Die Afrikaanse Taalbeweging ==
 
-Fynbos, 'n plantkoninkryk uniek aan Suid-Afrika word naby Kaapstad aangetref
-Suid-Afrika het meer as 20 000 verskillende inheemse plante, of omtrent 10% van alle spesies op aarde, wat beteken dat dit baie ryk aan biodiversiteit is.
-Suid-Afrika se mees algemene bioom is grasveld, veral op die Hoëveld waar die plantegroei oorheers word deur verskillende grasse, lae struike en doringbome, hoofsaaklik kameeldoring en witdoring. Plantegroei is selfs yler in die noordweste as gevolg van die lae reënval. Dáár kom verskeie vetplantspesies voor wat water stoor soos aalwyne en nabome in die baie warm en droë Namakwaland. Die gras- en doringsavanne verander stadig in bosveld in die noordooste van die land met digter plantegroei. Daar is ook 'n beduidende hoeveelheid kremetartbome in die gebied naby die noordelike punt van die Nasionale Krugerwildtuin.
-Ekonomie [wysig]
+Die eerste- en tweede  het veral die  en ook die  as voorbeelde beskou. In die VSA het  gepleit vir 'n eie inheemse Amerikaanse taal in die plek Engels. Ook in Vlaandere, Brasilië, Noorweë en Quebec het stemme opgegaan vir 'n eie inheemse taal. Hierdie taalbewegings was deur nasionalisme aangevuur. Die , die , die  en die  het op 'n mislukking uitgeloop. Die  was wel aanvanklik 'n sukses, maar is tans besig om te misluk. Alleen die  was volledig suksesvol in die vestiging van 'n ''nuwe kultuurtaal''. Die motivering en doelstellings van al hierdie taalbewegings was dieselfde.
 
-Sien ook: Ekonomie van Suid-Afrika, Politieke ekonomie van Suid-Afrika, Geskiedenis van die ekonomiese ontwikkeling van Suid-Afrika
+Die eerste Afrikaanse taalbeweging neem 'n aanvang in 1875 met die stigting van die GRA of die  in die Paarl. Die doelstellings van die '''GRA''' is egter deur die meeste Kapenaars verwerp. Nederlands was beskou as die algemene aanvaarde kultuurtaal. Dit was die formele skryftaal, kerktaal, bestuursaal, onderwystaal en die taal van die pers. Nederlands het hoë aansien geniet en is as 'n deftige statustaal beskou. Afrikaans was beskou as 'n taal wat die stempel van onkunde dra. Hoofregter J.H. de Villiers was in 1876 van mening dat 'n Afrikaanse Bybel, soos voorgestaan deur die Patriotmanne, onvanpas was, omdat die Afrikanerbevolking Nederlands in elk geval verstaan.<ref>A. de Villiers: Die Hollandse Taalbeweging in Suid-Afrika, Kaapstad, 1936, bl.97</ref> Dieselfde regter was al op 13 Mei 1875 in Kaapstad van mening dat as dit die bedoeling is van die GRA en Patriotmanne om Nederlands te vervang met Afrikaans, dit later sal blyk 'n groot "misslag" te wees en die beweging uiteindelik 'n mislukking sal word omdat die bevolkingsgrootte van die Afrikaners te klein is.<ref>A. de Villiers: Die Hollandse Taalbeweging in Suid-Afrika, Kaapstad, 1936, bl.36</ref>
 
+Artikels in die Nederlandstalige pers het neerhalend na Afrikaans verwys. In ''De Zuid-Afrikaan'' is na Afrikaans verwys as 'n "''corruptie''", "''een mengelmoes van onzin en dwaasheid''", wat niks anders sou wees as "''een caricatuur van de gemeene wijze waarop die Mozambiekers op onze straten spreken en n.b. meestal geschreven wordt door uitlanders, die noch ons volk, noch ons land kennen''".<ref>Van Rensburg (1997), bl. 44</ref> ''Di Afrikaanse Patriot'', mondstuk van die GRA, is as 'n"''vod''", 'n "''Prulblad''", "'''n Hottentot Courant''" beskryf.
 
-Die Johannesburgse Aandelebeurs is die grootste aandelebeurs in Afrika
-Suid-Afrika se nywerheidsektor is die grootste en belangrikste op die vasteland van Afrika, en met sy rykdom minerale is die republiek ook een van die wêreld se voorste mynboulande. Nogtans het die land nooit daarin geslaag om tot 'n nywerheidsland te ontwikkel nie - 'n feit wat deur sommige deskundiges aan Suid-Afrika se vroeëre beleid van Apartheid toegeskryf word.[6] Een van die grootste uitdagings vir die land bly dan ook die regverdige verdeling van rykdom en hulpbronne.
-Mynbou [wysig]
-Suid-Afrika beskik oor die wêreld se grootste reserwes goud en platinum, asook reuse-reserwes van ander metale en minerale soos chroom, mangaan, steenkool en ystererts. Die enigste belangrike natuurlike hulpbronne, wat nie plaaslik voorkom nie, is bauxiet en ru-olie. Jaarliks word minerale en metale ter waarde van sowat 700 miljard ZAR gemyn wat grotendeels uitgevoer word.
-Die mynbousektor lewer 'n baie groot persentasie van die land se uitvoere en dra tussen sewe en agt persent tot Suid-Afrika se bruto geografiese produk (BGP) by. Terwyl die ontginning van goud ondanks gevorderde tegnologieë sy tradisioneel leidende rol geleidelik verloor, word platinum, steenkool en ystererts steeds belangriker. Suid-Afrika lewer tans byna 80 persent van die platinum op die wêreldmark op. In die vroeë 21ste eeu het kragtekorte die mynboubedryf belemmer en produksie met tot twintig persent verminder.
-Landbou [wysig]
-Hoofartikel: Landbou in Suid-Afrika.
-Naas mynbouprodukte bly die uitvoergerigte landbou die tweede belangrikste verskaffer van buitelandse valuta vir die land. Dit lewer sowat drie persent van die BGP op. Veral Suid-Afrikaanse wyn, vrugte en groente is gewild op oorsese markte. Danksy gunstige klimaattoestande trek veral die provinsie Wes-Kaap voordeel uit die - in vergelyking met die Noordelike Halfrond - teenoorgestelde seisoene. Verskeie produkte kan sodoende langer na Europese bestemmings gelewer word. Landbou in die res van die land word egter deur swak grondgehalte en watertekorte gestrem.
-Wynbou [wysig]
-Suid-Afrika is met 2,7 persent van die jaarlikse produksie, wat gelykstaan aan 730 miljoen liter, tans die negende grootste wynprodusent ter wêreld. Sowat 4 450 wynprodusente is in die land geregistreer.
-Danksy die toenemende internasionale gewildheid van Suid-Afrikaanse wyne het die uitvoersyfers sedert die jare negentig skerp gestyg en beloop in 2005 reeds 281,1 miljoen liter (teenoor 'n skrale 25 miljoen in 1991). Dit maak van Suid-Afrika die vierde grootste wynprodusent buite Europa. Die gewildste soorte vir die internasionale mark is Chenin Blanc en Cabernet Sauvignon.
-Verwerkende nywerhede [wysig]
-Net soos Suid-Afrika se mynbou- en landbousektor is ook die land se verwerkende nywerhede sedert 1994 aan skerp internasionale mededinging en aanhoudende prysdruk op die wêreldmark blootgestel. Die plaaslike verwerking en veredeling van die land se minerale-skatte, swaar nywerhede en vervaardiging van masjiene het steeds belangriker geword. Die sterk groei in 'n aantal nywerheidsektore soos die boubedryf word deur die binnelandse vraag gedryf.
-Die tweede grootste nywerheidsbedryf met 'n lang tradisie van plaaslike vervaardiging is die motorbedryf. Groot Duitse produsente soos BMW en VW het 'n beduidende persentasie van hul vervaardigingskapasiteite na Suid-Afrika uitgeplaas en produseer hier ook vir oorsese markte. Nogtans het die bedryf 'n sterk sikliese karakter - weens dalende vraag van oorsese ekonomieë is produksie in 2008 en 2009 merkbaar verminder. Ander belangrike nywerheidsektore sluit chemie, inligtings- en kommunikasietegnologie asook tekstiele in.
-Energiebedryf [wysig]
-Suid-Afrika se energiebedryf beleef in die vroeë 21ste eeu ingrypende strukturele verandering. Dit dra tans reeds sowat 15 persent tot die BGP by en sal as gevolg van stygende binnelandse vraag verdere groei toon. Om in die land se toekomstige kragbehoeftes te kan voorsien, sal nuwe kragsentrales opgerig moet word. Die nasionale energieverskaffer Eskom sal danksy 'n lening van die Wêreldbank byna vier miljard VSA-$ in sy Medupi-projek belê, tog bly hierdie konvensionele termiese kragsentrale by Suid-Afrikaanse en buitelandse nie-regeringsorganisasies omstrede. Kritici wys op die hoë koolstofdioksied-emissies van steenkoolkragsentrales.
-Infrastruktuur [wysig]
-Suid-Afrika het 'n moderne vervoersektor en goed ontwikkelde telekommunikasiebedryf. Vir die FIFA-Sokker-wêreldbekertoernooi in 2010 het die land hom op die verdere uitbou van sy infrastruktuur toegespits en 'n aantal langtermynprojekte aangepak.
-Toerisme [wysig]
-Volgens 'n ondersoek, wat deur Standard Bank gedoen is, is toerisme tans een van die belangrikste verskaffers van buitelandse valuta vir die land, met 'n inkomste van R53,9 miljard in 2003 (of sewe persent van die bruto binnelandse produk) - nog voor die goudmynbou, wat R35,3 miljard verdien het.
-Volgens die minister van toerisme, Marthinus van Schalkwyk, het die aantal buitelandse toeriste wat Suid-Afrika in 2009 besoek het, eksponensieel gegroei tot meer as 9,9 miljoen. Die toerismesektor se direkte en indirekte bydrae tot die ekonomie het tussen 1994 en 2009 byna verdubbel - van 4,9 tot 7,9 persent of ZAR 89,4 miljard.[7]
-Misdaad [wysig]
+Die meeste Afrikaners in die tyd, het Afrikaans egter as 'n uiters inferieure taalvorm beskou. Vir hulle was dit 'n taal sonder grammatika; 'n Hottentotstaal; 'n wartaal; 'n mengelmoes vol onsin en dwaashede en 'n taal wat by skaapkrale en in die kombuis hoort.
 
+=== Afrikaans en nasionalisme ===
 
+Die  as amptelike taal, naas Engels, vind plaas in 1925. Volgens wet 9 van 1925 is Afrikaans toe aan Nederlands gelykgestel, maar in die praktyk het die ondersteuners van  Nederlands op 'n despotiese manier met Afrikaans vervang.<ref>J.J. le Roux: Handleiding in het Afrikaans voor Nederlanders. Amsterdam: S.L. van Looy. 1921. bl. 4.</ref>
+ 
+Afrikaans het sinoniem geword met . Afrikaans as kultuurtaal is beskou as die produk van nasionalisme;<ref>F.A. Ponelis: "Standaardafrikaans in oorgang." V.N. Webb (red.), Afrikaans ná Apartheid. Pretoria. J.L. van Schaik. 1992, bl.69-90.</ref> of as 'n uitingsvorm van nasionalisme.<ref>J.du P. Scholtz: Wording en Ontwikkeling van Afrikaans. Kaapstad: Tafelberg uitgewers. 1980. bl. 9.</ref> Die Afrikaners het immers oor 'n reeds gevestigde kultuurtaal beskik (Nederlands) wat doelbewus vervang moes word met 'n ander kultuurtaal (Afrikaans).
 
-'n Straatbord naby Witbank waarsku teen motorkapers op die N4-snelweg
-Naas die vigs-epidemie word misdaad in Suid-Afrika as 'n nasionale krisis beskou. Suid-Afrika is een van vyf lande wêreldwyd waar georganiseerde misdaad 'n negatiewe effek op die ekonomie het en hoë ekstra koste veroorsaak. Volgens 'n ondersoek van 1997 van die Duitse Handelskamer het sowat 15 persent van die ondernemings wat deelgeneem het, nuwe beleggings weens die hoë misdaadsyfers gestaak. Meer as twee derdes het gekla oor inbrake en motordiefstalle.
-Misdaad word volgens die ondersoek deur Duitse bestuurders en hulle gesinne ook as 'n persoonlike bedreiging beskou. Oor 'n gemiddelde tydduur van sowat 18 maande word elkeen van hulle of 'n familielid die slagoffer van 'n misdaad. Twintig persent van die ondernemings het in die twee jaar voor die ondersoek medewerkers as gevolg van moord verloor. By 47 persent van die ondernemings het bestuurders of hoogs gekwalifiseerdes die land weens die misdaadprobleem verlaat.
-In 1995 was die moordsyfers in Suid-Afrika reeds die hoogstes ter wêreld - daar is gemiddeld twee mense per uur vermoor. Die provinsies Gauteng en Wes-Kaap word die meeste geraak; na Johannesburg is in dié verband in 1998 in 'n spesiale uitgawe van die Duitse tydskrif "DEG aktuell" selfs as die "wêreld se moordhoofstad van die jaar 1997" verwys.
-Die Amerikaanse Departement van Buitelandse Sake waarsku VSA-burgers dat Suid-Afrika 'n swak rekord in misdaadbekamping het[8]. Die situasie het blykbaar sedert 2006 verder versleg, aangesien nou ook buitelanders in welvarende voorstede deur kriminele bendes bedreig word. In Februarie 2007 het ses Amerikaanse diplomate in Pretoria die slagoffers van 'n gewapende roof geword, en nuusberigte staaf dat buitelandse diplomate se vrees vir misdaad ná 'n reeks soortgelyke voorvalle steeds groter word.
-Dwelmhandel vier sedert die einde van die apartheid eweneens hoogty in die land, wat vroeër danksy sy isolasie nouliks deur hierdie probleem geraak is. Kaapstad dien nou naas Lagos in Nigerië as een van die Suid-Amerikaanse en Asiatiese kartelle se hoofinvoerhawe vir dwelmmiddels in Afrika. Suid-Afrika is een van die belangrikste lande vir die internasionale dwelmhandel en het ook die grootste produsent van dagga geword. Dagga ter waarde van 45 miljard rand is hier reeds in 1994 op 83 000 hektaar verbou.
-Demografie [wysig]
+Die ondersteuners van D.F. Malan wou nie alleen 'n wig inslaan tussen Afrikaans en Nederlands nie, maar ook 'n wig tussen die Afrikaners en die Kleurlinge.  het juis gewaarsku dat Malan die verkeerde pad volg. Vir Hertzog was Nederlands die kultuurtaal van die Afrikaner en het Hertzog die Kleurlinggemeenskap ook beskou as deel van die Afrikaners. Malan het gewen. Hy het die kleurlinge tot nie-blankes laat verklaar en hulle uit 'blanke' dorpe en stede laat verwyder. Uiteindelik het juis hierdie rassisme die taal skade berokken. Afrikaans het 'apartheidstaal' geword, 'n simbool van die onderdrukking van die gekleurde helfte van sy eie sprekers.
 
-Hoofartikel: Demografie van Suid-Afrika.
+Met sy nuwe funksie as amptelike taal het die woordeskat van Afrikaans in die  grootskaals uitgebrei, en intussen het meer as 200 Afrikaanse vakwoordeboeke verskyn. Om die taal, wat oorspronklik 'n eenvoudige kommunikasiemiddel en omgangstaal was, te kon uitbou as 'n medium vir die onderwys, administrasie, literatuur, kunste en wetenskappe, is dikwels na Nederlandse terme teruggegryp om s te vorm. Die verskillende Afrikaanse vaktale het intussen ook die internasionale woordeskat, wat op hulle gebiede gebruiklik is, oorgeneem.
 
+=== Afrikaans na 1994 ===
+Die grondwet van  het bepaal dat Nederlands en Engels die amptelike tale van die land was. In  is Afrikaans aan Nederlands gelykgestel. Die grondwet van  het Afrikaans en Engels as amptelike tale erken, maar bevestig dat Afrikaans en Nederlands sinonieme was. Volgens die grondwet van  was slegs Afrikaans en Engels die amptelike tale van die land. Die grondwet van  het elf amptelike tale erken waarvan Afrikaans een is.
 
-Ontwikkeling van Suid-Afrika se bevolking
-Teen die middel van 2007 is die bevolking van Suid-Afrika deur Statistieke Suid-Afrika op 47 850 700 mense beraam, waaronder 38 079 900 swartes (79,6 persent van die totale bevolking), 4 354 000 blankes (9,1 persent), 4 245 000 kleurlinge (8,9 persent) en 1 173 700 Asiërs (2,5 persent). Van die totale bevolking was 24 288 100 mense vroulik en 23 562 600 manlik.[9]
-Die aantal ekonomiese migrante, wat onwettiglik in die land bly, word op tussen drie en vier miljoen beraam.[10]
-Verstedeliking [wysig]
-In 2000 was 95 persent van die Blanke en Asiatiese, 79 persent van die Kleurling en 41 persent van die Swart bevolking verstedelik. Behuisingstekorte en onvoldoende infrastruktuur is veral in die metropolitaanse gebiede 'n groot probleem, en as gevolg word veral die randgebiede van stede deur informele woonstrukture soos plakkerskampe gekenmerk. Die boubedryf is tans nie in staat om in die groeiende aanvraag na behuising te voorsien nie. Swart stedelike gebiede soos Soweto ly onder oorbevolking; in hierdie Swart voorstad woon nog steeds tussen drie en vier miljoen mense op 'n oppervlakte van net 130 vierkante kilometer.
-Die verstedelikingsproses van die Swart bevolking sal ook in die eerste dekade van die 21ste eeu aanhou, terwyl die landelike bevolking met tussen vyf en tien persent sal krimp.
-Blanke woongebiede van die middel- en opperklas is minder geraak deur die sosiale veranderings ná die einde van die geografiese rasseskeiding. Die ou stelsel van "groepsgebiede" word hier grotendeels nog bewaar, aangesien net 'n minderheid van Swartes huispryse en huurgelde in hierdie gebiede kan bekostig. Die klein getalle nie-Blanke bewoners, wat na die eertydse Blanke woongebiede verhuis, kan maklik geïntegreer word.
-Stede van Suid-Afrika
-Dorpe van Suid-Afrika
-Sosiale struktuur [wysig]
-Suid-Afrika bly 'n land wat langs ras-, etniese-, taal-, godsdiens- en klaslyne, maar ook langs die lyn tussen sentrum en periferie verdeel is. Die plaaslike historiese ontwikkeling het van die Suid-Afrikaanse samelewing 'n soort rasgebaseerde kastestelsel gemaak - ras en velkleur het daarin meer betekenis gekry as klas, taal en ander sosiale kriteria.[11]
-Onderwys [wysig]
+Die aftakeling van Afrikaans as 'n volwaardige ampstaal in Suid-Afrika het in die afgelope jare tot groot paniek gelei. Regeringsinstellings en privaat maatskappye gee om verskillende redes dikwels die voorkeur aan Engels. Die mening het begin posvat dat Engels, as wêreldtaal, 'n meer geskikte taal vir onderwys en internasionale kommunikasie is. 
 
-Hoofartikel: Onderwys in Suid-Afrika.
-Opvoedkundige beleid [wysig]
+Hierdie beskouing is in stryd met die teenswoordige ontwikkeling in baie lande, waar streektale - as 'n soort reaksie op die toenemende stendense en die dreigende verlies van kulturele identiteit - begin herleef. Afrikaans toon in sy huidige situasie baie ooreenkomste met Europese streektale en beskik oor dieselfde potensiaal om in sy hoofsaaklike taalgebiede - die weste van Suid-Afrika en die suide van Namibië - 'n funksie as enigste amps- en wetenskapstaal te kan vervul. Daar is talle voorbeelde van ander lande, waar 'n konsekwente taalbeleid ten gunste van kleiner tale suksesvol ingestel is. Die  provinsie  het 'n eentalige Franse gebied in  geword, ondanks die ekonomiese druk wat vanuit die Engelse omgewing uitgaan. In Katalonië, die historiese nywerheidsentrum van , het die plaaslike   volledig verdring uit die openbare lewe, en selfs die tersiêre onderwys het Katalaans as enigste voertaal aanvaar. In  word 't  (wat eintlik 'n vorm van  is) as amptelike taal erken naas Frans en Duits. 
+
+In die geval van Afrikaans bly die letterkunde en die kultuurlewe 'n waarborg vir die voortbestaan van Afrikaans. Afrikaanse koerante en tydskrifte is net so suksesvol soos privaat televisiekanale, wat op die Afrikaanse mark gemik is. In die suidelike helfte van Namibië is Afrikaans die belangrikste huis- en omgangstaal, en ook die grootste  van die land, ''Die Republikein'', verskyn in Afrikaans.
+
+Uit die skatting van 2007 blyk dat Engels (as onderrigtaal) nie 'n groot invloed uitoefen op Afrikaanssprekende kinders se huistaalgebruik nie. Dit blyk verder ook dat baie minder bruin Afrikaanssprekers na Engels oorskakel, as wat aanvanklik vermoed was. Dieselfde gebeur in Namibië. Alhoewel Engels sedert 1990 die amptelike taal in Namibië is en die onderwystaal slegs Engels is, groei die aantal Afrikaanssprekendes.
+
+== Huidige verspreiding ==
+=== Afrikaans in Suider-Afrika ===
 
 
-"Die skip", 'n administratiewe gebou van die Universiteit van Pretoria (UP)
-Die re-organisasie van Suid-Afrika se onderwysstelsel en sy nasionale opvoedkundige beleid word deur die ANC-regering as 'n sleuteltaak van sy kulturele beleid beskou. Die onderwysstelsel van die ou bedeling is vanweë sy rasseskeiding en die beperking van kwaliteitonderwys tot blanke leerders steeds as een van die ooglopendste kenmerke van die apartheidsteldsel ervaar.[12] Suid-Afrikaanse openbare skole het hul deure eers in April 1994 vir leerders van alle bevolkingsgroepe geopen. Op hierdie datum is 'n nuwe nie-rasgebaseerde nasionale onderwysstelsel en algemene skoolplig ingevoer.
-Hervormings ten opsigte van kurrikula en onderwysstrukture is daarop gemik om toegang tot en beskikbaarheid van gehalte-onderwys vir alle Suid-Afrikaanse leerders te verseker. In Februarie 2010 is die Departement van Onderwys in twee nuwe departemente opgesplits: die Departement van Basiese Onderwys (onderrig tot matriekvlak) en die Departement van Hoër Onderwys en Opleiding.
-In die praktyk word die kanse van Suid-Afrikaanse leerders en studente op gehalte-onderwys egter deur die HIV/Vigs-problematiek, skool-, universiteitslosies- en klasgelde, die tekort aan wiskunde- en natuurwetenskappe-onderwysers asook die feit dat daar min aansporing vir matrikulante is om 'n onderwyskwalifikasie te behaal, ondermyn.
-Die veeltaligheid van Suid-Afrika word van regeringskant in prinsipe met slagspreuke soos "Eenheid in verskeidenheid" erken, en naas die elf amptelike word ook dertien vreemde tale bevorder.
-Hoër onderwys [wysig]
-Met die Wet op Hoër Onderwys het die regering in 1997 begin om die Suid-Afrikaanse universiteitstelsel te transformeer. Die aantal tersiêre instellings (waaronder universiteite en tegnikons) is in 2004 en 2005 verminder van 36 tot 21, onder meer om die ou skeiding tussen "blanke" en "nie-blanke" instellings uit te wis. Hierdie ingewikkelde proses sal nie oor die kort termyn afgesluit kan wees nie, en verskeie kwessies wat steeds bestaan - onder meer bekommernis oor Afrikaans se toekomstige rol as wetenskapstaal - het net soos die gebrek aan finansiële hulpbronne tot studenteproteste gelei.
-Kultuur [wysig]
-
-Kuns [wysig]
 
 
-Thomas Baines: Kremetartboom
-Die Suid-Afrikaanse kunstradisie kan as die oudste in die menslike geskiedenis beskryf word - die rotskuns van inheemse San of Boesmans het 'n ononderbroke tradisie wat tot in prehistoriese tye terugstrek en tot in die 19de eeu gedokumenteer kan word. Hul skilderye en rotstekeninge kan op meer as 3 000 plekke in die land aangetref word.[13]
-Houtsnykuns, pêrelwerk, mandjiewerk en pottebakkery is al eeue lank kenmerkend vir Suid-Afrikaanse kunshandwerk wat in baie landsdele steeds beoefen word. Tans word dikwels ook moderne materiale soos kunsvesels gebruik.
-Europese ontdekkingsreisigers en geograwe het Westerse invloede na Suid-Afrika gebring. Skilders soos Thomas Baines (1820-1875), Frederick Timpson l'Ons (1802-1887) en Thomas Bowler (1812-1869) is bekende verteenwoordigers van Suid-Afrika se vroeë moderne skilderkuns wat homself veral op landskapskilderye toegespits het. Hierdie tradisie is voortgesit deur skilders soos Frans Oerder (1867-1944) en Pieter Wenning (1873-1921) wat hul opleiding in Nederland ontvang en groot invloed op skilders soos J.E.A. Volschenk (1853-1936) en Hugo Naudé (1869-1938) uitgeoefen het. Ander bekende Suid-Afrikaanse landskapskilders sluit Jacobus Hendrik Pierneef (1886-1957) en lede van die Everard-groep in.
-Musiek [wysig]
+
+Daar is onlangs nuwe skattings (gegrond op ''SA Satistics 2010 mid-year estimates'') uitgereik wat toon dat Afrikaans as huistaal oor die afgelope drie jaar veranderinge ondergaan het. Die getal van mense wat Afrikaans by die huis gebruik het van omtrent 6,44 miljoen in 2007 tot omtrent 6,49 miljoen in 2010 gestyg (alles insluitende Namibië). 
+
+Wat verrassend hierby mag wees is dat die syfer van swart Afrikaanssprekendes gestyg het van omtrent 0,24 miljoen in 2007 tot 0,29 miljoen in 2010. As redes daarvoor word onder meer die bevolkingsgroei in Namibië asook in die Vrystaat en die noordelike deel van Suid-Afrika vermoed waar Afrikaans die meesgebruikte taal onder werkers in die landbou is wat sodoende die taal ook by die huis gebruik. 
+
+Verder kan ook vasgestel word dat Afrikaanse huishoudings toenemend na "dubbelmedium" oorskakel wat beteken dat Engels asook afrikaans gebruik word. Die getal wit afrikaanssprekendes het effens verhoog, terwyl die persentasie bruin Afrikaanssprekendes stadig maar seker daal.  Volgens 2007 se ''Community Survey'' word  geskat dat daar omtrent 6,44 miljoen Suid-Afrikaners Afrikaans as huistaal gebruik het (Blankes: 2,76 miljoen - insluitende Namibië, Bruin: 3,44 Miljoen - insluitende Namibië, Swart: 0,24 Miljoen (uitsluitende Namibië), Indiërs: minder as 10&nbsp;000). 
+
+Benewens blanke en bruin Afrikaanssprekendes word Afrikaans deur die meeste etniese groepe in Suid-Afrika as 'n tweede (of selfs derde) taal gepraat. Die westelike Suid-Afrika (met die provinsies Noord- en Wes-Kaap en die westelike gebiede van die Vrystaat) is tans 'n oorwegend Afrikaanstalige gebied; 'n groot persentasie van Afrikaanses in die gebied is Kleurlinge. 
+
+In die oostelike Suid-Afrika is daar stedelike konsentrasies van veral blanke Afrikaanssprekers in , , , , , , , , ,  en . In  is daar ongeveer 146&nbsp;000 sprekers. Afrikaans word daar erken as nasionale taal, maar die enigste amptelike taal is sedert onafhanklikheid in  . Volgens skattings is daar tot twintig miljoen mense wêreldwyd wat Afrikaans as moeder-, tweede of derde taal kan praat.
+
+===Afrikaans as Afrikataal===
+Hoewel Afrikaans as 'n Germaanse taal geklassifiseer word, kan dit op grond van ruimtelike gebruik as 'n Afrikataal bestempel word. In Afrika word daar 'n reeks tale gepraat, wat nie aan mekaar verwant is nie. In die sin kan enige ''taal van Afrika'' as sinoniem met ''Afrikataal'' beskou word. 
+Verdere redes sluit in<ref>Ponelis, F.A. : "Inleiding tot die Afrikaanse taalkunde." Botha/Ponelis/Combrink/Odendal (Reds.), Ruimtelike klassifikasie. Kaapstad. Academica. 1989, bl.26-27.</ref>:
+* Die taal dra die naam van die vasteland.
+* Gedurende sy ontwikkeling het Afrikaans redelik baie woorde uit ander Afrikatale, soos Khoekhoens en die swart tale, ontleen.
+* Die taalgemeenskap het in Afrika die lig gesien en is merendeels tot Afrika beperk. Die sprekers van Maleis, Nederlands, Frans, Hoogduits, Platduits en Portugees, wat vanuit ander wêrelddele afkomstig is, het aan die Kaap 'n nuwe, oorspronklike taalgemeenskap, naamlik dié van Afrikaans geskep.
+* Daar is Afrikane wat Afrikaans magtig is. 
+
+Omrede die , wat die Afrikaanse taal reguleer, se hoofkwartier fisies op die Afrika-vasteland gestasioneer is (vergelyk , wat die Nederlandse taal reguleer, in ), kan dit ook as aanduiding dien dat Afrikaans 'n Afrikataal is.
+
+=== Afrikaans in die res van die wêreld ===
+Met die einde van die amptelike beleid van rasseskeiding het die internasionale belangstelling in Suid-Afrika duidelik toegeneem, en kulturele bande met Nederland en Vlaandere is versterk. 'n Aantal universiteite in die buiteland, onder meer  in ,  en  in  en  in , het Afrikaans as 'n taalvak binne die verband van die Neerlandistiek ingevoer. Die Adam Mickiewicz-universiteit in ,  se Insituut vir Engelse Filologie het 'n Departement van Nederlands en Suid-Afrikaanse Studies<ref>[http://ifa.amu.edu.pl/fa/Department_of_Dutch_and_South_African_Studies ''UAM - Department of Dutch and South African Studies'']</ref> en bied ook spesialisasie in Suid-Afrika en Afrikaans aan.<ref>[http://ifa.amu.edu.pl/dutchafrikaans/afrikaans/index.html UAM/IFA - Suid-Afrikaanse Spesialisasie]</ref>
+
+Skole vir sekondêre onderwys in  kan kies om Afrikaans as 'n deel van die vak ''Nederlands'' te onderwys. Die ontwikkeling en  is 'n verpligte deel van die vak ''Literatuurgekiedenis'' (as 'n deel van die geskiedenis van die Nederlandse taal in Suid-Afrika).
+
+Suid-Afrikaanse emigrante het in baie oorsese lande Afrikaanse gemeentes, klubs en ander instellings gestig, en tans is daar enkele honderdduisend sprekers van Afrikaans in die buiteland. In Julie 2008 is die eerste Afrikaanse radioprogram, OppieStasie, in Australië deur Erika von Kaschke (nee Jooste) op die gemeenskapsradiostasie, begin.<ref>[http://www.radiofremantle.com Radio Fremantle 107.9FM]</ref> Die program, wat Afrikaanse musiek speel en inligting aan nuwe immigrante verskaf, word elke Sondag vanaf 15:30 tot 16:30 (Wes-Australiese tyd) uitgesaai.
+
+== Die woordeskat van Afrikaans ==
+
+Met insluiting van komposita het die woordeskat van Afrikaans tussen 1900 en die laat 20ste eeu gegroei van slegs 50&nbsp;000 tot 'n driekwart miljoen woorde.<ref>Raidt (1991), bl. 177</ref> Saam met die uitbou van Afrikaans tot 'n volwaardige moderne amps- en wetenskapstaal is dus honderdduisende nuwe woorde by die oorspronklike kernwoordeskat, wat van Nederlands oorgeërf is, gevoeg. Alhoewel Afrikaans in leksikale opsig grotendeels sy Nederlandse wortels bewaar het, is daar nogtans net soos in ander gevalle waar 'n Europese taal na 'n nuwe oorsese omgewing oorgeplant is, 'n aantal belangrike afwykings van moderne Nederlands.
+
+=== Ou Nederlandse woorde ===
+Net soos Amerikaanse Engels baie woorde van 17de en 18de eeuse Engels bewaar het wat in moderne Britse Engels uitgesterf het (soos ''fall'' wat in Engeland deur die Latynse ''autumn'' vervang is), het sommige ou Nederlandse woorde, wat in die moderne Nederlandse standaardtaal nie meer gebruiklik is nie, in Kaaps-Nederlands bly voortleef:
+
+{| border="0" cellpadding="3" cellspacing="3" style="margin-left:1em"
+! '''KAAPS-NEDERLANDS / AFRIKAANS'''
+! '''ALGEMEEN NEDERLANDS (AN)'''
+|---- |- bgcolor="gainsboro"
+| '''bloeisel'''
+| '''bloesem'''
+|---- |- bgcolor="gainsboro"
+| '''fontein'''
+| '''bron/fontein'''
+|---- |- bgcolor="gainsboro"
+| '''plaas'''
+| '''boerderij, hofstede, hoeve'''
+|---- |- bgcolor="gainsboro"
+| ''''navorsing'''
+| '''onderzoek'''
+|---- |- bgcolor="gainsboro"
+| '''party'''
+| '''enige, menige'''
+|---- |- bgcolor="gainsboro"
+| '''ystervark'''
+| '''stekelvarken'''
+|}
+
+=== Dialektiese woorde ===
+Alhoewel die destydse, veral Suid-Nederlandse standaardtaal van VOC-amptenare aanvanklik die meeste hoë funksies aan die Kaap vervul het, het Afrikaans-Nederlandse omgangsvariëteite uit die Nederlandse dialekte ontwikkel. Sommige woorde uit die Nederlandse dialekte, wat in Nederland en Vlaandere nie in die huidige woordeskat van die standaardtaal opgeneem is nie, is wél opgeneem in die Kaaps-Nederlandse en Afrikaanse leksikon:
+
+{| border="0" cellpadding="3" cellspacing="3" style="margin-left:1em"
+! '''KAAPS-NEDERLANDS / AFRIKAANS'''
+! '''ALGEMEEN NEDERLANDS (AN)'''
+|---- |- bgcolor="gainsboro"
+| '''bees'''
+| '''rund''' (cfr. beest)
+|---- |- bgcolor="gainsboro"
+| '''vark'''
+| '''zwijn, varken'''
+|---- |- bgcolor="gainsboro"
+| '''vat'''
+| '''nemen''' (cfr. vatten)
+|---- |- bgcolor="gainsboro"
+| '''spog'''
+| '''pochen'''
+|---- |- bgcolor="gainsboro"
+| '''kuier ('n besoek aflê)'''
+| '''kuieren (op je gemak wandelen)'''
+|}
+
+Die Afrikaanse woorde ''boetie'' en ''boeta'' het hulle oorsprong heel waarskynlik in Nederlandse dialekvorme soos ''beut'' en ''boetje''.<ref>Scholtz, J. du P.: ''Afrikaans uit die vroeë tyd''. Kaapstad: Nasou Beperk 1965, bl. 97</ref>
+
+=== Woorde met veranderde betekenis ===
+Net soos in ander oorsese gebiede het Europese setlaars ook aan die Kaap begin om met bekende woorde uit hul beskaafde en dialektiese Nederlands na nuwe diere, plante en ander dinge te verwys mits hulle ten minste 'n sekere ooreenkoms met Europese spesies en natuurverskynsels getoon het. Sodoende het 'n aantal Nederlandse woorde in 'n nuwe konteks en omgewing ook 'n ander betekenis gekry.
+
+'n Groter aantal voorbeelde kom uit die landboutaal. 'n ''Dam'' is in Nederland steeds 'n wal, terwyl dit in Afrikaans ook na die water kan verwys wat deur die damwal ingehou word. Afrikaanssprekendes kan byvoorbeeld sê dat hulle ''in die dam gaan swem'', en bedoel dan die ''damwater''. Die Suid-Afrikaanse taalkundige  het hierdie oorgang na 'n nuwe betekenis aan die verskil van bodem tussen die waterryke Nederland en die droë, dor klimaat van Suid-Afrika toegeskryf, alhoewel die ''Dagregister'' van , die eerste Nederlandse goewerneur aan die Kaap, volgens J. du P. Scholtz ook bewys lewer dat die betekenisverskuiwing al in die Nederlandse omgangstaal aan die gang was.<ref>Raidt (1991), bl. 180</ref>
+
+''Pad'' het in Afrikaans 'n ruimer betekenis gekry as in Nederlands waar dit slegs na 'n weg verwys wat deur die voetstappe van mense of diere gemaak is. In Suid-Afrika het dit ook 'n sinoniem vir 'n geasfalteerde verkeersweg geword, en reeds in die 18de eeu het afleidings soos ''padmaker'' in die Kaapse taal voorgekom wat na 'n opsigter verwys het wat vir die instandhouding van 'n pad verantwoordelik was.<ref>Raidt (1991), bl. 181</ref>
+
+''Vlei'' - wat uit ''vallei'' ontstaan het - het naas "dal tussen twee bergreekse" spesifiek Kaapse betekenisse gekry soos "moerassige laagte tussen berge" en "duinmeer". 18de en 19de eeuse reisigers het reeds na hierdie taalgebruik verwys.<ref>Raidt (1991), bl. 181</ref>
+
+''Dalk'' - wat uit ''dadelik'' saamgetrek is - het selfs 'n verandering ten opsigte van sy woordsoort ondergaan. Terwyl ''dadelik'' 'n bywoord van tyd is ("onmiddellik, gou"), word ''dalk'' in Afrikaans as 'n bywoord met modale funksie gebruik en is 'n sinoniem vir "miskien, moontlik". Die oudste dokumente, waarin die Kaaps-Nederlandse ''dalk'' voorkom, dateer uit die jare 1787 en 1789.<ref>Raidt (1991), bl. 182</ref>
+
+=== Verengelsing ===
+
+Ná die einde van die  het groot getalle Afrikaners begin verstedelik. Die Witwatersrand was 'n groot trekpleister, maar ook hoofsaaklik Engelssprekend. Honderde duisende Afrikaners het in hierdie stede verengels.
+
+In die twintigerjare is die eerste Afrikaanse hoërskole aan die Rand gestig en Afrikaners is aangemoedig om hulle eie taal met trots te gebruik. Dit was in 'n poging om die verengelsing teë te gaan. Aanvanklik was dit ook 'n groot sukses. Daar is begin om ook s aktief uit Afrikaans te weer. Sedert die negentigerjare swaai die gety egter weer ten gunste van Engels.
+
+Engels druk deurgaans 'n swaar stempel af op Afrikaans. Beide die Afrikaanse leksikon en sintaksis ervaar 'n sterk Engelse invloed. Baie Afrikaanse ouers het begin om hulle kinders na Engelstalige skole te stuur. Baie Afrikaanse ouers praat wel nog onderling Afrikaans met mekaar, maar Engels met hulle kinders.
+
+== Spelwyse ==
+In die verlede is verskillende spelvorme vir Afrikaans gebruik, byvoorbeeld die Patriotspelling van die GRA en die  van die Kaapse Moslemgemeenskap, wat albei van 'n vereenvoudigde en vernieude spelling gebruik gemaak het.
+
+Sedert  is die  van die  verantwoordelik vir die normalisering van Afrikaans. Die spelreëls van die Taalkommissie word gepubliseer in die .
+
+Die rede vir die invoering van 'n Afrikaanse spelling word wel bevraagteken. Aanvanklik is beweer dat in Afrikaans die skrifbeeld die gesproke beeld moet volg - ''ons skryf soos ons praat''. Sommige het egter gemeen dat die Afrikaanse spelling nie sodanig ingevoer is om die spreektaal te volg nie, maar om die 'twee tale' te skei. Die gewysigde skrifbeeld moes die skeiding vergestalt. Vele Afrikaanse en Nederlandse woorde word immers op dieselfde manier uitgespreek, byvoorbeeld: ''richting, rigting; provincie, provinsie; nationaal, nasionaal; rover, rower; vrouw, vrou; ens''. <!-- Die punt kan egter gemaak word dat die spellings van bv. "nationaal", en "rover" nie foneties is nie, en dus nie "skryf soos ons praat" volg nie -->
+
+Nogtans het die Taalkommissie die spelling gewysig. 
+
+In  is die  spelling, wat in  ontwerp is, as die spelling vir Afrikaans in Suid-Afrika aanvaar. Hierdie spelling was 'n vereenvoudiging van die moeilike Nederlandse spelling. ''Russisch'' moet nou ''Russies'' word en ''moeilijk'' ''moeilik''. Dit was 'n meer fonetiese spelling gebaseer op die skryf hoe jy praat manier. Hierdie spelling was in sekere gemeenskappe, veral in  en in Suid-Afrika in gebruik geneem, maar nie amptelik aanvaar nie.
+
+== Woordeboek van die Afrikaanse Taal ==
+
+Die , algemeen bekend as die WAT, is die grootste verklarende Afrikaanse woordeboek.  As omvattende verklarende woordeboek probeer dit om Afrikaans in sy wydste omvang te weerspieël.  Afrikaans in al sy verskyningsvorme, nl. standaardtaal, streektaal, geselstaal en die verskillende variëteite van Afrikaans soos s en Kaaps word in die WAT opgeneem.  Dertien dele is reeds gepubliseer. Die dertiende deel, wat die letter R bevat, het in 2009 verskyn.  Dit is ook op CD en op die internet beskikbaar.
+
+== Streeksdialekte ==
+* 
+* 
+* 
+* 
+
+== Sien ook ==
+* 
+* 
+*  (AWS)
+* 
+* 
+
+== Verwysings ==
 
 
-Bronsskulptuur van Brenda Fassie
-Die kulturele veelsydigheid van Suid-Afrika word weerspieël in 'n groot verskeidenheid musiekstyle. Suid-Afrikaanse musikante het oorsese musiekstyle soos jazz, rhythm & blues, Christelike gospelliedere en disco-musiek oorgeneem, maar ook hul eie musikale tradisies ontwikkel waarin hulle hul lewensgevoel vertolk het. 'n Spesifieke vorm van protes- en vryheidsliedere liedere het in die konteks van diskriminasie en apartheid ontstaan, en dit was nie beperk tot swart etniese groepe nie. Ook Afrikaanse musikante - veral die sogenaamde Voëlvrybeweging - het in die 1980's hul misnoeë oor die apartheidsbewind met musiek laat blyk.[14] Huidige Afrikaanse protesmusiek behandel politieke en kulturele ontworteling, misdaad en korrupsie.
-Moderne Afro-popmusiek - 'n mengsel van stedelike en elektroniese ritmes - het as dansmusiek ook by gehore buite Suid-Afrika aanklank gevind. Groepe soos Malaika en Mafikizolo het oorsee sukses behaal, net soos Freshlyground wat in 2006 'n MTV-Award ontvang het.
-Suid-Afrikaanse beatmusiek word veral deur kwaito verteenwoordig, 'n musiekstyl wat invloede van house-musiek, rhythm & blues, hip hop en tradisionele swart musiek toon. Swart woonbuurte was die bakermat van kwaito waarin swart jongmense van hul droom sing dat hulle eendag 'n musikale loopbaan sal begin wat hulle in staat stel om 'n nuwe lewe buite hul krotbuurt te begin. Bekende sterre soos Brenda Fassie, Dantai en TKZee het kwaito tot spreekbuis van Suid-Afrika se swart jeug gemaak en ook in Europa en Amerika sukses behaal.
-Mode [wysig]
-Ontwerpers soos Gavin Rajah en Jenni Button en etikette soos Stoned Cherrie en Sun Goddess het Suid-Afrika op die internasionale kaart van mode geplaas. Kaapstad en Johannesburg is die land se leidende modesentrums vanwaar plaaslike mode-etikette en -ontwerpers ook na Europese markte begin uitvoer het en hul verskyning op Paryse en Londense modeskoue gemaak het.
-Johannesburg is sedert 1997 die gasheerstad vir die Sanlam SA Modeweek wat jaarliks in April (lente- en somerreekse) en in Oktober (herfs- en wintermodeversamelings) gehou word. 'n Tweede skou, die Joburg-modeweek, vind jaaliks in laat Augustus plaas. Die Goudstad se modebedryf is in die sogenaamde Modedistrik gekonsentreer waar meer as 100 modeondernemings - van tekstielprodusente tot top-ontwerpers - hul fabrieke en ateljees gevestig het. Die modewinkelsentrum Fashion Kapitol fungeer met 'n dertigtal boetieke as die Modesistrik se middelpunt. Hier word ook gereeld modeskoue gehou.
-Kaapstad is die gasheerstad vir die internasionaal belangrikste modeskou in Afrika, die Kaapstad Modeweek wat jaarliks vroeg in Augustus plaasvind en meer as 30 000 besoekers, mediaverslaggewers en inkopers lok.
+== Eksterne skakels ==
+
+=== Algemene inligting ===
+* [http://www.omniglot.com/writing/afrikaans.htm Omniglot-arikel oor Afrikaans]
+* [http://www.ethnologue.com/14/show_language.asp?code=AFK Ethnologue-verslag oor Afrikaans]
+* [http://afrikaans.be/ Afrikaans.be] - Webblad vir die gebruik, bevordering en uitbreiding van Afrikaans in België en Nederland
+
+=== Ontstaan en geskiedenis van Afrikaans ===
+* [http://taalschrift.org/discussie/000191.html Afrikaans is Amsterdams!] Nederlandse artikel in  - Tydskrif oor taal en taalbeleid
+* [http://www.dbnl.nl/tekst/toit001patr01_01/ S.J. du Toit se Patriot woordeboek: Afrikaans-Engels (uit 1902)]
+
+=== Taalhulpmiddels ===
+* [http://translate.google.com/#af|nl| Google se masjienvertaling van en na Afrikaans]
+* [http://translate.org.za/content/view/23/40/lang,af/ Gratis en vrye Afrikaanse speltoetser vir OpenOffice, Mozilla Firefox en Mozilla Thunderbird]
+* [http://www.wspel.co.za/ Gratis Afrikaanse spel- en grammatikatoetser vir MS-Office 2000/XP/2003/2007/2010]
+* [http://www.spel.co.za Kommersiële Afrikaanse speltoetser, tesourus en woordafbreker]
+* [http://translate.org.za/content/view/24/54/lang,af/ Afrikaanse sleutelbord]
+* [http://web.sois.uwm.edu/AFR101/ Afrikaanse lesse op die net]
+* [http://www.onnet.up.ac.za/ Goudmyn vir Afrikaans-onderwysers] - Webruimte vir Afrikaans-onderwysers by die 
+
+=== Sagteware in Afrikaans ===
+* [http://translate.org.za/content/view/15/54/lang,af/ Mozilla Firefox] - webblaaier
+* [http://translate.org.za/content/view/16/54/lang,af/ Mozilla Thunderbird] - e-posprogram
+* [http://translate.org.za/content/view/17/54/lang,af/ OpenOffice.org] - kantoorsuite
+* [http://translate.org.za/index.php?lang=af Translate.org.za] - 'n Projek om vrye en oopbronsagteware in Afrikaans en ander Suid-Afrikaanse tale te vertaal
+* [http://pootle.translate.org.za/af/ Pootle] - aanlyn vertaling van Afrikaanse oopbronsagteware
+
+=== Afrikaanse kultuur verwante skakels ===
+* [http://www.fak.org.za/ FAK]
+* [http://www.akademie.co.za/ Die Suid-Afrikaanse Akademie vir Wetenskap en Kuns]
+* [http://www.hdn.za.net/ Huis der Nederlanden] Nederlands-Vlaams-Afrikaanse kultuursentrum
+* [http://www.storiewerf.co.za/welkom.htm Storiewerf] oor kinder- en jeugboeke
+* [http://www.voortrekkers.org.za/ www.voortrekkers.org.za] Amptelike webblad van Die Voortrekkers
+
+=== Afrikaans in die buiteland ===
+* [http://afrikaans.be/ Afrikaans.be] 'n Webblad vir die gebruik, bevordering en uitbreiding van Afrikaans in België en Nederland.
+* [http://www.ned.univie.ac.at/afrikaans/ Euro-Afrikaans] Afrikaans in Europa by die Departement Nederlandistik, Universiteit van Wene
+* [http://www.afrikaans.org.nz/ Die Afrikaanse Klub van Nieu-Seeland]
+* [http://www.roepstem.net/ Die Roepstem] 'n Nederlandse inisiatief om die Afrikaanse en die Nederlandse taalwêreld saam te bring
+* [http://www.afrikaans.nu/ Afrikaans hoort by Nederlands] met besprekingsforum
+* [http://nederlandsvirafrikaanses.weebly.com/ Nederlands vir (Afrikaanse) dommies] 'n Webblad vir Afrikaanssprekendes wat wil (of moet) Nederlands leer
+* [http://flam.co.za Bladmusiek van Afrikaanse liedere]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

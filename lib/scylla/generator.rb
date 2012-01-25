@@ -1,5 +1,6 @@
 require 'sanitize'
 require 'cgi'
+require 'wikipedia'
 
 module Scylla
   class Generator
@@ -18,22 +19,30 @@ module Scylla
     # lib/scylla/lms as .lm files
     def train
       languages = Dir.glob(@dirlm + "/*.lm")
-      textpaths = Dir.glob(@dirtext + "/*.txt")
       languages.each {|l| File.delete(l) }
-      textpaths.each do |path|
-        write_lm(path)
+      locales = Scylla::Resources.locales
+      locales.each_key do |key|
+        Wikipedia.Configure {
+          domain "#{locales[key][0]}.wikipedia.org"
+          path   'w/api.php'
+        }
+        p key
+        page = Wikipedia.find( locales[key][1] )
+        
+        value = page.content.gsub(/(\[\[|\{\{)(.+?)(\]\]|\}\})/,"")
+        write_lm(value, key)
       end
     end
 
     # Reads a single text file specified by a path and writes a .lm file in 
     # lib/scylla/lms
-    def write_lm(path)
-      text = ""
-      File.open(path).each { |line| text += " " + line }
-      text = text
-      p "Creating language map for " + path
+    def write_lm(text, language)
+      p "Creating language map for #{language}"
+      textname = File.join(@dirtext, "#{language}.txt")
+      File.delete(textname) if File.exists?(textname)
+      File.open(textname, 'w') { |f| f.write(text) }
       lm = create_lm(text, true)
-      lmname = File.join(@dirlm, File.basename(path, ".txt") + ".lm")
+      lmname = File.join(@dirlm, "#{language}.lm")
       File.delete(lmname) if File.exists?(lmname)
       File.open(lmname, 'w') do |f|
         i = 0
@@ -63,11 +72,9 @@ module Scylla
         word = "_" + word + "_";
         len = word.size
         for i in 0..word.size
-          (1..3).each do |j|
-            next unless word[i,j]
-            ngram[word[i,j]] ||= 0
-            ngram[word[i,j]] += 1 if (len > (j - 1))
-          end
+            next unless word[i,2]
+            ngram[word[i,2]] ||= 0
+            ngram[word[i,2]] += 1 if (len > (2 - 1))
           len = len - 1
         end
       end

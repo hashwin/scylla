@@ -1,102 +1,388 @@
-Ísland er eyríki í Norður-Atlantshafi á milli Grænlands, Færeyja og Noregs. Ísland er um 103.000 km² að stærð; það er önnur stærsta eyja í Evrópu á eftir Bretlandi og sú átjánda stærsta í heimi. Á Íslandi búa um það bil 320.000 manns. Höfuðborg landsins er Reykjavík.
-Landnámabók segir frá hvernig landnám Íslands hófst kringum árið 874 þegar Ingólfur Arnarson nam hér land, þó aðrir höfðu áður dvalið tímabundið á landinu. Á næstu áratugum og öldum flutti fjöldi fólks til Íslands á tímabili sem nefnt er landnámsöld. Ísland komst með Gamla sáttmála undir vald Noregs árið 1262 og var undir stjórn Norðmanna og Dana til ársins 1918, þegar það hlaut fullveldi. Danska ríkið fór þó með utanríkismál og landhelgisgæslu fyrir hönd Íslands og löndin höfðu sameiginlegan konung þar til lýðveldi var stofnað á Íslandi 1944. Landið hefur gengið undir ýmsum nöfnum, einkum meðal ljóðskálda (sjá grein Heiti yfir Ísland).
-Á síðari hluta 20. aldar jókst þjóðarframleiðsla Íslendinga til muna og innviðir og velferðarkerfi landsins efldust. Árið 2007 var Ísland þróaðasta land heims samkvæmt vísitölu SÞ um þróun lífsgæða, en árið 2008 hófst efnahagskreppa á Íslandi. Ísland er meðlimur í SÞ, NATO, EFTA og EES.
+{{Land
+|nafn_á_frummáli=Ísland
+|nafn_í_eignarfalli=Íslands
+|fáni=Flag of Iceland.svg
+|skjaldarmerki=Coat_of_arms_of_Iceland.svg
+|staðsetningarkort=Europe location ISL.png
+|kjörorð=
+|þjóðsöngur= 
+|tungumál=
+|höfuðborg=
+|stjórnarfar=
+|titill_leiðtoga=<br />
+|nöfn_leiðtoga=<br />
+|staða = Stofnun — Sjálfstæði
+|atburður1=
+|dagsetning1=
+|atburður2=''''
+|dagsetning2=
+|atburður3=''''
+|dagsetning3= 
+|atburður4= veitt
+|dagsetning4= 
+|atburður5=
+|dagsetning5= 
+|atburður6=
+|dagsetning6= 
+|atburður7=
+|dagsetning7= 
+|stærðarsæti=106
+|flatarmál_magn=1_E11_m²
+|flatarmál=103.125
+|hlutfall_vatns=2,7%
+|fólksfjöldi=318.200 
+|mannfjöldaár=Mannfjöldi 1. okt
+|mannfjöldasæti=175
+|íbúar_á_ferkílómetra=3,08
+|VLF_ár=2005
+|VLF=10.531
+|VLF_sæti=135
+|VLF_á_mann=35.546
+|VLF_á_mann_sæti=6
+|VÞL= 0,968
+|VÞL_sæti=1 
+|gjaldmiðill= (ISK)
+|tímabelti=+0 (enginn sumartími)
+|tld=is
+|símakóði=354
+}}
+'''Ísland''' er  í  á milli s,  og . Ísland er um 103.000  að stærð; það er önnur stærsta  í  á eftir Bretlandi og sú átjánda stærsta í heimi. Á Íslandi búa um það bil 320.000 manns. Höfuðborg landsins er .
 
-Saga
+'''' segir frá hvernig  hófst kringum árið  þegar  nam hér land, þó aðrir höfðu áður dvalið tímabundið á landinu. Á næstu áratugum og öldum flutti fjöldi fólks til Íslands á tímabili sem nefnt er . Ísland komst með  undir vald  árið 1262 og var undir stjórn Norðmanna og  til ársins , þegar það hlaut . Danska ríkið fór þó með utanríkismál og landhelgisgæslu fyrir hönd Íslands og löndin  höfðu sameiginlegan konung þar til  var stofnað á Íslandi . Landið hefur gengið undir ýmsum nöfnum, einkum meðal a (sjá grein '''').
 
-Aðalgreinar: Saga Íslands og Heiti yfir Ísland
-Ísland var, samkvæmt Íslendingabók, fyrst numið af norskum og gelískum (skoskum og írskum) landnemum undir lok níundu og tíundu aldar. Þjóðveldið var sett á stofn með Alþingi árið 930 en það er meðal elstu þjóðþinga sem enn eru starfandi. Færeyska Lögþingið og hið manska Tynwaldsþing eru þau norrænnu þing sem hafa sambærilegan aldur og Alþingi Íslendinga.
-Flestir landsnámsmanna voru ásatrúar þó nokkrir kristnir og höfðu þeir flestir kynnst kristinni trú og látið skírast á Bretlandseyjum. Um svipað leyti sendi Haraldur blátönn Danakonungur saxneskan biskup til Íslands til kristniboðs. Ekki gekk það alltaf og komu fleiri kristniboðar hingað á næstu árum og varð þeim nokkuð ágengt. Ólafur Tryggvason Noregskonungur var mjög áhugasamur um að kristna Ísland — með góðu eða illu. Á Alþingi sumarið 1000 ákváðu Íslendingar að taka kristni að ráðum Þorgeirs ljósvetningagoða sem þó var ásatrúar sjálfur fram að því.
-Mótmælendatrú var innleidd í Danmörku árið 1536 og áhrif Lúthers bárust hingað um það leyti með Þýskum veiði- og verslunarmönnum. Jón Arason, síðasti kaþólski biskup Norðurlanda var tekinn af lífi í Skálholti 7. nóvember árið 1550 og eru siðaskiptin á Íslandi oftast miðuð við þann dag.
-Saga Íslands
+Á síðari hluta  jókst  Íslendinga til muna og innviðir og  landsins efldust. Árið 2007 var Ísland þróaðasta land heims samkvæmt , en árið  hófst . Ísland er meðlimur í , ,  og .
 
-Eftir tímabilum
-Miðaldir á Íslandi
-Landnámsöld 870-930
-Söguöld 870-1030
-Þjóðveldisöld 930-1262
-Kristnitaka 1000
-Kirkjugoðaveldi 1097-1179
-Sturlungaöld 1152-1262
-Staðamálin 1178-1275
-Fiskveiðaöld 1300-1550
-Norska öldin 1300-1400
-Enska öldin 1400-1500
-Þýska öldin 1500-1600
-Nýöld á Íslandi
-Siðaskipti 1540-1550
-Lærdómsöld 1550-1770
-Einveldi 1662-1871
-Einokunarverslun 1602-1787
-Brennuöld 1654-1690
-Upplýsingaröld 1770-1830
-Nútíminn á Íslandi
-Sjálfstæðisbarátta
-Landshöfðingjatímabilið
-Heimastjórnartímabilið
-Konungsríkið Ísland
-Stríðsárin
-Íslenska lýðveldið
-Eftir umfjöllunarefni
-Hagsaga
-Hernaðarsaga
-Kirkjusaga
-Menningarsaga
-Réttarsaga
-Ísland var ekki sett undir erlend ríki fyrr en næstum fjórum öldum eftir að það var fyrst numið. Þá fór svo að Noregskonungur náði landinu undir sína krúnu árið 1262. Síðar varð Ísland svo hluti af Kalmarsambandinu árið 1397, en danskir þjóðhöfðingar höfðu verið yfir Noregi og Íslandi frá 1380.
-Svíþjóð leysti sig úr þessu sambandi árið 1523, og hét það þar eftir Dansk-norska ríkið og var gjarnan kallað Danaveldi. Seinna við aldamót 18. og 19. aldar, í Napóleonsstyrjöldunum svokölluðu, reyndu Svíþjóð og Danmörk að halda hlutleysi sínu og árið 1800 gengu bæði löndin í svokallað “Samband vopnaðs hlutleysis” (Væbnede neutralitetsforbund á dönsku, League of Armed Neutrality á ensku).
+== Saga ==
 
 
-Kort sem sýnir umfang Dansk-norska ríkisins um 1780
-Bretar töldu þetta ógn og réðust þar með á Kaupmannahöfn árið 1801. Eftir það gekk Danmörk úr því fyrirnefnda sambandi og gekk í bandalag við Napóleon, Frakkakeisara. Bretar réðust því aftur á Kaupmannahöfn 1807 og hafði Svíþjóð þá gengið í lið við Breta. Þar sem Napóleoni hafði verið í nöp við Bretland síðan 1803, neyddi hann Dani til að lýsa yfir stríði á hendur Svíþjóð árið 1808. —Svíar hófu þar með innrás í Noreg, en á sama tíma réðust Rússar á Finnland sem þá var undir sænskum yfirráðum. Þetta tveggja hliða stríð reyndist Svíum hörmung því allt Finnland var síðan fært undir yfirráð Rússa.
-Árið 1814, þegar Danmörk var um það bil að tapa fyrir sænskum, rússneskum og þýskum hermönnum, samþykkti Friðrik VI Danakonungur Kílarsamninginn um að færa Noreg undir Svíakonung í skiptum fyrir hið sænska Pommern til að forðast hernám Jótlandsskaga. Hinsvegar yrðu norsku eignirnar Ísland, Færeyjar og Grænland enn undir dönskum yfirráðum. Samningurinn tók aldrei formlega gildi, og lýsti Noregur yfir skammvinnu sjálfstæði og varð Pommern seinna undir Prússneskum völdum. Með þessum hætti komst Ísland undir vald Danakonungs og varð hluti Danaveldis.
-Ísland fékk stjórnarskrá og takmarkaða heimastjórn árið 1874 á þjóðhátíð í tilefni af 1000 ára afmæli Íslandsbyggðar, þar sem núverandi þjóðsöngur Íslands, Lofsöngur var frumfluttur. Fullveldi fylgdi í kjölfarið árið 1918. Kristján X var þar með sameiginlegur þjóðhöfðingi Danmerkur og Íslands til ársins 1944, þegar lýðveldið var stofnað. Bar hann titilinn konungur Íslands og var sá eini sem gerði það.
-[breyta]Stjórnmál
+Ísland var, samkvæmt , fyrst numið af  og  ( og )  undir lok  og .  var sett á stofn með  árið  en það er meðal elstu  sem enn eru starfandi.    og hið   eru þau norrænnu þing sem hafa sambærilegan aldur og Alþingi Íslendinga.
 
-Aðalgrein: Íslensk stjórnmál
-Ísland er lýðveldi með þingbundinni stjórn. Framkvæmdavaldið liggur hjá forseta og ríkisstjórn. Æðsti maður ríkisstjórnar er forsætisráðherra. Ríkisstjórnin ber ábyrgð gagnvart Alþingi, sem er handhafi löggjafarvaldsins ásamt forseta. Dómsvald er í höndum dómstóla; æðsti dómstóll landsins er Hæstiréttur.
-Forseti Íslands er þjóðhöfðingi landsins og er þjóðkjörinn í beinni kosningu allra kjörbærra manna. Kjörtímabil hans er 4 ár. Forseti er ábyrgðarlaus á ríkisstjórnarathöfnum og lætur ráðherra framkvæma vald sitt. Hann veitir formönnum stjórnmálaflokka umboð til stjórnarmyndunar eftir kosningar til Alþingis og skipar ráðherra en oftast er þessu ferli í raun stýrt af stjórnmálaflokkunum sjálfum, aðeins þegar þeir geta ómögulega komist að niðurstöðu sjálfir nýtir forsetinn sér þetta vald og skipar sjálfur ríkisstjórn. Þetta hefur þó ekki gerst í sögu lýðveldisins en gerðist 1942 þegar Sveinn Björnsson, þáverandi ríkisstjóri Íslands, skipaði utanþingsstjórn. Forseti Íslands hefur málskotsrétt gagnvart þinglögum samkvæmt stjórnarskrá og ber þá að efna til þjóðaratkvæðagreiðslu en lögin taka samt gildi, þangað til þau eru afnumin eða staðfest með þjóðaratkvæði.[1] Núverandi forseti er Ólafur Ragnar Grímsson, sem tók við embættinu árið 1996. Hann nýtti sér málskotsréttinn fyrstur forseta á Íslandi, þegar hann neitaði að skrifa undir fjölmiðlalögin árið 2004.
-Alþingi, löggjafarþing Íslands, starfar í einni deild. 63 þingmenn þess eru kjörnir hlutfallskosningu í 6 kjördæmum. Kjörtímabilið er 4 ár en getur verið styttra ef það kemur til þingrofs en vald til að rjúfa þing liggur hjá ríkisstjórninni. Ráðherrar eiga einnig sæti á Alþingi en hafa ekki atkvæðarétt nema þeir séu einnig þingmenn en sú er reyndar venjan. Alþingi velur sér forseta til að hafa yfirumsjón með fundum þess, núverandi forseti Alþingis er Ásta Ragnheiður Jóhannesdóttir. Ríkisstjórnir á Íslandi eru nánast ávallt samsteypustjórnir tveggja eða fleiri flokka en einnig eru dæmi til um minnihlutastjórnir, einkum og sér í lagi vegna þess að enginn flokkur hefur hlotið hreinan meirihluta á þingi, í það minnsta ekki frá endurreisn lýðveldis. Núverandi ríkisstjórn er samsteypustjórn Vinstrihreyfingarinnar - græns framboðs og Samfylkingar undir forystu Jóhönnu Sigurðardóttur forsætisráðherra.
-[breyta]Skipting í stjórnsýsluumdæmi
+Flestir landsnámsmanna voru ar þó nokkrir r og höfðu þeir flestir kynnst kristinni trú og látið skírast á . Um svipað leyti sendi  Danakonungur  biskup til Íslands til kristniboðs. Ekki gekk það alltaf og komu fleiri kristniboðar hingað á næstu árum og varð þeim nokkuð ágengt.  Noregskonungur var mjög áhugasamur um að kristna Ísland — með góðu eða illu. Á Alþingi sumarið  ákváðu Íslendingar að taka kristni að ráðum  sem þó var ásatrúar sjálfur fram að því. 
 
-[breyta]Kjördæmi
-Aðalgrein: Kjördæmi Íslands
-Íslandi er skipt upp í 6 kjördæmi sem kjósa sína fulltrúa á Alþingi.
-[breyta]Sveitarstjórn
-Aðalgrein: Sveitarfélög á Íslandi
+ var innleidd í u árið  og áhrif s bárust hingað um það leyti með  veiði- og verslunarmönnum. , síðasti kaþólski biskup Norðurlanda var tekinn af lífi í i 7. nóvember árið  og eru  á Íslandi oftast miðuð við þann dag.
+
+
+Ísland var ekki sett undir erlend ríki fyrr en næstum fjórum um eftir að það var fyrst numið. Þá fór svo að  náði landinu undir sína krúnu árið . Síðar varð Ísland svo hluti af  árið , en  þjóðhöfðingar höfðu verið yfir Noregi og Íslandi frá . 
+
+ leysti sig úr þessu sambandi árið , og hét það þar eftir  og var gjarnan kallað Danaveldi. Seinna við aldamót  og , í  svokölluðu, reyndu Svíþjóð og Danmörk að halda hlutleysi sínu og árið  gengu bæði löndin í svokallað “''Samband vopnaðs hlutleysis''” ('''' á , '''' á ). 
+
+
+ töldu þetta ógn og réðust þar með á  árið . Eftir það gekk Danmörk úr því fyrirnefnda sambandi og gekk í bandalag við , . Bretar réðust því aftur á Kaupmannahöfn  og hafði Svíþjóð þá gengið í lið við Breta. Þar sem Napóleoni hafði verið í nöp við Bretland síðan , neyddi hann Dani til að lýsa yfir stríði á hendur Svíþjóð árið . —Svíar hófu þar með innrás í Noreg, en á sama tíma réðust  á  sem þá var undir sænskum yfirráðum. Þetta tveggja hliða stríð reyndist Svíum hörmung því allt Finnland var síðan fært undir yfirráð Rússa. 
+
+Árið , þegar Danmörk var um það bil að tapa fyrir sænskum, rússneskum og þýskum hermönnum, samþykkti   um að færa Noreg undir  í skiptum fyrir hið  til að forðast hernám sskaga. Hinsvegar yrðu norsku eignirnar Ísland,  og  enn undir dönskum yfirráðum. Samningurinn tók aldrei formlega gildi, og lýsti Noregur yfir skammvinnu sjálfstæði og varð Pommern seinna undir  völdum. Með þessum hætti komst Ísland undir vald Danakonungs og varð hluti Danaveldis.
+
+Ísland fékk  og takmarkaða heimastjórn árið  á þjóðhátíð í tilefni af , þar sem núverandi  Íslands,  var frumfluttur.  fylgdi í kjölfarið árið .  var þar með sameiginlegur þjóðhöfðingi Danmerkur og Íslands til ársins , þegar lýðveldið var stofnað. Bar hann titilinn ''konungur Íslands'' og var sá eini sem gerði það.
+
+== Stjórnmál ==
+
+Ísland er  með þingbundinni stjórn. ið liggur hjá  og . Æðsti maður ríkisstjórnar er . Ríkisstjórnin ber ábyrgð gagnvart , sem er handhafi sins ásamt forseta.  er í höndum ; æðsti dómstóll landsins er .
+
+ er  landsins og er þjóðkjörinn í beinni kosningu allra kjörbærra manna. Kjörtímabil hans er 4 ár. Forseti er ábyrgðarlaus á ríkisstjórnarathöfnum og lætur  framkvæma vald sitt. Hann veitir formönnum stjórnmálaflokka umboð til stjórnarmyndunar eftir kosningar til Alþingis og skipar ráðherra en oftast er þessu ferli í raun stýrt af stjórnmálaflokkunum sjálfum, aðeins þegar þeir geta ómögulega komist að niðurstöðu sjálfir nýtir forsetinn sér þetta vald og skipar sjálfur ríkisstjórn. Þetta hefur þó ekki gerst í sögu lýðveldisins en gerðist  þegar , þáverandi , skipaði . Forseti Íslands hefur málskotsrétt gagnvart þinglögum samkvæmt stjórnarskrá og ber þá að efna til þjóðaratkvæðagreiðslu en lögin taka samt gildi, þangað til þau eru afnumin eða staðfest með þjóðaratkvæði.<ref>Deildar meiningar eru um raunveruleg völd forsetans, þá sérstaklega hvort hann geti neitað að skrifa undir lög og hvort slíkur gjörningur hafi einhverjar afleiðingar. Í  er sagt að slík synjun kalli á  um lögin, en hins vegar lætur forseti ráðherra framkvæma vald sitt og eru margir á þeirri skoðun að það gildi um þetta vald eins og önnur völd forseta.</ref> Núverandi forseti er , sem tók við embættinu árið . Hann nýtti sér málskotsréttinn fyrstur forseta á Íslandi, þegar hann neitaði að skrifa undir fjölmiðlalögin árið 2004.
+
+,  Íslands, starfar í einni deild. 63 þingmenn þess eru kjörnir hlutfallskosningu í 6 . Kjörtímabilið er 4 ár en getur verið styttra ef það kemur til þingrofs en vald til að rjúfa þing liggur hjá ríkisstjórninni. Ráðherrar eiga einnig sæti á Alþingi en hafa ekki atkvæðarétt nema þeir séu einnig þingmenn en sú er reyndar venjan. Alþingi velur sér forseta til að hafa yfirumsjón með fundum þess, núverandi  er . Ríkisstjórnir á Íslandi eru nánast ávallt samsteypustjórnir tveggja eða fleiri flokka en einnig eru dæmi til um minnihlutastjórnir, einkum og sér í lagi vegna þess að enginn flokkur hefur hlotið hreinan meirihluta á þingi, í það minnsta ekki frá endurreisn lýðveldis. Núverandi ríkisstjórn er samsteypustjórn  og ar undir forystu  forsætisráðherra.
+
+== Skipting í stjórnsýsluumdæmi ==
+=== Kjördæmi ===
+
+
+Íslandi er skipt upp í 6  sem kjósa sína fulltrúa á .
+
+=== Sveitarstjórn ===
+
+
 Íslandi er skipt upp í 104 sveitarfélög sem eru mikilvægustu stjórnsýslueiningar landsins og hafa víðtæk völd á sviði skólamála, skipulags, samgangna og félagsmála.
-[breyta]Sýslur
-Aðalgrein: Sýslur á Íslandi
-Íslandi hefur frá fornu fari verið skipt upp í sýslur til umboðsstjórnar. Hinar gömlu landfræðilegu sýslur eru ekki lengur formlegar stjórnsýslueiningar á Íslandi, sýslumenn eru enn þá við lýði en umdæmi þeirra fylgja ekki alltaf gömlu sýsluskiptingunni.
-[breyta]Landafræði
+
+=== Sýslur ===
 
 
+Íslandi hefur frá fornu fari verið skipt upp í sýslur til umboðsstjórnar. Hinar gömlu landfræðilegu sýslur eru ekki lengur formlegar stjórnsýslueiningar á Íslandi,  eru enn þá við lýði en umdæmi þeirra fylgja ekki alltaf gömlu sýsluskiptingunni.
 
-Samsett gervihnattarmynd af Íslandi.
-Aðalgrein: Landafræði Íslands
-Ísland er staðsett á heitum reit á Atlantshafshryggnum. Það er 102.800 ferkílómetrar að stærð. Þar eru mörg virk eldfjöll og ber þar helst að nefna Heklu (1491m) og Eyjafjallajökul (1502 m). Um það bil 10% eyjarinnar er undir jöklum. Á Íslandi eru hverir víða, og gnótt jarðhita færir íbúunum heitt vatn, sem meðal annars er notað til húshitunar.
-Ísland er önnur stærsta eyja Evrópu, á eftir Bretlandi. Eyjan er vogskorin, og flestir bæir standa við firði, víkur og voga. Helstu þéttbýlisstaðir eru höfuðborgin Reykjavík, Keflavík, þar sem einn af alþjóðlegum flugvöllum landsins er staddur, og Akureyri.
-Ísland liggur á tveimur jarðskorpuflekum, Norður-Ameríkuflekanum og Evrasíuflekanum. Landið telst sögulega til Evrópu.
-Ystu punktar Íslands eru þeir staðir sem eru lengst til höfuðáttanna.
-[breyta]Efnahagsmál
+== Landafræði ==
+ af Íslandi.]]
 
-Aðalgrein: Efnahagur Íslands
-Efnahagur þjóðarinnar byggir enn að talsverðu leyti á fiskveiðum, sem afla nær 40% útflutningstekna og veita 8% vinnandi manna störf. Þar sem aðrar náttúruauðlindir skortir (fyrir utan jarðhita og fallvötn til virkjunar), er efnahagslíf á Íslandi viðkvæmt og háð heimsmarkaðsverði á fiski og sjávarafurðum. Auk þess geta minnkandi fiskstofnar í efnahagslögsögu landsins haft töluverð áhrif á sveiflur í efnahagslífinu og heimsmarkaðsverð á áli og kísilgúri sem eru stærstu útflutningsvörur Íslendinga á eftir sjávarafurðum.
-Stjórn Sjálfstæðis- og Framsóknarflokks, sat við stjórnartaumana frá 1995 til 2007. Hún hafði á stefnuskránni að draga úr ríkisumsvifum og einkavæða ríkisfyrirtæki. Ríkisútgjöld, sem hlutfall af þjóðarframleiðslu, hafa þó vaxið síðustu ár. Núverandi ríkisstjórn er andvíg inngöngu í Evrópusambandið.
-Fjölbreytileiki í efnahagslífinu hefur aukist undanfarna tvo áratugi. Ferðaþjónusta verður æ fyrirferðameiri, og reyna Íslendingar að laða til sín útlendinga með auglýsingum um hreina og ómengaða náttúru og öflugt næturlíf. Nokkuð dró úr hagvexti á árunum 2000 til 2002, en árið 2002 var hann neikvæður um 0,6%, frá 2003 hefur hagvöxtur hins vegar verið drjúgur en efnahagur í samanburði við nágrannalönd einkennst af óstöðugleika. Virkustu eldjöll Íslands í dag eru Eyjafjallajökull, en hann gaus árið 2010 og olli miklum óþægindum ferðamanna sem voru að ferðast, og Grímsvötn sem gusu síðast vorið 2011.
-[breyta]Lýðfræði
+Ísland er staðsett á  á . Það er 102.800 ferkílómetrar að stærð. Þar eru mörg virk  og ber þar helst að nefna  (1491m) og  (1502 m). Um það bil 10% eyjarinnar er undir . Á Íslandi eru <!-- eh? eru til kaldir hverir? tók út "heitir" hér -ævar--> ir víða, og gnótt jarðhita færir íbúunum heitt vatn, sem meðal annars er notað til húshitunar.
 
-Aðalgrein: Lýðfræði Íslands
-Íslendingar eru í megindráttum norræn þjóð. Landið byggðist upphaflega norrænum mönnum, einkum frá Noregi,Svíþjóð ,Danmerkur og Keltum frá nýlendum víkinga á Bretlandseyjum og Íslendingar hafa í gegnum tíðina átt mest samskipti við helstu fiskveiðiþjóðir á Norður-Atlantshafi. Til er kenning um að Íslendingar séu að uppruna sérstakur þjóðflokkur, aðgreindur frá öðrum þjóðflokkum á norðurlöndum („Herúlakenningin“). Á síðari tímum hafa ýmsar kenningar um uppruna þjóðarinnar verið settar fram með erfðafræðilegum rökum. Þá er talað um að flestar konur sem hingað komu hafi verið keltneskar (flestar ambáttir) en karlarnir að miklu leyti norrænir.
-Íbúafjöldi landsins sveiflaðist á milli um 30.000 og 80.000 við hefðbundinn efnahag í bændasamfélagi fyrri alda. Á 19. og 20. öld hefur Íslendingum fjölgað nokkuð ört og nú eru íbúar landsins tæplega 320.000 auk nokkurra þúsunda af íslenskum uppruna sem ekki eru búsett á Íslandi. Árleg fólksfjölgun mælist um 2,2%.[2] Árið 2011 gaf Hagstofa Íslands út þrjár tegundir mannfjödaspáa fyrir 1. janúar 2060: lágspá sem spáir fólksfjöldanum 386.500, miðspá sem spáir fyrir 436.500 og háspá sem spáir 493.800 manns.[3][4]
-Á Íslandi er töluð íslenska, sem er norrænt tungumál, og flestir íbúar landsins eru í hinni evangelísk-lúthersku þjóðkirkju.
+Ísland er önnur stærsta eyja Evrópu, á eftir i. Eyjan er vogskorin, og flestir bæir standa við , ur og . Helstu þéttbýlisstaðir eru in , , þar sem einn af  landsins er, og .
+
+Ísland liggur á tveimur jarðskorpuflekum, Norður-Ameríkuflekanum og Evrasíuflekanum. Landið telst sögulega til .
+
+ eru þeir staðir sem eru lengst til höfuðáttanna.
+
+== Efnahagsmál ==
+
+ þjóðarinnar byggir enn að talsverðu leyti á , sem afla nær 40% útflutningstekna og veita 8% vinnandi manna störf. Þar sem aðrar  skortir (fyrir utan jarðhita og fallvötn til virkjunar), er efnahagslíf á Íslandi viðkvæmt og háð heimsmarkaðsverði á fiski og sjávarafurðum. Auk þess geta minnkandi fiskstofnar í  landsins haft töluverð áhrif á sveiflur í efnahagslífinu og heimsmarkaðsverð á i og i sem eru stærstu útflutningsvörur Íslendinga á eftir sjávarafurðum.
+
+Stjórn - og , sat við stjórnartaumana frá  til 2007. Hún hafði á stefnuskránni að draga úr ríkisumsvifum og einkavæða ríkisfyrirtæki. Ríkisútgjöld, sem hlutfall af þjóðarframleiðslu, hafa þó vaxið síðustu ár. Núverandi ríkisstjórn stefnir að inngöngu í . 
+
+Fjölbreytileiki í efnahagslífinu hefur aukist undanfarna tvo áratugi.  verður æ fyrirferðameiri, og reyna Íslendingar að laða til sín útlendinga með auglýsingum um hreina og ómengaða náttúru og öflugt næturlíf.
+Nokkuð dró úr hagvexti á árunum  til , en árið 2002 var hann neikvæður um 0,6%, frá 2003 hefur hagvöxtur hins vegar verið drjúgur en efnahagur í samanburði við nágrannalönd einkennst af óstöðugleika.
+
+== Lýðfræði ==
+
+Íslendingar eru í megindráttum  þjóð. Landið byggðist upphaflega norrænum mönnum, einkum frá , , og  frá nýlendum  á  og Íslendingar hafa í gegnum tíðina átt mest samskipti við helstu fiskveiðiþjóðir á i. Til er kenning um að Íslendingar séu að uppruna sérstakur þjóðflokkur, aðgreindur frá öðrum þjóðflokkum á norðurlöndum („“). Á síðari tímum hafa ýmsar kenningar um uppruna þjóðarinnar verið settar fram með legum rökum. Þá er talað um að flestar konur sem hingað komu hafi verið keltneskar (flestar ambáttir) en karlarnir að miklu leyti norrænir.
+
+Íbúafjöldi landsins sveiflaðist á milli um 30.000 og 80.000 við hefðbundinn efnahag í bændasamfélagi fyrri alda. Á  og  hefur Íslendingum fjölgað nokkuð ört og nú eru íbúar landsins tæplega 320.000 auk nokkurra þúsunda af íslenskum uppruna sem ekki eru búsett á Íslandi. Árleg fólksfjölgun mælist um 2,2%.<ref name="mannfjöldi"></ref> Árið 2011 gaf  út þrjár tegundir mannfjödaspáa fyrir 1. janúar 2060: lágspá sem spáir fólksfjöldanum 386.500, miðspá sem spáir fyrir 436.500 og háspá sem spáir 493.800 manns.<ref>[http://www.hagstofa.is/Pages/95?NewsID=5218 Spá um mannfjölda 2010-2060], [https://hagstofa.is/lisalib/getfiletrack.aspx?ItemID=11237 Spá um mannfjölda 2010–2060 (Population projection 2010–2060)]</ref><ref></ref>
+
+Á Íslandi er töluð , sem er norrænt tungumál, og flestir íbúar landsins eru í hinni  .
+
 Handbolti er þjóðaríþrótt Íslendinga, íslenska handboltalandsliðið hefur náð langt á undanförnum stórmótum.
-[breyta]Innflytjendur
-Mikil fjölgun hefur verið á erlendum ríkisborgurum á Íslandi en árið 2005 fjölgaði þeim um 29,5% og árið 2006 var fjölgunin 34,7%.[5] Árið 2007 voru erlendir ríkisborgarar 18.563 talsins (6% af íbúum Íslands), og þann 1. janúar 2008 voru 21.434 erlendir ríkisborgarar skráðir (6,8% af íbúum Íslands).[5] Það er 15,5% fjölgun árið 2007. Hlutfall erlendra ríkisborgara af heildarmannfjölda Íslands er nú hærra en annars staðar á Norðurlöndum, en árið 2006 var það næst hæst í Svíþjóð eða um 5,4%.[5] Konur voru jafnan fjölmennari í hópi erlendra ríkisborgara til árins 2003, en síðan 2004 hafa karlar verið fjölmennari en konur. Í árslok 2007 voru karlar með erlent ríkisfang 8,1% allra karla en konur 5,5% allra kvenna.[5]
-Samkvæmt viðhorfskönnun sem var gerð árið 2009 meðal um 800 innflytjenda kom fram að dræm íslenskukunnátta hamlaði þeim helst í því að nýta menntun sína í starfi.[6]
-[breyta]Menning
 
-Aðalgrein: Íslensk menning
-[breyta]Kvikmynda- og bókmenntaverðlaun
-Árlega eru veitt verðlaun fyrir afrek liðins árs í bókmenntum og kvikmyndagerð á Íslandi. Edduverðlaunin eru verðlaun sem veitt eru þeim sem þykja hafa skarað fram úr á sviði kvikmynda og sjónvarps. Síðar á árinu eru Íslensku bókmenntaverðlaunin afhent því fólki sem talið er hafa borið af á ritvellinum.
-[breyta]
+=== Innflytjendur ===
+Mikil fjölgun hefur verið á erlendum ríkisborgurum á Íslandi en árið 2005 fjölgaði þeim um 29,5% og árið  var fjölgunin 34,7%.<ref name="innflytjendur"></ref> Árið  voru erlendir ríkisborgarar 18.563 talsins (6 af íbúum Íslands), og þann   voru 21.434 erlendir ríkisborgarar skráðir (6,8 af íbúum Íslands).<ref name="innflytjendur"/> Það er 15,5% fjölgun árið 2007. Hlutfall erlendra ríkisborgara af heildarmannfjölda Íslands er nú hærra en annars staðar á , en árið  var það næst hæst í  eða um 5,4%.<ref name="innflytjendur"/> Konur voru jafnan fjölmennari í hópi erlendra ríkisborgara til árins , en síðan  hafa karlar verið fjölmennari en konur. Í árslok  voru karlar með erlent ríkisfang 8,1% allra karla en konur 5,5% allra kvenna.<ref name="innflytjendur"/>
+
+Samkvæmt viðhorfskönnun sem var gerð árið 2009 meðal um 800 innflytjenda kom fram að dræm íslenskukunnátta hamlaði þeim helst í því að nýta menntun sína í starfi.<ref></ref>
+
+== Menning ==
+
+
+=== Kvikmynda- og bókmenntaverðlaun ===
+Árlega eru veitt verðlaun fyrir afrek liðins árs í bókmenntum og .  eru verðlaun sem veitt eru þeim sem þykja hafa skarað fram úr á sviði kvikmynda og sjónvarps. Síðar á árinu eru  afhent því fólki sem talið er hafa borið af á ritvellinum.
+
+== Neðanmálsgreinar ==
+<div class="references-small"><references/></div>
+
+== Tengt efni ==
+* 
+* 
+* 
+* 
+
+== Tenglar ==
+
+
+* [http://www.althingi.is/ Alþingi]
+* http://www.iceland.org/
+* http://www.iceland.is/
+* http://www.islandsmyndir.is/
+* [http://www.raduneyti.is Ríkisstjórnin]
+* 
+* 
+* [http://www.riccardozipoli.com/demo/galleries_collections.php?a=77&n=6&d=ICELAND&pagine=1&paginazione=1 Ljósmyndasafn]
+
+=== Blaðagreinar ===
+* [http://www.timarit.is/titlebrowse.jsp?issueID=436135&pageSelected=5&lang=0 ''Hinir syndugu kvaldir í ísi og eldi''; grein í Lesbók Morgunblaðsins 1996]
+* [http://www.timarit.is/titlebrowse.jsp?issueID=419579&pageSelected=4&lang=0 ''Hver var fyrstur?''; grein í Lesbók Morgunblaðsins 1971]
+* [http://www.timarit.is/?issueID=419347&pageSelected=11&lang=0 ''Hverjir fundu Ísland?''; grein í Lesbók Morgunblaðsins 1968]
+* [http://www.timarit.is/?issueID=337695&pageSelected=99&lang=0 ''Ísland og Íslendingar''; grein í Tímariti hins íslenska bókmenntafélags 1887]
+Enskar greinar:
+* [http://www.guardian.co.uk/world/2008/may/18/iceland No wonder Iceland has the happiest people on earth], grein í Observer e. John Carlin
+* [http://www.independent.co.uk/news/europe/the-big-question-is-iceland-the-happiest-place-on-the-planet-and-what-can-we-learn-from-it-832105.html The Big Question: Is Iceland the happiest place on the planet, and what can we learn from it?], grein í The Independent e. Paul Vallely
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

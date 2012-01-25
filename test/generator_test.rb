@@ -10,7 +10,7 @@ class GeneratorTest < Test::Unit::TestCase
       @ngram_frequencies =  [["_", 2], ["l", 2], ["lo_", 1], ["ello", 1], ["lo", 1], ["o", 1],
        ["llo", 1], ["hel", 1], ["o_", 1], ["ell", 1], ["e", 1], ["ello_", 1], ["_he", 1], 
        ["el", 1], ["hello", 1], ["hell", 1], ["he", 1], ["_hel", 1], ["h", 1], ["_hell", 1],
-       ["llo_", 1], ["_h", 1], ["ll", 1]] 
+       ["llo_", 1], ["_h", 1], ["ll", 1]]
     end
 
     should "create an array of ngrams for a given text input" do
@@ -39,7 +39,7 @@ class GeneratorTest < Test::Unit::TestCase
     end
 
     should "Remove characters that throw off language detection" do
-      assert_equal "Hello Go to to watch some shitty videos. Woooooo friend WIN TODAY", @sg.clean(@bad_text)
+      assert_equal "hello go to to watch some shitty videos woooooo friend win today", @sg.clean(@bad_text)
     end
   end
 

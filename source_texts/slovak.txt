@@ -1,102 +1,1127 @@
-   libier. Avonmore nedavno ziskala sto percent akcii miestneho
 
-   vyrovnana uroven vydavkov je na byvanie, vodu, elektrinu a plyn.
-   - volnom trhu - sa vacsie obchody urobili s akciami
-   na potraviny a nealkoholicke napoje. Na tieto rodiny v prepocte
-   Mussa na adresu urokovych sadzieb v Europe a specialne
-   podmienky na rozvoj a existenciu jednotlivych vyrobcov ocele.
-   pri splnani podmienok potrebnych na prijatie za clena
-
-   poklada vacsina za dolnu uroven na nakup. Prelomenie hranice
-
-   najvyssia uroven za poslednych 15 mesiacov.
-   Podla analytikov sa investori obavaju zotrvavat na trhu,
-
-   percenta. Podvecer USD otestoval hranicu 1,80 DEM,
-   Nasledky afery japonskeho koncernu Sumitomo Corp., ktore viedli
-   financii a Narodnej banky Rumunska (BNR). Na pomoc maju byt
-   Celkove mozno povedat, ze aktivita na trhu nezeleznych kovov je
-   dlheho ropovodu zo zapadneho Kazachstanu do Ciny v hodnote
-   restrukturalizaciu a operativne bude kontrolovat obchody
+<!--  -->
 
 
+{{Infobox štát
+| Celý názov           = Slovenská republika
+| 2. pád názvu         = Slovenska
+| Vlajka               = Flag of Slovakia.svg
+| Znak                 = Coat of Arms of Slovakia.svg
+| Poloha               = Europe location SVK.png
+| Motto                = nie je
+| Hymna                =  
+| Dlhý miestny názov   = Slovenská republika
+| Krátky miestny názov = Slovensko
+| Hlavné mesto         = 
+| ŠírkaSt              = 48
+| ŠírkaMin             = 8
+| ŠírkaSJ              = s
+| DĺžkaSt              = 17
+| DĺžkaMin             = 6
+| DĺžkaVZ              = v
+| Najväčšie mesto      = <sup>*</sup><ref name="Mestská a obecná štat.">{{Citácia elektronického dokumentu
+  | priezvisko         = 
+  | meno               = 
+  | odkaz na autora    = 
+  | titul              = Mestská a obecná štatistika
+  | url                = http://portal.statistics.sk/mosmis/sk/run.html
+  | dátum vydania      = 
+  | dátum aktualizácie = 
+  | dátum prístupu     = 2010-03-03
+  | vydavateľ          = Štatistický úrad Slovenskej republiky 
+  | miesto             = Bratislava 
+  | jazyk              = 
+}}</ref><br />
+<sup>**</sup><ref name="Zemepisný atlas SR">{{Citácia knihy 
+ | meno            = Róbert 
+ | priezvisko      = Čeman 
+ | odkaz na autora = 
+ | spoluautori     = Fuknová Alexandra, Lališová Anna, Kliment Ondrejka
+ | titul           = Slovenská republika. Zemepisný atlas 
+ | odkaz na titul  = 
+ | editori         = 
+ | prekladatelia   =  
+ | vydanie         = 2 
+ | vydavateľ       = Mapa Slovakia Plus, s. r. o. 
+ | miesto          = Bratislava | rok = 2005 
+ | počet strán     = 
+ | kapitola        = Slovensko - mestá  
+ | strany          = 64 
+ | isbn            = 80-8067-138-9 
+}}</ref>
+| Najstaršie mesto           = Trnava – od roku 1238
+| Odhad počtu obyvateľov     =
+| Rok odhad počtu obyvateľov =
+| Úradné jazyky              = <ref name="Ústava SR">{{Citácia elektronického dokumentu
+  | priezvisko         = 
+  | meno               = 
+  | odkaz na autora    = 
+  | titul              = Čl. 6 Ústavy Slovenskej republiky 
+  | url                = http://www.vlada.gov.sk/data/files/1086.pdf 
+  | dátum vydania      = 
+  | dátum aktualizácie = 
+  | dátum prístupu     = 2010-03-03
+  | vydavateľ          = Kancelária Národnej rady Slovenskej republiky, organizačný odbor
+  | miesto             = Bratislava 
+  | jazyk              = 
+}}</ref><ref name="zákon o štátnom jazyku SR">{{Citácia elektronického dokumentu
+  | priezvisko         = 
+  | meno               = 
+  | odkaz na autora    = 
+  | titul              = Zákon Národnej rady Slovenskej republiky o štátnom jazyku Slovenskej republiky 
+  | url                = http://www.culture.gov.sk/umenie/ttny-jazyk/legislatva/zkony/270/1995
+  | dátum vydania      = 
+  | dátum aktualizácie = 
+  | dátum prístupu     = 2010-03-03
+  | vydavateľ          = 
+  | miesto             = Bratislava 
+  | jazyk              = 
+}}</ref><ref name="zákon nár. menšín">{{Citácia elektronického dokumentu
+  | priezvisko = 
+  | meno = 
+  | odkaz na autora = 
+  | titul = Zákon č. 184/1999 Z.z. z 10. júla 1999 o používaní jazykov národnostných menšín 
+  | url = http://www.culture.gov.sk/kultura-mensin/kultra-nrodnostnch-menn/legislatva/184/1999 
+  | dátum vydania = 
+  | dátum aktualizácie = 
+  | dátum prístupu = 2010-03-03
+  | vydavateľ = 
+  | miesto = 
+  | jazyk = 
+}}</ref>
+| Štátne zriadenie = 
+| Funkcie politických predstaviteľov = Prezident<br />Predseda vlády
+| Politickí predstavitelia = <br />
+| Vznik =  
+| Susedia = , , , , 
+| Rozloha = 49 035
+| Poradie rozloha = 126
+| Rozloha vody = 931
+| Percento vody = 1.9
+| Počet obyvateľov(30. december 2009) = 5 424 925
+| Poradie odhad počtu obyvateľov = 109
+| Sčítanie počtu obyvateľov = 5 429 763 <ref>{{Citácia elektronického dokumentu
+  | priezvisko = 
+  | meno = 
+  | odkaz na autora = 
+  | titul = Počet obyvateľov SR
+  | url = http://portal.statistics.sk/showdoc.do?docid=5639
+  | dátum vydania = 30.06.2010
+  | dátum aktualizácie = 
+  | dátum prístupu = 30.06.2010
+  | vydavateľ = Štatistický úrad Slovenskej republiky
+  | miesto = 
+  | jazyk = 
+}}</ref>
+| Rok sčítanie počtu obyvateľov = 2010
+| Hustota obyvateľstva = 110,2
+| Poradie hustota = 67
+| HDP = 86 753 mil.
+| Rok HDP = 2005
+| Poradie HDP = 59
+| HDP na hlavu = 16 041
+| Poradie HDP na hlavu = 43
+| HDI = 0,849
+| Rok HDI = 2003
+| Poradie (HDI) = 42
+| Kategória HDI = vysoký
+| Mena = 
+| Kód meny = EUR
+| Časové pásmo = 
+| UTC posun = +1
+| Letný čas = 
+| UTC posun leto =  +2
+| Medzinárodný kód = SVK / SK
+| Kód motorových vozidiel = SK
+| Internetová doména = .sk, .eu (zdieľaná s ostatnými členmi )
+| Smerové telefónne číslo = 421
+| Poznámky = * Podľa počtu obyvateľov<br />
+<nowiki>**</nowiki> Podľa rozlohy
+}}
 
-   kapacitami (VSZ), ktore v sucasnosti expanduju a kapitalovo sa
-   inflacie len 56,9 %. V auguste bol zaznamenany len mierny
-   
-   7,6 mld. FRF viac ako sa predpokladalo v plane rozpoctu.
-   nakupene) pozicie pri USD/JPY a DEM/JPY, cim poslali kurz
-   velmi mierne, posilnili.
-    -=-
-   udajov britskeho statistickeho uradu na 845 mil. GBP z novembrovych
-   predalo sa ich 30 683 kusov v objeme 292 208 387 Sk. Zaujal
-   hospodarskej sutaze. Vlada sa snazi vylucit skandal, aky sa
-   (140 - 230 %), Ukrajiny (202 - 274 %), Ciny (10 - 46 %) a z JAR (7
-   zvysil o 2,3 % oproti augustu minuleho roku a podobne sa
-   
-   v 2. stvrtroku k rekordnemu prepadu ceny medi, sa skoncili.
-   Severoslovenskych tehelni v likvidacii (2259 kusov po 52
-   ked trh zaplavila vlna nakupov zemneho plynu. Na The New
-   3,5 mld. USD.
-   cenovych ramcov, najma v oblasti cien energie.
-   V prospech stupajucich ziskov podnikov v rokoch 1998 a 1999
-   v porovnani s rokom 1995 o 1,1 mil. ton menej, t. j. o 0,2 %.
-   upozornil na moznost zvysenia obchodneho napatia medzi
+'''Slovensko''', dlhý tvar '''Slovenská republika''', je vnútrozemský  v strednej . Má rozlohu  a žije tu približne 5,43 milióna obyvateľov. Hraničí s m (), m (), m (),  () a m ()<ref name=hranice>{{Citácia elektronického dokumentu
+  | priezvisko = 
+  | meno = 
+  | odkaz na autora = 
+  | titul = Štatistické údaje o štátnych hraniciach
+  | url = http://www.civil.gov.sk/archiv/p10/p10-04.shtm
+  | dátum vydania = marec 2009
+  | dátum aktualizácie = 
+  | dátum prístupu =  
+  | vydavateľ = SVS MV SR
+  | miesto = 
+  | jazyk = 
+}}</ref>. Hlavným a najľudnatejším mestom je .
 
-   Dna 16. jula, Strasburg: predseda EK Jacques Santer prezentoval
-   hodnota v relativnom vyjadreni bola 12,5 %.
-   6,2-6,4 %. Rast vyrobnych a spotrebitelskych cien bude sice
-   tak napriek spravam, ze med nahradi v pocitacoch doteraz
-   vladu a Narodnu banku Rumunska (BNR) k zachrannej akcii
-   l Svetovy lider v oblasti telekomunikacii, svedska
-   na ostatnych clenov, aby prave v tejto oblasti doslo
-   tohtorocnych dvanast percent. Do roku 2000 planuje pivovar
-   AP-DJ (jk)
-   v dosledku posilnenia akcii high-tech. Pomer klesajucich
-   zvysil o 0,4 % v porovnani s julom. Najvacsi narast sa
+Prvý štátny útvar  na území dnešného Slovenska bola  (7. storočie), neskôr  (začiatok 9. storočia), ktorého spojením s  vznikla v roku  . Od polovice 10. do konca 11. storočia sa územie Slovenska postupne začlenilo do  (od roku  Rakúsko-Uhorsko). Po rozpade  v roku  bolo Slovensko súčasťou  až do roku  (okrem obdobia samostatnosti počas ). a  vznikla rozdelením tohto štátneho útvaru samostatná Slovenská republika.
 
-   v Japonsku k vyvoju kurzov. Okamzite po zverejneni zacali
-   vysledkoch spolocnosti bude nejake pozitivne prekvapenie.
-   investori ocakavali, ze vo zverejnovanych ekonomickych
-   Decembrovy cukor na The London International Financial
+Slovenská republika je parlamentnou demokraciou, úradným jazykom je . Od a  je Slovensko členom , od   je členom . Od 1. januára  je 16. členom  –  a oficiálnou menou sa stalo , ktoré vystriedalo . Prijatím eura sa zavŕšil proces integrácie do .
 
-       Rast sukromnej spotreby sa v roku 1996 zrychlil takmer na 3 %
-   Najvacsi pohyb sme zaznamenali pri cene Nafty Gbely
-   reklamnej kampane. Prve akcie sa zacnu 29. septembra
-   Silny hospodarsky rast podporuje kurz britskej libry
-   
+== Dejiny ==
 
-   Adig Investment nachadza vo vodorovnom pohybe so sirokou
+''Pozri články: , , , , , , , , ''
 
-   exporty pre skandinavsky trh a pod.). Dynamika vykonov svedci
-   a Polaroidom treti na svete z hladiska produktivity.
-   ked trh zaplavila vlna nakupov zemneho plynu. Na The New
-   % v roku 1998, t. j. na 2,25 tis. USD/t). V tycovej oceli su skor
-   ktorymi trhy prejdu, a odporuca, ako ich co najlepsie zvladnut.
-   obzvlast vyrazne stupne spotreba ocele v Cine (+20,9 %). Velky
-   na 2,7 biliona lei. V pripade neuspechu zachrannej akcie, by
-   bol klucovym faktorom na ich cenovy vyvoj. Pocas spominaneho
-   obchodu, predovsetkym certifikaty, povazuje Ceska republika
 
-   cestu k euro. Medzi desiatimi najlepsimi nemeckymi akciovymi
-   mesiacov predstavuju 105 %. V minulom roku dosiahla miera
-   opat naznacilo moznost skoreho zvysovania urokovych sadzieb
-   7,6 mld. FRF viac ako sa predpokladalo v plane rozpoctu.
-   dennik Monitorul. V pripade Bancorexu rumunske media vidia
-   psychologicka uroven vsak odolala. Podporou pre dolar je
-     * Madarsky kapitalovy trh 
-   vykazovala deficit vo vyske 208 mil. USD, oznamila to
-   a Polaroidom treti na svete z hladiska produktivity.
-   Pritom ceny valcovanych materialov z antikorovej ocele klesali
-   azijske krajiny pri sucasnom poklese podielu v ostatnych krajinach
-   
 
-   posilnil o 5,8 centa na 4,711 USD za uncu. Analytici tento
-   Prekvapujuce vyroky silnych poslali kurz USD prudko dole
-   konca financneho roka do zverejnenia auditu. Insider trading
-   l Podla predbeznych udajov zivotne naklady v zapadnej casti
-   Morgan Stanley a niektore ine dolezite brokerske domy. The
-   o takmer 30 % sa znizili hrube vydavky u zamestnancov, u rolnikov
-   byvanie, v ostatnych tieto vydavky nepresiahnu 30 %. Tento fakt
-   su najvyssie v rodinach dochodcov (66 Sk).
-   Harmonogram predaja cennych papierov emitovanych MF SR na 4. stvrtrok
+Prvé zachované väčšie doklady o osídlení Slovenska pochádzajú z konca u približne spred 250 tis. rokov (nález lebky neandertálca – , nález sošky  v ). Približne 50004000 rokov pred Kr. sa vyskytujú prví roľníci (nálezy kamenných sekier, klinov, škrabadiel a nádob – jaskyňa ). 
+
+Od konca 4. stor. pr. Kr. prichádza na Slovensko vo viacerých vlnách prvé menovite známe etnikum – . O prítomnosti Keltov existujú písomné zmienky v rímskych prameňoch. V 1. storočí pred Kr. prichádzajú na Slovensko , Kelti ustupujú ďalej na sever, dochádza k miešaniu keltského a dáckeho obyvateľstva a kultúry.
+
+Od počiatku nášho letopočtu sú dácke a keltské kmene vytláčané kmeňmi . Na dnešnom slovenskom území dočasne vzniklo napríklad ich . Dunaj tvoril hranicu s . 
+
+Koncom  sa začalo , na Slovensku sa vystriedalo veľmi veľa národov. Prvé  obyvateľstvo osídlilo hlavné územie Slovenska asi v . Slovensko sa stalo súčasťou  v , samostatného  (koniec  – ) a  (833 – cca ). V roku  veľkomoravský panovník  žiada  o kresťanských misionárov, byzantský cisár  súhlasí a na Veľkú Moravu posiela solúnskych bratov  (rehoľným menom Cyril) a , ktorí zostavujú , prekladajú  a bohoslužobné zvitky a knihy a organizujú cirkevnoprávne pomery na Veľkej Morave. Po zániku Veľkomoravskej ríše sa územie Slovenska stalo postupne súčasťou  (od  až  do ), v ktorom do začiatku  tvorilo Nitrianske kniežatstvo (Nitriansko). 
+
+Názov Slovensko ako označenie Slovenska v dnešnom ponímaní je výnimočne doložený z roku 1029 v spojení „dux Sclavonie“ a potom v rôznych variantoch a jazykoch často od 15. storočia. Pri starších výskytoch podobných tvarov je sporné, či sa myslí slovanské alebo slovenské územie. Moderný slovenský tvar Slovensko je prvýkrát doložený v roku  v žiadosti broumovského panstva, adresovanej hajtmanovi kraja v Uhorskom Hradišti.<ref>[http://www.juls.savba.sk/ediela/ks/1992/8/ks1992-8.pdf] UHLÁR, V.: O pôvode názvov Slovák, Slovensko a slovenčina</ref>
+
+Po  expanzii sa územie bývalého Uhorska v  a  dočasne zredukovalo prakticky len na Slovensko, dnešný Burgenland a západné Chorvátsko (tzv. ), čím sa Slovensko stalo jadrom tohto  štátu.  sa stala hlavným (/), korunovačným () mestom a sídlom snemu () Kráľovského Uhorska resp. neskôr Uhorska.  sa stala sídlom  arcibiskupa, čím sa stala centrálnym miestom uhorskej rímskokatolíckej cirkvi.
+
+Roku  kodifikoval  spisovnú  založenú na západoslovenskom nárečí (). Roku  kodifikoval  spisovnú slovenčinu na základe stredoslovenského nárečia, ktorá je s malými úpravami používaná dodnes.
+
+V revolúcii rokov  –  sa Slováci pridali na stranu Rakúšanov, aby sa oddelili od Uhorska ako samostatná časť , to sa im však nepodarilo.
+
+Najhoršiemu tlaku  čelili Slováci po  v rokoch 1918. 
+
+V roku  sa Slovensko stalo súčasťou . Počas chaosu, ktorý nasledoval po rozpadnutí Rakúsko-Uhorska, krátkodobo existovala  na časti slovenského územia komunistická tzv.  so sídlom v e. Slovensko sa ako súčasť Česko-Slovenska začalo rozvíjať najmä po kultúrnej stránke. Koncom 30. rokov vyžil národnostné rozdiely v krajine Hitler, ktorý najprv pripravil Česko o pohraničné územia a následne po rokovaniach so slovenskými politikmi dopomohol v marci 1939 k vzniku . Slovensko počas  vystupovalo ako spojenec . Ako reakcia na vstup nemeckej armády na Slovensko roku  vypuklo  (politické a vojenské centrum ; povstanie bolo porazené, povstalci prešli na partizánsky spôsob boja). Slovensko bolo z východu oslobodzované .
+
+Po  bolo obnovené Česko-Slovensko a dostalo sa do sféry vplyvu . Po roku 1948, kedy sa moci oficiálne , došlo k  súkromných podnikov, slovenský prevažne roľnícky vidiek zasiahla . Pre hospodárske zaostávanie a nespokojnosť s politikou komunistickej strany došlo v roku 1968 k významným . 21. augusta 1968 boli tieto procesy potlačené . Došlo k tzv. normalizácii a nástupu brežnevskej politiky. V roku   ukončila  režim a Česko-Slovensko sa stalo opäť demokratickým štátom.
+
+a  vznikla Slovenská republika, nástupnícky štát Česko-Slovenska. Stalo sa tak po 75 rokoch existencie spoločného štátu  a , na základe ústavného zákona schváleného  ČSFR. Od   je Slovensko členom  a od a 2004 členom .
+
+== Geografia ==
+Slovensko leží v  a je charakterizované hornatou krajinou na severe a nížinami na juhu. 
+
+]]
+ na Záhorí]]
+, na travertínovom ]]
+a]]
+, neoficiálny symbol Slovenska]]
+
+=== Sídla ===
+Slovensko má pomerne hustú sieť osídlenia, nachádza sa tu 2 891 samostatných obcí, z toho je 138 miest (2009)<ref name=VCH2009>{{Citácia elektronického dokumentu
+  | priezvisko = 
+  | meno = 
+  | odkaz na autora = 
+  | titul = Všeobecné charakteristiky za rok 2009
+  | url = http://portal.statistics.sk/showdoc.do?docid=2213
+  | dátum vydania = 
+  | dátum aktualizácie = 
+  | dátum prístupu =  
+  | vydavateľ = Štatistický úrad SR
+  | miesto = 
+  | jazyk = 
+}}</ref>. Najväčšími mestami podľa počtu obyvateľov sú  a , ďalej nasledujú , , ,  a . V mestách žije vyše 57 percent populácie.
+
+=== Povrch ===
+Jednotlivé povrchové celky Slovenska patria do  a . Zo Slovenska do Panónskej panvy patrí ,  a .
+
+=== Podnebie ===
+Podnebie Slovenska sa nachádza na rozmedzí medzi kontinentálnym a oceánskym. Podľa Köppena prechádza hranica kontinentálneho a oceánskeho podnebia východným, resp. stredným Slovenskom. Klíma Slovenska  sa môže rozdeliť na 3 zóny:
+
+# '''Nížiny'''
+## Nížinná podzóna s prevažujúcimi oceánskymi vplyvmi – priemerná ročná teplota je okolo 10 stupňov Celzia. Priemerná teplota najteplejšieho mesiaca je okolo 20 stupňov Celzia a teplota najchladnejšieho mesiaca neklesá v priemere pod -3 stupne Celzia. Ide o Podunajskú a Záhorskú nížinu. Typickými predstaviteľmi sú  a .
+## Nížinná podzóna s prevažujúcimi kontinentálnymi vplyvmi – priemerná ročná teplota je okolo 9 stupňov Celzia. Priemerná teplota najteplejšieho mesiaca je okolo 20 stupňov Celzia a teplota najchladnejšieho mesiaca klesá v priemere pod -3 stupne Celzia. Ide o  a . Typickým predstaviteľom sú .
+# '''Kotliny''' – priemerná ročná teplota je od 5 do 8,5 stupňa Celzia. Priemerná teplota najteplejšieho mesiaca je v rozmedzí 1518,5 stupňov Celzia a najchladnejšieho mesiaca od -3 po -6 stupňov Celzia. Typickými predstaviteľmi sú ,  a .
+# '''Hory''' – Priemerná ročná teplota je pod 5 stupňov Celzia. Priemerná teplota najteplejšieho mesiaca je pod 15 stupňov Celzia a najchladnejšieho mesiaca pod -5 stupňov Celzia. Typickú klímu horskej zóny reprezentuje ,  a .
+
+=== Vodstvo ===
+Rieky na Slovensku väčšinou pramenia a sú málo vodnaté. Všetky rieky sú najvodnatejšie na jar, keď sa roztápa sneh. Jedinou výnimkou je , ktorý je najvodnatejší v lete, keď sa topí ľad v Alpách. Vodstvo Slovenska sa delí na   a . K úmoriu Baltského mora patria  riek  a . K úmoriu Čierneho mora patria povodia riek , , .  na Slovensku vznikli ústupom horského ľadovca, napr. , , , alebo .
+
+Najviac priehrad je na rieke . Sú to napr. , , ,  a iné. Najväčšia priehrada je  s rozlohou . Účel priehrad je hydroenergetický, protizáplavový, slúžia na zavlažovanie, rekreáciu, alebo zásobovanie pitnou vodou (vodárenské nádrže, celkom 8). Najviac podzemnej vody je na . Podzemná voda sa delí na 3 druhy:
+# ová voda – nachádza sa v jaskyniach;
+# ;
+#  – najteplejšia termálna voda v SR je v Podhájskej (80 stupňov)<ref>.{{Citácia elektronického dokumentu
+  | priezvisko = 
+  | meno = 
+  | odkaz na autora = 
+  | titul = Obec Podhájska - Geotermálny prameň
+  | url = http://www.obecpodhajska.sk/?menu=210
+  | dátum vydania = 
+  | dátum aktualizácie = 
+  | dátum prístupu = 25.1.2010
+  | vydavateľ = obecpodhajska.sk
+  | miesto = 
+  | jazyk = 
+}}</ref>
+
+=== Zemepisné zaujímavosti ===
+;Svetové strany
+* najsevernejší bod:  (obec ) na štátnej hranici (49° 37' s. z. š., 19° 28' v. z. d.)
+* najjužnejší bod:  (47° 44' s. z. š., 18° 17' v. z. d.)
+* najzápadnejší bod:  (48° 23' s. z. š., 16° 50' v. z. d.)
+* najvýchodnejší bod:  (hraničný trojmedzník) (49° 05' s. z. š., 22° 34' v. z. d.)
+
+;Nadmorská výška
+* najvyšší bod:  ()
+* najnižší bod: hladina rieky  pri  ()
+
+;Stredy
+* stred Slovenska: kóta - (+/- 5 ) (48° 44' s. z. š., 19° 28' v. z. dĺžky)
+* geometrický stred Slovenska: kóta , ťažisko štátneho územia
+* stred Európy (zemepisný): kostol sv. Jána v  (+/- 5)(48° 45' s. z. š., 18° 55' v. z. d.)
+
+;Hranice<ref name=hranice />
+* celkovo 
+* najkratšia s  ()
+* najdlhšia s m ()
+* s m 
+* s m 
+* s m 
+* index štátnych hraníc: 2,1
+
+;Vzdialenosti (vzdušné)
+* najväčšia dĺžka:  medzi obcami Záhorská Ves a Nová Sedlica
+* najkratšia šírka:  medzi obcami  a 
+* najkratšia vzdialenosť k :  k  pri 
+
+== Geológia ==
+=== Geologická stavba ===
+
+
+Väčšinu územia Slovenska zaberajú , pásmové pohorie s výraznou  stavbou, ktoré je súčasťou . Západné Karpaty sa podľa platného členenia delia na viacero pásiem.<ref>Kováč, M., Plašianka, D., 2003: ''Geologická stavba oblasti na styku Alpsko-karpatsko-panónskej sústavy a priľahlých svahov Českého masívu.'' Univerzita Komenského, Bratislava, 88 s.</ref>  (ležiace na vonkajšej strane Karpatského oblúka), ktoré bol  na konci u a v e. Tvorí ich  a . Geologicky komplikované  tvorí vonkajšiu hranicu . Do Centrálnych Západných Karpát patrí okrem bradlového aj ,  a , ktoré dovedna budujú najväčšiu a najvyššiu časť Slovenska. Južne od nich sa nachádzajú , tvorené  a . Spomedzi ostatných južnejších pásiem Západných Karpát na územie Slovenska zasahuje iba . Jednotlivé pásma sú na seba nasúvané, približne smerom z juhu na sever. Najdôležitejšie orogenetické pohyby postihli Západné Karpaty vo vrchnej , strede  a e. Po skončení hlavných  pohybov alpínskeho vrásnenia došlo v e a e k vzniku viacerých , pozdĺž ktorých niektoré bloky poklesli a vytvorili tak  a . Na niektorých zlomoch došlo tiež k výlevom , najmä na  a  Slovensku. Začiatkom   postupne ustala. Počas  vznikli v najvyšších pohoriach . Od konca treťohôr možno sledovať prejavy eróznej a transportnej činnosti  a  tak ako ich poznáme dnes.
+
+=== Nerastné bohatstvo ===
+a. Tento minerál patrí medzi najvýznamnejšie suroviny v súčasnosti ťažené na Slovensku.]]
+Spomedzi energetických surovín sa dnes na území Slovenska ťažia , ,  a . Ťažba ropy pokrýva iba okolo 1 % a ťažba zemného plynu 3 % domácej spotreby. Ťažba hnedého uhlia pokrýva 80 % domácej spotreby, zvyšok je podobne ako celá spotreba  zabezpečená dovozom z Česka. Ďalšie energetické suroviny ako , ,   a neživičné plyny nie sú pri dnešných cenách vhodné na rentabilnú ťažbu. Spomedzi  bola na Slovensku donedávna ťažená už iba  (), ktorej ťažba pokrývala 11 % domácej spotreby. V priebehu leta 2008 však ťažba ustala. Na Slovensku sa na rozdiel od okolitých krajín nachádzajú zásoby u, ktorý sa však v súčasnosti neťaží. Krajina má značné zásoby , z ktorých veľký význam má hlavne ťažba u, ktorý je exportovaný a predstavuje okolo 6 % svetovej ťažby tejto suroviny. Z celosvetového merítka je významná aj ťažba  a ov. Významným je i novo otvárané ložisko  pri . Medzi ostatné na Slovensku ťažené nerudné suroviny patrí , ,  (pokrýva asi 26 % domácej spotreby), keramické y, petrurgický , stavebný a , , ,  (pokrýva asi 20 % domácej spotreby),  (pokrýva asi 45 % domácej spotreby), ,   a ďalšie. V minulosti bola krajina významným producentom , ,  a ďalších rúd, ktorých ložiská sú v dnešnej dobe vyťažené. V malej miere pokračuje iba ťažba zlata v .
+
+== Príroda ==
+=== Rastlinstvo ===
+
+Až 44,3 % územia republiky (2,17 milióna hektárov) je zalesnených<ref>{{Citácia elektronického dokumentu
+  | priezvisko = 
+  | meno = 
+  | odkaz na autora = 
+  | titul = Prírodné bohatstvo Slovenska
+  | url = http://www.tasr.sk/10/1307.axd?k=20080430TBB00452
+  | dátum vydania = 2008
+  | dátum aktualizácie = 
+  | dátum prístupu = 27.5.2011
+  | vydavateľ = 
+  | miesto = 
+  | jazyk = 
+}}</ref>.
+
+=== Živočíšstvo ===
+
+=== Ochrana prírody ===
+Na Slovensku zabezpečuje ochranu prírody 9 , pričom rozlohou najväčší a najstarší je . Celkom je na Slovensku vyhlásených 1082 maloplošných chránených území<ref>{{Citácia elektronického dokumentu
+  | priezvisko = 
+  | meno = 
+  | odkaz na autora = 
+  | titul = Štátny zoznam osobitne chránených častí prírody SR
+  | url = http://uzemia.enviroportal.sk/main/list/sortColumn/Cislo/sortType/asc
+  | dátum vydania = 2007
+  | dátum aktualizácie = 
+  | dátum prístupu = 
+  | vydavateľ = SAŽP
+  | miesto = 
+  | jazyk = 
+}}</ref>, 382 území európskeho významu<ref>{{Citácia elektronického dokumentu
+  | priezvisko = 
+  | meno = 
+  | odkaz na autora = 
+  | titul = Výnos č. 3/2004-5.1 zo 14. júla 2004
+  | url = http://www.sopsr.sk/natura/dokumenty/vynos.doc
+  | dátum vydania = 
+  | dátum aktualizácie = 
+  | dátum prístupu = 
+  | vydavateľ = Ministerstva životného prostredia SR
+  | miesto = 
+  | jazyk = 
+}}</ref> a 38 chránených vtáčích území<ref>{{Citácia elektronického dokumentu
+  | priezvisko = 
+  | meno = 
+  | odkaz na autora = 
+  | titul = Lokality Natura 2000
+  | url = http://www.sopsr.sk/natura/index1.php?p=4&lang=sk&sec=1&cpt=1
+  | dátum vydania = 
+  | dátum aktualizácie = 
+  | dátum prístupu = 
+  | vydavateľ = Štátna ochrana prírody SR
+  | miesto = 
+  | jazyk = 
+}}</ref>.
+== Administratívne rozdelenie ==
+
+
+Slovensko je od roku 1996 rozdelené na osem krajov, ktoré sú od roku 2002 zároveň  (v  sa nazývajú vyššie územné celky (VÚC)):
+{|
+| width="50%" valign="top" |
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+| width="50%" valign="top" |
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+|}
+
+, druhé najväčšie mesto, hlavná ulica a budova ]]
+
+=== Administratívne rozdelenie Slovenska v dejinách ===
+* 
+* 
+* 
+* 
+* 
+* 
+
+== Obyvateľstvo ==
+
+* Najvyšší počet obyvateľov majú kraje: Prešovský, Košický a Nitriansky.<ref name=VCH2009 />
+* Najvyšší počet obyvateľov majú mestá: Bratislava, Košice a Prešov.
+* Najväčšiu hustotu zaľudnenia majú kraje: Bratislavský, Trenčiansky a Trnavský.
+* Najväčšiu rozlohu majú mestá: Bratislava, mesto Vysoké Tatry a Košice.
+Najväčší úbytok obyvateľstva je v Bratislavskom, Myjavskom, Košickom, Medzilaborskom a Sobraneckom okrese. Najväčší prírastok obyvateľstva je na , ,  a . 
+
+=== Národnosti ===
+{| border="0" align="right" 
+! <small>Počet obyvateľov<br />podľa národnosti (2001)</small><ref>{{Citácia elektronického dokumentu
+  | autor = 
+  | titul = Sčítanie obyvateľov, domov a bytov 2001 - obyvateľstvo podľa národnosti - 2001
+  | url = http://portal.statistics.sk/files/Sekcie/sek_600/Demografia/SODB/Tabulky/tab11.pdf
+  | dátum vydania = 
+  | dátum aktualizácie = 
+  | dátum prístupu = 21.8.2010
+  | vydavateľ = portal.statistics.sk
+}}</ref>
+! <small>Počet obyvateľov<br />podľa materinského jazyka</small>
+|-
+|
+{| class="wikitable" border="1" align="center"
+|-
+! Národnosť
+! Počet
+|-
+| Slovenská
+| 4 614 854
+|-
+| Maďarská
+| 520 528
+|-
+| Rómska
+| 89 920
+|-
+| Rusínska
+| 24 201
+|-
+| Ukrajinská
+| 10 814
+|-
+| Česká
+| 44 620
+|-
+| Nemecká
+| 5 405
+|-
+| Poľská
+| 2 602
+|-
+| Chorvátska
+| 890
+|-
+| Srbská
+| 434
+|-
+| Ruská
+| 1 590
+|-
+| Židovská
+| 218
+|-
+| Ostatné a nezistené
+| 63 379
+|}
+|
+{| class="wikitable" border="1" align="center" cellpadding="10"
+|-
+! Jazyky
+! Počet
+|-
+| Slovenský jazyk
+| 4 512 217
+|-
+| Maďarský jazyk
+| 572 929
+|-
+| Rómsky jazyk
+| 99 448
+|-
+| Rusínsky jazyk
+| 54 907
+|-
+| Ukrajinský jazyk
+| 7 879
+|-
+| Český jazyk
+| 48 201
+|-
+| Nemecký jazyk
+| 6 343
+|-
+| Poľský jazyk
+| 2 731
+|-
+| Chorvátsky jazyk
+| 988
+|-
+| Srbský jazyk 
+| 411
+|-
+| Ostatné jazyky
+| 7 345
+|-
+| Nezistený
+| 66 056
+|-
+|}
+|}
+Národnostné uloženie v roku 2006:  (85,8 %),  (9,5 %) – najmä v pásme pri hraniciach s Maďarskom,  (1,8 %), menšími menšinami sú  (0,8 %),  (0,4 %) a  (0,2 %),  (0,1 %) a . 
+
+Podiel Rómov podľa posledného sčítania (čiže na základe ich vlastnej deklarácie) je 1,7 %, no podľa rozhovorov s komunálnymi predstaviteľmi a starostami (čiže na základe definície zvyšného obyvateľstva) 5,6 %. Treba si však uvedomiť, že v prípade uvedených 5,6 % treba znížiť hore uvedené percento Slovákov a Maďarov celkovo o 4 percentuálne body.
+
+Menšinové jazyky sa môžu používať v styku s úradmi v obciach, kde podiel obyvateľstva prevyšuje 20 %. V praxi sa to týka vyše stovky maďarských obcí; desiatky rusínskych/ukrajinských a rómskych obcí;  a  jednej nemeckej obce.
+
+=== Náboženstvo ===
+
+ zaručuje slobodu vierovyznania. Väčšina obyvateľov je  (68,9 %); druhou najväčšou skupinou sú  (13%), treťou  (6,9%), štvrtou  (4,1%), piatou  (2,0%) a šiestou  (0,9%).
+
+== Politika ==
+]]
+''Pozri'': 
+: 
+: 
+: 
+: 
+: 
+: 
+
+* Prezident: 
+* Predseda vlády:  (SDKÚ)
+* Predseda parlamentu:  (KDH)
+* Podpredsedovia parlamentu: , , 
+* Podpredsedovia vlády: 1. podpredseda  , podpredsedovia , , 
+* Zloženie vlády: , , , 
+* Orientácia vlády: pravicová
+* Opozícia: , 
+* Počet politických strán v parlamente: 6
+
+=== Politický systém ===
+Slovenská republika je parlamentná demokracia parlamentného typu.
+
+==== Legislatíva ====
+Parlament () je najvyšším legislatívnym orgánom štátu. Má 150 členov – poslancov volených v demokratických  , ktoré sa konajú (okrem prípadu predčasných volieb) raz za štyri roky.  je  , výsledky volieb a prerozdelenie hlasov na poslanecké kreslá teda do veľkej miery kopírujú pomer hlasov voličov. Poslanci svoj mandát získavajú ako jednotlivci na kandidátke, nemôže im teda by byť odobratý v prípade, že sa ich názory rozchádzajú z názorovou líniou strany, t. j. neexistuje tu .
+
+==== Exekutíva ====
+ sa skladá z ministrov, ktorí vzišli z politických strán, ktoré vytvorili väčšinovú koalíciu, t. j. takú ktorá má viac ako 75 poslancov v pléne NR SR. Na čele vlády stojí premiér, ktorý nedisponuje vlastnou ministerskou agendou. V prípade, že sa poslanci stanú ministrami svojho poslaneckého mandátu sa dočasne vzdávajú a na ich miesto nastúpia náhradníci (napr. v Českej republike im zostáva, čo následne spôsobuje vysoké absencie ministrov na hlasovaniach v Poslaneckej snemovni). V prípade, že rezignujú alebo sú odvolaní, mandát sa im vráti a oni môžu nastúpiť do parlamentu ako radoví poslanci.
+
+==== Prezident ====
+ v Bratislave, sídlo prezidenta Slovenskej republiky]]
+ je spolu s premiérom a predsedom parlamentu najvyšším ústavným činiteľom v krajine (Z tohto dôvodu, napríklad, nemôžu títo páni nikdy letieť spolu v jednom lietadle). Jeho funkcia je však skôr formálna. Medzi jeho právomoci patrí napríklad poverovanie budúceho premiéra zostavením vlády, ktorú následne vymenuje. Ďalej disponuje tzv. malým vetom, to značí, že môže vrátiť zákon na opätovné posúdenie Národnou radou. Na prehlasovanie tohto malého veta treba Národnej rade nadpolovičnú väčšinu všetkých poslancov, t. j. minimálne 76. Pred malým prezidentským vetom stačila nadpolovičná väčšina prítomných poslancov, v prípade, že bol parlament uznášaniaschopný, t. j. bolo potrebných minimálne 38 poslaneckých hlasov. Prezident okrem toho vyberá ústavných sudcov spomedzi dvojnásobného počtu kandidátov schválených Národnou radou či udeľuje vyznamenania. Prezident je hlavou štátu. Terajším prezidentom je Ivan Gašparovič.
+
+== Ekonomika ==
+
+
+=== Priemysel ===
+]]
+
+V minulosti sa v krajine produkovali najmä výrobky ťažkého strojárenstva a zbrane pre východný trh. Po rozpade Česko-Slovenska tento trh upadol.
+
+Nízke náklady na pracovnú silu a daňová reforma sa na začiatku 21. storočia stali atraktívne pre zahraničných investorov, najmä z automobilového priemyslu, ktorý má v slovenskej ekonomike výraznú pozíciu. Na Slovensku je vyrobených najviac áut na svete na jedného občana. Nachádzajú sa tu závody spoločnosti  v Bratislave, PSA - v Trnave a  v Žiline. Druhý najdôležitejší priemysel je elektrotechnický priemysel. Pri Nitre má továreň spoločnosť , pri Galante spoločnosť . Slovenský priemysel má priaznivé vyhliadky na rozvoj a mal by rásť aj v nasledujúcich rokoch. Na Slovensku sa v roku  vyrobilo 571 071 automobilov, čo je najviac automobilov na svete v prepočte na jedného obyvateľa, konkrétne 105,7 áut na tisíc obyvateľov<ref>{{Citácia elektronického dokumentu
+  | priezvisko = 
+  | meno = 
+  | odkaz na autora = 
+  | titul = Slovensko vyrába najviac áut na obyvateľa
+  | url = http://hnonline.sk/ekonomika/c1-23870240-slovensko-vyraba-najviac-aut-na-obyvatela
+  | dátum vydania = 10:45 8.4.2008
+  | dátum aktualizácie = 
+  | dátum prístupu = 18.10.2009
+  | vydavateľ = hnonline.sk
+  | miesto = 
+  | jazyk = 
+}}</ref>.
+
+Krajina si výrobou automobilov získala prívlastok ''Detroit Európy'' a po rozvoji ekonomiky aj ''tatranský tiger''<ref>{{Citácia knihy
+  | priezvisko = Hobbs
+  | meno = Joseph J. 
+  | odkaz na autora = 
+  | titul = World Regional Geography
+  | vydavateľ = Cengage Learning
+  | miesto = Belmont
+  | rok = 2009
+  | isbn = 0-495-38950-1
+  | kapitola = 
+  | strany = 145
+  | jazyk = 
+}}</ref>.
+
+=== Poľnohospodárstvo ===
+Slovensko má rozvinuté , ktoré využíva  poľnohospodárskej pôdy (39,5% povrchu krajiny). Ešte na začiatku  zamestnávalo 60% obyvateľstva. Dnes poľnohospodárstvo,  a súvisiace odvetvia zamestnávajú asi 4,9% ekonomicky činného obyvateľstva (asi 100 050 zamestnancov)<ref>Kolektív autorov, ''Ottova praktická encyklopédia Slovensko.'' Ottovo nakladatelství, Praha, 2008, s. 401404</ref>. Najvhodnejšie podmienky na rastlinnú výrobu sú v nížinách. Pestuje sa hlavne  (60% osevných plôch),  a jedno a viacročné . ,  a  (hlavne , biela , ,  a ) sa pestujú dovedna na asi 3% ornej pôdy<ref name="Némethová">{{Citácia elektronického dokumentu
+  | priezvisko = Némethová
+  | meno = J
+  | odkaz na autora = 
+  | titul = Poľnohospodárstvo Slovenska
+  | url = http://dam.fpv.ukf.sk/mod/resource/view.php?inpopup=true&id=473
+  | dátum vydania = 
+  | dátum aktualizácie = 
+  | dátum prístupu = 20.8.2010
+  | vydavateľ = dam.fpv.ukf.sk
+  | miesto = 
+  | jazyk = 
+}}</ref>. Na Slovensku sa nachádza 6 . Väčšina  sa pestuje hlavne na západnom, menej na strednom a najmenej na východnom Slovensku. Vo vyšších polohách sa využívajú pastviny na chov  a . Väčšia časť živočíšnej výroby je sústredná v nížinách, kde sa nachádzajú dostatočné zdroje krmovín.
+
+K 31. decembru 2009 sa na Slovensku chovalo<ref>{{Citácia elektronického dokumentu
+  | autor = Štatistický úrad SR
+  | titul = Súpis hospodárskych zvierat k 31.12.2009
+  | url = http://portal.statistics.sk/files/Sekcie/sek_500/polnohospodarstvo/publikacie-stiahnutie/stavy-zvierat/supis-zvierat-2009.pdf
+  | dátum vydania = Marec 2010
+  | dátum aktualizácie = 
+  | dátum prístupu = 20.8.2010
+  | vydavateľ = portal.statistics.sk
+  | miesto = 
+  | jazyk = 
+}}</ref>:
+{| class="wikitable" border="1"
+|-
+! Druh
+! Počet kusov v tisícoch
+|-
+| Hovädzí dobytok
+| 471
+|-
+| Ošípané
+| 740
+|-
+| Ovce
+| 376
+|-
+| Kozy
+| 35
+|-
+| Kone
+| 7
+|-
+| Hydina (z toho sliepky)
+| 13583 (6252)
+|}
+
+Počet chovaných zvierat väčšiny druhov má dlhodobo tendenciu poklesu, hlavne v dôsledku poklesu domáceho dopytu a nízkej kúpnej sily domáceho obyvateľstva<ref name="Némethová"/>.
+
+=== Turizmus ===
+Slovensko je atraktívne pre svoje prírodné krásy, najmä ,  ale aj kultúrne a historické zaujímavosti, ako sú stredoveké y a , ,  a . Krajina má podľa niektorých zdrojov najväčšiu koncentráciu hradov na jedného obyvateľa<ref>{{Citácia elektronického dokumentu
+  | autor = 
+  | titul = Slovakia, Wikitravel
+  | url = http://wikitravel.org/en/Slovakia
+  | dátum vydania = 
+  | dátum aktualizácie = 30.09.2011
+  | dátum prístupu = 09.10.2011
+  | vydavateľ = wikitravel.org
+  | miesto = 
+  | jazyk = po anglicky
+}}</ref>. V roku 2006 navštívilo Slovensko viac než 1,6 milióna ľudí. Medzi najnavštevovanejšie destinácie patrilo hlavné mesto a pohorie <ref>{{Citácia elektronického dokumentu
+  | autor = ČTK
+  | autor2 = KA
+  | titul = Turistov na Slovensku pribúda
+  | url = http://aktualne.centrum.sk/cestovanie/clanek.phtml?id=240802
+  | dátum vydania = 30.06.2007 
+  | dátum aktualizácie = 
+  | dátum prístupu = 09.10.2011
+  | vydavateľ = aktualne.centrum.sk
+  | miesto = 
+  | jazyk = 
+}}</ref>. Väčšina návštevníkov prichádza z Česka (asi 26%), Poľska (15%) a Nemecka (11%).
+
+== Doprava ==
+=== Letecká doprava ===
+]]
+Na Slovensku sa nachádza 36  (z toho 20 s tvrdým povrchom)<ref name=CIA>{{Citácia elektronického dokumentu
+  | priezvisko = 
+  | meno = 
+  | odkaz na autora = 
+  | titul = The World Factbook
+  | url = https://www.cia.gov/library/publications/the-world-factbook/geos/lo.html
+  | dátum vydania = 
+  | dátum aktualizácie = 
+  | dátum prístupu = 
+  | vydavateľ = Central Intelligence Agency
+  | miesto = 
+  | jazyk = po anglicky
+}}</ref>. Slovensko má celkovo 6 medzinárodných letísk, konkrétne v , , , , , . Najväčšie letisko na Slovensku je  v Bratislave. V roku 2009 prepravilo 1 710 018 cestujúcich<ref>{{Citácia elektronického dokumentu
+  | priezvisko = 
+  | meno = 
+  | odkaz na autora = 
+  | titul = Štatistické údaje
+  | url = http://www.letiskobratislava.sk/31.html
+  | dátum vydania = 
+  | dátum aktualizácie = 
+  | dátum prístupu = 
+  | vydavateľ = Letisko M.R.Štefánika Bratislava
+  | miesto = 
+  | jazyk = 
+}}</ref>.
+
+'''Počet letísk podľa dĺžky:'''<ref name=CIA />
+* viac ako : 1
+* od 2 438 do : 3
+* od 1 524 do : 3
+* od 914 do : 12
+* menej ako : 17
+
+=== Potrubná doprava ===
+Cez Slovensko prechádzajú dva ropovody –  () a  ().
+
+=== Železničná doprava ===
+ spravujú 3 690 kilometrov (2007)<ref>{{Citácia elektronického dokumentu
+  | priezvisko = 
+  | meno = 
+  | odkaz na autora = 
+  | titul = Zmluva o prevádzkovaní dráh na rok 2007
+  | url = http://www.zsr.sk/buxus/docs//Zmluva_o_vykone/Zmluva_o_prev_drah_2007.rtf
+  | dátum vydania = 
+  | dátum aktualizácie = 
+  | dátum prístupu = 
+  | vydavateľ = 
+  | miesto = 
+  | jazyk = 
+}}</ref> tratí normálneho, širokého a úzkeho rozchodu tratí a  tratí so zabezpečovacím zariadením. Ďalej majú v správe 1 159 priecestí so signalizáciou, 8 773 výhybiek, 76 tunelov s dĺžkou , 2 283 mostov s dĺžkou  a 2 344 železničných priecestí. Spoločnosť ŽSR je podľa zákona prevádzkovateľom dráh na území Slovenska. Najdôležitejšími železničnými uzlami sú: , , ,  a . Najdlhší železničný tunel na Slovensku a aj v bývalom Česko-Slovensku je  s dĺžkou .
+
+Medzi technické pamiatky patrí úvraťová . V prevádzke bola od roku 1926 do 1971, dnes jej časť slúži ako turistická atrakcia.
+
+=== Cestná doprava ===
+
+Celková dĺžka cestných komunikácií je . S tvrdým povrchom  (vrátane  diaľnic) a s nespevneným povrchom . Kategórie cestných komunikácií: cesty I. triedy, cesty II. triedy, cesty III. triedy, rýchlostné komunikácie, diaľnice (, , , ).
+
+=== Vodná doprava ===
+Vodná doprava sa na Slovensku vykonáva na riekach:
+*  ()
+*  ()
+*  ()
+
+Riečne prístavy sa nachádzajú v mestách  a . Na ostatných vodných plochách sa vykonáva prevažne rekreačná a technologická plavba. Z časti je realizovaný projekt  s medzinárodným významom, ktorá by mala prepojiť  cez  s  a <ref>{{Citácia elektronického dokumentu
+  | priezvisko = 
+  | meno = 
+  | odkaz na autora = 
+  | titul = Koncepcia rozvoja vodnej dopravy SR
+  | url = http://www.telecom.gov.sk/index/index.php?ids=481
+  | dátum vydania = 
+  | dátum aktualizácie = 
+  | dátum prístupu = 
+  | vydavateľ = MDPT
+  | miesto = 
+  | jazyk = 
+}}</ref>.
+
+== Školstvo ==
+Povinná, pôvodne 6 ročná školská dochádzka bola na území dnešného Slovenska zavedená v roku 1868. Od roku 1922 8 ročná, neskôr v priebehu éry socializmu rozšírená na 10 ročnú povinnú školskú dochádzku, ktorú môžu žiaci absolvovať na  a , resp. .  obyvateľstva sa pohybuje okolo 0,6 % populácie nad 15 rokov. Nachádzajú sa tu ,  ako aj . Vzdelávanie je poskytované aj v jazykoch viacerých .  navštevujú deti od 6 (alebo 7) po 14 (alebo 15) rokov.
+
+Všetky štandardné stupne vzdelania, vrátane vysokého sú štátom poskytované bezplatne. Na Slovensku existuje niekoľko desiatok  a . V roku 2006 absolvovalo vysokoškolské štúdium na Slovensku 34 535 absolventov.<ref>Řádek, M. a kolektív, 2007: [http://www.jeneweingroup.com/dokumenty/eppp/Vysoke_skolstvo.pdf ''Vysoké školstvo na Slovensku. Realita, problém, možné riešenia.''] EPPP, 38 s.</ref> Ani jedna zo slovenských univerzít sa nedostala medzi 500 najlepších univerzít na svete.<ref>{{Citácia elektronického dokumentu
+  | priezvisko = 
+  | meno = 
+  | odkaz na autora = 
+  | titul = Academic Ranking of World Universities - 2008 - Top 500 World Universities
+  | url = http://www.arwu.org/rank2008/Top500_EN(by%20rank).pdf
+  | dátum vydania = 
+  | dátum aktualizácie = 
+  | dátum prístupu = 18.10.2009
+  | vydavateľ = arwu.org
+  | miesto = 
+  | jazyk = 
+}}</ref>
+
+Medzi najkvalitnejšie univerzity a vysoké školy v rámci východoeurópskeho regiónu (podľa hodnotenia vedeckého publikovania na internete) na Slovensku patria , , ,  a <ref>{{Citácia elektronického dokumentu
+  | priezvisko = 
+  | meno = 
+  | odkaz na autora = 
+  | titul = Top Eastern Europe Universities
+  | url = http://www.webometrics.info/top100_continent.asp?cont=E_Europe
+  | dátum vydania = 
+  | dátum aktualizácie = 
+  | dátum prístupu = 13.7.2009
+  | vydavateľ = webometrics.info
+  | miesto = 
+  | jazyk = 
+}}</ref>.
+
+== Veda a výskum ==
+Veda a výskum sú na Slovensku spojené najmä so štátom financovanými vysokými školami, odbornými ústavmi a . Súkromný sektor sa vo sfére vedy a výskumu zatiaľ prakticky nevyskytuje. Všeobecne kvalitnú úroveň, porovnateľnú so svetovou majú  a . Výdavky na vedu a výskum napriek snahám o zvýšenie na hranicu 3 % HDP do roku 2010 na Slovensku nestúpajú a už niekoľko rokov sa pohybujú okolo 0,5 % HDP, pričom podiel mierne klesá a v roku 2008 bol 0,47%.<ref>{{Citácia elektronického dokumentu
+  | priezvisko = 
+  | meno = 
+  | odkaz na autora = 
+  | titul = Výdavky na výskum a vývoj
+  | url = http://portal.statistics.sk/showdoc.do?docid=17374
+  | dátum vydania = 
+  | dátum aktualizácie = 
+  | dátum prístupu = 15.10.2009
+  | vydavateľ = Štatistický úrad Slovenskej republiky
+  | miesto = 
+  | jazyk = 
+}}</ref> (pri tom ešte v roku 1989 dávalo 3,9 % HDP, čo bolo na svetovej úrovni).<ref>{{Citácia elektronického dokumentu
+  | priezvisko = Baláž
+  | meno = Vladimír
+  | odkaz na autora = 
+  | titul = Slovenská ekonomika je malá, otvorená a hlúpa
+  | url = http://komentare.sme.sk/c/5020902/slovenska-ekonomika-je-mala-otvorena-a-hlupa.html
+  | dátum vydania = 16. 9. 2009 22:00
+  | dátum aktualizácie = 
+  | dátum prístupu = 16.9.2009
+  | vydavateľ = sme.sk
+  | miesto = 
+  | jazyk = 
+}}</ref><ref>{{Citácia elektronického dokumentu
+  | priezvisko = 
+  | meno = 
+  | odkaz na autora = 
+  | titul = Slovensko: každý rok menší podiel HDP na vedu a výskum
+  | url = http://www.euractiv.sk/vzdelavanie0/clanok/slovensko-kazdy-rok-mensi-podiel-hdp-na-vedu-a-vyskum
+  | dátum vydania = 11.03.2008
+  | dátum aktualizácie = 
+  | dátum prístupu = 16.9.2009
+  | vydavateľ = euractiv.sk
+  | miesto = 
+  | jazyk = 
+}}</ref>
+
+== Média ==
+K u 2011 vznikla , verejnoprávna, národná, nezávislá, informačná, kultúrna a vzdelávacia inštitúcia. Má dve organizačné zložky:  a , ktoré pred vznikom RTVS fungovali samostatne<ref>{{Citácia elektronického dokumentu
+  | priezvisko = 
+  | meno = 
+  | odkaz na autora = 
+  | titul = Zákon č. 532/2010 Z. z. o Rozhlase a televízii Slovenska a o zmene a doplnení niektorých zákonov
+  | url = http://www.rtvs.eu/index.php?r=download/file/id/1
+  | dátum vydania = 
+  | dátum aktualizácie = 
+  | dátum prístupu = 3.6.2011
+  | vydavateľ =  
+  | miesto = 
+  | jazyk = 
+}}</ref>. Štatutárnou zástupkyňou RTVS je generálna riaditeľka .
+
+=== Rozhlas ===
+ na Mýtnej v Bratislave]]
+Najpočúvanejšie rádiá na Slovensku sú (3. + 4. kvartál 2010):  (19,95 %),  (SRo 1, 16,86 %),  (13,83 %),  (7,23 %),  (6,30 %),  (SRo 4, 6,12 %),  (3,85 %),  (2,91 %),  (SRo 3, 1,99 %) a  (1,61 %)<ref>{{Citácia elektronického dokumentu
+  | priezvisko = 
+  | meno = 
+  | odkaz na autora = 
+  | titul =  Počúvanosť rádií na Slovensku 2010 
+  | url = http://strategie.hnonline.sk/sk/reklama/data/media/pocuvanost_radii/
+  | dátum vydania = 
+  | dátum aktualizácie = 
+  | dátum prístupu = 3.6.2011
+  | vydavateľ = strategie.hnonline.sk
+  | miesto = 
+  | jazyk = 
+}}</ref>.
+
+Verejnoprávny  vysiela už viac ako 85 rokov a má 9 okruhov. Terestriálne vysielajú: , , , ,  a . Digitálne cez internet vysiela: ,  a . Sídlo Slovenského rozhlasu je v Bratislave a dočasným štatutárnym zástupcom je .
+
+=== Televízia ===
+ v Mlynskej doline v Bratislave]]
+Od zániku Česko-slovenskej televízie vysiela na Slovensku verejnoprávna – , ktorá má dva kanály (Jednotka a Dvojka, vysielanie Trojky bolo v lete 2011 pozastavené). V roku  oslávila Jednotka (do roku 2004 STV 1) svoje 55. výročie. Dvojka (do roku 2004 STV 2) vysiela prevažne slovenské dokumenty, šport, slovenské a nekomerčné zahraničné filmy. Dočasným štatutárnym zástupcom STV je . 
+
+Roku 1996 začala vysielať aj komerčná , ktorá je dodnes najsledovanejšou televíziou, a v roku  oslavovala 15. narodeniny. Jej riaditeľkou je Zuzana Ťapáková. 
+
+Z televízie Global vznikla nová . Riaditeľom je František Borovský. 
+
+Okrem týchto štyroch televízií s dominantným postavením na trhu sú na Slovensku aj monotématická  (obchodné správy),  (pôvodne podmorský svet, v súčasnosti predovšetkým interaktívne relácie),  (hudobná stanica),  (vysiela spravodajstvo z domova i zahraničia),  (v noci vysiela na kanáli TA3 interaktívne relácie).
+
+Poradie televízií podľa sledovanosti (3. + 4. kvartál 2010): TV Markíza (57,33 %), TV JOJ (36,80 %), Jednotka (21,17 %), TA3 (4,88 %) a iné<ref>{{Citácia elektronického dokumentu
+  | priezvisko = 
+  | meno = 
+  | odkaz na autora = 
+  | titul = Sledovanosť televízií 2010 (MML - TGI)
+  | url = http://strategie.hnonline.sk/sk/reklama/data/media/sledovanost_televizii/
+  | dátum vydania = 
+  | dátum aktualizácie = 
+  | dátum prístupu = 3.6.2011
+  | vydavateľ = strategie.hnonline.sk
+  | miesto = 
+  | jazyk = 
+}}</ref>.
+
+V marci  sa na Slovensku začal prechod z analógového televízneho vysielania na digitálne<ref>{{Citácia elektronického dokumentu
+  | priezvisko = 
+  | meno = 
+  | odkaz na autora = 
+  | titul = Predpokladaný harmonogram vypínania základných analógových televíznych vysielačov a zapínania vysielačov DVB T v roku 2011
+  | url = http://www.digimedia.sk/?IDe=105034
+  | dátum vydania = 
+  | dátum aktualizácie = 
+  | dátum prístupu = 3.6.2011
+  | vydavateľ = MDVRR SR
+  | miesto = 
+  | jazyk =
+}}</ref>.
+
+=== Tlač ===
+Najčítanejšie periodiká na Slovensku sú (3. + 4. kvartál 2010)<ref>{{Citácia elektronického dokumentu
+  | priezvisko = 
+  | meno = 
+  | odkaz na autora = 
+  | titul = Čítanosť tlače (MML + OMV)
+  | url = http://strategie.hnonline.sk/sk/reklama/data/media/citanost_tlace/
+  | dátum vydania = 
+  | dátum aktualizácie = 
+  | dátum prístupu = 3.6.2011
+  | vydavateľ = strategie.hnonline.sk
+  | miesto = 
+  | jazyk = 
+}}</ref>: 
+* Denníky –  (22,30 %),  (7,49 %),  (7,03 %),  (6,77 %),  (3,94 %),  (3,61 %),  (3,39 %),  (2,28 %) a  (1,24 %) a iné.
+* Týždenníky –  (12,27 %),  (9,60 %),  (8,43 %),  (7,71 %),  (6,12 %),  (4,15 %) a iné.
+* Mesačníky – Zdravie (9,23 %), Eva (9,07 %), EMMA (8,33 %), Záhradkár (7,40 %), Auto motor a šport (5,04 %), Auto magazín (4,17 %), Pekné bývanie (4,16 %) a iné.
+
+== Šport ==
+Vzhľadom na to, že Slovensko sa nachádza v miernom podnebnom pásme, je možné vykonávať športy s letným aj zimným zameraním. Medzi populárne športy na Slovensku patria: , , , , , , , ,  a ďalšie.
+
+Strediskom biatlonu je malá obec , kde sa konali v roku 1997 . Majstrovstvá vo vodnom slalome sa pravidelne usporadúvajú na divokej vode v . V lyžiarskom areáli Štrbského plesa sa nachádzajú dva skokanské mostíky, na ktorých sa konali Majstrovstvá sveta v skokoch na lyžiach (1935, 1970) a viaceré svetové poháre.
+
+ nikdy podľa hodnotení nepatrila k svetovej, či európskej špičke, futbal je však na Slovensku populárny.  riadi slovenský futbal a pod jeho záštitou sa organizujú oficiálne futbalové súťaže na Slovensku ako ,  a ďalšie. Slovenský tím sa v roku 2010 dostal do osemfinále na MS vo futbale v Juhoafrickej republike, a to prvýkrát v ére samostatnosti.
+
+ má za sebou viacero úspechov (napr. strieborná medaila na majstrovstvách sveta v roku , zlato v roku  či bronz v roku ).  je hlavný riadiaci orgán slovenského ľadového hokeja. Slovensko má viacero oficiálnych mužských hokejových súťaží, napr. , , zastúpený je aj ženský hokej v 1. lige žien a juniorský a dorastenecký hokej v príslušných ligách. V roku 2011 sa v  a v  uskutočnili .  sa uskutočnili na prírodných klziskách vo .
+
+== Gastronómia ==
+Slovenská kuchyňa je rôznorodá a líši sa v závislosti od regiónov. Je ovplyvnená okolitými kuchyňami, najmä českou, poľskou a maďarskou. V slovenskej gastronómii prevládajú jedlá vidieckeho pôvodu. Pre severné oblasti Slovenska sú typické jedlá pastierskeho pôvodu ako  a zemiakové placky na rozdiel od juhu Slovenska, kde sú silno zastúpené jedlá z maďarskej kuchyne, ako napríklad . 
+
+Medzi slovenské výrobky patria<ref></ref>:
+* syrové výrobky ako ,  (ovčí hrudkový syr – salašnícky, ovčí salašnícky údený syr), syrové y (oravský a zázrivský korbáčik“), , , tekovský salámový syr
+* mäsové výrobky ako , , liptovská saláma, lovecká saláma
+* pekárske výrobky ako , 
+
+== Galéria ==
+<gallery>
+Image:Town Presov Slovakia 52.jpg|, 
+Image:Kosice - St. Elisabeth Cathedral retouched.jpg|, 
+Image:Zilina-namestie ahlinku.jpg|, 
+Image:Banska Bystrica from Urpin.jpg|
+Image:Trencin hrad 20010302.jpg|
+Image:Nitra - Castle.jpg|
+Image:Slovakia-Trnava-Town tower.jpg|
+Image:Capital Bratislava Slovakia 0943.jpg|
+</gallery>
+
+== Referencie ==
+
+
+== Iné projekty ==
+
+
+== Externé odkazy ==
+
+* [http://www.slovakia.travel Slovakia.travel] – Oficiálny portál cestovného ruchu Slovenskej republiky
+* [http://www.slovensko.com Slovensko.com] – aktuálne správy, turistické informácie a diskusné fórum o Slovensku
+* [http://www.sacr.sk Slovenská agentúra pre cestovný ruch]
+* [http://www.government.gov.sk Úrad vlády SR]
+* [http://www.prezident.sk Prezident SR]
+
+|||||||||||||}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

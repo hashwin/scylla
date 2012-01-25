@@ -1,97 +1,1661 @@
-Deutschland ist ein föderalistischer Staat in Mitteleuropa. Die Bundesrepublik Deutschland ist gemäß ihrer Verfassung eine Republik, die aus den 16 deutschen Ländern gebildet wird. Sie ist ein freiheitlich-demokratischer und sozialer Rechtsstaat[9] und stellt als Bundesstaat die jüngste Ausprägung des deutschen Nationalstaates dar. Bundeshauptstadt ist Berlin.
-Deutschland grenzt an neun europäische Nachbarstaaten; naturräumlich grenzt es an die Gewässer der Nord- und Ostsee und im Süden an das Bergland der Alpen. Es liegt in der gemäßigten Klimazone und zählt mit rund 81,8 Millionen Einwohnern zu den dichtestbesiedelten Flächenländern der Erde.
-Als Gründungsmitglied der Europäischen Union ist Deutschland deren bevölkerungsreichstes Land und bildet mit insgesamt 17 EU-Mitgliedstaaten eine Währungsunion, die Eurozone. Es ist Mitglied der Vereinten Nationen, der OECD, der NATO, der G8 und der G20.
-Gemessen am nominalen Bruttoinlandsprodukt ist Deutschland die größte Volkswirtschaft Europas und viertgrößte der Welt. Im Jahr 2010 war es die drittgrößte Export- und Importnation. Der Human Development Index zählt Deutschland zu den sehr hoch entwickelten Staaten.
+.}}
+{{Infobox Staat
+|NAME               = <span style="font-size:1.4em;">'''Bundesrepublik Deutschland'''</span>
+|BILD-FLAGGE        = Flag of Germany.svg
+|ARTIKEL-FLAGGE     = Flagge Deutschlands
+|BILD-WAPPEN        = Coat of Arms of Germany.svg
+|BILD-WAPPEN-BREITE = 100px
+|ARTIKEL-WAPPEN     = Bundeswappen Deutschlands
+|AMTSSPRACHE        = <ref>[http://bundesrecht.juris.de/vwvfg/__23.html §&nbsp;23 Absatz&nbsp;1 Verwaltungsverfahrensgesetz (Bund)].<br />Die Frage, ob unter ''Deutsch'' rechtlich ausschließlich die hochdeutsche oder auch die  subsumiert wird, wird juristisch uneinheitlich beantwortet: Während der  in einer Entscheidung zu Gebrauchsmustereinreichung beim  in plattdeutscher Sprache das Niederdeutsche einer Fremdsprache gleichstellt („Niederdeutsche (plattdeutsche) Anmeldeunterlagen sind im Sinn des § 4a Abs.&nbsp;1 Satz&nbsp;1 GebrMG nicht in deutscher Sprache abgefaßt.“ – BGH-Beschluss vom 19. November 2002, Az. X ZB 23/01), ist nach dem Kommentar von Foerster/Friedersen/Rohde zu § 82a des Landesverwaltungsgesetzes Schleswig-Holstein unter Verweis auf Entscheidungen höherer Gerichte zu § 184 des Gerichtsverfassungsgesetzes seit 1927 (OLG Oldenburg, 10. Oktober 1927 – K 48, HRR 1928, 392) unter dem Begriff ''deutsche Sprache'' sowohl Hochdeutsch wie auch Niederdeutsch zu verstehen.</ref>
+|HAUPTSTADT       = 
+|STAATSFORM       =  
+|REGIERUNGSFORM   = 
+|STAATSOBERHAUPT  =  
+|REGIERUNGSCHEF   =  
+|FLÄCHE           =  <small>()</small><ref name="Statistik-Portal">Statistische Ämter des Bundes und der Länder: [http://www.statistik-portal.de/Statistik-Portal/de_jb01_jahrtab1.asp Gebiet und Bevölkerung – Fläche und Bevölkerung], Stand: 5. März 2010. Abgerufen am 1. Februar 2010.</ref>
+|EINWOHNER        = 81,768 Mio. <small>()</small><ref>Statistische Ämter des Bundes und der Länder: [http://www.statistik-portal.de/Statistik-Portal/de_zs01_bund.asp Bevölkerung am Monatsende]</ref> <small>(30. Juni 2011)</small>
+|BEV-DICHTE        = 229 <small>()</small><ref>Bevölkerungsdichte ungerundet: 81.768.000 Einwohner/357.111,91 km² = 228,97 Einwohner pro km². Berechnet am 14. Januar 2012.</ref>
+|BIP              = 2010
+* 3.286 Mrd. US$ <small>()</small><ref>International Monetary Fund: [http://www.imf.org/external/pubs/ft/weo/2011/02/weodata/weorept.aspx?sy=2009&ey=2011&scsm=1&ssd=1&sort=country&ds=.&br=1&c=134&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC&grp=0&a=&pr.x=84&pr.y=19 World Economic Outlook Database (BIP-Daten Deutschlands, nominal und PPP 2010)], Stand: September 2011. Abgerufen am 11. Oktober 2011.</ref>
+* 2.944 Mrd. US$ <small>()</small>
+* 40.273 US$ <small>()</small>
+* 36.081 US$ <small>()</small>
+|BIP-ERWEITERT  =
+* Gesamt (nominal)
+* Gesamt ()
+* BIP/Einw. (nominal)
+* BIP/Einw. ()
+|SCHULDEN        = 2.676 Mrd. US$<ref>destatis.de: [http://www.destatis.de/jetspeed/portal/cms/Sites/destatis/Internet/DE/Presse/pm/2011/02/PD11__069__713,templateId=renderPrint.psml ''Öffentliche Schulden 2010 um 18 % auf fast 2 Billionen Euro gestiegen''], Pressemitteilung Nr. 069 vom 21. Februar 2011.</ref> <small>(31. Dezember 2010)</small>
+|HDI              = 0,905 <small>()</small><ref>[http://hdrstats.undp.org/en/countries/profiles/DEU.html Human Development Report Office: ''Germany – Country Profile: Human Development Indicators'']</ref>
+|WÄHRUNG          =  (1&nbsp;€&nbsp;= 100&nbsp;)
+|GRÜNDUNG         = 18.&nbsp;Januar 1871:  <small>(völkerrechtl. 1.&nbsp;Juli 1867: )</small><br />23.&nbsp;Mai 1949: Bundesrepublik Deutschland <small>()</small><ref>Entscheidung des Bundesverfassungsgerichts zum  ([http://www.servat.unibe.ch/dfr/bv036001.html#Rn079 Urteil vom 31. Juli 1973, Absatz-Nr. 54 – 2 BvF 1/73 – BVerfGE 36, S. 1&nbsp;ff.]: ''„[…] Mit der Errichtung der Bundesrepublik Deutschland wurde nicht ein neuer westdeutscher Staat gegründet, sondern ein Teil Deutschlands neu organisiert. […]“'')</ref>
+|ZEITZONE         =  <br />  (März bis Oktober)
+|NATIONALHYMNE    = 
+|NATIONALFEIERTAG =  ()
+|KFZ-KENNZEICHEN  = 
+|INTERNET-TLD     = 
+|TELEFON-VORWAHL  = +49
+|BILD-LAGE        = Germany in the European Union on the globe (Europe centered).svg
+|BILD1            = Deutschland politisch 2010.png
+}}
 
-„Deutsch“ bedeutete ursprünglich „zum Volk gehörig“ und meinte zunächst die Dialekte des kontinental-westgermanischen Dialektkontinuums.[10] Die Bezeichnung Deutschland wird seit dem 15. Jahrhundert verwendet, ist in einzelnen Schriftstücken aber schon davor bezeugt.[11] Davor sind nur Wortfügungen des Attributs deutsch mit Land belegt, beispielsweise in der unbestimmten Singularform ein deutsches Land oder der bestimmten Pluralform die deutschen Länder, nicht aber in der bestimmten Singularform das deutsche Land. Gemeint waren vielmehr Länder mit einer Führungsschicht, die sich auf den politischen Herrschaftsanspruch bezog, der durch das (Ost-)Fränkische, später Heilige Römische Reich, als begründet angesehen worden war. In einem Buch von 1487 ist u. a. von „in teutschen landen lassen machen“ zu lesen.[12]
-Die Begriffe wurden als Synonym vor allem für (vor-)staatliche Gebilde verwendet, die in wesentlichen Bereichen des deutschen Sprach- und/oder Herrschaftsgebiets entstanden waren. Das Heilige Römische Reich („Altes Reich“) entwickelte sich ab 962 aus dem Ostteil des Fränkischen Reiches. Mit den Namenszusätzen Heilig und Deutscher Nation (Heiliges Römisches Reich Deutscher Nation) bildete sich zwischen dem 12. Jahrhundert und 1648 ein Staatenbund heraus. Nach der Niederlegung der Reichskrone 1806 dominierten das Kaisertum Österreich, das Königreich Preußen und der Rheinbund das staatliche Geschehen im Vorstellungsraum Deutschlands; nach 1815 folgte als die deutsche Nationalität sichernder Staatenbund der Deutsche Bund unter der Führung Österreichs. Die Konkurrenz mit Preußen um die Vorherrschaft in Deutschland spitzte sich zum deutschen Dualismus zu. Mit dem Deutschen Krieg und der Schlacht bei Königgrätz entschied Preußen ihn 1866 zu seinen Gunsten.
-Mit den von Preußen initiierten zentralstaatlichen Staatsformen seit 1867 wurden in zwei Schritten große Teile des deutschen Sprachraums in einem Staat vereinigt. Umfasste der Norddeutsche Bund lediglich die Staaten nördlich der Mainlinie, wurde der Ausdruck Deutschland durch die Reichseinigung und Proklamation des Deutschen Reiches 1871 mit demselben identisch. Nach dem Ersten Weltkrieg und dem Sturz der Monarchie 1918 wurde diskutiert, mit der Staatsbezeichnung Deutsche Republik oder Republik Deutschland die ausgerufene Staatsform zu unterstreichen, jedoch behielt auch die Weimarer Republik die offizielle Bezeichnung Deutsches Reich bei.
+'''Deutschland''' ist ein   in . Die ''Bundesrepublik Deutschland'' ist gemäß ihrer  eine , die aus den 16  gebildet wird. Sie ist ein  und  <ref>Bundeszentrale für politische Bildung: [http://www.bpb.de/popup/popup_druckversion.html?guid=28KC8Y Grundgesetz]. Abgerufen am 5. Juli 2010.</ref> und stellt als  die jüngste Ausprägung des deutschen es dar.  ist .
+
+Deutschland grenzt an neun europäische Nachbarstaaten; naturräumlich grenzt es an die Gewässer der  und  und im Süden an das Bergland der . Es liegt in der  und zählt mit rund 81,8 Millionen Einwohnern zu den dichtestbesiedelten Flächenländern der Erde.
+
+Als Gründungsmitglied der  ist Deutschland deren bevölkerungsreichstes Land und bildet mit insgesamt 17 EU-en eine Währungsunion, die . Es ist Mitglied der , der , der , der  und der .
+
+Gemessen am nominalen  ist Deutschland die größte  Europas und viertgrößte der Welt. Im Jahr 2010 war es die drittgrößte - und nation. Der  zählt Deutschland zu den sehr hoch entwickelten Staaten.
+
+== Begriffsgeschichte ==
+
+'' von 1369 steht (auf ): „Iewelk ''düdesch lant'' hevet sinen palenzgreven“ („jegliches deutsche (bzw. deutschsprachige) Land hat seinen Pfalzgrafen“)]]
+
+''„“'' bedeutete ursprünglich „zum Volk gehörig“ und meinte zunächst die Dialekte des kontinental-en s.<ref>Wilhelm Schmidt, ''Geschichte der deutschen Sprache. Ein Lehrbuch für das germanistische Studium.'' 7., verbesserte Aufl., Stuttgart/Leipzig 1996, S.&nbsp;80&nbsp;f.</ref> Die Bezeichnung ''Deutschland'' wird seit dem 15. Jahrhundert verwendet, ist in einzelnen Schriftstücken aber schon davor bezeugt.<ref>In der  der Goldenen Bulle (um 1365) heißt es ''Dutschelant''.</ref> Davor sind nur Wortfügungen des  ''deutsch'' mit ''Land'' belegt, beispielsweise in der unbestimmten Singularform ''ein deutsches Land'' oder der bestimmten Pluralform ''die deutschen Länder'', nicht aber in der bestimmten Singularform ''das deutsche Land''. Gemeint waren vielmehr Länder mit einer Führungsschicht, die sich auf den politischen Herrschaftsanspruch bezog, der durch das , später , als begründet angesehen worden war. In einem Buch von 1487 ist u.&nbsp;a. von ''„in teutschen landen lassen machen“'' zu lesen.<ref>Wolfenbütteler Digitale Bibliothek: [http://diglib.hab.de/wdb.php?dir=inkunabeln/50-2-med-2f ''Johann von Cube'', Basel 1487, Seite 6, zweite Spalte, unterer Bereich]. Abgerufen am 5. Februar 2010.</ref>
+
+Die Begriffe wurden als  vor allem für (vor-)staatliche Gebilde verwendet, die in wesentlichen Bereichen des deutschen  und/oder Herrschaftsgebiets entstanden waren. Das Heilige Römische Reich („Altes Reich“) entwickelte sich ab 962 aus dem Ostteil des . Mit den Namenszusätzen ''Heilig'' und ''Deutscher Nation'' (Heiliges Römisches Reich Deutscher Nation) bildete sich zwischen dem 12. Jahrhundert und 1648 ein  heraus. Nach der Niederlegung der  1806 dominierten das , das  und der  das staatliche Geschehen im Vorstellungsraum Deutschlands; nach 1815 folgte als die deutsche  sichernder Staatenbund der  unter der Führung Österreichs. Die Konkurrenz mit Preußen um die Vorherrschaft in Deutschland spitzte sich zum  zu. Mit dem  und der  entschied Preußen ihn 1866 zu seinen Gunsten.
+
+Mit den von Preußen initiierten zentralstaatlichen en seit 1867 wurden in zwei Schritten große Teile des deutschen Sprachraums in einem Staat vereinigt. Umfasste der  lediglich die Staaten nördlich der , wurde der Ausdruck ''Deutschland'' durch die  und Proklamation des  1871 mit demselben identisch. Nach dem  und dem Sturz der  1918 wurde diskutiert, mit der Staatsbezeichnung ''Deutsche Republik'' oder ''Republik Deutschland'' die  zu unterstreichen, jedoch behielt auch die  die offizielle Bezeichnung ''Deutsches Reich'' bei.
+
+ des  ''(Sacrum Romanum Imperium)''. Das Herrschaftsgebiet erhält im späten 15. Jahrhundert den Zusatz ''Deutscher Nation'' ''(Nationis Germanicæ)''.]]
+
+Nach dem  nutzten die  den Begriff ''Deutschland'' ausschließlich für das von ihnen  (ohne Österreich). 1949 wurde die Bundesrepublik Deutschland durch die  und das  sowie die  durch Einwirken der  initiiert. Da eine Fortführung des Staatsnamens ''Deutsches Reich'' im  wegen seines „aggressiven Akzents“ abgelehnt wurde, fand stattdessen „Deutschland“ in der Bezeichnung der damals konstituierten  erstmals namentliche Verwendung;<ref>„Mit dem Wort ''Deutschland'' geben wir dem Ganzen ein gewisses Pathos…“, zit. nach , späterer , in den Beratungen des Parlamentarischen Rates, 1948.</ref> damit sollten die „emotionale Integrationskraft des Namens und sein staatsrechtlicher Gehalt“ aus Kontinuität und der  der Bundesrepublik bezeugt werden.<ref>, ''Deutschlandbegriff im sprachlichen Wandel'', in: ,  (Hrsg.): ''Handbuch zur deutschen Einheit, 1949–1989–1999'', Campus Verlag, Frankfurt a.M./New York 1999, ISBN 3-593-36240-6, S. 217–225, hier [http://books.google.de/books?id=CNbt__4aXZoC&pg=PA220&hl=de&ei=gUs-TpThFcjEtAb8n6H7Dw&sa=X S. 220].</ref> Die DDR nutzte das Wort ''Deutschland'' zwar nicht direkt im Staatsnamen, jedoch wurde es ausdrücklich als synonymer Begriff für ''DDR'' im Artikel&nbsp;1 der  von 1949 verwendet. Später verwendete die DDR fast nur noch das Attribut ''deutsch'' beziehungsweise den Namenszusatz „… der DDR“ für staatliche Hoheitsbezeichnungen. Mit der  1990 wurde die  abschließend geklärt.<ref>Vgl. zur offiziellen Kurzform der amtlichen Staatsbezeichnung die Mitteilung der Bundesregierung an den  vom 3. Oktober 1990, dass die Bundesrepublik Deutschland ab diesem Zeitpunkt im Rahmen der Vereinten Nationen unter dem Namen ‚Deutschland‘ auftreten werde (s. hierzu ''Multilateral Treaties Deposited with the Secretary General 1996'', S. 9 Anm. 13).</ref>
+
+Im Laufe der Jahrhunderte traten einige Gebiete aus dem Raum der deutschen Länder beziehungsweise Deutschlands heraus. Unter anderem waren dies aufgrund des  1648 die , deren Sprachvarietäten sich u.&nbsp;a. durch den Buchdruck vom Deutschen getrennt hatten (''vgl.'' ), die  sowie das  und (Nordost-) ( ''''). Nach dem Ende des Deutschen Bundes 1866 traten dann ,  und  () heraus. Die  des  erfolgte unter Aneignung , während die Niederlagen in beiden Weltkriegen Gebietsverluste zur Folge hatten. Nach 1919 musste Deutschland neben dem Elsass und  kleinere Gebiete an , , die  und  sowie vor allem die Provinzen  und  an die neu gegründete  abtreten. Die restlichen Gebiete östlich der , namentlich ,  und , kamen ab 1945 unter  und größtenteils  Verwaltung. Sie wurden in deren Staatsgebiete integriert, nachdem die deutsche Bevölkerung  wurde. 1990 wurde der Anspruch auf die vormaligen  im Zuge der  auch formell mit dem  aufgegeben.
+
+Trotz der Kontinuität des Begriffes ''Deutschland'' vom 17.&nbsp;Jahrhundert bis in die Gegenwart sowie licher<ref> bezeichnet die völkerrechtliche Identität seit 1866/1867 als „mittlerweile allgemeine Ansicht“ (''Staat als Argument'', München 2000, S.&nbsp;163).</ref> Identität und  Kontinuität seit dem 19.&nbsp;Jahrhundert bestand '''' bis 1990 keine durchgehende lineare politisch-historische Entwicklung. Vielmehr eignete sich der Begriff in der Entfaltung der politischen Macht des wohlhabenden s in Deutschland als einigende Idee für regionale und lokale Eliten.
+
+== Physische Geographie ==
 
 
-Die Reichskrone des Heiligen Römischen Reiches (Sacrum Romanum Imperium). Das Herrschaftsgebiet erhält im späten 15. Jahrhundert den Zusatz Deutscher Nation (Nationis Germanicæ).
-Nach dem Zweiten Weltkrieg nutzten die Siegermächte den Begriff Deutschland ausschließlich für das von ihnen besetzte Deutsche Reich (ohne Österreich). 1949 wurde die Bundesrepublik Deutschland durch die USA und das Vereinigte Königreich sowie die Deutsche Demokratische Republik durch Einwirken der UdSSR initiiert. Da eine Fortführung des Staatsnamens Deutsches Reich im Parlamentarischen Rat wegen seines „aggressiven Akzents“ abgelehnt wurde, fand stattdessen „Deutschland“ in der Bezeichnung der damals konstituierten Bundesrepublik erstmals namentliche Verwendung;[13] damit sollten die „emotionale Integrationskraft des Namens und sein staatsrechtlicher Gehalt“ aus Kontinuität und der Identität der Bundesrepublik bezeugt werden.[14] Die DDR nutzte das Wort Deutschland zwar nicht direkt im Staatsnamen, jedoch wurde es ausdrücklich als synonymer Begriff für DDR im Artikel 1 der Verfassung von 1949 verwendet. Später verwendete die DDR fast nur noch das Attribut deutsch beziehungsweise den Namenszusatz „… der DDR“ für staatliche Hoheitsbezeichnungen. Mit der Deutschen Einheit 1990 wurde die Deutschlandfrage abschließend geklärt.[15]
-Im Laufe der Jahrhunderte traten einige Gebiete aus dem Raum der deutschen Länder beziehungsweise Deutschlands heraus. Unter anderem waren dies aufgrund des Westfälischen Friedens 1648 die Niederlande, deren Sprachvarietäten sich u. a. durch den Buchdruck vom Deutschen getrennt hatten (vgl. Niederländisch (Name)), die Eidgenossenschaft sowie das Elsass und (Nordost-)Lothringen (frz. Moselle). Nach dem Ende des Deutschen Bundes 1866 traten dann Luxemburg, Liechtenstein und Österreich (zuletzt 1945) heraus. Die Gründung des Deutschen Kaiserreichs erfolgte unter Aneignung Elsaß-Lothringens, während die Niederlagen in beiden Weltkriegen Gebietsverluste zur Folge hatten. Nach 1919 musste Deutschland neben dem Elsass und Lothringens kleinere Gebiete an Dänemark, Belgien, die Tschechoslowakei und Litauen sowie vor allem die Provinzen Posen und Westpreußen an die neu gegründete Zweite Polnische Republik abtreten. Die restlichen Gebiete östlich der Oder-Neiße-Linie, namentlich Schlesien, Hinterpommern und Ostpreußen, kamen ab 1945 unter sowjetische und größtenteils polnische Verwaltung. Sie wurden in deren Staatsgebiete integriert, nachdem die deutsche Bevölkerung vertrieben wurde. 1990 wurde der Anspruch auf die vormaligen deutschen Ostgebiete im Zuge der Wiedervereinigung Deutschlands auch formell mit dem Zwei-plus-Vier-Vertrag aufgegeben.
-Trotz der Kontinuität des Begriffes Deutschland vom 17. Jahrhundert bis in die Gegenwart sowie völkerrechtlicher[16] Identität und staatsrechtlicher Kontinuität seit dem 19. Jahrhundert bestand de facto bis 1990 keine durchgehende lineare politisch-historische Entwicklung. Vielmehr eignete sich der Begriff in der Entfaltung der politischen Macht des wohlhabenden Bürgertums in Deutschland als einigende Idee für regionale und lokale Eliten.
-Physische Geographie [Bearbeiten]
 
-→ Hauptartikel: Geographie Deutschlands
+Die  sind von Nord nach Süd ,  und  mit .
 
+Deutschland hat insgesamt neun en: Im Norden grenzt Deutschland an  (auf einer Länge von 67&nbsp;Kilometern), im Nordosten an  (442&nbsp;Kilometer), im Osten an  (811&nbsp;Kilometer), im Südosten an  (815&nbsp;Kilometer; ohne Grenze im Bodensee), im Süden an die  (316&nbsp;Kilometer; mit Grenze der  , aber ohne Grenze im Bodensee), im Südwesten an  (448&nbsp;Kilometer), im Westen an  (135&nbsp;Kilometer) und  (156&nbsp;Kilometer) und im Nordwesten an die  (567&nbsp;Kilometer). Die Grenzlänge beträgt insgesamt 3757&nbsp;Kilometer (ohne Grenze im Bodensee, ''siehe'' ). Damit ist Deutschland das Land mit den meisten europäischen Nachbarstaaten.
 
-Topografische Karte
-Die naturräumlichen Großregionen sind von Nord nach Süd Norddeutsches Tiefland, Mittelgebirgszone und Alpenvorland mit Alpen.
-Deutschland hat insgesamt neun Nachbarstaaten: Im Norden grenzt Deutschland an Dänemark (auf einer Länge von 67 Kilometern), im Nordosten an Polen (442 Kilometer), im Osten an Tschechien (811 Kilometer), im Südosten an Österreich (815 Kilometer; ohne Grenze im Bodensee), im Süden an die Schweiz (316 Kilometer; mit Grenze der Exklave Büsingen, aber ohne Grenze im Bodensee), im Südwesten an Frankreich (448 Kilometer), im Westen an Luxemburg (135 Kilometer) und Belgien (156 Kilometer) und im Nordwesten an die Niederlande (567 Kilometer). Die Grenzlänge beträgt insgesamt 3757 Kilometer (ohne Grenze im Bodensee, siehe Kondominium). Damit ist Deutschland das Land mit den meisten europäischen Nachbarstaaten.
-Der nördlichste Punkt Deutschlands befindet sich auf der Insel Sylt nördlich von List am Ellenbogen. Der nördlichste Festlandspunkt ist die Spitze der Halbinsel Holnis in der Flensburger Förde. Den südlichsten Punkt Deutschlands bildet das Haldenwanger Eck südlich von Oberstdorf. Vom Ellenbogen bis zum Haldenwanger Eck sind es etwa 886 Kilometer Luftlinie. Der westlichste Ort Deutschlands liegt im Isenbruch des Selfkant an der Grenze zu den Niederlanden nahe der Maas, der östlichste zwischen Neißeaue-Deschka und Neißeaue-Zentendorf in einer Flussschleife der Lausitzer Neiße. Vom Isenbruch bis zur Flussschleife der Neiße sind es rund 636 Kilometer Luftlinie.
-Während der wechselvollen Geschichte veränderte sich auch der Mittelpunkt Deutschlands. Die Gemeinden Görlitz, Selfkant, List und Oberstdorf, welche die heutigen geografischen Extrempunkte Deutschlands markieren, sind darüber hinaus im sogenannten Zipfelbund zusammengeschlossen.
-Geologie [Bearbeiten]
+Der nördlichste Punkt Deutschlands befindet sich auf der Insel  nördlich von  am . Der nördlichste Festlandspunkt ist die Spitze der Halbinsel  in der . Den südlichsten Punkt Deutschlands bildet das  südlich von . Vom Ellenbogen bis zum Haldenwanger Eck sind es etwa 886 Kilometer Luftlinie. Der westlichste Ort Deutschlands liegt im ''Isenbruch'' des  an der Grenze zu den Niederlanden nahe der , der östlichste zwischen -Deschka und Neißeaue-Zentendorf in einer Flussschleife der . Vom Isenbruch bis zur Flussschleife der Neiße sind es rund 636 Kilometer Luftlinie.
+
+Während der wechselvollen Geschichte veränderte sich auch der . Die Gemeinden , ,  und , welche die heutigen geografischen Extrempunkte Deutschlands markieren, sind darüber hinaus im sogenannten '''' zusammengeschlossen.
+
+=== Geologie ===
 
 
-Geologische Karte Deutschlands (1869)
-Auf die Zeit des Paläozoikums (Erdaltertum) gehen die kristallinen Gesteine Deutschlands wie Gneis und Granit zurück, wie sie in den deutschen Mittelgebirgen, zum Beispiel dem Harz, anzutreffen sind. Auch die Sedimentgesteine des Rheinischen Schiefergebirges stammen aus diesem Erdzeitalter und lagerten sich in der Zeit von Devon und Unterkarbon ab. Die Heraushebung der Gesteine und damit die Gebirgsbildung setzte jedoch erst im späten Pliozän ein. Am Nordrand des Rheinischen Schiefergebirges finden sich Gesteinsschichten aus dem Karbon, in denen die gewaltigen Steinkohlevorkommen im Ruhrgebiet eingelagert sind (Ruhrkarbon).
-Im Mesozoikum (Erdmittelalter) wurden jene Gesteinsschichten gebildet, die in zahlreichen süd- und ostdeutschen Regionen überwiegen. In der Pfalz, in Thüringen, Teilen Bayerns und Sachsens wird der Untergrund von Gesteinen der Trias dominiert, des frühen Mesozoikums. Die Juragebirge (vor allem Schwäbische und Fränkische Alb) gehen auf die Jurazeit zurück. Anders als in der Trias in Deutschland, die von Sandstein geprägt ist, herrscht bei den jurassischen Gesteinen der Kalkstein vor.
-Im Känozoikum (Erdneuzeit) erfolgte vor allem die Verfüllung der Flussniederungen und -becken.
-Aktiver Vulkanismus wird nicht beobachtet, jedoch zeigen vulkanische Gesteine ehemaligen Vulkanismus an. Diese finden sich insbesondere in der Vulkaneifel und auf dem Vogelsberg, aber auch im Bereich des Schwäbischen Vulkans. In der Vulkaneifel treten bis in die Gegenwart Kohlenstoffdioxidquellen (Mofetten) zutage, deren eindrucksvollstes Beispiel der Geysir Andernach ist, der mit 50 bis 60 Metern höchste Kaltwassergeysir der Erde.
-Obwohl Deutschland vollständig auf der Eurasischen Platte liegt, kommen schwache Erdbeben vor, insbesondere im Bereich der Riftzonen im Südwesten und Westen (Oberrheingraben, Rheingraben, Hohenzollerngraben).
-Geomorphologie [Bearbeiten]
+Auf die Zeit des s (Erdaltertum) gehen die kristallinen Gesteine Deutschlands wie  und  zurück, wie sie in den deutschen n, zum Beispiel dem , anzutreffen sind. Auch die  des  stammen aus diesem  und lagerten sich in der Zeit von  und  ab. Die Heraushebung der Gesteine und damit die Gebirgsbildung setzte jedoch erst im späten  ein. Am Nordrand des Rheinischen Schiefergebirges finden sich Gesteinsschichten aus dem Karbon, in denen die gewaltigen vorkommen im  eingelagert sind (Ruhrkarbon).
+
+Im  (Erdmittelalter) wurden jene Gesteinsschichten gebildet, die in zahlreichen süd- und ostdeutschen Regionen überwiegen. In der Pfalz, in Thüringen, Teilen Bayerns und Sachsens wird der Untergrund von Gesteinen der  dominiert, des frühen Mesozoikums. Die Juragebirge (vor allem  und ) gehen auf die  zurück. Anders als in der Trias in Deutschland, die von  geprägt ist, herrscht bei den jurassischen Gesteinen der  vor.
+
+Im  (Erdneuzeit) erfolgte vor allem die Verfüllung der Flussniederungen und -becken.
+
+Aktiver  wird nicht beobachtet, jedoch zeigen vulkanische Gesteine ehemaligen Vulkanismus an. Diese finden sich insbesondere in der  und auf dem , aber auch im Bereich des . In der Vulkaneifel treten bis in die Gegenwart Kohlenstoffdioxidquellen (n) zutage, deren eindrucksvollstes Beispiel der  ist, der mit 50 bis 60 Metern höchste  der Erde.
+
+Obwohl Deutschland vollständig auf der  liegt, kommen schwache  vor, insbesondere im Bereich der n im Südwesten und Westen (, , ).
+
+=== Geomorphologie ===
+ in  ist mit 2962 Metern über Normalhöhennull die höchste Erhebung Deutschlands.]]
+
+Das  der  ist das einzige Hochgebirge, an dem Deutschland Anteil hat. Der mit Österreich geteilte Gipfel der  (2962 Meter) ist der höchstgelegene Punkt des Landes.
+
+Die  nehmen tendenziell von Nord nach Süd an Höhe und Ausdehnung zu. Höchster Mittelgebirgsgipfel ist der  im  (1493 Meter), gefolgt vom  im  (1456 Meter). Gipfel über 1000 Meter besitzen außerdem das , das , die  und als Sonderfall der , der sich recht isoliert als nördlichstes Mittelgebirge in Deutschland mit dem  auf 1142 Meter erhebt. Nördlich der Mittelgebirgsschwelle erheben sich nur noch vereinzelte Formationen über 100 Meter, von denen die  in  mit 201,4 Meter die höchste ist.
+
+Die niedrigste begehbare Landesstelle Deutschlands liegt bei 3,54 Meter unter  in einer  bei  in der  (Schleswig-Holstein). Ebenfalls in diesem Bundesland befindet sich die tiefste : Sie liegt mit 39,10 Meter unter Normalnull am Grund des s nordöstlich von . Die tiefste künstlich geschaffene Stelle liegt bei 293 Meter unter Normalnull am Grund des  östlich von  in Nordrhein-Westfalen.
 
 
-Die Zugspitze in Bayern ist mit 2962 Metern über Normalhöhennull die höchste Erhebung Deutschlands.
-Das Faltengebirge der Alpen ist das einzige Hochgebirge, an dem Deutschland Anteil hat. Der mit Österreich geteilte Gipfel der Zugspitze (2962 Meter) ist der höchstgelegene Punkt des Landes.
-Die Mittelgebirge nehmen tendenziell von Nord nach Süd an Höhe und Ausdehnung zu. Höchster Mittelgebirgsgipfel ist der Feldberg im Schwarzwald (1493 Meter), gefolgt vom Großen Arber im Bayerischen Wald (1456 Meter). Gipfel über 1000 Meter besitzen außerdem das Erzgebirge, das Fichtelgebirge, die Schwäbische Alb und als Sonderfall der Harz, der sich recht isoliert als nördlichstes Mittelgebirge in Deutschland mit dem Brocken auf 1142 Meter erhebt. Nördlich der Mittelgebirgsschwelle erheben sich nur noch vereinzelte Formationen über 100 Meter, von denen die Heidehöhe in Schraden mit 201,4 Meter die höchste ist.
-Die niedrigste begehbare Landesstelle Deutschlands liegt bei 3,54 Meter unter Normalnull in einer Senke bei Neuendorf-Sachsenbande in der Wilstermarsch (Schleswig-Holstein). Ebenfalls in diesem Bundesland befindet sich die tiefste Kryptodepression: Sie liegt mit 39,10 Meter unter Normalnull am Grund des Hemmelsdorfer Sees nordöstlich von Lübeck. Die tiefste künstlich geschaffene Stelle liegt bei 293 Meter unter Normalnull am Grund des Tagebaus Hambach östlich von Jülich in Nordrhein-Westfalen.
-Siehe auch: Liste der höchsten Berge Deutschlands und Liste der Gebirge und Höhenzüge in Deutschland
-Klima [Bearbeiten]
+
+=== Klima ===
+ im Herbst. Deutschland befindet sich in einer .]]
+
+Deutschland gehört vollständig zur  Mitteleuropas im Bereich der  und befindet sich im Übergangsbereich zwischen dem  in  und dem  in . Das  wird unter anderem vom  beeinflusst, der das durchschnittliche Temperaturniveau für die Breitenlage ungewöhnlich hoch gestaltet.
+
+Die mittlere Jahresdurchschnittstemperatur (bezogen auf die Normalperiode 1961–1990<ref>[http://www.dwd.de/bvbw/appmanager/bvbw/dwdwwwDesktop?_nfpb=true&_state=maximized&_windowLabel=T82002&T82002gsbDocumentPath=Navigation%2FOeffentlichkeit%2FKlima__Umwelt%2FKlimadaten%2Fkldaten__kostenfrei%2Fdaten__gebietsmittel__node.html%3F__nnn%3Dtrue&_pageLabel=_dwdwww_klima_umwelt_klimadaten_deutschland&switchLang=de Klimadaten: Gebietsmittelwerte von Deutschland]</ref>) beträgt im bundesweiten Gebietsmittel 8,2&nbsp;°C, die mittleren Monatsdurchschnittstemperaturen liegen zwischen −0,5&nbsp;°C im Januar und 16,9&nbsp;°C im Juli. Der mittlere jährliche Niederschlag beträgt 789 Millimeter. Die mittlere monatliche Niederschlagshöhe liegt zwischen 49 Millimeter im Februar und 85 Millimeter im Juni.
+
+Die tiefste jemals in Deutschland gemessene Temperatur betrug −45,9 Grad Celsius; sie wurde am 24.&nbsp;Dezember 2001 am  registriert. Die bisher höchste Temperatur betrug 40,3 Grad Celsius und wurde am 8.&nbsp;August 2003 in  im Saarland erreicht. Zum Teil widersprechen sich die Angaben; so lag laut dem  die absolute Höchsttemperatur in Deutschland mit gemessenen 40,2 Grad Celsius am 27.&nbsp;Juli 1983 in  bei  (), am 9.&nbsp;August 2003 in  sowie am 13.&nbsp;August 2003 in  und Karlsruhe.
 
 
-Mischwald im Herbst. Deutschland befindet sich in einer gemäßigten Klimazone.
-Deutschland gehört vollständig zur gemäßigten Klimazone Mitteleuropas im Bereich der Westwindzone und befindet sich im Übergangsbereich zwischen dem maritimen Klima in Westeuropa und dem kontinentalen Klima in Osteuropa. Das Klima in Deutschland wird unter anderem vom Golfstrom beeinflusst, der das durchschnittliche Temperaturniveau für die Breitenlage ungewöhnlich hoch gestaltet.
-Die mittlere Jahresdurchschnittstemperatur (bezogen auf die Normalperiode 1961–1990[17]) beträgt im bundesweiten Gebietsmittel 8,2 °C, die mittleren Monatsdurchschnittstemperaturen liegen zwischen −0,5 °C im Januar und 16,9 °C im Juli. Der mittlere jährliche Niederschlag beträgt 789 Millimeter. Die mittlere monatliche Niederschlagshöhe liegt zwischen 49 Millimeter im Februar und 85 Millimeter im Juni.
-Die tiefste jemals in Deutschland gemessene Temperatur betrug −45,9 Grad Celsius; sie wurde am 24. Dezember 2001 am Funtensee registriert. Die bisher höchste Temperatur betrug 40,3 Grad Celsius und wurde am 8. August 2003 in Nennig im Saarland erreicht. Zum Teil widersprechen sich die Angaben; so lag laut dem Deutschen Wetterdienst die absolute Höchsttemperatur in Deutschland mit gemessenen 40,2 Grad Celsius am 27. Juli 1983 in Gärmersdorf bei Amberg (Oberpfalz), am 9. August 2003 in Karlsruhe sowie am 13. August 2003 in Freiburg im Breisgau und Karlsruhe.
-Siehe auch: Zeitreihe der Lufttemperatur in Deutschland
+<br style="clear: left;" />
 
-Gewässer [Bearbeiten]
+=== Gewässer ===
+ und  im  ]]
 
+Die sechs ins Meer mündenden Fließgewässer mit den größten Einzugsgebieten sind , , , ,  und . Fünf davon entwässern in  oder , die Donau ins . Die Einzugsgebiete beider Systeme werden durch die  voneinander getrennt.
+Der 865 Kilometer in Deutschland beziehungsweise als Grenzfluss fließende Rhein dominiert den Südwesten und Westen. Seine wichtigsten Zuflüsse sind , ,  und . Der Rhein hat eine große wirtschaftliche Bedeutung und ist eine der am stärksten befahrenen n Europas.
 
-Der Rhein und Burg Rheinstein im Landkreis Mainz-Bingen
-Die sechs ins Meer mündenden Fließgewässer mit den größten Einzugsgebieten sind Rhein, Donau, Elbe, Oder, Weser und Ems. Fünf davon entwässern in Nord- oder Ostsee, die Donau ins Schwarze Meer. Die Einzugsgebiete beider Systeme werden durch die europäische Hauptwasserscheide voneinander getrennt. Der 865 Kilometer in Deutschland beziehungsweise als Grenzfluss fließende Rhein dominiert den Südwesten und Westen. Seine wichtigsten Zuflüsse sind Neckar, Main, Mosel und Ruhr. Der Rhein hat eine große wirtschaftliche Bedeutung und ist eine der am stärksten befahrenen Wasserstraßen Europas.
-Die Donau im Süden entwässert auf 647 Kilometer fast das gesamte Alpenvorland und fließt weiter nach Österreich und Südosteuropa. Ihre wichtigsten Zuflüsse sind Iller, Lech, Isar und Inn.
-Im Osten Deutschlands fließt auf 725 Kilometern die Elbe. Ihre wichtigsten Nebenflüsse sind Saale und Havel.
+Die Donau im Süden entwässert auf 647 Kilometer fast das gesamte  und fließt weiter nach Österreich und . Ihre wichtigsten Zuflüsse sind , ,  und .
 
+Im Osten Deutschlands fließt auf 725 Kilometern die Elbe. Ihre wichtigsten Nebenflüsse sind  und .
 
-Fünf-Seen-Blick in der Uckermark, Brandenburg
-Die Oder ist der Grenzfluss zu Polen, ihr wichtigster Zufluss ist die Neiße.
-Das Einzugsgebiet der Weser liegt vollständig in Deutschland. Sie speist sich aus den Flüssen Werra und Fulda und entwässert den mittleren Norden.
+, ]]
+Die Oder ist der Grenzfluss zu Polen, ihr wichtigster Zufluss ist die .
+
+Das Einzugsgebiet der Weser liegt vollständig in Deutschland. Sie speist sich aus den Flüssen  und  und entwässert den mittleren Norden.
+
 Die Ems fließt im äußersten Nordwesten.
-Die natürlichen Seen sind überwiegend glazialen Ursprungs. Daher finden sich die meisten der großen Seen im Alpenvorland, in der Holsteinischen Schweiz und in Mecklenburg. Der größte vollständig zum deutschen Staatsgebiet gehörende See ist die Müritz, die Teil der mecklenburgischen Seenplatte ist. Der größte See mit deutschem Anteil ist der Bodensee, an den auch Österreich und die Schweiz grenzen.
+
+Die natürlichen  sind überwiegend glazialen Ursprungs. Daher finden sich die meisten der großen Seen im , in der  und in . Der größte vollständig zum deutschen Staatsgebiet gehörende See ist die , die Teil der  ist. Der größte See mit deutschem Anteil ist der , an den auch Österreich und die Schweiz grenzen.
+
 Im Osten Deutschlands befinden sich viele große, künstliche Seen in ehemaligen Braunkohleabbaugebieten.
-Siehe auch: Liste von Flüssen in Deutschland, Liste der Seen in Deutschland
-Inseln [Bearbeiten]
+
+''Siehe auch: , ''
+<br style="clear: left;" />
+
+=== Inseln ===
+ liegt vor der pommerschen küste und ist die größte deutsche Insel.]]
+
+In der Nordsee dominieren die Inselgruppe der  und die Inselkette der .  und  sind ebenfalls bewohnt. Die Nordfriesischen Inseln stellen Festlandsreste dar, die durch Landsenkung und nachfolgende Überflutung von der Küste getrennt wurden. Die Ostfriesischen Inseln sind Barriereinseln, die durch die sdynamik aus Sandbänken entstanden.
+
+Die größten deutschen Inseln in der Ostsee sind (von West nach Ost) , , ,  und ; größte  ist . Mit Ausnahme von Fehmarn sind sie Teil einer küste.
+
+Die größten und bekanntesten  sind ,  und  im  sowie  im .
 
 
-Rügen liegt vor der pommerschen Ostseeküste und ist die größte deutsche Insel.
-In der Nordsee dominieren die Inselgruppe der Nordfriesischen Inseln und die Inselkette der Ostfriesischen Inseln. Helgoland und Neuwerk sind ebenfalls bewohnt. Die Nordfriesischen Inseln stellen Festlandsreste dar, die durch Landsenkung und nachfolgende Überflutung von der Küste getrennt wurden. Die Ostfriesischen Inseln sind Barriereinseln, die durch die Brandungsdynamik aus Sandbänken entstanden.
-Die größten deutschen Inseln in der Ostsee sind (von West nach Ost) Fehmarn, Poel, Hiddensee, Rügen und Usedom; größte Halbinsel ist Fischland-Darß-Zingst. Mit Ausnahme von Fehmarn sind sie Teil einer Boddenküste.
-Die größten und bekanntesten Inseln in Binnengewässern sind Reichenau, Mainau und Lindau im Bodensee sowie Herrenchiemsee im Chiemsee.
-Siehe auch: Liste deutscher Inseln
-Humangeographie [Bearbeiten]
 
-→ Hauptartikel: Humangeographie (Deutschland)
-In Deutschland werden insgesamt 52 Prozent der Landesfläche landwirtschaftlich genutzt (2009), Wälder bedecken weitere 29,5 Prozent. 14 Prozent werden als Siedlungs- und Verkehrsfläche genutzt (Tendenz weiterhin steigend). Wasserflächen kommen auf 2 Prozent, die restlichen 2,5 Prozent verteilen sich auf sonstige Flächen, zumeist Ödland und auch Tagebaue.
-Ballungsgebiete [Bearbeiten]
+== Humangeographie ==
 
 
-Typische Siedlungsstruktur in Nordrhein-Westfalen
-Um Ballungs- respektive Verdichtungsgebiete, also Einwohnerkonzentrationen, zu veranschaulichen, können Gemeindegrößen, Agglomerationen und die sogenannten Metropolregionen herangezogen werden.
-In Deutschland gibt es etwa 80 Großstädte, also Städte mit mehr als 100.000 Einwohnern. Davon haben 14 mehr als 500.000 Einwohner. Eine Besonderheit Deutschlands ist die historisch bedingt überwiegend randlastige, dezentrale Verteilung der Großstädte. Die entlang des Rheins verlaufenden Ballungsräume im Westen und Südwesten Deutschlands bilden dabei den Mittelteil der zentralen europäischen Bevölkerungskonzentration, die mit dem Begriff Blaue Banane umschrieben wird.
-Unter Agglomeration versteht man ein größeres zusammenhängendes Siedlungsgebiet oder auch eine weitgehend urbanisierte Fläche. Da Gemeinde- und Siedlungsgrenzen meist erheblich voneinander abweichen, gibt die Betrachtung der Agglomerationen einen authentischeren Aufschluss über Bevölkerungskonzentrationen. Im Gegensatz zu vielen anderen Ländern werden in Deutschland Agglomerationen jedoch nicht statistisch genau definiert und abgegrenzt. Die meisten Agglomerationen sind monozentrisch; das Ruhrgebiet hingegen ist ein klassisches Beispiel für einen polyzentrischen Verdichtungsraum.
-Von der Ministerkonferenz für Raumordnung (MKRO) wurden elf sogenannte Europäische Metropolregionen (EMR) festgelegt. Diese gehen über den Begriff der Agglomeration weit hinaus.
+In Deutschland werden insgesamt 52&nbsp;Prozent der Landesfläche lich genutzt (2009),  bedecken weitere 29,5&nbsp;Prozent. 14&nbsp;Prozent werden als Siedlungs- und Verkehrsfläche genutzt (Tendenz weiterhin steigend). Wasserflächen kommen auf 2&nbsp;Prozent, die restlichen 2,5&nbsp;Prozent verteilen sich auf sonstige Flächen, zumeist  und auch e.
 
-Berlin
+=== Ballungsgebiete ===
+]]
 
-Hamburg
- 	Stadt	Einwohner	Agglomeration	Metropolregion	
+Um Ballungs- respektive e, also konzentrationen, zu veranschaulichen, können , en und die sogenannten en herangezogen werden.
 
-München
+In Deutschland gibt es etwa 80 , also Städte mit mehr als 100.000 Einwohnern. Davon haben 14 mehr als 500.000 Einwohner. Eine Besonderheit Deutschlands ist die historisch bedingt überwiegend randlastige, dezentrale Verteilung der Großstädte. Die entlang des Rheins verlaufenden Ballungsräume im Westen und Südwesten Deutschlands bilden dabei den Mittelteil der zentralen europäischen Bevölkerungskonzentration, die mit dem Begriff '''' umschrieben wird.
 
-Liste der Länder [Bearbeiten]
-→ Hauptartikel: Land (Deutschland)
-Die Bundesrepublik Deutschland besteht aus 16 Gliedstaaten, die offiziell als Länder (Bundesländer) bezeichnet werden. Die Stadtstaaten Berlin und Hamburg bestehen ausschließlich aus den gleichnamigen Gemeinden und sind somit Einheitsgemeinden. Die Freie Hansestadt Bremen gilt als Stadtstaat, jedoch besteht das Land aus den Gemeinden Bremen und Bremerhaven.
+Unter  versteht man ein größeres zusammenhängendes sgebiet oder auch eine weitgehend  Fläche. Da Gemeinde- und Siedlungsgrenzen meist erheblich voneinander abweichen, gibt die Betrachtung der Agglomerationen einen authentischeren Aufschluss über Bevölkerungskonzentrationen. Im Gegensatz zu vielen anderen Ländern werden in Deutschland Agglomerationen jedoch nicht statistisch genau definiert und abgegrenzt. Die meisten Agglomerationen sind monozentrisch; das  hingegen ist ein klassisches Beispiel für einen .
+
+Von der  (MKRO) wurden elf sogenannte en (EMR) festgelegt. Diese gehen über den Begriff der Agglomeration weit hinaus.
+
+{| Vorlage="infobox" style="text-align:center; width:50%; margin-right:10px;"
+|-
+! rowspan="21" |
+<br />Berlin<br /><br />Hamburg
+! style="text-align:left;" class="hintergrundfarbe5" | 
+! style="text-align:left;" class="hintergrundfarbe5" | 
+! style="text-align:right;" class="hintergrundfarbe5" | 
+! style="text-align:right;" class="hintergrundfarbe5" | 
+! style="text-align:right;" class="hintergrundfarbe5" | 
+! rowspan="21" |
+<br />München<br />
+<br />Köln<br />
+|-
+|  style="text-align:center; background:#f0f0f0;"| 1 || align=left |  || align=right|3.450.000|| align=right|4.300.000|| align=right|5.950.000
+|-
+|  style="text-align:center; background:#f0f0f0;"| 2 ||align=left |  || align=right|1.780.000|| align=right|2.600.000|| align=right|4.270.000
+|-
+|  style="text-align:center; background:#f0f0f0;"| 3 || align=left |  || align=right|1.330.000|| align=right|2.000.000|| align=right|5.200.000
+|-
+|  style="text-align:center; background:#f0f0f0;"| 4 || align=left |  || align=right|1.000.000 || align=right|1.900.000|| align=right|11.690.000
+|-
+|  style="text-align:center; background:#f0f0f0;"|5 || align=left |  || align=right|670.000|| align=right|1.930.000|| align=right|5.520.000
+|-
+|  style="text-align:center; background:#f0f0f0;"| 6 || align=left |  || align=right|600.000|| align=right|1.800.000|| align=right|5.290.000
+|-
+|  style="text-align:center; background:#f0f0f0;"| 7 ||align=left |  || align=right|590.000|| align=right|1.220.000|| align=right|11.690.000
+|-
+|  style="text-align:center; background:#f0f0f0;"| 8 ||align=left |  || align=right|580.000|| align=right|4.700.000|| align=right|11.690.000
+|-
+|  style="text-align:center; background:#f0f0f0;"| 9 ||align=left |  || align=right|575.000|| align=right|4.700.000|| align=right|11.690.000
+|-
+|  style="text-align:center; background:#f0f0f0;"| 10 ||align=left |  || align=right|550.000|| align=right|850.000|| align=right|2.730.000
+|-
+|  style="text-align:center; background:#f0f0f0;"| 11 ||align=left |  || align=right|522.000|| align=right|1.132.000|| align=right|3.880.000
+|-
+|  style="text-align:center; background:#f0f0f0;"| — ||align=left |  || align=right|—|| align=right|4.700.000|| align=right|11.690.000
+|}<noinclude>
+
+=== Liste der Länder ===
+
+
+Die Bundesrepublik Deutschland besteht aus 16 en, die offiziell als ''Länder'' (Bundesländer) bezeichnet werden. Die en Berlin und Hamburg bestehen ausschließlich aus den gleichnamigen Gemeinden und sind somit n.
+Die  gilt als Stadtstaat, jedoch besteht das Land aus den Gemeinden  und .
+
+{|
+|-
+|
+{| class="wikitable sortable zebra"
+|- class="hintergrundfarbe5"
+! <br /> !! <br />!! Landes-<br />hauptstadt<br /> !! Fläche<br />(km²)<br /> !! Einwohner<ref>Statistische Ämter des Bundes und der Länder: [http://www.statistik-portal.de/Statistik-Portal/de_jb01_jahrtab1.asp Stand der Einwohner- und Bevölkerungszahlen], Stand: 31. Dezember 2009.</ref><br /> !! Einwohner<br />pro km²<br />
+|- style="text-align:right;"
+|style="text-align:center;"| BW
+|style="text-align:left;"| 
+|style="text-align:left;"| 
+| 35.752
+| }}<ref></ref>
+| 
+|- style="text-align:right;"
+|style="text-align:center;"| BY
+|style="text-align:left;"| 
+|style="text-align:left;"| 
+| 70.552
+| }}<ref></ref>
+| 
+|- style="text-align:right;"
+|style="text-align:center;"| BE
+|style="text-align:left;"| 
+|style="text-align:left;"| —
+| 892
+| }}<ref>Stand vom , </ref>
+|  / 891.82 round 0 }} }}
+|- style="text-align:right;"
+|style="text-align:center;"| BB
+|style="text-align:left;"| 
+|style="text-align:left;"| 
+| 29.479
+| }}<ref></ref>
+| 
+|- style="text-align:right;"
+|style="text-align:center;"| HB
+|style="text-align:left;"| 
+|style="text-align:left;"| <ref>konkludent durch die Ernennung der bisherigen Stadtregierung der Stadt Bremen zur neuen Landesregierung bei Wiedergründung des Landes aus der Stadt Bremen, dem Landgebiet Bremen (heute auch Teil der Stadt Bremen), dem Stadtkreis Wesermünde samt der Stadt Bremerhaven (heute komplett Bremerhaven) am 21. Januar 1947 (rückwirkend zum 1. Januar) durch Proklamation Nr. 3 der US-amerikanischen Militärregierung; de facto als Regierungssitz (Senat) (siehe [http://www.rathaus.bremen.de/sixcms/detail.php?gsid=bremen02.c.736.de ''Rathaus Bremen: Senatskanzlei'']) und Sitz des Parlaments (siehe [http://www.bremische-buergerschaft.de/index.php?id=6 ''Bremische Bürgerschaft'']) sowie anderer oberster Landesorgane</ref>
+| 419
+| }}<ref></ref>
+| 
+|- style="text-align:right;"
+|style="text-align:center;"| HH
+|style="text-align:left;"| 
+|style="text-align:left;"| —
+| 755
+| 
+| 2.347
+|- style="text-align:right;"
+|style="text-align:center;"| HE
+|style="text-align:left;"| 
+|style="text-align:left;"| <ref>durch Organisationsverfügung Nr. 1 der US-amerikanischen Militärregierung vom 12. Oktober 1945</ref>
+| 21.115
+| }}<ref></ref>
+| 
+|- style="text-align:right;"
+|style="text-align:center;"| MV
+|style="text-align:left;"| 
+|style="text-align:left;"| 
+| 23.180
+| }}<ref></ref>
+| 
+|- style="text-align:right;"
+|style="text-align:center;"| NI
+|style="text-align:left;"| 
+|style="text-align:left;"| 
+| 47.624
+| }}<ref></ref>
+| 
+|- style="text-align:right;"
+|style="text-align:center;"| NW
+|style="text-align:left;"| 
+|style="text-align:left;"| <ref>durch ein Memorandum der britischen Militärregierung zur Verschmelzung der Provinzen Rheinland und Westfalen vom 1. August 1946 (Verordnung Nr. 46) (siehe [http://www.duesseldorf.de/thema2/spezial/lh_historie/index.shtml Landeshauptstadt Düsseldorf: ''Geburt und Heranwachsen einer Landeshauptstadt''])</ref>
+| 34.085
+| }}<ref></ref>
+| 
+|- style="text-align:right;"
+|style="text-align:center;"| RP
+|style="text-align:left;"| 
+|style="text-align:left;"| <ref>[http://www.rhein-zeitung.de/regionales_artikel,-Landtag-macht-Mainz-zur-Hauptstadt-Erinnerung-an-1950-_arid,86737_regid,1.html durch Entscheidung des Landtages vom 16. Mai 1950]</ref>
+| 19.853
+| }}<ref></ref>
+| 
+|- style="text-align:right;"
+|style="text-align:center;"| SL
+|style="text-align:left;"| 
+|style="text-align:left;"| 
+| 2.569
+| }}<ref></ref>
+| 
+|- style="text-align:right;"
+|style="text-align:center;"| SN
+|style="text-align:left;"| 
+|style="text-align:left;"| 
+| 18.416
+| }}<ref></ref>
+| 
+|- style="text-align:right;"
+|style="text-align:center;"| ST
+|style="text-align:left;"| 
+|style="text-align:left;"| 
+| 20.446
+| }}<ref></ref>
+| 
+|- style="text-align:right;"
+|style="text-align:center;"| SH
+|style="text-align:left;"| 
+|style="text-align:left;"| <ref>durch Verordnung Nr. 46 der britischen Militärregierung vom 16. August 1946 ([http://www.kiel.de/kultur/stadtarchiv/erinnerungstage/index.php?id=61 Kieler Erinnerungstag: 23. August 1946])</ref>
+| 15.799
+| }}<ref></ref>
+| 
+|- style="text-align:right;"
+|style="text-align:center;"| TH
+|style="text-align:left;"| 
+|style="text-align:left;"| <ref>nach Artikel 44 III der Thüringischen Landesverfassung</ref>
+| 16.172
+| }}<ref></ref>
+| 
+|- class="sortbottom" style="background:#eee; text-align:right;"
+|style="text-align:center;"|
+|style="text-align: left;"|  '''Bundesrepublik Deutschland'''
+|style="text-align:left;"|
+| '''357.123'''
+| '''81.802.257'''<ref>Stand vom , so nicht weiter angegeben</ref>
+| '''229'''
+|}
+|style="text-align:right;"| 
+|}
+
+=== Gemeinden ===
+
+
+
+Die n sind die kleinsten selbständigen  der politischen Gebietsgliederung. Sie regeln alle Angelegenheiten der örtlichen Gemeinschaft eigenverantwortlich und haben das  der  ( Abs.&nbsp;2 GG). Sie sind, ausgenommen die meisten , in en und anderen  zusammengefasst.
+
+Kreise und Gemeinden unterliegen dem srecht des jeweiligen Bundeslandes und sind daher bundesweit ganz unterschiedlich organisiert. Einzig die  als Verwaltungssitz eines Landkreises findet sich deutschlandweit. Die n  und  sind als en gleichzeitig auch Länder.
+
+== Natur ==
+=== Flora ===
+ in ]]
+
+Da Deutschland in der  liegt, ist seine  von Laub- und Nadelwäldern geprägt. Örtlich weist die Flora in Deutschland eine hohe  durch Standortfaktoren des Geländeprofils, der Geländehöhe und -geologie sowie der mesoklimatischen Lage auf. Von West nach Ost kennzeichnet die natürliche  den Übergang vom  zum .
+
+Die Laubwälder bestehen meist aus n, daneben sind die heute selten gewordenen  im Bereich der Flüsse und Seen und -Buchen-Mischwälder typisch; die Alpen und Mittelgebirge sind geprägt durch . Der  wird, besonders auf sandigen Flächen, vor allem von  und  gebildet. Allerdings werden die früher sehr verbreiteten Laubwälder mittlerweile oft durch Fichtenholzforste ersetzt.
+
+ im Winter. Rund 30 Prozent der Staatsfläche sind bewaldet.]]
+Ohne menschlichen Einfluss würde die Vegetation in Deutschland, wie in den meisten Ländern der gemäßigten Breiten, hauptsächlich aus Wald bestehen. Davon ausgenommen sind die nährstoffarmen  und Moorlandschaften sowie die alpinen () und subalpinen (,  und ) Hochlagen, die äußerst vegetationsarm sind und in ihrem Klima kaltgemäßigt ausgeprägt sind.
+
+Derzeit sind 29,5 Prozent der Staatsfläche . Damit ist Deutschland eines der waldreichsten Länder in der Europäischen Union, wobei die Baumarten im Wesentlichen durch die angestrebte Nutzung bedingt sind, das heißt der Anteil an - und Kiefernwäldern entspricht nicht den natürlichen Gegebenheiten, nach denen Buchenmischwälder vorherrschen sollten. Neben den natürlich vorkommenden Pflanzen spielen heute eine Reihe von eingeführten Arten wie die  eine zunehmende Rolle in der Vegetation. Der größte Anteil des unbebauten Landes dient der Erzeugung von n. Dies sind überwiegend  (, ,  und ), die  und der , die aus Amerika eingeführt wurden, der Apfelbaum, sowie zunehmend Raps. In den Flusstälern, unter anderem von Mosel, Ahr und Rhein wurde die Landschaft für den Weinanbau umgestaltet.
+
+=== Fauna ===
+]]
+
+Die meisten in Deutschland heimischen  leben in den gemäßigten Laubwäldern. Im Wald leben unter vielen anderen Arten verschiedene arten,  und e, e, e sowie  und .  und  sind seltener gewordene Bewohner der Flussauen, mit teilweise wieder steigenden Beständen. Andere ehemals in Mitteleuropa lebende Großsäuger wurden ausgerottet:  (um 1470),  (1835),  (im Mittelalter noch zahlreich),  (19. Jahrhundert),  (17./18. Jahrhundert),  (1904). In neuerer Zeit wandern gelegentlich einige Elche und Wölfe aus  und  ein, deren Bestände sich dort wieder vermehren konnten. Im März 2010 wurde eine Herde e im Rothaargebirge in Nordrhein-Westfalen angesiedelt. Speziell im Fall von Wolf und Braunbär ist aufgrund des schlechten Rufs der Tiere eine Wiederansiedlung jedoch problematisch.
+
+]]
+In hochalpinen Regionen leben ,  und .
+
+Zu den bekanntesten in Deutschland lebenden  zählen ,  und . Daneben leben noch viele  wie , , ,  und e in Deutschland, welche jedoch alle auf der  aufgeführt werden.
+
+Von dem , mitunter vereinzelt als Vorlage für den stilisierten deutschen  gesehen, gibt es derzeit wieder etwa 500 Paare, vor allem in  und . Der  kommt nur noch in den  vor, der ehemals dort heimische  wurde ausgerottet, hält aber durch Wiedereinbürgerungen in Schweiz und Österreich auch wieder Einzug in die Deutschen . Die häufigsten  in Deutschland sind derzeit  und , dagegen ist der Bestand an n deutlich geringer. Über 50 Prozent des Gesamtbestandes an en brütet in Deutschland, der Bestand ist aber auf Grund der intensiven Landwirtschaft rückläufig.
+
+-Kolonie auf der insel  in ]]
+
+Demgegenüber steht eine Vielzahl von n, die als  von der Anwesenheit des Menschen profitieren, insbesondere die in vielen Städten lebenden n, n (frühere Waldvögel),  und , für deren Überleben auch die  sorgt, sowie  und  auf . Eine Besonderheit ist die weltweit nördlichste -Kolonie im  sowie eine Kolonie von ca. 200–300 südamerikanischer s in  und .
+
+Der früher in den Flüssen häufig vorkommende  wurde im Zuge der  im 19. Jahrhundert weitgehend ausgerottet, konnte aber in den 1980er-Jahren im  wieder angesiedelt werden. Der letzte  wurde 1969 in Deutschland gefangen. In vielen Teichen werden die erst von den  eingeführten  gehalten.
+
+]]
+
+Der an der Nord- und Ostseeküste lebende  wurde zeitweise nahezu ausgerottet, mittlerweile gibt es im  wieder einige tausend Exemplare. Auch die sich wieder ausbreitenden nbestände in Nordeuropa kehren wieder an die Küsten Deutschlands zurück, nachdem sie dort durch Bejagung vollständig verschwunden waren. Das Wattenmeer ist insbesondere im Winter Rastplatz für Vögel aus den nördlichen Breiten. Die bekannteste  von Nord- und Ostsee ist der , jedoch leben dort noch weitere sieben Walarten, unter anderem  und , daneben auch eine .
+
+Zu den lange heimischen Tieren hat sich eine beachtliche Anzahl an  angesiedelt. Zu den bekanntesten Vertretern gehören , ,  und . Weitere teils  Neozoen in Deutschland sind , , , , Europäisches ,  u.&nbsp;v.&nbsp;m.
+
+
+
+=== Naturschutz ===
+
+
+Ziel des Naturschutzes in Deutschland ist es, Natur und Landschaft zu erhalten ( ). Der Naturschutz ist somit öffentliche Aufgabe und dient dem im Grundgesetz  verankerten Staatsziel. Wichtige Gegenstände des Naturschutzes sind Landschaften, Pflanzen und Tiere. Zu den wichtigsten Institutionen geschützter Gebiete und Objekte gehören derzeit unter anderem 14 s (siehe ), 19 e, 95 s sowie tausende von , en und .
+
+== Politik ==
+
+
+=== Staatsgründung ===
+ bildet die rechtliche und politische Grundordnung der Bundesrepublik Deutschland. (Installation der ersten Artikel von 1949 vor dem )]]
+
+Bisher wurden sechs en des seit 1871 existierenden s „Deutschland“ in Kraft gesetzt; die Daten ihrer  werden unter staatsrechtlichen und  Aspekten als Gründungsakte der jeweiligen deutschen Staatswesen betrachtet. Der 23.&nbsp;Mai 1949 ist das für die Gegenwart bedeutendste Gründungsdatum, da an diesem Tag die noch heute gültige  verkündet wurde.
+
+Der , der 1866 als  gegründet worden war, erhielt zum 1.&nbsp;Juli 1867 eine Verfassung, die ihn in einen   unter  umwandelte. Auf dieser Verfassung beruhen die nachfolgenden Verfassungen des  von 1871 und 1919 sowie das damals noch  Grundgesetz der  von 1949, ferner gilt sie als  des von der Bundesrepublik noch heute innegehaltenen Völkerrechtssubjekts. Nach der  am  trat am 16.&nbsp;April 1871 die  in Kraft. Verfassungsrechtlich handelte es sich dabei vor allem um den Beitritt souveräner Staaten (, , , ) zum Norddeutschen Bund, dessen Umbenennung in „Deutsches Reich“ und die Einführung des . 1918/1919 erfolgte der Übergang zu einer neuen : am 9.&nbsp;November 1918 wurde die „“ proklamiert, die mit dem Inkrafttreten der  konstituiert wurde.
+
+]]
+
+Die auch ''Weimarer Verfassung'' genannte Konstitution galt  formell fort, war jedoch materiell überwiegend außer Kraft gesetzt. Im frühen  von 1945 bis 1949 galt das  der Militärgouverneure und danach bis 1955 das der  des  (e). 1949 wurden zwei Verfassungen in Kraft gesetzt. Das  wurde am 23.&nbsp;Mai 1949 verkündet und zum 24.&nbsp;Mai 1949 in Kraft gesetzt, wobei es aufgrund des Geltungsbereichs bis zur  nur provisorischen Charakter besaß. Die erste  trat am 7.&nbsp;Oktober 1949 in Kraft und wurde am 9.&nbsp;April 1968 durch eine neue Verfassung ersetzt sowie 1974 revidiert. Zum 3.&nbsp;Oktober 1990 trat die DDR dem Geltungsbereich des Grundgesetzes bei.
+
+
+
+=== Staatsrecht ===
+ .]]
+
+Als  und  (Rechtspersönlichkeit im ) gilt die Bundesrepublik Deutschland nach  als identisch mit dem 1867 zu einem Bundesstaat umgewandelten , der ab 1871 den Namen „“ führte. Demzufolge besteht der deutsche  ohne Unterbrechungen seit dem Jahr 1867.
+
+Die  ist die historisch jüngste Ausprägung des deutschen Nationalstaates, dessen Geschichte sich bis zur Einführung der  und der  in verschiedene Phasen einteilen lässt:  (1867–1871),  (1871–1918),  (1919–1933),  (1933–1945), „“ / (1945–1949).
+
+Den  (Bundesländer) kommt grundsätzlich Staatsqualität zu, sie sind jedoch beschränkte Völkerrechtssubjekte, die nur mit Einwilligung der Bundesregierung eigene Verträge mit anderen Staaten eingehen dürfen ( Abs.&nbsp;3,  Abs.&nbsp;1 ).<ref>, §&nbsp;8, Rn 30 (Abschnitt „Bundesstaat“): ''„Die Gliedstaaten verfügen&nbsp;– nur&nbsp;– insoweit über eine (partielle und abgeleitete) Völkerrechtssubjektivität, als ihnen durch die Bundesverfassung Kompetenzen in auswärtigen Angelegenheiten eingeräumt werden.“''<br />, §&nbsp;5, Rn 21 (Abschnitt „Gliedstaaten von Bundesstaaten und Staatenbund“): ''„Ihre Völkerrechtssubjektivität [also die der Gliedstaaten in einem Bundesstaat] unterscheidet sich vielmehr von der des Bundes dadurch, dass sie von der Völkerrechtssubjektivität des jeweiligen Bundesstaates abgeleitet [=&nbsp;derivativ] und nicht originär ist.“''</ref> Die Bundesrepublik kann als die  Verbindung ihrer Bundesländer angesehen werden, ist also  im eigentlichen Sinne. Demnach erhält sie erst durch diese Verbindung selbst Staatscharakter.<ref>Vgl. , ''Das Grundgesetz'', 13. Aufl., Art. 20, Rn 1, 7; Avenarius, ''Die Rechtsordnung'', 3. Aufl., S.&nbsp;23&nbsp;f.</ref>
+
+ und  der Bundesrepublik Deutschland ist gemäß  Absatz&nbsp;1 des Grundgesetzes . Nach  ist die Bundesrepublik ein , er . Bei diesem   handelt es sich um eine . Es gibt 16 , von denen fünf wiederum in insgesamt 22 e untergliedert sind. Die Länder haben sich eigene  gegeben.
+
+]]
+
+Die Verfassung der Bundesrepublik Deutschland ist das ''Grundgesetz für die Bundesrepublik Deutschland''.<ref>, ''Das Grundgesetz. Kommentar für die politische Bildung'', 9. Auflage, Hermann Luchterhand Verlag, Neuwied 1995, S. 50.</ref>  ist der  mit vor allem repräsentativen Aufgaben.  gesehen folgen ihm der , der  und der jeweils amtierende , der gemäß Grundgesetz den Bundespräsidenten vertritt.
+
+Der  Deutschlands ist der . Der Bundeskanzler wird auf Vorschlag des Bundespräsidenten vom Bundestag mit der Mehrheit seiner Mitglieder gewählt ( GG), seine Amtszeit endet mit der Wahlperiode des Bundestages ( Abs.&nbsp;2 GG). Vor Ablauf der Wahlperiode des Bundestages kann der Bundeskanzler gegen seinen Willen nur dadurch aus dem Amt scheiden, dass der Bundestag mit der Mehrheit seiner Mitglieder einen Nachfolger wählt ( GG, sogenanntes ). Die Bundesminister werden auf Vorschlag des Bundeskanzlers ernannt ( Abs. 1 GG), sie und der Bundeskanzler bilden die  ( GG). Der Bundeskanzler besitzt die  für die Politik der Bundesregierung ( Satz 1 GG). Die Führungsaufgabe in der deutschen „Kanzlerdemokratie“ kommt dem Bundeskanzler beziehungsweise der Bundeskanzlerin zu.<ref>Christian Schramek, ''Politische Führung in supranationalen Mehrebenensystemen: die Europäische Union'', in: , Henrik Gast (Hrsg.): ''Politische Führung in westlichen Regierungssystemen. Theorie und Praxis im internationalen Vergleich'', VS Verlag, Wiesbaden 2010, ISBN 978-3-531-17068-8, [http://books.google.de/books?id=tcqkOk-HJRYC&lpg=PA95&dq=kanzlerdemokratie&pg=PA307#v=onepage&q=kanzlerdemokratie&f=false S. 307]; vgl. dazu Henrik Gast, ''Politische Führung in der Kanzlerdemokratie: die Bundesrepublik Deutschland'', ebd., [http://books.google.de/books?id=tcqkOk-HJRYC&lpg=PA95&dq=kanzlerdemokratie&pg=PA95#v=onepage&q=kanzlerdemokratie&f=false S. 95 f.]</ref>
+
+Als Bundesstaat ist Deutschland  organisiert, das heißt, dass zwei  im  existieren: die , die den Gesamtstaat Deutschland nach außen vertritt, und die Länderebene, die in jedem Bundesland einzeln existiert. Jede Ebene besitzt eigene Staatsorgane der  (ausführende Gewalt),  (gesetzgebende Gewalt) und  (rechtsprechende Gewalt). Die Länder wiederum bestimmen die Ordnung ihrer Städte und Gemeinden.
+
+Die Kompetenz zur  liegt vom Grundsatz her bei den Bundesländern, wenn nicht eine Gesetzgebungsbefugnis des Bundes besteht ( GG). In Fällen der  hat nur der Bund die Gesetzgebungskompetenz ( GG), in den Fällen der  besteht für die Länder dann eine Gesetzgebungsbefugnis, wenn diese Bereiche nicht durch Bundesgesetz geregelt sind (&nbsp;Abs. 1 GG). Dazu zählen vor allem die in den Artikeln 74, 74a und 105 Abs. 2 GG aufgeführten Gebiete. Der Bund hat hierbei im Sinne des Absatzes 2 soweit aber das Recht, Gesetze zu erlassen, wenn dies zur „Herstellung gleichwertiger Lebensverhältnisse im Bundesgebiet oder [zur] Wahrung der Rechts- oder Wirtschaftseinheit im gesamtstaatlichen Interesse […] erforderlich“ ist. Gesetzlich kann seitens des Bundes auch wieder bestimmt werden, dass auf jenen en „eine bundesgesetzliche Regelung […] durch  ersetzt werden kann“ (&nbsp;Abs. 4 GG).
+
+<imagemap>
+Datei:Administrative Gliederung Deutschlands.png|right|370px|Vertikale Verwaltungsstruktur Deutschlands
+poly 632 20 493 159 770 159 
+poly 488 161 330 321 783 321 732 161 
+poly 732 161 784 322 929 614 1227 614 774 161 
+poly 328 323 275 375 810 375 782 321 
+poly 274 379 204 447 630 448 630 378 
+poly 199 450 145 505 386 505 414 449 
+poly 144 508 38 612 333 612 385 507 
+poly 415 450 334 614 632 614 631 449 
+poly 631 377 631 614 930 614 811 377 
+desc top-right
+</imagemap>
+
+gebungsorgane des Bundes sind der  und der . Bundesgesetze werden vom Bundestag mit einfacher Mehrheit beschlossen. Sie werden wirksam, wenn der Bundesrat keinen Einspruch eingelegt hat oder, wenn das Gesetz der Zustimmung des Bundesrates bedarf, wenn der Bundesrat dem Gesetz zustimmt ( GG). Eine Änderung des Grundgesetzes ist nur mit der Mehrheit von zwei Dritteln der Mitglieder des Bundestages und des Bundesrates möglich ( GG).
+
+In den Bundesländern entscheiden die  über die Gesetze ihres Landes.
+
+Obwohl die Abgeordneten der Parlamente nach dem Grundgesetz nicht weisungsgebunden sind, dominieren in der Praxis Vorentscheidungen in den  die Gesetzgebung.
+
+Die  wird auf Bundesebene durch die  gebildet, die durch den  geleitet wird. Auf der Ebene der Länder leiten die en, in Hamburg und Bremen die ; in Berlin der , die Exekutive. Auch die Länder sind n und deren Regierungschefs durch die  bzw.  bzw. das  gewählt. Die Verwaltungen des Bundes und der Länder werden jeweils durch die  geleitet.
+
+Die Ausübung der staatlichen Befugnisse und die Ausführung der Bundesgesetze obliegt grundsätzlich den Bundesländern, sofern das Grundgesetz keine abweichende Regelung trifft oder zulässt (,  GG).
+
+
+
+=== Staatshaushalt ===
+ in Berlin]]
+
+
+Der  umfasste 2009 Ausgaben von 1,126 Billionen , dem standen Einnahmen von 1,021 Billionen Euro gegenüber. Daraus ergibt sich ein Haushaltsdefizit in Höhe von 4,4 Prozent des .<ref>: [http://www.destatis.de/jetspeed/portal/cms/Sites/destatis/Internet/DE/Presse/pm/2010/03/PD10__124__71131,templateId=renderPrint.psml Öffentliches Finanzierungsdefizit auf 105,5 Milliarden Euro gestiegen]</ref><br />Die  betrug 2009 1,767 Billionen Euro oder 73,4 Prozent des BIP.<ref>[http://www.bundesfinanzministerium.de/nn_86324/DE/BMF__Startseite/Aktuelles/Monatsbericht__des__BMF/2009/10/statistiken-und-dokumentationen/01-finanzwirtschaftliche-entwicklung/tabellen/Tabelle__S15.html Monatsbericht Oktober 2009] des s.</ref>
+
+Neben verschiedenen Verkehrsteuern (zum Beispiel Umsatzsteuer) erzielt der Staat einen Großteil seiner Einnahmen aus Steuern vom  und Ertrag: Hierzu zählen die , die  sowie die .
+
+Insofern Produkte oder Dienstleistungen der  unterliegen, beträgt der Steuersatz in Deutschland 19 (allgemeiner Satz) oder 7 Prozent (ermäßigter Satz, zum Beispiel Lebensmittel etc.). Umgangssprachlich bzw.  wird die Umsatzsteuer auch ''Mehrwertsteuer'' genannt.
+<!-- Statistische Angaben wurden entfernt, da der Erhebungszeitraum aller Ressorts sich über mehrere Jahre erstreckte, siehe Diskussion:Deutschland#Warum_so_veraltete_Zahlen? -->
+
+=== Staatsgebiet ===
+ garantiert offene Grenzen zu allen Nachbarstaaten.]]
+
+Das  der Bundesrepublik ergibt sich aus der Gesamtheit der Staatsgebiete ihrer Länder. Seit Gründung der Bundesrepublik Deutschland wurde ihr Staatsgebiet mehrfach erweitert, vor allem 1957 durch die Eingliederung des Saarlandes, 1990 den  der DDR samt dem Ostteil Berlins und der völkerrechtlich anerkannten Eingliederung West-Berlins, darüber hinaus zwischen 1949 (erste Teilflächen s) und 2002 (Straße N 274 bei Selfkant von den Niederlanden) durch die Rückgabe von Gebieten, die nach dem Zweiten Weltkrieg Großbritannien (), die Niederlande (unter anderem ), Belgien (unter anderem ), Luxemburg (ein Gebiet zwischen  und ) und Frankreich (Kehl) zunächst als zu ihren Staatsgebieten zugehörig betrachteten, sowie durch mehrere Ausdehnungen der Seegrenzen in Nord- und Ostsee. Die letzte dieser Ausdehnungen erfolgte durch die ''Proklamation der Bundesregierung über die Ausweitung des deutschen Küstenmeeres'' vom November 1994 (bekanntgemacht im ) mit Wirkung zum 1.&nbsp;Januar 1995, durch welche die Bundesrepublik in der Nordsee die  vollkommen und in der Ostsee teilweise in Anspruch nahm, ohne dabei ihren Rechtsanspruch aufzugeben.
+
+Der Verlauf der Bundesgrenze Deutschlands ist heute bis auf Teile des  festgelegt; noch immer nicht geklärt ist zudem die  das --Gebiet betreffend. Innerhalb Deutschlands nicht abschließend geklärt ist der Verlauf der Ländergrenzen zwischen Schleswig-Holstein, Niedersachsen und eventuell Hamburg im Bereich der .<ref>Für diesen Bereich haben die Länder durch  und  Verwaltungs- und Gerichtszuständigkeiten geregelt, die  ist damit aber nicht geklärt.<br />Beispiele für solche Verträge sind das (Verwaltungs-)''Abkommen über die wasserschutzpolizeilichen Zuständigkeiten auf der Elbe'' zwischen den Ländern Niedersachsen, Schleswig-Holstein und der Freien und Hansestadt Hamburg von 1974, der ''Staatsvertrag zwischen der Freien Hansestadt Bremen, der Freien und Hansestadt Hamburg sowie den Ländern Niedersachsen und Schleswig-Holstein über die gerichtliche Zuständigkeit in Binnenschiffahrtssachen'' von 1983 oder der ''Staatsvertrag zwischen der Freien und Hansestadt Hamburg und den Ländern Niedersachsen und Schleswig-Holstein über die Regelung der Gerichtszugehörigkeit des Küstengewässers der Nordsee und der Elbmündung'' von 2001. Zu den rechtlichen und geschichtlichen Aspekten siehe : ''Ländergrenzen in der Elbemündung und der Deutschen Bucht'', Berlin 1982, ISBN 3-428-05240-4.</ref>
+
+Nicht zum Staatsgebiet gehört die  in der .
+
+=== Parteienlandschaft ===
+
+
+
+Das  in Deutschland wird maßgeblich durch die im Deutschen Bundestag vertretenen Parteien geprägt, es sind derzeit in fünf  sechs Parteien vertreten: ''/'', gemeinsame Fraktion der ; Fraktionen mit einer Partei sind die '''', die '''', '''' und ''''.
+
+Nahezu allen einflussreichen Parteien stehen&nbsp;– mehr oder weniger selbständig&nbsp;–  zur Seite. Die wichtigsten sind die '''' (CDU/CSU), die '''' (SPD), die '''' (FDP), '''' (Die Linke) sowie die '''' (Bündnis 90/Die Grünen).
+
+=== Außen- und Sicherheitspolitik ===
+
+
+ in Brüssel. Zusammen mit 27 Mitgliedstaaten ist Deutschland in allen EU-Institutionen vertreten.]]
+
+Die wichtigsten Leitlinien  sind die  und die europäische Integration. Deutschland hat am Aufbau europäischer Organisationen einen entscheidenden Anteil; Ziel war dabei auch, den Nachbarn Angst vor Deutschland zu nehmen und die Beschränkungen durch die Besatzungsmächte überflüssig zu machen. Die Bundesrepublik ist seit 1950 Mitglied des es und unterschrieb 1957 die , den Grundstein für die heutige Europäische Union (EU). Zentraler Aspekt für die Sicherheitspolitik und Ausdruck der Westbindung ist die Mitgliedschaft in der , der die Bundesrepublik 1955 beitrat.
+
+Während des  war der Spielraum deutscher Außenpolitik begrenzt. Als eines der wichtigsten Ziele galt die . Militäreinsätze im Ausland kamen nicht in Frage. Laut Grundgesetz darf sich die Bundeswehr an en nicht beteiligen, ihre Aufgabe besteht lediglich in der Landes- und Bündnisverteidigung. Durch die der sozialliberalen Koalition ab 1969 initiierte „Neue “ unter dem Motto ''Wandel durch Annäherung'', die zunächst von wichtigen Verbündeten sehr skeptisch betrachtet wurde, konnten dennoch eigenständige politische Akzente gesetzt werden. Später wurde diese Politik grundsätzlich auch von der liberalkonservativen Kohl-Regierung seit 1982 fortgesetzt.
+
+ (Gipfeltreffen in Prag, 2002)]]
+
+Seit der Wiedervereinigung hat Deutschland seine außenpolitischen Grundsätze erweitert und einen Weg zu größerer internationaler Verantwortung eingeschlagen. So nimmt die  seit 1991 mit Zustimmung des Bundestages und zusammen mit verbündeten Armeen an verschiedenen friedenserhaltenden und -erzwingenden Einsätzen auch außerhalb Deutschlands und des Territoriums der NATO-Verbündeten teil (''Out-Of-Area''-Einsätze).
+
+Traditionell spielt Deutschland zusammen mit Frankreich eine führende Rolle in der Europäischen Union. Deutschland treibt die Bemühungen voran, über die  hinaus ein einheitliches und wirkungsvolles System der  zu schaffen.
+
+ und  (G8-Gipfeltreffen in Heiligendamm, 2007)]]
+
+Weitere außenpolitische Ziele sind die Verwirklichung des s zum Klimaschutz sowie die weltweite Anerkennung des . Bedeutendes Interesse hat Deutschland auch an einer friedlichen Lösung des s. Aufgrund der schwierigen Materie und den Begrenzungen deutscher Politik besteht der Beitrag vor allem in der Bereitstellung informeller Kontaktmöglichkeiten zwischen den beteiligten Parteien.
+
+Die Bundesregierung lehnte den  2003 ab, da sie die Existenz von Massenvernichtungswaffen bezweifelte, eine diplomatische Lösung bevorzugte und um erhebliche Gefahren für die politische Stabilität des gesamten als fragil eingestuften Raumes fürchtete. Dafür wurde sie von wichtigen Verbündeten stark kritisiert. Zusammen mit den Verbündeten Großbritannien und Frankreich bemüht sich die Bundesrepublik, den  im Dialog dazu zu bewegen, auf die Weiterführung seines Kernenergieprogramms zu verzichten.
+
+Die Bundesregierung strebt einen ständigen Sitz im  der  an. Die Durchsetzung dieses Zieles wird jedoch aufgrund des Widerstands anderer, teils verbündeter Staaten erschwert und hat nur geringe Aussicht auf Erfolg. So würden zwar Frankreich und Großbritannien die G4-Staaten (Deutschland, ,  und ) grundsätzlich unterstützen; jedoch beziehen die USA zu einem deutschen Sitz bisher keine Stellung.
+
+Im Jahr 2006 veröffentlichte das  ein neues , welches die Einbettung der Bundeswehr in friedenssichernde Maßnahmen auch in entlegenen Regionen der Erde vorsieht.
+
+=== Militär ===
+
+ der ]]
+
+Nach ihrer Gründung 1949 durfte die Bundesrepublik Deutschland zunächst keine eigenen Streitkräfte aufstellen. Unter dem Eindruck des es und der  Politik in Osteuropa wurde es der Bundesrepublik im Rahmen der  gestattet, zunächst 1951 eine  und 1955 Streitkräfte aufzustellen, um der NATO beizutreten. Nach der Wiedervereinigung wurden Teile der  der DDR in diese Streitkräfte eingegliedert.
+
+Die als ''Bundeswehr'' bezeichnete militärische Gesamtorganisation besteht aus den Streitkräften und ihrer Verwaltung. Die Streitkräfte gliedern sich in die  ,  und  und die unterstützenden Organisationsbereiche  und . Nach Ende des Kalten Krieges wurde die Gesamtstärke der Bundeswehr von rund 500.000 schrittweise auf 250.000 Soldaten reduziert. Im  wurde eine maximale Friedensstärke von 370.000 deutschen Soldaten als völkerrechtlich bindend festgelegt.
+
+ während des  in ]]
+
+In der Bundeswehr dienten im Juli 2009 250.000 en und 120.000  Mitarbeiter. Seit 2001 haben auch Frauen uneingeschränkten Zugang zum Dienst in den Streitkräften. Ihr Anteil beträgt 8,6 Prozent der Soldaten (Stand: 2009). Die Bundesrepublik Deutschland gibt im Jahr 2009 31,1 Milliarden Euro für die Bundeswehr aus, was einen Anteil von etwa 1,2 Prozent am Bruttoinlandsprodukt entspricht. Dies liegt unter dem Durchschnitt der NATO-Mitgliedstaaten von 2,3 Prozent. Damit hat Deutschland im Vergleich den siebtgrößten nationalen Verteidigungsetat weltweit.
+
+Im Zuge der verstärkten Teilnahme der Bundeswehr an multinationalen Auslandsmissionen seit 1990 läuft derzeit eine langfristig angesetzte Reform der Streitkräfte, die eine Reduzierung des schweren Geräts (, ) zugunsten leichteren, für globale Einsätze besser geeigneten Materials zum Ziel hat. Im Juli 2009 befanden sich rund 7.400 deutsche Soldaten im Ausland im Einsatz.
+
+]]
+
+Es besteht seit 1956 eine allgemeine  für Männer, wobei jedoch die zwangsweise Einberufung zum dazugehörigen  (GWD) nach 54 Jahren endete. Nach den ersten  kamen am 1. April 1957 die zum Dienst an der Waffe verpflichteten en in die Kasernen.<ref>Hans Ehlert: ''Anfänge westdeutscher Sicherheitspolitik: 1945–1956, Bd. 3. Die NATO-Option'', hrsg. vom Militärgeschichtlichen Forschungsamt, Oldenbourg, München 1993, ISBN 3-486-51691-4, [http://books.google.de/books?id=zAj25pQttLgC&lpg=PA829&ots=VkY6vLe65_&pg=PA826 S. 826&nbsp;ff.]</ref> Der Grundwehrdienst dauerte zuletzt sechs Monate, was bereits für Grundwehrdienstleistende galt, die zum 1. Juli 2010 einberufen worden sind. Bislang konnte alternativ als  ein  (Dauer ebenfalls sechs Monate), ein  (zwölf Monate) oder eine mindestens sechsjährige Mitarbeit im  oder  (z.&nbsp;B. bei einer  oder bei anerkannten privaten Hilfsorganisationen) abgeleistet werden. Im Zuge einer grundlegenden Strukturreform mit einer drastischen Reduzierung der  wurde u.&nbsp;a. zwecks umfassender Neuausrichtung der Bundeswehr bestimmt, dass die  zum 1. Juli 2011 offiziell ausgesetzt und damit faktisch aufgehoben wurde. Sie bleibt jedoch grundsätzlich im Grundgesetz verankert. Neben den übrigen Bundestagsparteien sprachen sich seit Herbst 2010 jedoch auch die  für ihre Abschaffung aus; in der öffentlichen Wahrnehmung ist die Wehrpflicht mittlerweile nicht mehr unumstritten (→&nbsp;). Die Bundeswehr wurde somit zur Freiwilligenarmee und der Zivildienst vom neuen  ersetzt. Zukünftig können sich junge Männer und Frauen zum Freiwilligen Wehrdienst melden und einen mindestens sechs und maximal 23 Monate dauernden Dienst ableisten.
+
+Bis 2005 waren auf dem   und dem  (beide in Rheinland-Pfalz) noch 150 US-amerikanische n stationiert.<ref>Berlin Information-center for Transatlantic Security: [http://www.bits.de/public/stichwort/atomwaffen-d-eu.htm ''US-Atomwaffen in Deutschland und Europa''], Stand: 30. Juni 2008. Abgerufen am 1. Februar 2010.</ref> Heute lagern noch 20 Sprengköpfe in Büchel, an deren Einsatzplanung Deutschland im Rahmen der  beteiligt ist.<ref>[http://www.spiegel.de/wissenschaft/mensch/0,1518,493451,00.html ''USA haben Nuklear-Arsenal in Ramstein geräumt''], '''' vom 9.&nbsp;Juli 2007. Abgerufen am 1. Februar 2010.</ref>
+<br style="clear: left;" />
+
+=== Polizei und Nachrichtendienste ===
+ der meisten  durch blau-weiße bzw. blau-silberne ersetzt.]]
+
+;Polizei
+
+
+Zuständig für die  der Bundesrepublik sind die , welche zum Teil in Vollzugspolizei und n geteilt werden. Dabei übernehmen die Ordnungsbehörden verwaltungstechnische Aufgaben, während die Vollzugspolizei den Großteil der Aufgaben zur Gefahrenabwehr übernimmt. Zur Vollzugspolizei gehören etwa die , die  sowie die . Der Kriminalpolizei steht zudem das  beziehungsweise die einzelnen  vor. Das Bundeskriminalamt ist direkt dem  unterstellt und damit die höchste Ermittlungsbehörde in Deutschland. Zur  (ehemals ) gehören unter anderem die Spezialeinheit  sowie die .
+
+;Nachrichtendienste
+
+Für die liche Informationsbeschaffung, die  und den Verfassungsschutz sind in Deutschland drei verschiedene Dienste zuständig. Der  (BND) als klassischer Auslandsnachrichtendienst und das  nebst nachgeordneter  als Inlandsnachrichtendienst haben keine lichen Befugnisse. Hinsichtlich des  (MAD), des militärischen Nachrichtendienstes, wird seit 2010 von der Bundesregierung die Verschmelzung mit dem Verfassungsschutz diskutiert.
+
+''Siehe auch: , , , , , ''
+
+== Geschichte ==
+
+
+=== Frühgeschichte und Antike (Frühzeit–375) ===
+, ca. 1600 v. Chr. (heutiges )]]
+
+Die ältesten Siedlungsbelege auf dem Gebiet der heutigen Bundesrepublik Deutschland sind etwa 700.000 Jahre alt, man geht von einer dauerhaften Besiedlung seit rund 500.000 Jahren aus. In Deutschland existieren bedeutende  Fundstätten: Nach dem Fundort bei  wurde die - '''' und nach dem  in  der ''Homo neanderthalensis'', der aus dem ''Homo heidelbergensis'' hervorgegangene , benannt. Dieser wurde vor etwa 40.000 Jahren von dem aus Afrika zugewanderten ''Homo sapiens'', dem modernen en, verdrängt.
+
+In der Jungsteinzeit entwickelten sich Ackerbau, Viehzucht und feste Siedlungsplätze. Aus dieser Zeit sind einige bedeutende kulturelle Funde erhalten, wie etwa die , die darauf deutet, dass schon um 2000&nbsp;v.&nbsp;Chr. in dieser Region Astronomie betrieben wurde.
+
+
+
+Erste schriftliche Erwähnung finden  und  Stämme bei den  und  in der vorchristlichen Zeit. Das heutige Deutschland war schon mit Beginn der  (1200 bis 1000 v. Chr.) von Süd- bis Mitteldeutschland keltisch besiedelt. Um 600 v. Chr. kam es in  zur Herausbildung der , die als germanische Kultur angesehen wird. Die mit den Germanen verwandten  lebten in Nachbarschaft und in der rheinischen Kontaktzone teilweise auf sich überschneidenden Gebieten. Jahrhundertelang gab es kulturellen und wirtschaftlichen Kontakt, wodurch   in die germanischen en aufgenommen wurden.
+
+ in Trier wurde um 180 n. Chr. errichtet.]]
+
+Von 58&nbsp;v.&nbsp;Chr. bis etwa 455&nbsp;n.&nbsp;Chr. gehörten die Gebiete links des s und südlich der  zum , von etwa 80 bis 260&nbsp;n.&nbsp;Chr. auch ein Teil s () sowie der größte Teil des heutigen Baden-Württemberg südlich des . Die römisch beherrschten Gebiete im heutigen Deutschland verteilten sich auf die Provinzen ,  und . In diesem Gebiet gründeten die Römer viele Legionslager, die sich später zu Städten entwickeln konnten. Wichtigste Städte zu römischer Zeit waren , ,  und  (die ). Die Gebiete im heutigen Deutschland, die außerhalb der römischen Herrschaft lagen, bezeichnete das Römische Reich als '''' oder ''''.
+
+Zur Sicherung der Grenzen siedelten die Römer befreundete germanische Stämme in den  an. Außerdem wanderten Siedler aus anderen Teilen des , insbesondere aus Italien, ein und wurden westlich des Rheins und südlich der Donau sesshaft. Weitreichende Neuerungen, die auch das deutsche Vokabular beeinflussten, führten die Römer insbesondere in Hausbau, Handwerk, Wein- und Ackerbau sowie Verwaltung und Militär ein. ’ im Jahr 98 entstandene Schrift '''' ist die älteste  Beschreibung der germanischen Stämme.
+<br style="clear: left;" />
+
+=== Völkerwanderung und Mittelalter (375–962) ===
+
+
+, 843]]
+Nach dem Einfall der  375 und mit dem Niedergang  ab 395 setzte die  ein, in deren Verlauf die germanischen Stämme immer weiter nach Südwesten zogen. Gleichzeitig bildeten sich auf dem Gebiet des heutigen Deutschland mehrere  heraus, die die kleineren germanischen Stämme der römischen Kaiserzeit verdrängten. Dies sind  und  im Westen,  im Norden,  im Süden und  im Osten. In die fast menschenleeren Gebiete des heutigen Ostdeutschland wanderten im 7. Jahrhundert bis zur Elbe-Saale-Linie  ein. Weite Teile der Bevölkerung der heutigen ostdeutschen Bundesländer waren daher bis ins hohe  slawisch geprägt (). Erst im Zuge der hochmittelalterlichen  wurden sie assimiliert und akkulturiert. Der Hauptteil West- und Mitteleuropas und damit auch große Gebiete des heutigen  und s wurden vom  eingenommen, das heutige Norddeutschland wurde von den Sachsen und Slawen beherrscht. Alle heute zu Deutschland gehörigen Gebiete des einstigen Frankenreichs lagen im östlichen Teilreich, das seit der zeit als  bezeichnet wurde. Eine gewisse Eigenstaatlichkeit Austriens wurde erstmals im Jahre 614 offenbar, als   das  unterschreiben musste, in dem festgehalten wurde, dass jedes der drei fränkischen Teilreiche (Neustrien, Austrien, Burgund) einem eigenen  unterstand.
+
+Nach der blutigen Unterwerfung und Zwangsmissionierung der Sachsen unter  erstreckte sich das Frankenreich bis zur Nordsee, der  und dem heutigen Österreich. Das Vielvölkerreich wurde neu organisiert und auf den Gebieten der Kirchenorganisation und der Kultur () knüpfte man partiell an römische Traditionen an und schuf neue Bildungstraditionen. Auf dem Höhepunkt der fränkischen Macht stellte Karl der Große einen Anspruch auf die Führungsmacht in Europa. 800 ließ er sich in Rom zum Kaiser krönen, was zu Auseinandersetzungen mit den byzantinischen Kaisern führte (). Streitigkeiten unter seinen Nachfolgern bewirkten im  (843) die Dreiteilung des Reiches in das , unter  (später: „dem Deutschen“), das  unter  und dem zwischen ihnen liegenden Königreich , das den Namen  erhielt.
+
+Im ostfränkischen Reich bildeten sich um das Jahr 900 fünf große Herzogtümer, die meist als  bezeichnet werden, da sich ihre Namen in der Regel auf alte westgermanische Großstämme beziehen: das , das , das , das  und das , zu dem auch die  gehörten.
+
+Die siegreiche  im Jahre 955, die eine jahrzehntelange Serie der  beendete, führte zu einem erheblichen Prestigegewinn des ostfränkischen Königs , der seit 951 auch die  trug, und zur Zuordnung des  als  der Deutschen.
+
+=== Heiliges Römisches Reich (962–1806) ===
+
+
+ im 10. und 11. Jahrhundert]]
+
+Als historischer Beginn der deutschen staatlichen Tradition wird oft der 2.&nbsp;Februar 962 angesehen, an dem  in  zum  gekrönt wurde. Der Terminus ''regnum Teutonicum'' („deutsches Königreich“) wurde ab dem 10. Jahrhundert als Bezeichnung für das Ostfrankenreich benutzt; der Begriff ''regnum Teutonicorum'' („Königreich der Deutschen“) tauchte erst zu Beginn des 11. Jahrhunderts auf. Durch die 951 von Otto angenommene  Königswürde war das ''Regnum Teutonicorum'' mit dem ''Regnum Italiae'', auch ''Regnum Italicum'' oder  genannt, verbunden. Der Aufbau eines s führte zum Konflikt mit dem reformierten Papsttum (), der ab etwa 1076 einsetzte, und der mit dem  1122 eine Zwischenlösung erfuhr. Als sein Höhepunkt gilt der sprichwörtlich gewordene . Einen weiteren Höhepunkt erreichte die Auseinandersetzung zwischen Kaiser und Papst unter dem Enkel , , bis 1250; zudem scheiterte sein Konzept eines zentral geführten Beamtenstaates an päpstlichem und feudal-regionalistischen Widerständen. In Form der  verselbstständigten sich zahlreiche Feudalherrschaften zu Lasten der königlich-kaiserlichen Macht, besonders im , und sie beendeten auch die Eigenständigkeit der meisten Städte und Städtebünde.
+
+ diente bis 1531 insgesamt 31 deutschen Herrschern als Krönungsstätte.]]
+
+Während sich das Westfrankenreich zum französischen Zentralstaat entwickelte, blieb das Ostfrankenreich durch  geprägt. Obwohl die Kaiser wiederholt versuchten, ihre Position zu stärken, blieb das Reich ein  Verband großer, mittelgroßer und vieler Klein- und  sowie  (→&nbsp;). Die innerkirchlichen und theologischen Auseinandersetzungen in Verbindung mit einer antirömischen Haltung bestärkten die , aus der zahlreiche protestantische Konfessionen hervorgingen. Die Gegenreformation war die Reaktion der Katholischen Kirche. Bald bestimmte der Landesherr die Konfession seiner Untertanen. Nach dem  hatte der Kaiser nur noch eine formale Machtstellung.
+
+Im 17./18. Jahrhundert entwickelte sich nach französischem Vorbild der , der jedoch anders als dort nicht die Zentralgewalt, sondern einzelne Fürstentümer zu bürokratisch organisierten, modernen Staaten werden ließ. Manche Herrscher, insbesondere König , aber partiell auch seine kaiserlichen Rivalen ,  und , öffneten sich dem philosophischen Zeitgeist ().
+
+Dieser Zustand währte bis 1806, als  Mitteleuropa eroberte und das schwache Reichsgebilde zum Einsturz brachte. Der letzte Kaiser des nur noch formell bestehenden ''Heiligen Römischen Reiches Deutscher Nation'', , der erst 1804 auch Kaiser des durch ihn gegründeten  geworden war, legte die Reichskrone nieder.<ref>Zuvor existierte von 1663 bis 1806 ein „“ in , und die er waren bis zuletzt Kaiser des Heiligen Römischen Reiches.</ref> Damit erlosch das Reich.
+<br style="clear: left;" />
+
+=== Französische Besatzungszeit und Rheinbund (1806–1813) ===
+'', 1813, Gemälde von Vladimir Moshkov aus dem Jahr 1815]]
+
+Unter Napoleons Einfluss war zwischen 1803 und 1806 die Anzahl der Staaten im Gebiet des „Alten Reiches“ von etwa 300 auf etwa 60 verringert worden. Teile West- und Nordwestdeutschlands annektierte Frankreich kurz darauf. Zudem baute Napoleon mittlere deutsche Staaten zu Bündnispartnern auf, indem er ihnen Gebietserweiterungen auf Kosten der bisherigen geistlichen Gebiete, Reichsstädte und anderer reichsunmittelbarer Stände verschaffte. Nutznießer dieses Prozesses waren vor allem ,  und . „Der Sieg über Österreich [in der  1805] erlaubte es Napoleon, seinen Einfluß in Deutschland weiter auszubauen“, so der deutsche Historiker .<ref>: ''Deutsche Geschichte vom Ende des Alten Reiches bis zum Untergang der Weimarer Republik.'' München 2000, [http://books.google.de/books?id=wwIHhy2N0nEC&lpg=PA49&ots=hORs3zgFLl&dq=%22der%20Sieg%20%C3%BCber%20%C3%96sterreich%20erlaubte%20es%20Napoleon%2C%20seinen%20Einflu%C3%9F%20in%20Deutschland%20weiter%20auszubauen%22&pg=PA49#v=onepage&q=%22der%20Sieg%20%C3%BCber%20%C3%96sterreich%20erlaubte%20es%20Napoleon,%20seinen%20Einflu%C3%9F%20in%20Deutschland%20weiter%20auszubauen%22&f=false S.&nbsp;49].</ref> Die vergrößerten Mittelstaaten wurden im  vereinigt und standen so als Verbündete zur Verfügung. Im Ergebnis hatte Frankreich damit den bisherigen Rivalen, das Heilige Römische Reich deutscher Nation, in drei Teile aufspalten können: Rheinbund,  und .
+
+Diese  brachte in den Rheinbundstaaten erhebliche Modernisierungsanstöße, so etwa in Bayern unter dem Minister .<ref>Heinrich August Winkler: ''Deutsche Geschichte vom Ende des Alten Reiches bis zum Untergang der Weimarer Republik.'' München 2000, S. 51 ff.</ref> Teils eigenständig blieben die stark beschnittenen Konkurrenten Österreich und Preußen. Auch in Preußen wurden nach der katastrophalen  1806 tiefgreifende  unternommen, um den Staat wieder handlungs- und wehrfähig zu machen.
+
+Ab 1809 regte sich Widerstand gegen die französische Besatzung. Bekannte Vorkämpfer gegen Napoleon und seine Verbündeten waren  im österreichischen, nun jedoch bayerisch besetzten  und  in Preußen. Dieser Widerstand wurde jedoch zunächst niedergeschlagen.<ref>: ''Deutsche Geschichte 1800–1866. Bürgerwelt und starker Staat.'' München 1983, S. 24 f.</ref> Erst nach Napoleons Niederlage im  konnten Preußen und Österreich 1813 darangehen, im Bündnis mit  die französischen Truppen zu vertreiben. In den n (1813–1815) entstand ein neues Zusammengehörigkeitsgefühl der Deutschen, zunächst angeführt von Dozenten und Studenten der protestantischen Universitäten, z.&nbsp;B. im , das auch als Ursprung der Farben  gilt. Die meisten Rheinbundstaaten gingen im Verlauf des Jahres 1813 auf die Seite der Verbündeten über, ein erster großer Erfolg war deren Sieg in der  im Oktober 1813. Weitere Kämpfe folgten bis zur endgültigen Niederlage Napoleons 1815.
+
+=== Deutscher Bund (1815–1866) ===
+<!--  Die Hauptartikel-Vorlage unterstützt nur maximal drei Verweise. -->
+<div class="hauptartikel"><span class="hauptartikel-pfeil">→ </span>''<span class="hauptartikel-text">Hauptartikel</span>: , ,  und ''</div>
+
+ 1815–1866]]
+
+Nach der Niederlage Napoléons restaurierte der  (1814–1815) weitgehend die alten monarchischen Herrschaftsverhältnisse. Im , einem von dem  und dem  dominierten  (→&nbsp;), organisierten sich 38 Staaten (→&nbsp;). Der , mit Sitz in , bildete das Entscheidungsgremium. 1833/1834 wurde der  geschaffen, in dem Preußen die vorherrschende Macht war.
+
+In der  des  bewahrte der Hochadel mit Hilfe einer in den n gipfelnden  und  seine Macht. Das wirtschaftlich erstarkende  forderte jedoch weiter Teilhabe an der politischen Macht.
+
+ verursachte einschneidende gesellschaftliche Veränderungen.]]
+
+Im Oktober 1817 trafen sich Professoren und Studenten zum . „Höhepunkt“ war die  von Autoren, die gegen einen deutschen Staat waren, wie zum Beispiel . Zum später so genannten  trafen sich 1832 über 30.000 Menschen aus vielen Bevölkerungskreisen und Staaten. Dort wurden die Farben  gehisst, die später zu den Nationalfarben wurden (→&nbsp;).
+
+Am 1.&nbsp;März 1848 begann mit der Besetzung des Ständehauses des  in  die . Durch Aufstände der Bürger mussten viele konservative Politiker ihren Platz räumen, unter ihnen der österreichische Staatskanzler , der noch im  die  nach Napoléons Abtreten mitrestauriert und die Epoche seitdem geprägt hatte.
+
+, 1848–49. Das erste frei gewählte Parlament für ganz Deutschland tritt zusammen.]]
+
+Unter dem Druck der revolutionären Ereignisse in Berlin seit dem 6.&nbsp;März 1848 gab der preußische König  zunächst nach, machte Zugeständnisse und akzeptierte die Einrichtung der . Die von jener ausgearbeitete , die Deutschland in eine geeinte  umgewandelt hätte, lehnte er jedoch ebenso ab wie die ihm angetragene Kaiserkrone, die er als bürgerliche „Lumpenkrone“ bezeichnete.
+
+Der  vom Mai 1849 wurde niedergeschlagen und endete am 23.&nbsp;Juli 1849 mit der Einnahme von  durch preußische Truppen.
+
+Bald danach kam es zur Kollision Preußens mit der Großmacht Österreich um die Vormachtstellung im Deutschen Bund, die zum  (später auch „Deutscher Krieg“) von 1866 führte. Nachdem  diesen Krieg für sich entschieden hatte, kam es zur Auflösung des Deutschen Bundes. Preußen annektierte etliche Gebiete nord- und mitteldeutscher Kriegsgegner, so dass sich die Zahl der deutschen Staaten weiter verringerte.
+
+=== Norddeutscher Bund (1866–1871) ===
+
+
+1866 wurde zunächst als Militärbündnis der  gegründet. Er bekam 1867 eine Verfassung, die ihn zum Bundesstaat machte.
+
+Die Gründung des Bundes als souveränen Gesamtstaat zum 1.&nbsp;Juli 1867 unter preußischer Führung leitete die sogenannte  ein. Diese zielte entsprechend der Intention Bismarcks auf eine staatliche Einigung deutscher Einzelstaaten unter der Hegemonie Preußens ohne die damalige Großmacht .
+
+=== Deutsches Kaiserreich (1871–1918) ===
+, 1871–1918]]
+
+
+Das  wurde nach dem gewonnenen  1870/1871, einhergehend mit der Proklamation des preußischen Königs  vom ehemaligen Amt des ''Vorsitzenden des Bundesrates'' zum '''', im  ausgerufen.
+
+Mit der  wurden Gebiete eingegliedert, die noch nie oder lange nicht mehr zum  gehört hatten. Dazu gehörten , , das überwiegend polnischsprachige Gebiet  und .  trat (deutsch- und französischsprachige) Teilgebiete der Regionen  und  ab, welche als direkt von der Zentrale verwaltetes „“ ohne rechte konstituiert wurden.
+
+ hatte als preußischer Ministerpräsident auf die Reichsgründung hingewirkt, maßgeblich die Verfassung entworfen und wurde nun erster . Seine Politik stützte die Macht des monarchischen Staates, war aber flexibel und letztlich zwiespältig. Gegen die katholische Kirche führte er einen sogenannten , in dessen Folge sogar Bischöfe inhaftiert wurden; inhaltlich waren die entsprechenden Gesetze (zur Schule, zur Ehe) oft eher liberal. Um die Liberalen zu schwächen, führte Bismarck bei Reichstagswahlen das demokratische  für alle Männer ein.  waren andererseits lange Zeit Partner Bismarcks. Er bekämpfte die  seit 1878 mithilfe der e, versuchte aber, die Arbeiter durch eine moderne  an den Staat zu binden.
+
+ aus dem 19. Jahrhundert: Reichsgründung im , 1871.  wird erster .]]
+
+Seine anfangs aggressive Außenpolitik änderte sich ab der Reichsgründung zu einer , die ein defensives Bündnissystem schuf, mit Deutschland als  Macht in der Mitte Europas. Frankreich wurde isoliert und ermutigt, sich auf seine Kolonien (und nicht auf das verlorene Elsass-Lothringen) zu konzentrieren.
+
+Dem Erwerb  stand Bismarck aber skeptisch gegenüber. Wirtschaftliche Schwierigkeiten und Kolonialpolitik deutscher Kaufleute führten trotzdem dazu, dass auf der Berliner  1884 eine Gruppe Deutscher sich bei der Teilung Afrikas Gebiete zusprach, sodass das Deutsche Reich in den Kreis der Kolonialmächte eintrat, nachdem schon in den frühen 1880er-Jahren deutsche Vereine  in Afrika und Asien erworben hatten.
+
+Im „“ 1888 kam  an die Macht. Er zwang Bismarck 1890 zum Rücktritt und forderte für das wirtschaftlich und militärisch aufgestiegene Deutsche Reich die Anerkennung der bisherigen Großmächte, vor allem Englands. Dies wurde oft harsch vorgetragen mit dem Wunsch nach einem ebenbürtigen „“ und drückte sich auch im Erwerb von Kolonien und dem Aufbau einer Flotte aus. Daraus folgten Verstimmungen in England und ein neues Bündnissystem entstand, das statt Frankreich nun Deutschland ausschloss. Das Attentat auf den  löste im Jahre 1914 den  aus, weil Wilhelm II. seinem Bündnispartner  eine bedingungslose Unterstützungszusage gegeben hatte, als die Donaumonarchie Serbien den Krieg erklärte. Ebenso hatte Frankreich in der  der russischen Regierung seine Hilfe zugesichert und dafür einen raschen Vormarsch der Russen auf das Deutsche Reich verlangt. Mehr als zwei Millionen deutsche Soldaten starben im Ersten Weltkrieg, rund 800.000 Zivilisten starben an Hunger.
+
+=== Weimarer Republik (1919–1933) ===
+
+
+
+Mit der deutschen Kapitulation 1918 und der  endete nicht nur der Erste Weltkrieg, sondern auch die  im Deutschen Reich. Im  wurden erhebliche Gebietsabtretungen, die  und  auf Grundlage einer ebenfalls festgeschriebenen deutschen Alleinschuld am Krieg bestimmt.
+
+Mit der Ausrufung der  wurde am 9.&nbsp;November 1918 das Kaisertum beendet. Am 30.&nbsp;November 1918 erhielten erstmalig die Frauen mit der ''Verordnung über die Wahlen zur Verfassungsgebenden deutschen Nationalversammlung'' (Reichswahlgesetz) aktives und passives Wahlrecht für diese Nationalversammlung.<ref>Gleiches aktives und passives Wahlrecht, unabhängig vom Einkommen, galt hinfort nicht nur bei den Wahlen zum , sondern auch zum Parlament im Land Preußen, wo zuvor ein , und  dies nur für Männer, gegolten hatte.</ref> Die Revolutionsregierung aus rechten und linken Sozialdemokraten nannte sich „“. Nach der Wahl der verfassunggebenden  trat die  am 11.&nbsp;August 1919 in Kraft.
+
+Die Hypothek der Reparationszahlungen belastete von Beginn an das politische Klima der jungen Republik. Die von rechtsextremen Kräften verbreitete  führte zu politischen  und versuchen, von denen die wichtigsten der  1920 und der  1923 waren. Wichtige Vertreter der demokratischen Kräfte wie  und  wurden von nationalistischen Attentätern ermordet. Der erste Weimarer Reichskanzler, , überlebte einen Anschlag am Pfingstsonntag 1922 nur knapp. Andererseits gab es mehrere Aufstände von , wie den  1920, die  1921 und den  1923. Unzureichende  der Weimarer Republik nahmen Belgien und Frankreich zum Anlass, in den Jahren 1923 bis 1925 auch das .
+
+ ruft vom  am  aus.]]
+
+In den kurzen „“ blühte die Kultur und ab 1924 auch die  auf und das mittlerweile über vier Millionen Einwohner zählende Berlin wurde zu einer der dynamischsten Städte Europas.
+
+Ein jähes Ende erfuhr die Prosperität 1929 im Gefolge des , als durch den Zusammenbruch der  die  ausgelöst wurde. Zu deren Höhepunkt 1932 gab es in Deutschland mehr als sechs Millionen , die größtenteils in Elend lebten. In der Folge fanden extremistische Parteien noch stärkeren Zulauf als zuvor, sodass es für die gemäßigten Parteien zunehmend schwieriger wurde, stabile Regierungen zu bilden. Nach dem Erdrutschsieg der Nationalsozialisten bei der  verfügten die Reichskanzler, die in rascher Folge wechselten, über keine parlamentarische Mehrheit mehr. Die sogenannten e waren nur noch vom en  und dessen en abhängig.
+
+Die Spar- und  des Reichskanzlers  verschärfte die wirtschaftliche Krise noch weiter. Dessen Nachfolger  (Juni–November 1932) unterstellte die demokratische Regierung Preußens einem Reichskommissar („“) und ließ Neuwahlen abhalten, bei denen die  noch stärker wurden. Reichskanzler  versuchte durch eine „“ von en und Teilen der Nationalsozialisten eine  s zu verhindern, scheiterte aber an , der Hindenburg dazu überredete, Hitler trotz starken Widerwillens zum Reichskanzler zu ernennen.
+
+Hitlers Regierung vom 30.&nbsp;Januar 1933 war zunächst eine Koalition von Nationalsozialisten und Teilen der Konservativen, darunter  und . Am 27.&nbsp;Februar kam es zum , dessen Ursache immer noch nicht geklärt ist. Hitler nutzte die Brandstiftung, um die sogenannte  zu verabschieden, die auf unbestimmte Zeit die Grundrechte außer Kraft setzte. Die nun folgenden Massenverhaftungen politischer Gegner, insbesondere Kommunisten und Sozialdemokraten, prägten das Vorfeld der . Trotz erheblicher Stimmengewinne verfehlte die NSDAP auch hier die absolute Mehrheit und ging daher ein Bündnis mit der reaktionär geprägten  ein. Die endgültige Machtübernahme erfolgte fünf Tage später, als der neu zusammengetretene Reichstag mit den Stimmen der bürgerlichen Parteien, allein gegen die Stimmen der , ein  verabschiedete, welches Hitlers Regierung das Recht zubilligte, Gesetze auch ohne den Reichstag zu beschließen.
+<br style="clear: left;" />
+
+=== Nationalsozialistische Diktatur (1933–1945) ===
+
+, 1943–1945]]
+
+Die  errichtete im Deutschen Reich innerhalb kürzester Zeit einen   unter Führung Adolf Hitlers. Missliebige Personen wurden aus allen staatlichen Organisationen entfernt. Es wurden erste  errichtet, um politische Gegner zu beseitigen, insbesondere Kommunisten, Sozialdemokraten und Gewerkschafter. Eine Reihe von Direktiven sorgte für die völlige  der öffentlichen Meinung im Sinne der NSDAP. Missliebige Publikationen wurden, beispielsweise in der öffentlichkeitswirksamen , aus dem Verkehr gezogen und der gesamte Kunstbetrieb auf Parteilinie gebracht&nbsp;– unerwünschte Kunstwerke wurden für „“ erklärt. Innerhalb kürzester Zeit durchdrang die Partei auch das Privatleben, indem die  des von  geleiteten  allgegenwärtig wurde und bereits auf Kinder Druck ausgeübt wurde, den Parteiorganisationen beizutreten.
+
+Persönlich sicherte sich Hitler ab, indem er auch innerparteiliche Gegner und ehemalige Weggefährten ermorden ließ. Im angeblichen  ließ er am 30.&nbsp;Juni 1934 den -Führer  und eine Reihe innenpolitischer Gegner töten, woraufhin auch die ihm lästig gewordene SA entmachtet wurde. Stattdessen setzte er auf die ihm bedingungslos ergebene  und die , deren Generalität auf ihn persönlich ihren  ablegte. Die  wurde als politische Polizei zur Bekämpfung der politischen und ideologischen Gegner eingesetzt.
+
+Von Beginn an verfolgte Hitler zwei Ziele: einen Angriffs- und  zur Schaffung neuen „“ und die , die mit Diskriminierung, Demütigung und Ausgrenzung begann und später im  endete. Nachdem sich Hitler der Gefolgschaft des Militärs versichert hatte, begann schon ab 1934 die Ausrichtung der Wirtschaft auf einen bevorstehenden Krieg: Die Rüstungsausgaben wurden innerhalb kürzester Zeit auf gewaltige Summen getrieben. Arbeitsprogramme, eine enthemmt expansive Geldpolitik und Schuldenwirtschaft waren die wirtschaftspolitischen Instrumente hierfür. Die damit verbundene Senkung der  wurde von der Bevölkerung begrüßt und als Einlösung wirtschaftlicher Versprechen aufgenommen.
+
+Die Lage der  verschlimmerte sich kontinuierlich: 1935 wurden die  verabschiedet, die persönliche Beziehungen zwischen „n“ und Juden als „“ brandmarkten und schwer bestraften. Juden verloren zuerst alle öffentlichen Ämter, wurden willkürlich verfolgt, bestohlen und erpresst und schließlich mit einem völligen Berufsverbot belegt. Unter dem Begriff „“ wurden alle jüdischen Unternehmen enteignet. Immer häufiger wurden nun auch Juden in Konzentrationslager eingewiesen. Viele fassten den Entschluss zur , die meisten aber blieben in Deutschland, weil sie sich als Deutsche fühlten und ihre Heimat nicht verlassen wollten.
+
+, Ansicht von innen, 1945]]
+
+Die rassistische Weltsicht der Nationalsozialisten und ihre Bemühungen zur Schaffung einer „gesunden“ und verbrechensfreien „“ (''vgl.'' ) betraf daneben zwei weitere als „fremdrassig“ (''vgl.'' ) geltende Bevölkerungsgruppen in Europa,  sowie Angehörige der slawischen Ethnien wie  und  oder . Nicht als „fremdrassig“, aber als die Gesundheit des „Volkskörpers“ angeblich bedrohende deutsche Bevölkerungsgruppen waren ,  und die zahlreichen Gruppen der „“ von der  Utopie und also von Repression, Gewalt und Mord betroffen.
+
+Währenddessen feierte das Regime einige erfolge. 1935 stimmte das  für eine Rückkehr ins Reich und wurde eingegliedert, 1936 verbesserten die  das Ansehen im Ausland, im gleichen Jahr erfolgte die erneute  des entmilitarisierten s. Die aggressive Expansion über die deutschen Grenzen hinaus begann mit dem  von  im Jahr 1938, der unter dem Jubel großer Teile der Bevölkerung betrieben wurde, woraufhin Deutschland als „“ bezeichnet wurde (''vgl.'' )&nbsp;– ab dem 26.&nbsp;Juni 1943 trug das Deutsche Reich hinfort auch offiziell den Namen ''Großdeutsches Reich''. Gemäß dem  erreichte Hitler im November 1938 die  des mehrheitlich von n besiedelten es.
+
+Erst als Deutschland im März 1939 auch in das restliche  einmarschierte und es als „“ dem Reichsgebiet zuschlug, ebenso wie das von  rückabgetretene , erkannten die anderen Staaten den Fehler, den sie mit ihrer Beschwichtigungspolitik ''()'' begangen hatten.
+
+Nachdem Deutschland schließlich am 1.&nbsp;September 1939 , erklärten Großbritannien und Frankreich Deutschland den Krieg. Der  forderte in sechs Jahren geschätzte 55 bis 60 Millionen Tote. Mit einer Serie erfolgreicher Aktionen, die als  in die Geschichte eingingen, gelangen Deutschland zunächst bedeutende militärische Erfolge.  wurde im  zwischen Hitler und  aufgeteilt, die Wehrmacht warf anschließend ihre Armeen nach Westen, überfiel die neutralen Staaten Luxemburg, Belgien und Niederlande und besetzte innerhalb von sechs Wochen Frankreich. Zu diesem Zeitpunkt erreichte Hitlers Popularität im Volk seinen Höhepunkt, und das Deutsche Reich erstreckte sich nun vom  bis nach .
+
+Mit Kriegsbeginn verschlechterte sich auch das Schicksal der  und der anderen verfolgten Minderheiten. Die Ausreise wurde verboten, die Juden wurden in s gezwungen und mussten den „“ tragen, ab Herbst 1939 im  und ab Herbst 1941 im Reich. Bei unzureichender Verpflegung und ständig ausbrechenden Seuchen mussten sie  in der Kriegswirtschaft verrichten. Viele von ihnen starben an Entkräftung, Hunger oder Misshandlungen.
+
+Im Jahre 1941 begann die systematische Ermordung der Juden&nbsp;– der genaue Zeitpunkt oder ein einzelner Befehl Hitlers dazu ist nicht bekannt. Auf der  im Januar 1942 wurden dazu administrativ die Weichen gestellt. Die mit der Ausführung vor allem beauftragte SS errichtete auf ehemals polnischem oder sowjetischem Gebiet , in denen die meisten Opfer, in s herangebracht, sofort vergast wurden. Allein in  wurden auf diese Art über eine Million Menschen ermordet. Insgesamt beläuft sich die wissenschaftlich gesicherte Zahl der ermordeten Juden auf 6,3 Millionen.
+
+ Innenstadt nach . Durch den  wurden weite Teile des Landes zerstört.]]
+
+Zwischenzeitlich hatte Hitler der Sowjetunion den Krieg erklärt (). Seit Juni 1941 marschierte das Heer scheinbar unaufhaltsam auf Moskau vor und wurde erst im Dezember gestoppt. Nachdem der Kriegsverbündete Japan im selben Monat die amerikanische Marine in  überfallen hatte, erklärte Deutschland auch den USA den Krieg. Mangelnde Ressourcen und die Übermacht des Gegners ließen schon bald die Kriegswende eintreten. Als überdeutliches Zeichen dafür wird gemeinhin die erbittert geführte und verlorene  angeführt, die in der völligen Aufreibung der  endete.
+
+Je unvermeidlicher die Niederlage wurde, desto härter wurde die Politik nach innen geführt. Goebbels rief im Berliner Sportpalast 1943 den „“ aus. Die gesamte Produktion wurde nun auf den Krieg ausgerichtet, während die deutschen Armeen an fast allen Fronten zurückwichen und die Alliierten die deutschen Städte . Erst als die sowjetischen Armeen schon Berlin eingenommen hatten, nahm sich Hitler am 30.&nbsp;April 1945 in seinem  das Leben. Die  folgte am 8.&nbsp;Mai. Die überlebenden politischen und militärischen Hauptverantwortlichen wurden später in den n verurteilt. 1988 wurde die letzte Schuldrate für den Zweiten Weltkrieg beglichen.
+
+=== Alliierte Besatzung (1945–1949) ===
+
+, 1945]]
+
+Deutschland wurde in den  in vier n aufgeteilt,<ref>Zu diesem Stichtag sowie den damit verbundenen völkerrechtlichen Konsequenzen siehe , ''Die deutschen Staatsgrenzen. Rechtshistorische Grundlagen und offene Rechtsfragen.'' Mohr Siebeck, Tübingen 2004, Teil II Kap. III (Fn 26&nbsp;f.), [http://books.google.de/books?id=V01T5VI4nZ4C&pg=PA98 S. 98–101].</ref> wobei zum einen  einer  der vier  (zunächst die , die  und das , später auch ), zum anderen die deutschen Ostgebiete nicht aber dem  unterstellt wurden.<ref> in:  (Hrsg.), ''Völkerrecht'', 4. Aufl. 2007, 3. Abschn., [http://books.google.de/books?id=umn7Df1E-KUC&pg=PA224 Rn 196].</ref> Die n bemühten sich anfangs noch um eine gemeinsame Besatzungspolitik. Einig war man sich über eine Demilitarisierung und die sogenannte . Aber schon bei der Frage, was man unter einer  zu verstehen habe, zeigten sich erste Meinungsverschiedenheiten zwischen der Sowjetunion einerseits und den Westmächten andererseits.
+
+, das  und die von der  unter polnische und sowjetische Verwaltung gestellten ]]
+
+Auf Betreiben Stalins, der die  Gebiete (, ''Kresy'') 1939 bzw. 1944 zurückerobert und der Sowjetunion zugeschlagen hatte, wurden die  sowie die bis zum Einmarsch der Wehrmacht 1939  als „Ausgleich“ unter polnische  gestellt, wobei die spätere  die Verwaltungsgebiete direkt als polnisches Staatsgebiet betrachtete und behandelte. So fielen , ,  und das südliche  faktisch an Polen, das nördliche Ostpreußen als  an die Sowjetunion&nbsp;– ein Vorgehen, das von den Westmächten auf der  nur widerstrebend gebilligt wurde. Die meisten deutschen Bewohner im neuen Einflussbereich der Sowjetunion wurden aus ihrer Heimat, die nun in Polen, der  usw. lag, . Dabei verlor Deutschland ein Viertel seines Gebietes von 1937, und ein Fünftel seiner Bevölkerung wurde zu en.
+
+ aus Pommern, Ost- und Westpreußen am , Berlin, 1945]]
+
+In den drei Westzonen wurde im Mai 1949 die Bundesrepublik Deutschland gegründet. In der  (im Westen zunächst  genannt) entstand im Oktober 1949 die  (DDR). Beide Staaten bezeichneten sich anfangs als staatsrechtlich identisch mit dem Deutschen Reich (''vgl.'' ), wovon die DDR später aber abrückte, da damit auch Verpflichtungen verbunden waren, und weil keine Fortsetzung eines kapitalistischen Staates erwünscht war.
+
+Die Republik Österreich wurde in den Grenzen von 1938 wiederhergestellt.<ref>Vgl. , ''Staatennachfolge in völkerrechtliche Verträge'', S. 49.</ref> Die Grenzziehung der  wurde teilweise durch die Grenzen der Besatzungszonen (''vgl. auch'' ) bestimmt, insbesondere zwischen Niedersachsen und Mecklenburg bzw. Sachsen-Anhalt sowie zwischen Thüringen und Hessen, woraus die spätere  wurde.
+
+=== Teilung und Wiedervereinigung (1949–1990) ===
+
+
+s und der  ab 1957]]
+
+Die Bundesrepublik Deutschland ist der erste Staat auf deutschem Boden, welcher den Namen ''Deutschland'' im Staatsnamen trägt. Sie wurde am 23.&nbsp;Mai 1949 in den drei westlichen Besatzungszonen gegründet. An diesem Tag wurde das  als „“ () oder „Transitorium“ ()<ref>Im damaligen Sinne eines „Durchgangsstadium[s] für einen künftigen, wieder  Staat“, vgl. , [http://www.deutschlandjournal.de/Deutschland_Journal_Ausgabe_20/Von_der_Bonner_zur_Berliner_Republik.pdf ''Von der Bonner zur Berliner Republik''] (PDF) und Uwe Andersen/Wichard Woyke (Hg.), [http://www.bpb.de/wissen/09191901662830400195611470162156,2,0,Nation.html ''Handwörterbuch des politischen Systems der Bundesrepublik Deutschland''], 5., aktual. Aufl., Leske+Budrich, Opladen 2003 (, 2003).</ref> für eine Verfassung in Kraft gesetzt. Das Grundgesetz enthielt in der Präambel „(…) Das gesamte Deutsche Volk bleibt aufgefordert, in freier Selbstbestimmung die Einheit und Freiheit Deutschlands zu vollenden“ ein , das im Zuge der  verwirklicht werden konnte.  wurde am 3.&nbsp;November 1949 zur vorläufigen Hauptstadt erklärt.
+
+Die Gründung der  erfolgte am 7.&nbsp;Oktober 1949 in der . Nach einer Verwaltungsreform 1952 entstanden daraus 14  mitsamt , das ab 1961 selbst „die Funktion eines Bezirkes“ ausübte.<ref>[http://www.kibou.de/gozer/bln/andere/Ord-SVV.html Erlass] des  vom 7. September 1961 (GBl. SDr. 341, S. 3)</ref>
+
+Durch den  wurden die Deutschen in Ost und West physisch immer mehr getrennt. Der  zog sich quer durch Mitteleuropa und teilte auch Deutschland. Mit dem Bau der  1961 wurde der letzte freie Zugang in den Westen gesperrt.
+
+Während in der DDR eine  errichtet wurde, entschied sich die Bundesrepublik für die . Das einsetzende  führte zu anhaltend hohen Wachstumsraten, Vollbeschäftigung und Wohlstand.
+
+ unterzeichnet wurden. Die  wird Gründungsmitglied der .]]
+
+Mit der Aufhebung des alliierten s wurde die Bundesrepublik Deutschland am 5.&nbsp;Mai 1955 souverän. Diese  beschränkte sich auf den Geltungsbereich des Grundgesetzes, das heißt, die Alliierten behielten ein  über ''Deutschland als Ganzes'' und die  Berlin ein. , der erste Bundeskanzler der Bundesrepublik Deutschland, verkündete damals: „Heute, fast zehn Jahre nach dem militärischen und politischen Zusammenbruch des Nationalsozialismus, endet für die Bundesrepublik Deutschland die Besatzungszeit.“
+
+Die wichtigsten außenpolitischen Meilensteine dieser Ära waren die &nbsp;– 1955 trat  der NATO bei&nbsp;– und die Beteiligung am wirtschaftlichen Zusammenschluss in Europa, der mit der  1952 begann und durch die  1957 einen entscheidenden Schub erhielt. Nach der gewaltsamen Niederschlagung des  wurde die DDR Mitglied im  und dem .
+
+ (1986)]]
+
+In den 1960er-Jahren führten einige politische Affären und das Aufkommen kritischer Ideen insbesondere der Studenten zum Ruf nach einem tiefgreifenden gesellschaftlichen Wandel. Eine 1967 einsetzende , die studentische  und die Wahlerfolge der  verstärkten den Eindruck einer politischen Krise. Die 1966 gebildete  aus CDU und SPD unter Bundeskanzler  (CDU) verabschiedete eine Reihe grundlegender Gesetzesänderungen () und versuchte, sich mit Hilfe der  an die wirtschaftlich schwierigeren Zeiten anzupassen. Gleichzeitig wurde die  zunehmend mit der  gleichgesetzt.
+
+Mit dem Antritt der  Regierung unter  (SPD) 1969 wurden eine Reihe sozialer, gesellschaftlicher und außenpolitischer Reformen umgesetzt. Die „“, die auf Verständigung mit Osteuropa setzte und im  einen symbolischen Ausdruck fand, führte zu außenpolitischer  und brachte Brandt 1971 den  ein. Den Auftakt hatte das  1970 gebildet. Diese Politik wurde aber von Konservativen teilweise scharf kritisiert. Brandt überstand im April 1972 ein konstruktives , und die SPD rettete sich in Neuwahlen.
+
+Im Jahr 1973 wurde die Bundesrepublik Deutschland neben der DDR (134.) der 133. . Dieser Beitritt wurde von der  im Bundestag mehrheitlich abgelehnt, worauf deren Vorsitzender  zurücktrat.
+
+ bereitet ein Spalier Besuchern aus der DDR einen ersten Empfang.]]
+
+Brandts zweite Amtszeit (1972–1974) war überschattet von wirtschaftlichen Problemen, zu denen die  1973 sowie inflationäre Tendenzen aufgrund hoher Tarifabschlüsse geführt hatten. Die versprochenen innenpolitischen Reformen waren nicht bezahlbar. Brandt trat nach der Aufdeckung einer Spionageaffäre um seinen Mitarbeiter  zurück.
+
+Sein Nachfolger  (SPD), seit Juni 1974 im Amt, hatte mit steigender Verschuldung und Arbeitslosigkeit, mehreren Wirtschaftskrisen und dem Terror der  zu kämpfen. Als Kanzler und Person bei den Deutschen geschätzt, verlor er jedoch den Rückhalt seiner Fraktion, die zunehmend gegen seine Unterstützung des es opponierte.
+
+Nach dem Auseinanderbrechen der Koalition wurde  (CDU) nach einem  am 1.&nbsp;Oktober 1982 zum Kanzler gewählt. Er regierte länger als alle seine Vorgänger und gilt als Kanzler der deutschen Einheit. Diese wurde durch die Veränderungen in der Sowjetunion durch  und  ermöglicht und maßgeblich von den Massendemonstrationen in der DDR sowie der dortigen  vorangetrieben. Am 9.&nbsp;November 1989 musste die DDR-Führung die Mauer öffnen, nachdem ein  einen Massenansturm auf die Grenzübertrittsstellen ausgelöst hatte.
+
+Bei den ersten freien Wahlen zur  gewann das von der '''' geführte Parteienbündnis „Allianz für Deutschland“. (Letzter) Ministerpräsident der DDR wurde  (CDU). Nun war der Weg frei für die deutsche Wiedervereinigung. Diese fand im Einvernehmen mit den Vertretern der Alliierten im Rahmen der „“ statt.
+
+
+
+=== Berliner Republik (1990–Gegenwart) ===
+
+
+
+Laut  Absatz 1 des s wurden mit dem Wirksamwerden des Beitritts der Deutschen Demokratischen Republik zur Bundesrepublik Deutschland gemäß Art. 23 des Grundgesetzes<ref>[http://www.documentarchiv.de/brd/1949/grundgesetz.html Artikel 23 Satz 2 GG a.F.]</ref> am 3.&nbsp;Oktober 1990 die Länder Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen („“) Länder der Bundesrepublik Deutschland.<ref>Bundesministerium der Justiz: [http://bundesrecht.juris.de/einigvtr/BJNR208890990.html#BJNR208890990BJNG000300301 ''Vertrag zwischen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik über die Herstellung der Einheit Deutschlands''] – Einigungsvertrag – vom 31. August 1990 ( 1990 II S. 889)</ref><ref>Vgl. das Schreiben des deutschen Vertreters bei den UN vom 17. Dezember 1990 an den UN-Generalsekretär: ; ZaöRV 53 (1993), S. 1095.</ref> Die  hatten mit dem  vom 12.&nbsp;September 1990 die  abgegeben, und durch das Inkrafttreten am 15.&nbsp;März 1991 konnte das wiedervereinigte Deutschland nach dem Ende des Zweiten Weltkrieges die volle staatliche  wiedererlangen.
+
+Im Rahmen der Wiedervereinigung sollten bis Ende 1994 die fremden Militäreinheiten weitgehend durch den Vertrag vom 12.&nbsp;Oktober 1990 das Land verlassen&nbsp;– die noch verbliebenen der Westalliierten haben keinerlei Hoheitsbefugnisse mehr und unterliegen dem . Deutschland verpflichtete sich zur Abrüstung auf maximal 370.000 Soldaten. Mit dem am 14.&nbsp;November 1990 in Warschau unterzeichneten  wurde die  eine anerkannte Grenze und das Territorium östlich davon endgültig völkerrechtlich Polen zugesprochen. Im Januar 1997 folgten Deklarationen zur Aussöhnung mit der .
+
+ in der Hauptstadt Berlin ist Sitz des  seit 1999 und Symbol der „“.]]
+
+Mit einer knappen Mehrheit von 338 zu 320 Stimmen beschloss der Bundestag am 20.&nbsp;Juni 1991, Bonn als Regierungssitz aufzugeben und Regierung und Parlament nach Berlin zu verlegen. Durch die Umsetzung des es ist neben der Hauptstadt Berlin die  Bonn zweites politisches Machtzentrum Deutschlands. Dort verblieben die ersten Dienstsitze von sechs Bundesministerien; alle anderen haben ihren Zweitsitz in Bonn. Die Mehrzahl der Ministeriumsbeschäftigten arbeiten vereinbarungsgemäß dort; zahlreiche Bundesinstitutionen sowie drei e haben ihren Dienstsitz in der Bundesstadt.
+
+Der neue Sitz des Deutschen Bundestags ist das von Grund auf renovierte  in Berlin, in dem erstmalig am 19.&nbsp;April 1999 wieder eine Parlamentssitzung stattfand. Bereits zu er Zeiten, bis in die 1970er-Jahre, tagten dort oftmals das Plenum und einige Ausschüsse; auch der Bundespräsident wurde dort von 1954 bis 1969 gewählt. Seit September 1999 ist die Bundesregierung in Berlin angesiedelt.
+
+ als standardmäßige Währung im Jahr 1999. Die Ausgabe von Banknoten wurde im Jahr 2002 vollzogen.]]
+
+Die 1990er-Jahre waren nach dem kurzen Boom der Wiedervereinigung von geringer wirtschaftlicher Dynamik, Massenarbeitslosigkeit und wahrgenommenem „“ geprägt. Insbesondere in den  entwickelte sich die Wirtschaft nicht wie erhofft und angekündigt. Mehrere Reformvorhaben der Bundesregierung scheiterten an der rot-grünen Mehrheit im Bundesrat. Außenpolitisch setzte sich Kohl für eine stärkere Zusammenarbeit im Rahmen der Europäischen Union und zum Beispiel für die  ein. Als 1991 die  begann, war Deutschland eines der Länder, welches die Anerkennung der Unabhängigkeit von  und  durch die westlichen Staaten massiv unterstützte. Eine direkte Teilnahme am  zur Befreiung s lehnte die Bundesregierung mit Blick auf die historische Last ab. Stattdessen leistete Deutschland finanzielle Unterstützung und ersetzte Marineeinheiten der NATO-Partner im Mittelmeer. Nach Beendigung der Kämpfe half ein Verband der Bundesmarine bei der Räumung von Seeminen im .
+
+Zum ersten Mal in der Nachkriegsgeschichte kam es in Folge der  zu einem vollständigen Regierungswechsel. Die bisherigen Regierungsparteien CDU/CSU und FDP verloren ihre Bundestagsmehrheit, die bisherigen Oppositionsparteien SPD und  bildeten die erste  unter Bundeskanzler . Bei der  wurde die Bundestagsmehrheit von SPD und Grünen knapp bestätigt.
+
+ (CDU)]]
+
+Die Rot-Grüne Koalition setzte erste Ansätze für umfassende Veränderungen in der Sozial-, Renten- und Gesundheitspolitik (siehe ) durch. Mittels der Einnahmen aus der umstrittenen  gelang es, die  () zu reduzieren. Allgemein wurde das Thema Ökologie stärker gewichtet, beispielsweise mit dem Beginn des s oder Gesetzesinitiativen zur Reduzierung von en. Andere Reformen der rot-grünen Regierung waren etwa das , das neue Staatsbürgerschaftsrecht oder und das . Während Schröder für einige Bundesratsabstimmungen CDU-regierte Länder durch Zugeständnisse dazu bewegen konnte, im Sinne der Bundesregierung abzustimmen, scheiterten andere Reformvorhaben von Rot-Grün, wie das Verbraucherinformationsgesetz, an der CDU/CSU-Mehrheit im Bundesrat.
+
+Der erste Kampfeinsatz deutscher Soldaten seit dem Zweiten Weltkrieg&nbsp;– 1999 im &nbsp;– markierte einen Wendepunkt der deutschen Außenpolitik. Nach dem Anschlag auf das  garantierte Bundeskanzler Schröder den USA die „uneingeschränkte Solidarität“. Deutschland unterstützte die  und den . Deutschland beteiligte sich im Jahre 2003 nicht am Irakkrieg. Dies führte zu Konflikten vor allem mit den USA, aber zu großen Sympathiebekundungen aus der deutschen Bevölkerung gegenüber dem „Friedenskanzler“ Schröder. Die Bundeswehr sicherte die Seewege am , entsandte ABC-Spürpanzer nach Kuwait und zog gemäß ihren internationalen Verpflichtungen deutsche Soldaten nicht aus NATO--Flugzeugen ab. Letzteres erkannte das  in seinem Urteil vom 7.&nbsp;Mai 2008 wegen Verletzung der Rechte des Bundestages als verfassungswidrig.<ref>Bundesverfassungsgericht: [http://www.bverfg.de/entscheidungen/es20080507_2bve000103.html Urteil des BVerfG, Az. 2 BvE 1/03]</ref>
+
+ im Jahr 2007]]
+
+Die -Gesetzgebung von 2004 hatte das Ziel, den Arbeitsmarkt zu beleben. Es wuchsen die Proteste gegen eine&nbsp;– insbesondere durch die direkt Betroffenen&nbsp;– als sozial ungerecht empfundene Politik, die Kritiker nicht von der SPD erwartet hatten. Nach durch Rot-Grün verlorenen Landtagswahlen in den Jahren 2004 und 2005 stellte Bundeskanzler Schröder schließlich am 1.&nbsp;Juli 2005 im Bundestag die Vertrauensfrage nach  GG mit dem Ziel, diese absichtlich zu verlieren. Daraufhin löste Bundespräsident  den 15. Deutschen Bundestag auf und setzte  an. Da diese Wahl kein Ergebnis zugunsten einer der angestrebten Koalitionen (SPD/Grüne und Union/FDP) ergab und alle Versuche, eine andere Dreiparteienregierung zu bilden, scheiterten, einigten sich CDU/CSU und SPD auf die Bildung einer  unter der Kanzlerschaft von  (CDU).
+
+Am 27. September 2009 fand die  statt. Die beiden Unionsparteien und die  erreichten zusammen die notwendige Mehrheit für die von beiden Seiten angestrebte Bildung einer . Dies war vor allem aufgrund der Stimmenzuwächse der FDP möglich, da die CDU wiederum an Stimmen verlor.<ref>[http://bundestagswahl.t-online.de/bundestagswahl-fdp-macht-merkel-zur-kanzlerin-von-schwarz-gelb/id_20084008/index ''Bundestagswahl: FDP macht Merkel zur Kanzlerin von Schwarz-Gelb''], ''t-online.de'' vom 27. September 2009.</ref> Merkel blieb Bundeskanzlerin;  (FDP) wurde  und .<ref>[http://www.bundestag.de/bundestag/abgeordnete17/biografien/W/westerwelle_guido.html ''Biografie von Dr. Guido Westerwelle, FDP''], Auftritt auf der Webseite des Deutschen Bundestages</ref> Am 16. Mai 2011 ernannte Merkel  zu ihrem neuen Stellvertreter.<ref>Die Ernennung von Rösler zu Merkels Stellvertreter erfolgte durch ein Schreiben der Kanzlerin, welches am 16. Mai zugestellt worden war ([http://www.bundeskanzlerin.de/nn_679950/Content/DE/Artikel/2011/05/2011-05-18-vizekanzler-roesler.html ''Philipp Rösler neuer Vizekanzler''], Presse- und Informationsamt der Bundesregierung, 18. Mai 2011; vgl. dazu die [http://www.bundeskanzlerin.de/Content/DE/__Anlagen/2011/05/2011-05-18-amtliche-reihenfolge,property=publicationFile.pdf amtliche Reihenfolge der Bundesminister und gegenseitige Vertretungsregelung (PDF; 35,9 kB)]).</ref>
+
+== Bevölkerung ==
+=== Demografie ===
+
+
+
+Am 31.&nbsp;Dezember 2010 lebten in der Bundesrepublik Deutschland 81,752 Millionen  auf der Fläche von 357.112 Quadratkilometern.<ref>Statistische Ämter des Bundes und der Länder: [http://www.statistikportal.de/Statistik-Portal/de_zs01_bund.asp Bevölkerungsstand Deutschlands], Stand: 4. November 2011. Abgerufen am 29. November 2011.</ref> Das Land gehört damit zu den am dichtesten besiedelten Flächenstaaten der Welt. Deutschland hat mit einer  pro Frau von derzeit 1,39 (Stand: 2010; im Jahr 2009 lag die Geburtenziffer bei 1,36) eine der niedrigsten weltweit.<ref>Statistisches Bundesamt Deutschland: [http://www.destatis.de/jetspeed/portal/cms/Sites/destatis/Internet/DE/Content/Statistiken/Bevoelkerung/GeburtenSterbefaelle/Tabellen/Content50/GeburtenZiffer,templateId=renderPrint.psml Durchschnittliche Kinderzahl je Frau]. Abgerufen am 10. November 2011.</ref><ref>Statistisches Bundesamt Deutschland: [http://www.destatis.de/jetspeed/portal/cms/Sites/destatis/Internet/DE/Content/Statistiken/Bevoelkerung/GeburtenSterbefaelle/Tabellen/Content50/GeburtenZiffer,templateId=renderPrint.psml Durchschnittliche Kinderzahl pro Frau], Stand: 2010. Abgerufen am 12. November 2010.</ref> Im Jahr 2007 stieg die Zahl der Geburten erstmals seit zehn Jahren wieder an und lag bei 684.862.<ref>Statistisches Bundesamt Deutschland: [http://www.destatis.de/jetspeed/portal/cms/Sites/destatis/Internet/DE/Navigation/Statistiken/Bevoelkerung/GeburtenSterbefaelle/GeburtenSterbefaelle.psml Geburten und Sterbefälle], Stand: 2008. Abgerufen am 2. Februar 2010.</ref>
+Die Anzahl der lebend geborenen Kinder ist im Jahr 2009 um ca. 17.400 bzw. 2,56 Prozent auf 665.126 im Vergleich zum Vorjahr gesunken. Da im selben Zeitraum 854.544 Sterbefälle verzeichnet wurden, wurden etwa 190.000 Kinder weniger geboren als Menschen verstarben.<ref>Statistisches Bundesamt: [http://www.destatis.de/jetspeed/portal/cms/Sites/destatis/Internet/DE/Presse/pm/2010/11/PD10__414__12641,templateId=renderPrint.psml Durchschnittliche Kinderzahl je Frau sinkt 2009 leicht auf 1,36]; Stand: 2010. Abgerufen am 12. November 2010.</ref> Im Jahr 2010 stieg erneut die Anzahl der lebend geborenen Kinder zum Vorjahr 2009 von 665.126 auf 677.947 Kinder.<ref>Statistisches Bundesamt: [http://www.destatis.de/jetspeed/portal/cms/Sites/destatis/Internet/DE/Navigation/Statistiken/Bevoelkerung/GeburtenSterbefaelle/GeburtenSterbefaelle.psml Geburten und Sterbefälle]. Abgerufen am 10. November 2011.</ref>
+
+Etwa 75 Millionen Menschen (91 Prozent) sind deutsche . Von diesen haben wiederum sieben Millionen Bürger einen ; unter ihnen sind ''Aussiedler'' beziehungsweise '''' deutscher Nationalität, von denen die meisten aus Staaten der ehemaligen  (51 Prozent, umgangssprachlich meist als „“ bezeichnet) und aus Polen (34 Prozent) eingewandert sind. Zwischen 1950 und 2002 waren dies insgesamt 4,3 Millionen Menschen, oder im Land geborene oder seit langer Zeit in Deutschland lebende ehemalige Ausländer, die seit der Änderung des srechts auf eigenen Antrag  wurden.
+
+=== Migration ===
+.]]
+
+Am 31. Dezember 2010 lebten laut  rund 7,2 Millionen Ausländer in Deutschland.<ref name="Statista">[http://de.statista.com/statistik/daten/studie/1219/umfrage/anzahl-der-auslaender-in-deutschland-seit-dem-jahr-1970/ Zeitreihe zur Anzahl der Ausländer 1979 bis 2010], Statistisches Bundesamt als Grafik aufbereitet von Statista.</ref> Die größte Gruppe stellen mit 1.629.480 Personen  (→&nbsp;). Aus  leben rund 2,4 Millionen Menschen auf dem Gebiet der Bundesrepublik. Den größten Anteil haben hier Italiener (517.546), Polen (419.435) und Griechen (276.685). Der Anteil der europäischen Staatsbürger aus Nicht-EU-Ländern hatte sich durch Migration insbesondere aus dem ehemaligen  (etwa eine Million) und aus den Staaten der ehemaligen Sowjetunion in den 1990er-Jahren erhöht. Ferner leben in Deutschland 824.352 Menschen mit asiatischer Staatsangehörigkeit, 271.431 Afrikaner und 215.213 Amerikaner (davon 97.732 aus den USA).<ref name="Ausländer">[http://www.destatis.de/jetspeed/portal/cms/Sites/destatis/Internet/DE/Content/Publikationen/Fachveroeffentlichungen/Bevoelkerung/MigrationIntegration/AuslaendBevoelkerung,templateId=renderPrint.psml Ausländische Bevölkerung – FS 1 R. 2], Daten des Statistischen Bundesamtes.</ref> 2008 erwarben 94.470 Personen die  (2006: 124.566) durch Einbürgerung.<ref name="Einbürgerungen">[http://www.destatis.de/jetspeed/portal/cms/Sites/destatis/Internet/DE/Content/Publikationen/Fachveroeffentlichungen/Bevoelkerung/MigrationIntegration/Einbuergerungen,templateId=renderPrint.psml Einbürgerungen – FS 1 R. 2.1], Daten des Statistischen Bundesamtes.</ref>
+
+Die Zahl der gesamten  in Deutschland, die bereits seit dem 19. Jahrhundert existiert, beläuft sich auf weit über zwei Millionen, wobei die meisten seit Generationen von der einheimischen Bevölkerung assimiliert sind.
+
+Somit ergibt sich ein Gesamtanteil der Bevölkerung mit Migrationshintergrund von etwa 18,7 Prozent (15,4 Millionen),<ref>Statistisches Bundesamt Deutschland: [http://www.destatis.de/jetspeed/portal/cms/Sites/destatis/Internet/DE/Navigation/Statistiken/Bevoelkerung/MigrationIntegration/MigrationIntegration.psml Migration und Integration], Stand: 2008. Abgerufen am 2. Februar 2010.</ref> ein Hinweis darauf, dass die ethnische Zusammensetzung der Bevölkerung nicht mehr über en erfasst werden kann.
+
+Die  meldet seit Ausbruch der  einen spürbaren Anstieg der Gläubigen im Berliner Umland. In Deutschland kommen nach dem Bericht derzeit jeden Monat 1.400 Griechen an.<ref>: [http://www.berliner-zeitung.de/newsticker/immer-mehr-griechen-kehren-ihrer-heimat-den-ruecken-und-kommen-voller-hoffnung-nach-berlin--als-erstes-lernen-sie-deutsch-schoene-straende-sind-nicht-genug,10917074,10954162.html ''Schöne Strände sind nicht genug''], 18. Dezember 2011; : [http://www.spiegel.de/video/video-1141595.html ''Die Griechen kommen: Flucht aus der Schuldenkrise'']. Abgerufen am 18. Dezember 2011.</ref> Auch durch den anhaltend hohen Jobverlust zieht es viele Griechen nach Deutschland.<ref>: [http://www.tagblatt.de/Home/nachrichten/wirtschaft_artikel,-Eine-griechische-Familie-will-in-Deutschland-nochmal-ganz-neu-anfangen-_arid,150589.html ''Flucht vor der Krise: Eine griechische Familie will in Deutschland nochmal ganz neu anfangen''], 22. Oktober 2011. Abgerufen am 18. Dezember 2011.</ref>
+
+Angestammte nationale Minderheiten sind  (je nach Definition und Quelle etwa 15.000 bis 50.000),  (''''),  (etwa 60.000) und  (etwa 70.000).
+
+
+
+=== Sprachen und Dialekte ===
+
+
+
+Die in Deutschland gebräuchlichste Sprache ist  (), gefolgt von  mit rund sechs Millionen Sprechern,<ref>5,5 Millionen nach [http://www.staff.uni-oldenburg.de/gabriele.diekmann-droege/9361.html Gabriele Diekmann-Dröge, Proseminar: ''Sprachenpolitik: Das Beispiel Niederdeutsch'', Institut für Germanistik]</ref> davon ungefähr vier Millionen, die die Sprache gut bis sehr gut beherrschen.<ref>27 Prozent der Bevölkerung Schleswig-Holsteins, 23 Prozent der Mecklenburg-Vorpommerns, 14 Prozent der Niedersachsens, 10 Prozent der Nordrhein-Westfalens und je 5 Prozent der Brandenburgs und Sachsen-Anhalts, zusammen ca. 4 Mio. – noch nicht inbegriffen sind Hamburg und Bremen sowie die rund 200.000 Sprecher des en, die überwiegend außerhalb der Erhebungsgebiete wohnen; Zahlen gemäß [http://www.germsem.uni-kiel.de/ndnl/materialien/Lehre%20Prof.%20Elmentaler%20Sommer%2010/pdf-Folien%20Vorlesung%20Standard%20und%20Substandard%20SoSe%202010/Kopie%20von%20pdf-Folien/8.pdf ''Vorlesung „Niederdeutsch in Geschichte und Gegenwart“ – Niederdeutsch heute: Eine Bestandsaufnahme''] (unter Berufung auf Frerk Möller: ''Plattdeutsch im 21. Jahrhundert. Bestandsaufnahme und Perspektiven.'' Leer 2008, S. 22&nbsp;f.). Nach dieser Quelle beherrschen sogar rund 30 Mio. aller Deutschen (37 Prozent der Bundesbürger) Niederdeutsch sehr gut, gut oder mäßig.</ref>
+
+Deutsch wird als  im , den überregionalen Medien und als Schriftsprache verwendet. Als Sprache des Alltags wird es in vielen Regionen fast ausschließlich gesprochen (oft regional leicht eingefärbt). Der Übergang zu den  ist fließend.
+
+Neben der deutschen Sprache sind regional seit langem auch Sprachen in Deutschland heimischer Sprachminderheiten offiziell als Minderheiten- oder Regionalsprachen nach der  anerkannt. Im Einzelnen sind das:  (sowohl , überwiegend in der Variante , als auch ),  (als Minderheitensprache:  in Schleswig-Holstein,  in Niedersachsen),  (als Minderheitensprache:  in Sachsen,  in Brandenburg),  (Minderheitensprache der  und ),  (Regionalsprache in Schleswig-Holstein, Hamburg, Niedersachsen, Bremen und Mecklenburg-Vorpommern sowie in Nordrhein-Westfalen, Brandenburg und Sachsen-Anhalt).
+
+, 1534]]
+
+Die landesrechtlichen Umsetzungen sind teilweise noch nicht erfolgt&nbsp;– dies betrifft insbesondere die Sprache . Partiell (räumlich und/oder sachlich) besitzen in Schleswig-Holstein die Regional- und Minderheitensprachen Niederdeutsch, Dänisch und Friesisch (siehe ) den Rang einer Amtssprache. Andere in Deutschland traditionelle (wie beispielsweise die  oder das ) oder neue Minderheitensprachen wurden nicht in die Charta aufgenommen.<ref>Europäische Kommission: [http://ec.europa.eu/education/languages/languages-of-europe/doc145_de.htm ''Maßnahmen der Europäischen Kommission zur Sicherung von Regional- und Minderheitensprachen''], Stand: 27. Oktober 2006. Abgerufen am 2. Februar 2010.</ref>
+
+Ehemals verbreitete Sprachen wie  (im 11. Jahrhundert ausgestorben),  (im 18. Jahrhundert ausgestorben) oder  werden heute nicht oder kaum mehr gesprochen.
+
+Die Verwendung von Dialekten wird von manchen Menschen als Makel, von anderen als kulturelle Bereicherung empfunden. Im norddeutschen Raum verwenden Angehörige der höheren Bildungsschichten seltener die niederdeutsche Sprache oder regionale Mundarten, während im süddeutschen Sprachraum selbst in akademischen Kreisen der Gebrauch des Dialekts üblich ist. Da das Standarddeutsche sich aus hochdeutschen ( und ) Sprachformen entwickelt hat und die Dialekte der niederdeutschen Sprache verdrängt hat, sprechen Norddeutsche tendenziell eher ein dialektfreies Deutsch als die Bevölkerung in den südlichen zwei Dritteln des Landes.
+
+ sehr verwandt. (Das Neue Rathaus in Hannover)]]
+
+Die von en verwendete  ist seit 2002 in Deutschland als eigenständige Sprache anerkannt.
+
+Seit der Einwanderung der  in das heutige Gebiet Deutschlands sind immer wieder neuere  hinzugekommen, die auch ihre jeweiligen Sprachen mitbrachten (zum Beispiel die  in den  Germaniens, die  während der , die  seit dem 17. Jahrhundert, die  im 19. Jahrhundert). Während die Nachkommen der älteren Zuwanderungswellen inzwischen sprachlich weitestgehend  sind, verwenden diejenigen Zuwanderer, die erst in den vergangenen Jahrzehnten gekommen sind (unter anderem die sogenannten , aber auch Flüchtlinge), untereinander neben dem Deutschen noch häufig ihre Muttersprache, vor allem  (etwa zwei Millionen).
+Daneben ist auch die  verbreitet, zum einen unter  en, aber auch unter Russlanddeutschen, zu denen nicht nur deutsche oder ‚plautdietsche‘, sondern auch russische Muttersprachler gehören. Die Angaben zur Anzahl russischer Muttersprachler variieren je nach Quelle stark und liegen bei drei bis vier Millionen. Auch die Zahl der Personen, deren Alltagssprache  ist, wird relativ hoch vermutet. Hierbei variiert die Zahl ebenfalls je nach Quelle.
+
+Die an Schulen vorrangig gelehrte  ist , gefolgt von  und  und danach von . In den letzten Jahren ist außerdem  sowie in den westlichen Landesteilen von  und   immer beliebter geworden. Die Entscheidung über die unterrichteten  haben die Schulministerien in den einzelnen Ländern. Weitere Fremdsprachen wie zum Beispiel  oder  können Schüler an manchen Schulen als reguläres Unterrichtsfach oder als  (AG) wählen.
+
+=== Religionen ===
+
+ (1483–1546), Gemälde von , 1528]]
+
+In Deutschland wird  als  garantiert. Das Verhältnis von Religion und Staat wird durch die Artikel 136 bis 139 der  (WRV) geregelt, die durch  GG Bestandteil des Grundgesetzes sind. Danach gilt neben der Religionsfreiheit die weltanschauliche Neutralität des Staates und das  der en. Auf dieser Basis ist das Verhältnis von Religionsgemeinschaften und Staat partnerschaftlich; es gibt also keine strikte  wie im , sondern in vielen sozialen und schulisch-kulturellen Bereichen bestehen Verflechtungen, beispielsweise über kirchliche, aber staatlich mitfinanzierte Trägerschaft von Kindergärten, Schulen, Krankenhäusern oder Pflegeheimen. Ebenso berufen sich einige deutsche Parteien auf die christliche Tradition des Landes. Die christlichen Kirchen besitzen den Status von n und sind , aufgrund des  jedoch ''''.<ref>Stefano Testa Bappenheim, ''Die Haftpflicht und die religiösen Institute in Deutschland'', LIT Verlag, Münster 2006, [http://books.google.com/books?id=CAg0fW8mJc4C&pg=PA31 S. 31].</ref> Durch den verliehenen  sollen den Kirchen und den ihnen insoweit gleichgestellten Religionsgemeinschaften vielmehr bestimmte, dem  eigentümliche Gestaltungsmöglichkeiten eingeräumt werden, ohne dass sie dabei aber einer Staatsaufsicht unterliegen; stattdessen wird sowohl der kirchliche ''Öffentlichkeitsauftrag'' teilweise in  mit den Ländern oder den entsprechenden Regelungen in den  anerkannt wie auch die besondere, originäre ''Kirchengewalt'' rechtlich bekräftigt.<ref>Vgl. dazu , ''Die Entwicklung des Staatskirchenrechts seit 1961'', in: ''Jahrbuch des öffentlichen Rechts der Gegenwart'', hrsg. von . Neue Folge Bd. 27, Mohr Siebeck, Tübingen 1978, [http://books.google.com/books?id=s3kEBuEbzJkC&pg=PA280 S. 280&nbsp;f.]; Götz Klostermann, ''Der Öffentlichkeitsauftrag der Kirchen – Rechtsgrundlagen im kirchlichen und staatlichen Recht'' (=&nbsp;Jus Ecclesiasticum; Bd. 64), Mohr Siebeck, Tübingen 2000, [http://books.google.com/books?id=8YvnqD1a--wC&pg=PA11 S. 11 ff.], [http://books.google.com/books?id=8YvnqD1a--wC&pg=PA79 79]; Michael Meyer-Blanck, Birgit Weyel, ''Studien- und Arbeitsbuch Praktische Theologie'', Vandenhoeck & Ruprecht, Göttingen 2008, [http://books.google.com/books?id=WNQ39PZPGF8C&pg=PA204 S. 204].</ref>
+
+ , Oberhaupt der ]]
+
+Wie der größte Teil West- und Mitteleuropas ist das heutige Deutschland in einem bis zur Antike zurückreichenden historischen und kulturellen Kontext christlich-abendländisch, und seit etwa dem 18. Jahrhundert ebenso aufgeklärt-wissenschaftlich geprägt. Dieser Prägung liegen Einflüsse aus der antiken griechischen und römischen Kultur ebenso zugrunde wie jüdische und christliche Traditionen, die sich seit Beginn der Christianisierung Nordwesteuropas, ab etwa dem 4. Jahrhundert, mit germanischen Traditionen vermischt hatten. Das Gebiet des heutigen Deutschland wurde seit dem frühen Mittelalter . In der  Zeit wurde im Reich Karls des Großen die entsprechende Missionierung, teilweise durch Zwangsmaßnahmen abgeschlossen. Im  begann die christliche  Anfang des 16. Jahrhunderts, angeführt von . Sie prägt die religiöse Landschaft im deutschen Sprachraum bis heute mit.
+
+  gilt als höchstes Kirchengebäude der Welt.]]
+
+Die Mehrheit (zirka 60 Prozent) der deutschen Staatsbürger gehört einer  an:  30,2 Prozent (tendenziell überwiegend in West- und Süddeutschland; Stand: 31. Dezember 2010)<ref name="Katholiken">Deutsche Bischofskonferenz: [http://www.dbk.de/fileadmin/redaktion/diverse_downloads/presse/2010_Eckdaten.pdf Katholische Kirche in Deutschland – Statistische Daten] (PDF). Abgerufen am 29. Juli 2011.</ref> – 0,3 Prozent weniger als im Vorjahr,  (,  und ) 29,2 Prozent (tendenziell vor allem in Norddeutschland; Stand: 31. Dezember 2010)<ref>[http://www.evangelisch-in-westfalen.de/fileadmin/ekvw/dokumente/wir_ueber_uns/statistik/statistik_2011.pdf Kirchenmitgliederzahlen am 31.12.2010] (PDF), S. 6 und 7. Abgerufen am 30. November 2011.</ref> – 0,4 Prozent weniger als im Vorjahr; die restlichen christlichen Kirchen wie  und , die , die  und Angehörige christlicher n insgesamt 2 Prozent.<ref>[http://www.ekd.de/download/kirch_leben_2009_20110617.pdf Grafik 1: Religionszugehörigkeit in Deutschland] (PDF). Ausgabe Juni 2011. Abgerufen am 6. August 2011.</ref> Die Anzahl der Gottesdienstbesucher ist wesentlich geringer als die Anzahl der Kirchenmitglieder. An sogenannten Zahlsonntagen besuchten 3,1 Millionen Menschen (oder 3,8 Prozent der Deutschen Gesamtbevölkerung) die sonntäglichen katholischen Gottesdienste (2010),<ref name="Katholiken" /> und 0,9 Millionen (oder 1,1 Prozent der Gesamtbevölkerung) jene der Evangelischen Kirche (2009).<ref name="EKD_Kirchenmitgliederzahlen_2009">[http://www.ekd.de/download/Ber_Kirchenmitglieder_2009.pdf Kirchenmitgliederzahlen am 31.12.2009] (PDF). Abgerufen am 6. August 2011.</ref>
+
+Mehr als ein Drittel der Gesamtbevölkerung sind . Mehr als 40 Prozent gehören keiner der beiden großen  an; in den  liegt dieser prozentuale Anteil zwischen 67,7 Prozent (Thüringen) und 81,7 Prozent (Sachsen-Anhalt), Mittelwert 75,4 Prozent.<ref name="EKir_Tab1.3">[http://www.ekir.de/ekir/dokumente/Tab01.pdf Tabelle 1.3 Bevölkerung und Kirchenzugehörigkeit nach Bundesländern], Stand: 31. Dezember 2008. Abgerufen am 13. Februar 2010.</ref> Die DDR hatte eine  Weltanschauung propagiert und vermittelt (siehe ) und den  gefördert. In den  ist die Anzahl an der Gesamtbevölkerung, die nicht zu den beiden großen Kirchen gehört, wesentlich geringer; deren Anteil liegt zwischen 23,6 Prozent in Bayern und 71,2 Prozent in Berlin – letzteres allerdings einschließlich des ehemaligen Ost-Berlins.<ref name="EKir_Tab1.3" /> Aufgrund langfristiger Prozesse der  und des s stieg der Anteil von Konfessionslosen an der Gesamtbevölkerung jedoch auch schon in der alten Bundesrepublik an (1970: 3,9 Prozent; 1987: 11,4 Prozent). Diese Entwicklung setzte sich nach der  im vereinten Deutschland fort (1990: 22,4 Prozent; 2004: 34,6 Prozent).<ref>[http://fowid.de/fileadmin/datenarchiv/Religionszugehoerigkeit_Bevoelkerung__1950-2008.pdf ''Forschungsgruppe Weltanschauungen in Deutschland (fowid)'': Entwicklung der Religionszugehörigkeiten in Deutschland]</ref>
+
+ in  (Hessen)]]
+
+ische Gemeinden haben etwa 4 Millionen Mitglieder (5 Prozent der Einwohner) und sind vorwiegend ausländischer Herkunft, davon mittlerweile etwa 732.000 deutsche Staatsangehörige (knapp 0,9 Prozent der deutschen Staatsbürger); 9,1 Prozent aller 2004 geborenen Kinder haben muslimische Eltern. Um für die Vielzahl an islamischen Organisationen einen Dachverband zu erhalten, der für Außenstehende als Ansprechpartner fungieren kann, wurde der  gegründet.
+
+]]
+
+Die  geht von einer Zahl von 250.000 aktiven Buddhisten in Deutschland aus, die Hälfte davon eingewanderte Asiaten. Dies entspricht 0,3 Prozent der Bevölkerung.
+
+106.000 Personen der Bevölkerung gehören  an. Seit den 1990er-Jahren verzeichnen diese einen starken Zuwachs durch Zuwanderer aus , vor allem aus der  und aus . Nach Frankreich und dem Vereinigten Königreich ist in Deutschland die drittgrößte jüdische Gemeinschaft Europas.
+
+Bestimmte christliche Kirchen sowie die jüdischen Gemeinden erheben von ihren Mitgliedern eine , die der  gegen eine Aufwandsentschädigung einzieht und an die jeweiligen Kirchen (beziehungsweise an den ) weiterleitet.
+
+Des Weiteren ist der  laut Grundgesetz fakultatives, aber dennoch ordentliches Unterrichtsfach in den öffentlichen Schulen (mit Ausnahme weniger Länder wie Bremen, Berlin und Brandenburg). Dieser Unterricht wird oft von einem Vertreter einer der beiden großen christlichen Amtskirchen abgehalten.
+<br style="clear: left;" />
+
+== Wirtschaft ==
+=== Grundlagen ===
+
+
+ bei Hamburg. Am Warenwert gemessen ist Deutschland im Jahr 2010 der drittgrößte eur und eur der Welt.<ref>Näheres siehe </ref>]]
+
+Mit einem nominalen  (BIP) von etwa 2,4 Billionen Euro im Jahr 2010 ist Deutschland die größte  Europas und viertgrößte der Welt. Gemessen am  steht Deutschland international an 19., in der Europäischen Union an 13. Stelle. Am Warenwert gemessen war das Land im Jahr 2010 der drittgrößte Importeur und Exporteur der Welt.<ref>[http://www.destatis.de/jetspeed/portal/cms/Sites/destatis/Internet/DE/Content/Publikationen/Querschnittsveroeffentlichungen/WirtschaftStatistik/Aussenhandel/ExportweltmeisterDeutschland,property=file.pdf ''Exportweltmeister Deutschland – Titel auf Zeit?''], Statistisches Bundesamt (PDF)</ref> Deutschland gilt als sehr hochentwickeltes Land, dessen Lebensstandard laut  auf dem zehnten Platz von 187 untersuchten Ländern gelistet wird.<ref name="UNDP">|pages=175 ff|accessdate=2011-08-11}}</ref> 
+
+Die Gesamtwirtschaftsleistung in Deutschland wird durch rund 2,1 % im primären Sektor (), 24,4 % im sekundären Sektor (Industrie) und 73,5 % im tertiären (Dienstleistung)  erbracht. 2011 verzeichnete die Bundesrepublik Deutschland mit über 41 Millionen sozialversicherungspflichtig Beschäftigten einen historischen Höchststand.<ref>[http://www.n24.de/news/newsitem_7560003.html ''Zahl der Beschäftigten bricht Rekord''], , 2. Januar 2012.</ref> Die Zahl der Erwerbslosen lag im Jahresdurchschnitt bei 2,976 Millionen und ist der niedrigste Wert seit 20 Jahren.<ref>[http://www.igmetall.de/cps/rde/xchg/SID-EBFB9A5A-5BB27ADA/internet/style.xsl/arbeitsmarktzahlen-gespraech-mit-wissenschaftler-gerhard-bosch-9289.htm ''Arbeitsmarktzahlen: Gespräch mit Wissenschaftler Gerhard Bosch''], IG Metall, 14. Januar 2012.</ref>
+
+Deutschland weist eine lange  auf und verfügt über verschiedenste . Industriegeschichtlich wie wirtschaftlich bedeutend sind und waren unter anderem , , e und e sowie ,  und . Das Industrieland ist auf globale Rohstoffimporte aller Art spezialisiert.
+
+. Zusammen mit 17 EU-Mitgliedstaaten bildet es eine Währungsunion, die  (blau).]]
+
+Als weltweit konkurrenzfähigste Branchen der deutschen Industrie gelten die -, , , - und industrie. Zur Nutzung der  sind deutsche Entwicklungen innovativer Solarstromtechnologie international wegweisend. International bedeutend ist die , insbesondere die en. Eine Vielzahl von weltweit bedeutenden , Kongresszentren, Ausstellungen sowie eine im internationalen Maßstab bedeutende Museums- und Veranstaltungslandschaft sind wichtige Grundlage von  und Reiseverkehr von und nach Deutschland.
+
+Hinsichtlich der Wirtschaftskraft bestehen regionale Disparitäten im Einkommen, Vermögen und des BIP pro Kopf zwischen den westlichen Bundesländern und den Gebieten im . Die  liegt in den östlichen Ländern im Durchschnitt höher. Zudem besteht zwischen dem strukturstarken Süden Deutschlands und den strukturschwächeren Gebieten s, ein .
+
+Die  in Deutschland lag nach Angabe der OECD 2005 knapp unter dem -Durchschnitt.<ref>[http://www.oecd.org/dataoecd/45/27/41525386.pdf OECD (2008), ''Growing Unequal? – Income Distribution and Poverty in OECD Countries: Country Note Germany (in German): Deutschland''] (PDF); [http://www.diw.de/documents/publikationen/73/diw_01.c.357505.de/10-24-1.pdf DIW: ''Die Einkommensdifferenzen haben seit der Jahrtausendwende stark zugenommen – und zwar in absoluten Zahlen ebenso wie im relativen Verhältnis.''] S. 5.</ref> 2008 betrug ein mittleres  1.252 Euro,<ref>[http://www.diw.de/documents/publikationen/73/diw_01.c.357505.de/10-24-1.pdf Wochenbericht des DIW Berlin Nr. 24/2010: ''Polarisierung der Einkommen: Die Mittelschicht verliert''], S. 5 (Durchschnitt aller verfügbaren Einkommen pro Person, die nicht mehr als 30 % nach unten und weniger als 50 % nach oben vom durchschnittlichen verfügbaren Einkommen aller in Deutschland in Privathaushalten lebenden Personen abweichen, S. 3 und Kasten 1, S. 4).</ref> bei einem  von 0,29.<ref>[http://www.diw.de/documents/publikationen/73/diw_01.c.347307.de/10-7-1.pdf Wochenbericht des DIW Berlin Nr. 7/2010: ''Weiterhin hohes Armutsrisiko in Deutschland: Kinder und junge Erwachsene sind besonders betroffen''], S. 4.</ref> Die  weist, nach Zahlen des , eine Ungleichverteilung auf ( 0,799). 2007 besaßen die reichsten 5 % der Bevölkerung 46 % des Gesamtvermögens, das reichste Prozent 23 % des Gesamtvermögens. Rund zwei Drittel der Bevölkerung wiesen 2007 kein oder nur ein sehr geringes Nettovermögen auf.<ref> (DIW), Joachim R. Frick, Markus M. Grabka: [http://www.diw.de/documents/publikationen/73/diw_01.c.93785.de/09-4-1.pdf Wochenbericht des DIW Berlin Nr. 4/2009: ''Gestiegene Vermögensungleichheit in Deutschland''] (PDF), S. 59.</ref>
+
+=== Wirtschaftsentwicklung ===
+.]]
+
+Im Jahre 2006 wurde ein Wirtschaftswachstum von 2,8 Prozent erreicht. Diese positive Entwicklung setzte sich bis zum dritten Quartal 2008 fort. Im vierten Quartal wurde Deutschland jedoch von der  erfasst, die zum Jahresende 2009/2010 endete. Die Wirtschaftsentwicklung verlief seitdem wieder auf Vorkrisenniveau. Die Zahl der Arbeitslosen sank seit Ende 2006 unter 3,5 Millionen und erreichte Anfang 2011 die Grenze von 3 Millionen, wobei sie selbst in der Finanzkrise nur unwesentlich anstieg.
+
+Im Außenhandel war Deutschland bis 2008 weiterhin sehr erfolgreich (Exporte 2006: +13 Prozent auf 894 Milliarden Euro), im Zuge der Wirtschaftskrise aber brach besonders der Export deutlich ein, er sank im vierten Quartal 2008 im Vergleich zum Vorjahr um 5,2 Prozent.<ref>Statistisches Bundesamt: [http://www.destatis.de/jetspeed/portal/cms/Sites/destatis/Internet/DE/Content/Statistiken/Zeitreihen/WirtschaftAktuell/VolkswirtschaftlicheGesamtrechnungen/Content100/kvgr116x12,templateId=renderPrint.psml Exporte von Waren und Dienstleistungen], Stand: 24. November 2009. Abgerufen am 2. Februar 2010.</ref>
+
+Das Land verzeichnete bis 2009 über mehrere Jahrzehnte mit großem Abstand mehr Exporte als jedes andere Land der Welt und wurde daher oft mit dem Schlagwort „“ bezeichnet.<ref>Statistisches Bundesamt Deutschland: [http://www.destatis.de/jetspeed/portal/cms/Sites/destatis/Internet/DE/Presse/pm/2010/02/PD10__045__51,templateId=renderPrint.psml ''Ausfuhr im Jahr 2009 insgesamt um 18,4 % niedriger als 2008''], Pressemitteilung Nr. 045 vom 9. Februar 2010. Abgerufen am 25. Februar 2010.</ref> Die Exporte erreichten im Jahr 2010 959,5 Mrd. Euro. Die wichtigsten Handelspartner sind die übrigen EU-Mitgliedstaaten (Exporte 60,3 % / Importe 56,3 %), die VR China (Exporte 5,6 % / Importe 9,5%), die USA (Exporte 6,8 % / Importe 5,6 %), die Schweiz (Exporte 4,3 % / Importe 4,0 %) und die  (Exporte 2,7 % / Importe 3,9 %).<ref>Statistisches Bundesamt Deutschland: [http://www.destatis.de/jetspeed/portal/cms/Sites/destatis/Internet/DE/Content/Statistiken/Aussenhandel/Handelspartner/Tabellen/Content100/RangfolgeHandelspartner,property=file.pdf ''Außenhandel – Rangfolge der Handelspartner im Außenhandel der Bundesrepublik Deutschland''] (PDF). Erschienen am 10. März 2011. Abgerufen am 3. August 2011.</ref>
+
+
+
+=== Unternehmen ===
+ in München. 37 Unternehmen der  haben im Jahr 2010 ihren Hauptsitz in Deutschland.]]
+
+Die Rangfolge der zehn umsatzstärksten Unternehmen mit Hauptsitz in Deutschland: Aufgeführt sind der , der , die Anzahl der Mitarbeiter. Die Zahlen sind in Millionen  angegeben und beziehen sich auf das Geschäftsjahr 2009.<ref>Süddeutsche Zeitung: [http://www.sueddeutsche.de/wirtschaft/ranking-der-wertvollsten-unternehmen-deutschland-verliert-1.106989 ''Ranking der wertvollsten Unternehmen – Deutschland verliert''] (, 9. Juli 2009). Abgerufen am 8. Juni 2011.</ref>
+Ohne Rangnummer eingefügt ist die  gemessen an der Bilanzsumme (2007) und die  gemessen an Beitragseinnahmen (2007).
+
+ in Wolfsburg.<br />Die  ist gemessen am Umsatz der größte von 30 im  gelisteten Konzernen.]]
+{| class="wikitable sortable zebra" style="text-align:right;"
+|- class="hintergrundfarbe5"
+! Rang<br /> || style="text-align:center;"| Name<br /> || style="text-align:center;"| Hauptsitz<br /> || style="text-align:center;"| Umsatz<br />(Mio.&nbsp;€) || style="text-align:center;"| Gewinn<br />(Mio.&nbsp;€) || style="text-align:center;"| Mitarbeiter<br />
+|-
+| align="center" | 1. || style="text-align:left;"|  || style="text-align:left;"|  || 108.897 || 4.120 || 329.305
+|-
+| align="center" | 2. || style="text-align:left;"|  || style="text-align:left;"|  || 99.399 || 3.985 || 272.382
+|-
+| align="center" | 3. || style="text-align:left;"|  || style="text-align:left;"| ,  || 72.488 || 3.806 || 398.200
+|-
+| align="center" | 4. || style="text-align:left;"|  || style="text-align:left;"|  || 68.731 || 7.204 || 87.815
+|-
+| align="center" | 5. || style="text-align:left;"|  || style="text-align:left;"|  || 64.337 || 825 || 242.378
+|-
+| align="center" | 6. || style="text-align:left;"|  || style="text-align:left;"|  || 63.512 || 1.389 || 475.100
+|-
+| align="center" | 7. || style="text-align:left;"|  || style="text-align:left;"|  || 62.516 || 569 || 241.426
+|-
+| align="center" | 8. || style="text-align:left;"|  || style="text-align:left;"|  || 57.951 || 4.065 || 95.175
+|-
+| align="center" | 9. || style="text-align:left;"|  || style="text-align:left;"|  || 56.018 || 3.126 || 107.539
+|-
+| align="center" | 10. || style="text-align:left;"|  || style="text-align:left;"| ,  || 51.723 || 2.102 || 191.350
+|-
+| align="center" | — || style="text-align:left;"|  || style="text-align:left;"|  || 102.598 || 7.966 || 181.207
+|-
+| align="center" | — || style="text-align:left;"|  || style="text-align:left;"|  || 2.020.349 || 6.510 || 78.291
+|}
+
+
+
+=== Energie ===
+ in Deutschland<ref>: [http://bmwi.de/BMWi/Navigation/Energie/energiestatistiken.html Energieträger]</ref>]]
+
+Deutschland ist im Jahr 2008 der viertgrößte Produzent an  (in ) in Europa gewesen und wird auf Rang 21 unter den Energieproduzenten der Welt gelistet.<ref>[http://www.eia.doe.gov/emeu/international/contents.html ''U.S. Energy Information Administration''], Stand: 2008. Abgerufen am 23. September 2010.</ref>
+
+2005 betrug der  in Deutschland 14,238  und war damit der zweithöchste in Europa und sechsthöchste in der Welt.<ref>[http://www.ag-energiebilanzen.de/ Arbeitsgemeinschaft Energiebilanzen 2006]. Abgerufen am 23. September 2010.</ref>
+
+Im Jahr 2003 verbrauchte Deutschlands statistischer Durchschnittseinwohner 5597,7 kW·h und lag damit an elfthöchster Stelle in Europa und wurde auf Rang 27 in der Welt gelistet.
+
+Im Jahr 2010 hatten 957  ihren Hauptsitz in Deutschland.<ref>[http://www.verivox.de/power/carriers.aspx?fl=all ''Liste der Stromanbieter'' auf verivox.de]</ref> Die fünf größten Energieversorgungsunternehmen gemessen am Umsatz sind , , ,  und die .
+
+Der Anteil an  zur Stromgewinnung wie z.&nbsp;B.  oder  ist in Deutschland vergleichsweise hoch.
+
+
+
+== Recht ==
+=== Geschichte ===
+
+
+Das Deutsche Recht hat eine lange, bis in germanische Zeit zurückreichende Tradition. Im Mittelalter wurden bedeutende Rechtssammlungen wie der  angelegt, die nicht Recht setzen, sondern vorhandenes Gewohnheitsrecht fixieren sollten. Ab dem 12. Jahrhundert wurde im  zunehmend  , welches wegen seiner Exaktheit und Universalität als dem einheimischen germanischen Recht überlegen empfunden wurde. Aufgrund seiner staatlichen Zersplitterung kannte das  aber, von wenigen Kodifikationen wie der  abgesehen, kein einheitliches deutsches Recht.
+
+Von nicht zu unterschätzender Bedeutung war die Einrichtung des s im Jahr 1495 als Rechtsmittelgericht des Reichs gegen Entscheidungen der Gerichte der einzelnen deutschen Staaten. Allerdings besaßen bestimmte deutsche Staaten das '''', also das Privileg, dass gegen Entscheidungen ihrer Gerichte kein Rechtsmittel zum Reichskammergericht gegeben war.
+
+ in  wird seit 2002 als  genutzt.]]
+
+Im 18. Jahrhundert gaben sich einzelne deutsche Staaten vom Geist der  geprägte Gesetzwerke wie den  von 1756 und das  von 1794. 1812 wurde in den  ein modernes  (ABGB) in Kraft gesetzt. Die napoleonische Ära brachte die Einführung des wegweisenden  in den von Frankreich annektierten deutschen Gebieten und einigen -Staaten, bei der es auch nach der Niederlage Napoleons . Ansonsten wurde in vielen Staaten des  weiterhin teilweise noch römisches und germanisches Recht angewendet.
+
+Erst mit Schaffung der staatlichen Einheit im Jahr 1871 war schließlich die Voraussetzung für einheitliche Gesetze im Deutschen Reich gegeben. Bereits 1871 wurde das  verabschiedet, zum 1.&nbsp;Oktober 1879 traten die  in Kraft: , , ,  und weitere Einführungs- und Nebengesetze. Zum 1.&nbsp;Oktober 1879 nahm auch das  als oberstes Gericht des Reichs seine Arbeit auf. Am 1. Januar 1900 traten schließlich das  (BGB) und das  (HGB) in Kraft und schufen auch auf dem Gebiet des s und des  Rechtseinheit.
+
+Der  pervertierte das Recht zum Mittel der Gewaltherrschaft, wofür hier stellvertretend die Terrorurteile des s zu nennen sind. Mit der Gründung der Bundesrepublik Deutschland wurde in Deutschland dann wieder ein Rechtsstaat geschaffen. Auf dem Gebiet der DDR hingegen, wo die Doktrin der „einheitlichen sozialistischen Staatsmacht“ galt und Gewaltenteilung und Unabhängigkeit der Gerichte unbekannt waren, kehrten erst im Zuge der  und letztlich mit der Wiederherstellung der staatlichen Einheit im Jahr 1990 wieder rechtsstaatliche Verhältnisse ein.
+<br style="clear: left;" />
+
+=== Rechtswesen ===
+
+
+s in Karlsruhe]]
+
+Die Bundesrepublik Deutschland versteht sich als  (,  Abs.&nbsp;1 Satz&nbsp;1 GG), was bedeutet, dass staatliche Tätigkeit nur durch das Recht begründet werden kann und durch das Recht begrenzt wird. Wer durch die öffentliche Gewalt in seinen Rechten verletzt wird, hat das Recht, bei Gericht um Rechtsschutz hiergegen nachzusuchen ( Abs. 4 GG). Die  sind unabhängig und unterliegen keinerlei Weisungen.
+
+Die  wird im Wesentlichen von en der Bundesländer ausgeübt: In  und  durch die e, die e und die e (in Berlin  genannt), in Arbeitssachen durch die e und die Landesarbeitsgerichte, in  durch die  und die e (in drei Bundesländern ''Verwaltungsgerichtshof'' genannt), in Sozialrechtssachen durch die e und die Landessozialgerichte und in Finanzgerichtssachen durch die e. Als Bundesgericht besteht für den gewerblichen Rechtsschutz das . Daneben existieren als Rechtsmittelgerichte die obersten Gerichtshöfe des Bundes ( GG): Der  als oberstes Zivil- und Strafgericht, das , das , das  und der . Für verfassungsrechtliche Streitigkeiten besteht außerdem das  ( GG), dessen Entscheidungen Gesetzeskraft entfalten können und so andere Gerichte binden.
+
+Zunehmende Bedeutung hat das  und die Rechtsprechung des  gewonnen.
+
+== Verkehr ==
+ im europäischen Korridorkonzept]]
+
+Aufgrund der dichten Besiedlung und zentralen Lage in Europa besteht in Deutschland ein sehr hohes Verkehrsaufkommen. Insbesondere für den  stellt es ein wichtiges  dar. Durch das Konzept der  soll Deutschland als Transferraum zwischen dem ersten europäischen  (der sogenannten , zu der auch Westdeutschland gehört) und dem Kernwirtschaftsraum in , zu dem auch Ostdeutschland gehört, gefördert werden. Wichtige Projekte in diesen Netzen sind die Eisenbahnachsen Lyon/Genua–Rotterdam/Antwerpen,  (Paris–Ostfrankreich–Südwestdeutschland),  (Paris–Brüssel–Köln–Amsterdam–London),  und die . Ferner ist Deutschland der westliche Ausgangspunkt einiger .
+
+Der Güterverkehr hat sich in den vergangenen Jahrzehnten stetig von der Schiene auf die Straße verlagert. Als Gegenmaßnahme wurde 2005 eine  für Lastkraftwagen eingeführt. Im Bereich des Schienenverkehrs wurden in den letzten Jahren von der  vor allem unrentable Nebenstrecken sowie  und  stillgelegt sowie Personenfernverkehrsverbindungen eingestellt.
+
+Für die Zukunft wird eine weitere Zunahme des Verkehrs erwartet. Der  sieht im Zeitraum 2001–2015 ein Investitionsvolumen von insgesamt etwa 150 Milliarden Euro vor, um den erwarteten Zuwachs im motorisierten Personenverkehr um 20 Prozent (1997–2015) und im Güterverkehr um 64 Prozent (1997–2005) zu bewältigen.
+
+=== Straßenverkehr ===
+en]]
+
+Bereits die Römer legten gepflasterte  an, die aber wieder verfielen. Die ersten n wurden im 18. Jahrhundert erbaut. Die Erfindung des Automobils gab dem Straßenbau neue Impulse. Die erste Autobahn der Welt, die  in Berlin, wurde 1921 in Deutschland gebaut. Der  hat in der zweiten Hälfte des 20. Jahrhunderts die  als wichtigsten Verkehrsträger abgelöst. Deutschland besitzt eines der dichtesten e der Welt. Das nnetz umfasste am 1.&nbsp;Januar 2007 12.531 Kilometer  und 40.711 Kilometer n. Weiterhin umfasste das überörtliche Straßennetz 86.597 Kilometer n, 91.520 Kilometer n und die n.
+
+Im Jahr 2006 starben 5094 Menschen im Straßenverkehr. Um die Gefahren und Belastungen des Straßenverkehrs zu reduzieren, wurden in vielen deutschen Städten n,  und n eingerichtet. Dies hat zur Folge, dass die Anzahl der getöteten Verkehrsteilnehmer seither abnimmt. Starben 2009 noch 4152 Personen im Straßenverkehr, waren es im Jahr 2010 noch 3.648 Menschen. Eine Abnahme gegenüber 2009 von 12 % oder 504 Personen.<ref>Statistisches Bundesamt: [http://www.destatis.de/jetspeed/portal/cms/Sites/destatis/Internet/DE/Navigation/Statistiken/Verkehr/Verkehrsunfaelle/Verkehrsunfaelle.psml Verkehrsunfälle], Stand: 2010. Abgerufen am 10. November 2011.</ref>
+
+
+
+=== Schienenverkehr ===
+ im ]]
+
+Deutschland verfügt über ein  von etwa 35.000 Kilometern Länge. Es wird täglich von bis zu etwa 50.000 Personen- und Güterzügen befahren.
+
+Im Rahmen der  wurden die en  (West) und  (Ost) zum 1.&nbsp;Januar 1994 in das privatwirtschaftliche Unternehmen  überführt. Es organisiert den Großteil des Eisenbahnverkehrs in Deutschland. Neben der DB AG befahren rund 350 weitere  (zumeist en) das deutsche Eisenbahnnetz. Während sich der Staat aus dem operativen Betrieb zurückgezogen hat, finanziert er den Großteil des Netzunterhalts und -ausbaus sowie (über ) weitgehend den Regionalverkehr.
+
+ ( (IRE),  (RB),  (RE) und en (S)) und  ( (IC) und  (ICE)) fahren weitgehend nach . Für  stehen  in einer Gesamtlänge von etwa 2000 Kilometer zur Verfügung.
+
+Während die  der Eisenbahn über lange Jahre kontinuierlich zurückgingen und deshalb umfangreiche  durchgeführt wurden, steigen ihre Anteile seit etwa 2005 wieder, insbesondere im Güterverkehr, kontinuierlich. Mit einem Wachstum der Verkehrsleistung von über zehn Prozent pro Jahr ist der Schienengüterverkehr der am schnellsten wachsende Verkehrsträger in Deutschland.
+
+Die dritte Stufe der Bahnreform, in Form einer teilweisen  der Deutschen Bahn AG, steht in der öffentlichen Kritik.
+
+
+
+=== Nahverkehr ===
+]]
+
+1881 eröffnete  in  bei Berlin die erste elektrische Straßenbahn der Welt. Dieses Verkehrsmittel dominierte in der ersten Hälfte des 20. Jahrhunderts den Nahverkehr der größeren Städte in Deutschland. Nach dem Zweiten Weltkrieg wurden vor allem in Westdeutschland viele Straßenbahnen stillgelegt, andere zu en mit innerstädtischen Tunnelstrecken umgebaut. Ersetzt wurden sie durch -Verkehre, die auch auf dem Land flächendeckend vorhanden sind und nahezu jeden Ort erschließen. Allerdings wurden die Busnetze durch den Bevölkerungsrückgang im ländlichen Raum zuletzt ausgedünnt und häufig durch -Systeme ersetzt. Nur in den größten Städten wurden im 20. Jahrhundert en angelegt und mit en zu einem Schnellbahnnetz für Stadt und Umland kombiniert. Die  ermöglichen es, sämtliche Verkehrsmittel in einer Region mit einem Fahrschein zu einem einheitlichen Preis zu benutzen.
+
+Seit den 1980er-Jahren wurden  in den Städten und auf dem Land angelegt und ausgebaut, sodass heute das Fahrrad wieder eine zunehmende Rolle im Nahverkehr spielt. Im internationalen Vergleich ist auch der öffentliche Nahverkehr in den größeren Städten Deutschlands durch hohe Effektivität und Flächendeckung gekennzeichnet, wobei es zwischen einzelnen Regionen durchaus Unterschiede gibt: Während die Verkehrssysteme in München oder Berlin als vorbildlich gelten, wird das Netz im Ruhrgebiet häufig als unterdurchschnittlich kritisiert.
+
+=== Luftverkehr ===
+]]
+
+Mit rund 550  und  verfügt Deutschland über eine der größten Dichte an Start- und Landeplätzen weltweit. 16 Flughäfen des Landes bieten internationalen Flugverkehr an.
+
+Der  ist gemessen an der Anzahl abgefertigter Passagiere (2010: 53,0 Mio.) der größte Deutschlands, der drittgrößte Europas und gemessen am Frachtaufkommen der größte Flughafen Europas. Die größte deutsche Fluggesellschaft  betreibt in Frankfurt, auf dem zweitgrößten deutschen Flughafen in  sowie auf dem drittgrößten deutschen Flughafen in  interkontinentale Drehkreuze. Im Bau befindet sich derzeit der , der nach seiner für das Jahr 2012 geplanten Inbetriebnahme der drittgrößte Flughafen Deutschlands sein wird. , die zweitgrößte deutsche Fluggesellschaft, betreibt auf ihrem Heimatflughafen in Berlin-Tegel sowie in München, Düsseldorf, Palma de Mallorca und Wien weitere internationale Drehkreuze.
+
+
+
+=== Seeverkehr ===
+ am ]]
+
+Aufgrund des überproportional hohen santeils ist Deutschland in erheblicher Weise auf den Seehandel angewiesen. Es verfügt über eine Anzahl moderner , wickelt aber auch große Anteile seines Handels nach  über die Häfen von Nachbarländern, vor allem der , ab. Um künftig wieder größere Anteile in eigenen Häfen umzuschlagen, gibt es derzeit mehrere große Bauprojekte. Dazu gehört der Bau eines vierten , die geplante&nbsp;– und sehr umstrittene&nbsp;– Vertiefung von  und  und der neue   in . Er wird als einziger echter Tiefwasserhafen in Deutschland ab 2010 die größten dann in Fahrt befindlichen e abfertigen können. Die drei umschlagstärksten Seehäfen in Deutschland sind ,  und  mit . Der wichtigste Ostseehafen ist .
+
+Wichtigste Seeschifffahrtsstraßen sind Unterelbe und Unterweser. Der  ist auch für den Transitverkehr bedeutsam. Vor der deutschen Ostseeküste liegt mit der  die meistbefahrene und unfallgefährdetste Schiffsroute der Ostsee.
+
+Es gibt in Deutschland ein gut ausgebautes Netz von n für die . Die wichtigsten schiffbaren Flüsse sind , , ,  und . Bedeutende Binnenkanäle sind der , der , der  und der . Der  überwindet die große europäische  und ermöglicht so einen direkten Schifffahrtsweg von der Nord- und Ostsee zum . Der Komplex der  ist mit einem Umschlag von mehr als 70 Millionen Tonnen der wichtigste und umschlagstärkste  Deutschlands und zudem der größte Binnenhafen der Welt, gefolgt vom .
+
+== Kultur ==
+, 1786<br />&nbsp;&nbsp;(1. Kapitel aus dem )</div>
+]]
+
+Die deutsche Kunst- und Kulturgeschichte, deren Wurzeln bis in die Zeit der ,  und  zurückreichen, hat seit dem Mittelalter eine Vielzahl von stil- und epochenprägenden Persönlichkeiten hervorgebracht. In den verschiedensten Disziplinen wurden deutschsprachige Kulturschaffende Wegbereiter neuer geistiger Strömungen und Entwicklungen. Bis heute zählen einige der einflussreichsten deutschen Künstler zu den Protagonisten der .<ref>BBC: [http://news.bbc.co.uk/2/hi/europe/country_profiles/1047864.stm ''Germany country profile'']. Abgerufen am 14. September 2010.</ref>
+
+Die deutsche Kultur hat sich, da Deutschland lange nicht als Nationalstaat existierte, über Jahrhunderte vor allem über die gemeinsame Sprache definiert. Erst im Laufe des 19. Jahrhunderts wurde der Begriff zunehmend auf Kulturbeiträge von Deutschen bzw. innerhalb deutscher Territorien bezogen, was aber der auch zuvor bestandenen deutschen Identität jener Kulturschaffenden nicht abträglich war. Aus der Zeit vor 1871 stammt der teilweise noch verwendete Begriff vom ''Land der Dichter und Denker'',<ref>Marco Fröb, ''Die Bundesrepublik Deutschland im internationalen Standortwettbewerb'', GRIN Verlag, 2007, [http://books.google.de/books?id=3Gn8vhS9OB8C&pg=PA11&dq=%22Land+der+Dichter+und+Denker%22&hl=de&ei=E9uPTOLdKo674gbZoLnkDQ&sa=X&oi=book_result&ct=result&resnum=4&ved=0CDgQ6AEwAw#v=onepage&q=%22Land%20der%20Dichter%20und%20Denker%22&f=false S.&nbsp;11].</ref> dem auch über die  hinaus um 1900 viele das Charakteristikum einer ''deutschen '' zugeschrieben haben.<ref>Vgl. , ''Nation und Nationalismus in Deutschland: 1770–1990'', 3., überarb. und erw. Aufl., Beck, München 1996, ISBN 3-406-34086-5, [http://books.google.de/books?id=0LFueQp0s50C&pg=PA48&dq=deutsche+kultur+kulturnation&hl=de&ei=JfKQTLaOPJCTjAeQldCODQ&sa=X&oi=book_result&ct=result&resnum=4&ved=0CD0Q6AEwAw#v=onepage&q=deutsche%20kultur%20kulturnation&f=false S.&nbsp;48 f.]</ref>
+
+.]]
+
+Durch die Verbreitung von  im 20. Jahrhundert hat die  in der deutschen Gesellschaft einen neuen Stellenwert erhalten. Die Verbreitung des s im 21. Jahrhundert hat zu einer Ausdifferenzierung der Kulturlandschaft geführt und die mannigfaltigen Nischen- und  in ihrer Ausprägung verändert.<ref>docupedia.de: [http://docupedia.de/zg/Mediengeschichte Mediengeschichte], Stand: 2010. Abgerufen am 21. September 2010.</ref>
+
+Die Kulturpolitik in Deutschland fällt verfassungsgemäß in die Zuständigkeit der Bundesländer. Kulturelle Vielfalt und regionale Identität sollen damit gewährleistet sein. Im  ist der '''' zuständig für kulturelle Einrichtungen und Projekte von nationaler und gesamtstaatlicher Bedeutung.<ref> |archiveurl=http://www.webcitation.org/5yA8iD3fO | archivedate=2011-04-23}}</ref> Seit dem  1993 verfügt die EU über für Kulturschaffende wichtige Kompetenzen im Bereich . Der Verbreitung der deutschen Sprache und Kultur in der Welt dienen die e mit weltweit 136 Standorten in rund 90 Ländern.<ref>Goethe-Institut: [http://www.goethe.de/uun/adr/wwt/est/deindex.htm Eigene Standorte]. Abgerufen am 15. September 2010.</ref>
+
+Laut einer Umfrage in 27 Staaten für die  im Jahr 2011 genießt Deutschland weltweit das höchste Ansehen unter 16 untersuchten Ländern. Durchschnittlich bewerten 62 Prozent der Befragten Deutschlands internationalen Einfluss als positiv, 15 Prozent haben ein negatives Bild. Damit bestätigt das Land den ersten Platz zum vierten Mal in Folge seit dem Jahr 2008.<ref>[http://www.spiegel.de/politik/ausland/0,1518,689915,00.html ''Deutschland ist das weltweit angesehenste Land''], ''Spiegel Online'', Meldung vom 19.&nbsp;April 2010. Abgerufen am 20. April 2010.</ref><ref>[http://www.worldpublicopinion.org/pipa/articles/views_on_countriesregions_bt/680.php?nid=&id=&pnt=680&lb=#ger ''BBC World Service Poll''], Meldung vom 7.&nbsp;März 2011. Abgerufen am 7. März 2010.</ref>
+
+=== Philosophie ===
+
+
+]]
+
+Zu den einflussreichsten deutschen Philosophen zählen , , , , ,  und . Mehrere bedeutsame philosophische Strömungen gingen von deutschen Philosophen aus: Der  ebenso wie der von  und  begründete . Im 20. Jahrhundert war vor allem die  der sogenannten  von  und  bedeutsam. In ihrer Nachfolge wurde  zu einem der weltweit bekanntesten lebenden Philosophen.
+
+=== Deutsche Literatur ===
+
+
+
+Die deutsche Literatur reicht zurück bis in das Mittelalter, hervorzuheben ist zum Beispiel . Als bedeutendste deutsche Autoren gelten u.&nbsp;a.  und  sowie die . Mit , , ,  und  oder  stachen zu ihrer Zeit wichtige Literaten hervor.
+
+Im 20. Jahrhundert waren deutsche   (1902),  (1908),  (1910),  (1912),  (1929),  (1946),  (1972) und  (1999), im 21. Jahrhundert  (2009).
+
+Die  gilt als bedeutendster Treffpunkt des internationalen Verlagswesens und der Literaturszene. Dort wird jährlich der „beste Roman deutscher Sprache“ mit dem  ausgezeichnet.
+
+=== Musik ===
+
+, ]]
+
+Die Geschichte der europäischen  wird über weite Strecken von deutschen Komponisten geprägt. Aufgrund der zentralen Lage Deutschlands konnten hier unterschiedliche Musiktraditionen aus ganz Europa zusammenfließen.
+
+ (1770–1827)]]
+
+In der Barockzeit erlebten die Kirchenmusik und der Orgelbau eine große Blüte. Wichtige Barockkomponisten waren u.&nbsp;a. , , , , . Stilbildend für die  waren aus Deutschland die Komponisten der ,  und , der auch als österreichischer Komponist gilt. Beginnend zur Zeit des  wurde der begleitete Liedgesang durch Komponisten wie ,  und  zu einer eigenen Kunstgattung entwickelt. Weitere wichtige deutsche romantische Komponisten waren , ,  und . An die Musik von , , ,  konnte die österreichische atonale  anknüpfen.
+
+s Musik steht im Spannungsfeld von sozialistischem Realismus und der Anknüpfung an die Vorkriegsmoderne. Nach 1950, mitgeprägt durch die  war in Westdeutschland die Entwicklung der seriellen und elektronischen Musik durch Komponisten wie  bedeutend. Wichtige zeitgenössische deutsche Komponisten sind z.&nbsp;B.  und .
+
+Die Entwicklung des Chorgesanges in Deutschland wurde durch den Zweiten Weltkrieg unterbrochen und auch in der Folgezeit stark gebremst. Erst seit den letzten Jahrzehnten des 20. Jahrhunderts findet in dieser Richtung wieder ein Aufschwung von internationaler Bedeutung statt.
+
+
+
+Deutschland ist seit 2010 aus ökonomischer Sicht der drittgrößte Musikmarkt der Welt. Es hat sich eine sehr vielfältige Musik- und Kunstszene ausgeprägt, die vermehrt von der Hauptstadt Berlin ausgeht. Im Bereich der  und  wurden Künstler wie , , , ,  und  über die Landesgrenzen hinaus im gesamten deutschsprachigen Raum populär. Seit der Entstehung in den 1980er-Jahren ist deutschsprachiger  verbreitet.
+
+Zu den erfolgreichsten Punkbands gehören  und . Daneben kommt auch eine ansehnliche Zahl an international bedeutenden musikern aus Deutschland. Stilprägend im Bereich Swingmusik war der vor allem in Deutschland und Frankreich gepflegte . In der Entwicklung der  haben Musiker aus Deutschland, insbesondere die Band  sowie , Pionierarbeit geleistet. International erfolgreich sind und waren ,  und .
+
+Bekannte Vertreter der deutschsprachigen Popmusik im vergangenen Jahrzehnt sind unter anderem Bands wie ,  und . Ein weiteres aktuelles Phänomen der deutschen Musikkultur ist auch die Band , welche vor allem bei weiblichen n beliebt ist. Kommerziell erfolgreiche deutschsprachige -Künstler sind ,  oder .
+<br style="clear: left;" />
+
+=== Film ===
+, Präsidentin der ]]
+
+
+Im Jahr 2009 wurden in Deutschland 195 Kinospielfilme (2003: 80 Spielfilme) mit vorwiegend deutscher Beteiligung produziert, darunter 65 Kinodokumentarfilme. Der Marktanteil deutschsprachiger Produktionen betrug 27,4 Prozent (18,9 % im Jahr 2007) und entspricht dem höchsten Wert seit 1990.<ref>Europäische Audiovisuelle Informationsstelle: [http://www.obs.coe.int/about/oea/pr/mif2010_cinema.html.de ''2009 bringt Rekordergebnis an den Kinokassen in der EU, europäische Filmproduktion weiter im Aufwind''], Pressemitteilung vom 6. Mai 2010. Abgerufen am 1. September 2011.</ref>
+
+Zu den profiliertesten deutschen Regisseuren der Gegenwart zählen u.&nbsp;a. , , , , , , , , , , , ,  und  sowie der 2011 verstorbene .
+
+Die wichtigste nationale Auszeichnung ist der , der jährlich von der  vergeben wird. Der  wird jedes zweite Jahr in Berlin vergeben und zeichnet die wichtigsten Produktionen aus Europa aus. Die  (Berlinale) werden jedes Jahr im Februar aufgeführt und haben sich als bedeutendes Ereignis der Filmwelt etabliert.
+
+
+
+=== Bildende Kunst ===
+'', Aquarell (1502), ]]
+
+Bedeutende deutsche künstler sind unter anderem , , , dessen Hauptwerk der berühmte  ist,  und, der wohl bekannteste unter ihnen, .<br />
+Die bedeutendsten aus Deutschland stammenden  sind  sowie der in Siegen geborene, aber nach Antwerpen ausgewanderte .<br />
+Weitere Künstler von Weltruf sind der er , der  , die   und , der  und   oder die zu den  zählenden  und .<br />
+Herausragende Bedeutung bezüglich ihrer Rezeption in der Weltkunst erfahren die beiden expressionistischen Künstlergemeinschaften  und .
+
+In der DDR war die  um ,  und  prägend.
+
+Zu den wichtigen zeitgenössischen Künstlern zählen der  , der in der Tradition der  stehende , die den  prägenden  und  sowie die für Ironie bekannte . Der die „trügerische Idylle“ darstellende , der zur  gezählte  und der auf Historienbilder konzentrierte  sind Beispiele für sehr erfolgreiche Künstler der .
+
+Zu den bekanntesten deutschen Fotografen zählen ,  und .
+<br style="clear: left;" />
+
+=== Architektur ===
+
+ und die ]]
+
+Deutschland hat eine reiche und vielfältige , die eng verwoben mit der abendländischen Architekturgeschichte der Nachbarländer ist. Grundlage war vor allem die , aus der zahlreiche Bauwerke erhalten sind, wie beispielsweise die  in  und das erst vor einigen Jahren freigelegte . Einige  Bauten wie zum Beispiel die  zeigen heute noch die Entwicklung zur , die im Heiligen Römischen Reich etwa 1030 einsetzt. Die  begann in Frankreich, die ersten gotischen Bauwerke im Heiligen Römischen Reich wurden ab etwa 1230 errichtet, zum Beispiel die  in Trier.
+
+Um etwa 1520 kam die  aus dem Gebiet des heutigen Italien in das Heilige Römische Reich Deutscher Nation, als herausragendes Beispiel gilt das . Auch der  setzte hier erst verzögert (ab 1650) ein. Einige Beispiele sind die Werke von , die  und das . Etwa 1770 setzt die Stilepoche des  ein. Prominente Bauwerke sind das  in Berlin, das  und das . Einige der bekanntesten Bauwerke Deutschlands wurden in der Stilepoche des  (1840–1900) gebaut, als Beispiele genannt seien  und der .
+
+, München]]
+
+Zu Beginn des 20. Jahrhunderts waren deutsche Architekten Vorreiter der . ,  und das  setzten Impulse, die die Architektur bis heute weltweit prägen. Die monumentale  stellte einen markanten Einschnitt in der deutschen Architekturgeschichte dar. In der Zeit des Wiederaufbaus herrschte Pragmatismus vor, erst allmählich fand die Architekturszene zu neuen Ausdrucksformen. In der Bundesrepublik war das 1972 fertig gestellte  ein wichtiges Projekt, das das neue Selbstverständnis deutscher Architektur in die Welt trug.
+
+In den letzten Jahrzehnten hat sich die Entwicklung der Architektur globalisiert. Deutsche Architekten sind weltweit aktiv, sind jedoch auf dem internationalen Architekturmarkt eher unauffällig und konnten nicht wieder an die frühere Bedeutung anknüpfen. Dennoch arbeitet die deutsche Baubranche heute insgesamt auf höchstem internationalen Niveau in Hinsicht auf Gestaltung und Baukonstruktion. Um die Wahrnehmung der Architektur im In- und Ausland zu verbessern wurde 2007 die  gegründet.
+<br style="clear: left;" />
+
+=== Kultur- und Baudenkmäler ===
+]]
+
+Die  führt 36 deutsche Beiträge zum  auf, die auf 15 der 16 deutschen Länder verteilt sind (lediglich Hamburg besitzt kein Welterbe): 33 Weltkultur- und 3 -naturerben. Die Liste wurde mit dem  1978 eröffnet; jüngster Neuzugang waren 2011 die . Zudem führt die UNESCO mit der  und dem  zwei  auf (siehe Leiste am Ende des Kapitels). Bisher strich die UNESCO eine  von der &nbsp;– das  (Welterbe-Status von 2004 bis 2009)&nbsp;– aufgrund des Baus der <!-- [sic] -->, die die UNESCO als Bedrohung für die Landschaft sah.
+
+]]
+
+Besonders hohe Besucherzahlen erreichen Kulturdenkmäler, die eine Vorstellung von deutscher Romantik erwecken und nicht zwingend als Weltkulturerbe ausgezeichnet sein müssen. So gehören die Schlösser Neuschwanstein und , die  sowie die mittelalterlichen Stadtkerne von  und  zu den weltweit bekannten touristischen Zielen.
+
+Zunehmender Beliebtheit erfreuen sich aber auch Denkmäler und Stadtbilder aus der Zeit der . Geschlossene historische Stadtbilder sind in den deutschen Großstädten heute kaum noch anzutreffen, da der Zweite Weltkrieg und der Wiederaufbau der  einen Großteil der Kulturdenkmäler unwiederbringlich zerstört hat. Klein- und Mittelstädte mit weitgehend geschlossenen historischen Altstadtbildern sind aber in Deutschland noch recht häufig anzutreffen.
+
+
+
+
+
+=== Museen ===
+ gehört zum  der UNESCO.]]
+
+Es existieren mehr als 6000 Museen, wozu auch private und öffentliche Sammlungen, Schlösser und Gärten gehören. Zu den größten und bekanntesten musealen Einrichtungen gehören das  in München, weltweit größtes naturwissenschaftlich-technisches Museum, und das  in Nürnberg mit einer der bedeutendsten Sammlungen zu Kultur und Kunst von der Vor- und Frühgeschichte bis zur unmittelbaren Gegenwart.
+
+Berlin mit der  und zahlreichen weltweit bedeutsamen Museen bildet einen Schwerpunkt in der Museumslandschaft.
+
+
+<br style="clear: left;" />
+
+=== Feiern und Feste ===
+
+ ist seit Jahrhunderten Bestandteil deutscher Festtagstradition.]]
+
+ ist der  am 3.&nbsp;Oktober, wie es im  über den Beitritt der Deutschen Demokratischen Republik zur Bundesrepublik Deutschland vereinbart wurde.<ref></ref> Alle übrigen Feiertage beruhen auf Gesetzen der Länder. Acht von ihnen sind in allen 16 Ländern Feiertage: , , , , die beiden ,  und der .<br />Wie die Sonntage sind „die staatlich anerkannten Feiertage als Tage der Arbeitsruhe und der seelischen Erhebung gesetzlich geschützt“.<ref>Art. 139 der Weimarer Reichsverfassung vom 11. August 1919, der nach [http://dejure.org/gesetze/GG/140.html Art. 140] GG „Bestandteil dieses Grundgesetzes“ ist.</ref>
+
+Eine der größten touristischen Attraktionen ist das  in München (mundartlich auch ''„d’ Wiesn“''), das größte  der Welt. Bedeutende Veranstaltungen von  sind unter anderem der , die  und die . In  findet alljährlich das größte  der Welt statt.<br />
+Die , eine seit Ende des 19. Jahrhunderts in Kiel ausgetragene , ist das größte Segelsportereignis der Welt und zugleich das größte Sommerfest im Norden Europas.
+
+Überregionale Veranstaltungen:
+* Zum  an einem Sonntag Mitte Mai finden in vielen  spezielle Veranstaltungen statt. In vielen Städten wird zusätzlich regelmäßig eine „“ oder „“ durchgeführt.
+* Jährlich am Pfingstmontag können zum  in allen Bundesländern Wind- und Wassermühlen besichtigt werden.
+* Zum Sommeranfang am 21. Juni veranstalten viele deutsche Städte eine '''', d.&nbsp;h. einen Tag der Straßenmusik.
+* Am letzten Juniwochenende werden deutschlandweit zum  zeitgenössische Bauwerke präsentiert.
+* Am zweiten Sonntag im September liegt der jährliche .
+
+=== Küche ===
+
+- und Käsespezialitäten]]
+
+Die deutsche Küche ist äußerst vielfältig und variiert stark von Region zu Region. Bekannt ist Deutschland vor allem für seine deftigen und schweren Gerichte wie gepökeltes  oder auch  mit ,<ref>Nicht zufällig wurden die Deutschen im Zweiten Weltkrieg von den Amerikanern „Krauts“ genannt.</ref>  mit geräucherter  oder  sowie verschiedene . Aber auch sehr alte und einfache Speisen wie zum Beispiel  oder  sind Tradition. Die regionale Küche ist außerdem von den umliegenden Ländern beeinflusst.
+
+Vor allem in Norddeutschland werden sehr viele Kartoffeln in vielseitigen Zubereitungsformen gegessen, im Süden kommen jedoch die traditionellen ,  und  hinzu. Regionale Besonderheiten sind zum Beispiel die  in Altbayern, die  der Franken, der  im Saarland, die n in Baden-Württemberg, , der , in Hessen der  „mit Musik“ ( und Zwiebeln) und der .
+
+]]
+
+Viele Deutsche lieben ihr regional sehr verschiedenartiges  sowie die verschiedenen sorten (aus klimatischen Gründen ist der Weinanbau und -konsum im Westen und Süden verbreiteter als im Norden und Osten). , meistens mit  versetzt, ist das in Deutschland am häufigsten konsumierte Erfrischungsgetränk. Auch wird verhältnismäßig viel Obstsaft, vor allem Apfelsaft, getrunken.
+
+Ähnlich wie in anderen europäischen Staaten gibt es auch in Deutschland einen Trend weg von den traditionellen schweren Speisen zu leichterer, fettärmerer Kost.
+
+In Deutschland findet man eine landestypisch große Variationsbreite an herzhaften Brotsorten und Wurstaufschnitten. Traditionell wird mittags die warme Mahlzeit und abends eine Brotmahlzeit eingenommen. Der Tag beginnt meist mit einem Frühstück auf der Grundlage von Brot oder Brötchen/Semmeln, neben herzhaften sind süße Brotaufstriche (, n, Schokocremes usw.) und ein gekochtes Ei sehr beliebt. Dazu wird , im Norden verstärkt auch  getrunken.
+
+Süßes Gebäck und große Buttercreme- oder Sahnetorten wie  oder  gehören in Deutschland zum traditionellen Festtagsprogramm. Sie werden zum Nachmittagskaffee gereicht. Im Bergischen Land wird die  mit frischen n serviert.
+<br style="clear: left;" />
+
+== Gesellschaft ==
+=== Soziales ===
+ (Sitz des Bundesrates in Berlin).]]
+
+In Deutschland ist die rechtliche  der Geschlechter verwirklicht. Ein  soll daneben Diskriminierungen aufgrund der , der  Herkunft, der  oder , einer , des  oder der  (etwa ) verhindern.
+
+Deutschland bietet seinen Bewohnern vergleichsweise umfangreiche rechtliche Ansprüche auf soziale Absicherung. Für Arbeitnehmer besteht eine Pflichtmitgliedschaft in der , die aus fünf sogenannten Säulen besteht: , , ,  und . Diese soziale Grundsicherung wird grundsätzlich durch Beiträge der Versicherten finanziert, die Defizite allerdings durch Steuergelder ausgeglichen.
+
+In Deutschland lebten 2003 etwa 15 Prozent der Kinder bis 15 Jahre und mehr als 19 Prozent der Jugendlichen zwischen 16 und 24 Jahren in , wobei die relative Armut von Kindern in Deutschland nach UN-Angaben stärker wächst als in den meisten anderen Industrieländern. Die Zahl der funktionalen Analphabeten liegt in Deutschland noch immer, je nach Abgrenzungsmethode, zwischen etwa 6,5 Prozent und mehr als 11 Prozent der erwachsenen Bevölkerung.
+
+
+
+Die  beginnt im Kaiserreich. Spätere Regierungen haben sie nach und nach erweitert und um zusätzliche soziale Transferleistungen ergänzt, wodurch heute ein großer Teil des  für Soziales verwendet wird.
+
+Das deutsche Gesundheitswesen gehört zu den höchst entwickelten der Welt, was sich in der international sehr niedrigen Rate der , der hohen durchschnittlichen  sowie dem hohen Prozentsatz erfolgreicher Operationen zeigt. Die durchschnittliche Lebenserwartung in Deutschland lag 2007/09 bei 77,4 Jahren für Männer und bei 82,6 für Frauen.<ref>[http://www.welt.de/politik/deutschland/article10727415/Jede-zweite-deutsche-Frau-wird-85-Jahre-alt.html ''Jede zweite deutsche Frau wird 85 Jahre alt'']. Welt Online, Meldung vom 4. November 2010. Abgerufen am 4. November 2010.</ref> Die Kindersterblichkeit beträgt etwa 5 von 1000 Geburten.<ref name="unp">United Nations – Department of Economic and Social Affairs: [http://unpopulation.org/ Population Division]. Abgerufen am 1. Februar 2010.</ref>
+
+Deutschland verfügt über ein umlagenfinanziertes Rentensystem. Dies bedeutet, dass die jeweils arbeitende Bevölkerung durch ihre Beiträge die Zahlungen an die Rentner finanziert. Die derzeit niedrige Geburtenrate sowie die hohe Arbeitslosigkeit stellen ein Problem für dieses Rentensystem dar.
+
+Durch die  bzw. durch das  ist die finanzielle Grundabsicherung sichergestellt.
+
+Neben den vom Staat organisierten en der Bürger untereinander gibt es noch innerstaatliche Transferleistungen. Durch den  sind Bundesländer mit hohem  dazu verpflichtet, einen Teil ihrer Einnahmen an schlechter gestellte Länder abzugeben, damit die Lebensverhältnisse in Deutschland nicht zu weit auseinander gehen. Durch den auf die Einkommenssteuer erhobenen  sollen die den neuen Bundesländern entstandenen teilungsbedingten Lasten gemildert werden.
+<br style="clear: left;" />
+
+=== Gesundheit ===
+
+]]
+
+Das  umfasst die Leistungserbringer, also , ,  usw., den Staat (, Länder, ), die en, die Unfall-, Pflege- und Rentenversicherung, die , die Arbeitgeber und Arbeitnehmer und ihre Verbände, weitere im Gesundheitswesen tätige Interessenverbände und nicht zuletzt die en, z.&nbsp;T. vertreten durch Patientenverbände und en.
+
+Abgesehen von staatlichen  werden die Versorgungsleistungen weitgehend privat erbracht. Außerhalb der Krankenhäuser dominieren freie Berufe, wie niedergelassene Ärzte und Apotheker, und private Unternehmen, beispielsweise die pharmazeutische und die medizintechnische Industrie. Krankenhäuser werden häufig noch in gemeinnütziger Trägerschaft geführt, zunehmend jedoch privatisiert. Der Staat beteiligt sich als Leistungserbringer nur nachrangig in Form von , kommunalen Krankenhäusern oder Hochschulkliniken.
+
+Der größte Teil der deutschen Bevölkerung ist in der  (GKV) versichert, deren Beiträge sich hauptsächlich an der Höhe des Einkommens des Versicherten orientieren. Familienmitglieder sind unter bestimmten Bedingungen beitragsfrei mitversichert. Der Leistungsanspruch ist unabhängig von der Höhe der gezahlten Beiträge. Etwa 10,5 Prozent der Bevölkerung sind .<ref name="PKV-Zahlen">[http://www.pkv.de/zahlen/ Verband der privaten Krankenversicherung e. V.]</ref>
+
+=== Bildung ===
+
+, gegründet im Jahr 1386]]
+
+Das  liegt in der Verantwortung der Länder, wird jedoch durch bundesweite Konferenzen der  koordiniert. Je nach Bundesland besteht eine neun- bis dreizehnjährige . Der Besuch der  dauert mindestens neun Jahre. Danach können n bzw. n besucht werden. Die meisten deutschen Bundesländer haben ein  mit ,  und . Die  wird&nbsp;– je nach Bundesland&nbsp;– nach zwölf oder dreizehn Schuljahren erworben.
+
+Praktisch alle jungen Erwachsenen besuchen nach der Schule eine weiterführende Bildungseinrichtung.  in Betrieben besuchen in der Regel an ein oder zwei Tagen in der Woche die .  können zwischen  und anwendungsorientierten n (n) wählen.
+
+ im ]]
+
+Auch die berufliche Weiterbildung spielt eine große Rolle. Für Arbeitslose stellt die  Weiterbildungsgutscheine bereit.
+Vor ihrer beruflichen Ausbildung können Jugendliche außerdem sogenannte Freiwilligendienste, wie ein  oder ein , absolvieren.
+
+Die  kritisiert die deutsche , da insbesondere die Schulerfolge von Kindern mit Migrationshintergrund unter dem Durchschnitt liegen (). Entgegen den Reformbemühungen der letzten Jahrzehnte ist es weiterhin statistisch signifikant unwahrscheinlicher, dass  das  (Allgemeine Hochschulreife) oder einen  erreichen, als Kinder aus den  oder en. Die Ausgaben für Bildung (4,6 Prozent des Bruttoinlandsprodukts) liegen im OECD-Vergleich unter dem Durchschnitt. Die schulische Förderung im Grundschulalter gilt als verbesserungswürdig, insbesondere was Betreuungsmöglichkeiten und gezielte Förderung schwächerer Schüler angeht.
+<br style="clear: left;" />
+
+=== Wissenschaft ===
+, 1921]]
+
+In Deutschland sind en, en und Fachhochschulen Einrichtungen der Forschung und wissenschaftlichen Lehre. Die (Technischen) Universitäten sind zu - und sverfahren berechtigt. Beide Verfahren sollen Bildung nachweisen und wissenschaftliche Erkenntnisse enthalten. Mit der Einführung internationaler Abschlussbezeichnungen im Zuge des  wird die bisherige Trennung in den Bezeichnungen im  zwischen Fachhochschulen und Universitäten aufgeweicht. Einzelne Hochschuleinrichtungen bilden überhaupt nicht im tertiären Bildungsbereich aus, sondern sind zur postgradualen Bildung oder ausschließlich zur Promotion und Habilitation eingerichtet. Die überwiegende Mehrheit der deutschen Hochschulen sind in öffentlicher Trägerschaft, werden aber in ihrer Forschung über Drittmittel finanziert (, en, Unternehmen und andere).
+
+ (1769–1859)]]
+
+Neben den Universitäten gibt es eine größere Anzahl von Forschungsorganisationen, die deutschlandweit und darüber hinaus tätig sind. Dabei wurde in Deutschland ein System der Arbeitsteilung zwischen der außeruniversitären Forschung und den Universitäten aber auch zwischen den Organisationen geschaffen. Die  verpflichtet sich der . Sie führt 78 Institute in Deutschland und besitzt ein Jahresbudget von 1,3 Milliarden Euro. Die  ist die größte wissenschaftliche Gesellschaft in Deutschland und betreibt 15 sogenannte Großforschungszentren, die fächerübergreifend an wissenschaftlichen Komplexen arbeiten. Die  ist die größte Organisation der . Sie greift in ihren 56 Instituten Ergebnisse der Grundlagenforschung auf und versucht sie wirtschaftlich zu erschließen. Sie stellt der Wirtschaft die Dienstleistung der Auftragsforschung bereit. Weltweite Bekanntheit erlangte sie durch die Entwicklung des -Audioformats. Sie gehört zu den wichtigsten anmeldern und -besitzern in Deutschland. Die  ist ein Verbund eigenständiger Forschungseinrichtungen, die sowohl in der Grundlagenforschung als auch in der angewandten Forschung arbeiten.
+
+ über der Antarktis (Fotomontage). Der  der  wurde unter der Systemführung von Dornier in  konstruiert.]]
+
+Aus Deutschland stammen zahlreiche Forscher aus allen Bereichen der modernen Wissenschaften. Zu Beginn des 20. Jahrhunderts war Deutschland die weltweit führende wissenschaftliche Nation. Nach 1945 hatte Deutschland diesen Status durch Emigration und  eingebüßt; die Folgen sind in einigen Bereichen weitreichend gewesen.
+
+ und  begründeten mit ihren Theorien wichtige Säulen der , auf denen beispielsweise  und  weiter aufbauen konnten. , der erste Physik-Nobelpreisträger, entdeckte und untersuchte die nach ihm benannte , die noch heute eine wichtige Rolle unter anderem in der medizinischen Diagnostik und der Werkstoffprüfung spielt.  schrieb bedeutende Arbeiten zur elektromagnetischen Strahlung, die für die heutige stechnik maßgeblich sind. Die Entwicklungen von , ,  und  haben das Verkehrswesen revolutioniert, die nach Ihren Erfindern benannten  und e sind weltweit ein Begriff.
+
+Die chemische Forschung wurde unter anderem von  und  mit geprägt. Mit ihren erfolgreichen Erfindungen sind Namen wie , , ,  und  Bestandteile der technologischen Allgemeinbildung. Auch viele bedeutende Mathematiker wurden in Deutschland geboren, so zum Beispiel , , , , , , ,  und . Weitere wichtige deutsche Forscher und Wissenschaftler sind , , , , ,  und .
+
+=== Medien ===
+ der ]]
+
+ und Fernsehen sind auch von deutschen Erfindern geprägt worden. Die Versorgung der Bevölkerung mit Sendungen zu allen Themen erfolgte bisher über analog verbreitetes  (UHF/VHF), regionale  (meist analog) und per . Seit 2003 erfolgt die Versorgung mit terrestrischem Fernsehen in Ballungsgebieten digital, das heißt über den -Standard. Eine komplette Digitalisierung des Fernsehens und des s ist geplant. Einige Anbieter bieten ihr Programm inzwischen auch über das Internet an, also im Rahmen von (oft kostenpflichtigem)  bzw. als -Angebote.
+
+Deutschland hat ein vom Gesetzgeber gewolltes , das heißt neben dem gebührenfinanzierten  existieren zahlreiche private Rundfunkanbieter, deren Programme meist werbefinanziert sind.
+
+Beim  gibt es neben dem öffentlich-rechtlichen Fernsehen, dem unter anderem die Sender der  und des  angehören, auch . Zu ihnen gehören unter anderem die , die , , , die  sowie regionale Anbieter. Neben frei empfangbaren Fernsehsendern existieren außerdem digitale  von  sowie der Bezahlfernsehsender .
+
+ in ]]
+
+Die Hörfunklandschaft Deutschlands ist stark von Regionalsendern geprägt, die meist nur in einem oder einigen aneinander grenzenden Bundesländern senden. Diese Radioprogramme sind oft öffentlich-rechtlich dominiert und werden von den jeweiligen en, wie dem  (WDR) oder dem  (BR), aber auch von  ausgestrahlt.
+
+Die überregionale  des Landes ist sehr vielfältig, zu den meistgelesenen Tageszeitungen gehören die , die ,  sowie die . Wöchentlich erscheinende Nachrichtenmagazine sind unter anderem „“, der „“ und die Zeitschrift „“. Charakteristisch für das regionale und lokale Presseangebot ist jedoch der sogenannte Ein-Zeitungs-Kreis, d.&nbsp;h. in den meisten Regionen gibt es nur eine Lokalzeitung und damit ein Monopol.<ref>, ''Massenmedien in Deutschland'', UVK, Konstanz 2004</ref>
+
+Ende 2008 verfügten 75 Prozent der Bevölkerung über einen anschluss; etwa 27,5 Prozent konnten auf einen  zurückgreifen.<ref>International Telecommunication Union: [http://www.itu.int/ITU-D/icteye/DisplayCountry.aspx?countryId=67 ICT Statistics – Germany]. Abgerufen am 1. Februar 2010.</ref> Der Nutzung von '''' kommt eine immer bedeutendere Rolle zu. Die Bruttoreichweite der ''Social Networks'' betrug per Januar 2011 47,9 Millionen Personen.<ref></ref> <br style="clear: left;" />
+
+=== Sport ===
+ während der ]]
+
+Sport hat eine hohe gesellschaftliche Bedeutung. 2009/10 waren etwa 27,6 Millionen Deutsche in 91.000 Turn- und Sportvereinen organisiert.<ref>Deutscher Olympischer Sportbund: [http://www.dosb.de/de/organisation/organisation/ Daten und Fakten], Stand: 2009/2010. Abgerufen am 11. Oktober 2011.</ref> Die überwiegende Anzahl der Sportvereine sind im  (DOSB) zusammengefasst.
+
+Die beliebteste Sportart in Deutschland ist . Über 6,7 Millionen Mitglieder und fast 172.000 Mannschaften (Stand: 2011) sind im  organisiert,<ref>Deutscher Fußballbund: [http://www.dfb.de/index.php?id=11015 Mitglieder-Statistik], Stand: 2011. Abgerufen am 9. Oktober 2011.</ref> der die en  und  ausrichtete und weltweit einer der größten und erfolgreichsten Sportfachverbände ist. Die  wurde 1954,1974 und 1990 . Deutschland ist bisher das einzige Land, das im Fußball sowohl bei den Frauen als auch den Männern Europa- und Weltmeister werden konnte. Das größte Stadion ist der  (80.720 Plätze), in dem  seine Heimspiele austrägt.
+
+]]
+
+Deutschland war Austragungsort der Olympischen Sommerspiele im Jahr 1936 und 1972. Die Olympischen Winterspiele wurden im Jahr 1936 ausgetragen. Deutschland nimmt den dritten Platz im  der  ein.
+
+Die  wird oft als die beste Spielklasse der Welt angesehen, die Herren-Nationalmannschaft wurde 2007 zum dritten Mal Weltmeister. Beinahe 850.000 Mitglieder gehören rund 4600 Vereinen an (Stand: 2009).<ref>Deutscher Handballbund: [http://www.dhb.de/index.php?id=5 ''Das Unternehmen Handball stellt sich vor''], Stand: 2009. Abgerufen am 1. Februar 2010.</ref> Der Dachverband des deutschen Handballs ist der .
+
+ und  werden zunehmend beliebter und nehmen in Bezug auf Zuschauerzahlen und Medienpräsenz einen höheren Stellenwert ein. Im Basketball ist der Deutsche , der 2007 zum  (wertvollster Spieler) in der nordamerikanischen Profiliga  gewählt wurde und 2011 als erster Deutscher mit den  den NBA-Titel gewann, einer der besten Spieler der Welt.<ref>[http://www.spiegel.de/sport/ussports/0,1518,482302,00.html ''Ehrung: Nowitzki zum MVP gewählt''], ''Spiegel Online'', Meldung vom 11. Mai 2007. Abgerufen am 1. Februar 2010.</ref> Zuvor gelang es in den 1990er-Jahren  als Deutscher den Sprung in die NBA. Zu seiner Zeit war Schrempf der beste deutsche Basketballspieler.
+
+ der  seit 1990 (Biathletin ).]]
+
+Im  wurde Deutschlands Herrenmannschaft 2002 und 2006 Weltmeister sowie 1972, 1992 und 2008 Olympiasieger. Die Damen wurden 2004 ebenfalls Olympiasieger.
+
+ erlebte in den 1980er- und 1990er-Jahren durch die Erfolge der deutschen Berufssportler ,  und  einen Boom, hat seitdem aber wieder etwas an Popularität verloren.
+
+Beim  richtet sich das öffentliche Interesse besonders auf die  und die , wo deutsche Fahrer und Konstrukteure Spitzenerfolge erzielen konnten. Der derzeitige   ist mit sieben Weltmeistertiteln der erfolgreichste Formel-1-Fahrer aller Zeiten.  ist der amtierende Weltmeister der Rennsaison 2010/11.
+
+Die Beliebtheit des Radsports hängt in starkem Maße von den aktuellen Erfolgen deutscher Fahrer ab.  (in den 1960er-Jahren) und  gehörten zu den erfolgreichsten Radsportlern ihrer Zeit.
+
+
+
+Auch im Boxen kann Deutschland auf Erfolge zurückblicken. Herausragende Sportler waren unter anderem ,  und .
+
+Zu den ältesten Sportarten zählt das . Der  hat etwa 1,5 Millionen Mitglieder. Insgesamt gibt es deutschlandweit etwa sechs Millionen Sportschützen.<ref>DSB: [http://www.dsb.de/dsb/ Deutscher Schützenbund]. Abgerufen am 1. Februar 2010.</ref> Große Erfolge konnten deutsche Sportler auch in weiteren Sportarten wie , , , , , der  und im  erreichen. Im Tischtennis zählt , im   zu den besten Spielern der Welt.
+
+Wintersport hat eine lange Tradition in Deutschland. Im , , ,  und  konnten deutsche Sportler regelmäßig Medaillen bei Welt- und en sowie bei den Olympischen Spielen gewinnen. Populäre Wintersportarten sind das , bei dem  und  Geschichte schreiben konnten, sowie verschiedene .
+<br style="clear: left;" />
+
+== Siehe auch ==
+
+* , 
+* 
+
+== Gesprochene Version ==
+{{Gesprochene Version
+|datei     = De-deutschland-1-article.ogg
+|titel     = 
+|länge     = 36:28 min
+|größe     = 12,49 MB
+|version   = 78718621
+|datum     = 5. September 2010
+|datei2    = De-deutschland-2-article.ogg
+|titel2    = 
+|länge2    = 39:26 min
+|größe2    = 13,44 MB
+|version2  = 78718621
+|datum2    = 5. September 2010
+|datei3    = De-deutschland-3-article.ogg
+|titel3    = 
+|länge3    = 33:34 min
+|größe3    = 11,64 MB
+|version3  = 78718621
+|datum3    = 5. September 2010
+|datei4    = De-deutschland-4-article.ogg
+|titel4    = 
+|länge4    = 37:24 min
+|größe4    = 13,08 MB
+|version4  = 78718621
+|datum4    = 5. September 2010
+|datei5    = De-deutschland-5-article.ogg
+|titel5    = 
+|länge5    = 30:01 min
+|größe5    = 10,51 MB
+|version5  = 78718621
+|datum5    = 5. September 2010
+|datei6    = De-deutschland-6-article.ogg
+|titel6    = 
+|länge6    = 35:55 min
+|größe6    = 12,28 MB
+|version6  = 78718621
+|datum6    = 5. September 2010
+|exzellent = nein
+}}
+
+== Literatur ==
+* Margarete Graf: ''Schnellkurs Deutschland'', DuMont, Köln 2007, ISBN 978-3-8321-7760-7.
+* Bernard Nuss: ''Das Faust Syndrom – Ein Versuch über die Mentalität der Deutschen'', Bouvier Verlag, Bonn/Berlin 1993, ISBN 3-416-02372-2.
+* Axel Schildt, Detlef Siegfried: ''Deutsche Kulturgeschichte: Die Bundesrepublik von 1945 bis zur Gegenwart''. Carl Hanser Verlag, München 2009, ISBN 3-446-23414-4.
+
+== Weblinks ==
+
+
+
+
+
+
+
+* [http://www.deutschland.de/ deutschland.de]&nbsp;– Mehrsprachiges Deutschland-Portal
+* [http://www.bundesrepublik.org/ bundesrepublik.org]&nbsp;– Deutschland von Bürger zu Bürger
+* [http://www.destatis.de/ destatis.de]&nbsp;– Zahlen, Daten, Fakten über Deutschland vom Statistischen Bundesamt
+* [http://www.germany-in-maps.de/ ''Deutschland in Karten'']&nbsp;und&nbsp;[http://aktuell.nationalatlas.de/ ''Nationalatlas aktuell'']&nbsp;– Überblick über die gesellschaftliche Situation,  für Länderkunde (IfL)
+*  – Dossier des CIA über Deutschland
+* [http://www.tatsachen-ueber-deutschland.de/de/home1.html Handbuch „Tatsachen über Deutschland“] – aktuelle Informationen über Deutschland
+* 
+* [http://www.politische-bildung.de/60_jahre_grundgesetz_brd.html 60 Jahre Gründung der Bundesrepublik Deutschland] – Informationsportal zur politischen Bildung
+* [http://www.goethe.de/ges/deindex.htm Goethe-Institut] – Artikelsammlung zur Gesellschaft in Deutschland
+
+== Einzelnachweise ==
+<references />
+
+{{NaviBlock
+|Navigationsleiste Deutsche Staatssysteme
+|Navigationsleiste G8
+|Navigationsleiste EU-Staaten
+|Navigationsleiste Staaten in Europa
+|Navigationsleiste Mitgliedstaaten OECD
+|Navigationsleiste Mitgliedstaaten OSZE
+}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -32,6 +32,7 @@ GEM
     treetop (1.4.10)
       polyglot
       polyglot (>= 0.3.1)
+    wikipedia-client (1.0.0)
 
 PLATFORMS
   ruby
@@ -45,3 +46,4 @@ DEPENDENCIES
   ruby-debug (~> 0.10.4)
   sanitize
   shoulda
+  wikipedia-client

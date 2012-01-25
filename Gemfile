@@ -11,6 +11,8 @@ group :development do
   gem "mail"
   gem "sanitize"
   gem "character-encodings"
+  gem "wikipedia-client"
+  gem "json"
 end
 
 group :test do

@@ -1,96 +1,738 @@
-România este o țară situată în sud-estul Europei Centrale, pe cursul inferior al Dunării, la nord de peninsula Balcanică și la țărmul nord-vestic al Mării Negre.[4] Pe teritoriul ei este situată aproape toată suprafața Deltei Dunării și partea sudică și centrală a Munților Carpați. Se învecinează cu Bulgaria la sud, Serbia la sud-vest, Ungaria la nord-vest, Ucraina la nord și est și Republica Moldova la est, iar țărmul Mării Negre se găsește la sud-est.
-De-a lungul istoriei, diferite porțiuni ale teritoriului de astăzi al României au fost în componența sau sub administrația Daciei, Imperiului Roman, Imperiului Otoman, Imperiului Rus sau a celui Austro-Ungar.
-România a devenit stat suveran în 1859 prin unirea dintre Moldova și Țara Românească condusă de Alexandru Ioan Cuza și a fost recunoscută ca țară independentă 19 ani mai târziu. În 1918, Transilvania, Bucovina și Basarabia s-au unit cu România formând România Mare sau România interbelică, care a avut extinderea teritorială maximă din istoria României (295.641 km2).
-În ajunul celui de-al Doilea Război Mondial (1940), România Mare (Întregită), sub presiunea Germaniei condusă de Hitler și colaborarea guvernului pro-nazist condus de Gigurtu, a încetat să mai existe prin cedarea de teritorii Ungariei (nordul Transilvaniei), Bulgariei (Cadrilaterul) și Uniunii Sovietice (Basarabia, Herța și Bucovina de nord). După abolirea regimului lui Antonescu de la 23 august 1944 și întoarcerea armelor contra Puterilor Axei, România s-a alăturat Puterilor Aliate (Anglia, Statele Unite, Franța și Uniunea Sovietică) și a recuperat nordul Transilvaniei, fapt definitivat prin Tratatul de pace de la Paris semnat la 10 februarie 1947.
-La momentul destrămării Uniunii Sovietice și a înlăturării regimului comunist instalat în România (1989), țara a inițiat o serie de reforme economice și politice. După un deceniu de probleme economice, România a introdus noi reforme economice de ordin general (precum cota unică de impozitare, în 2005) și a aderat la Uniunea Europeană la 1 ianuarie 2007.
-România este o republică semi-prezidențială. Este a noua țară după suprafața teritoriului (238 391 km²) și a șaptea după numărul populației (peste 22 milioane locuitori)[5] dintre statele membre ale Uniunii Europene. Capitala țării, București, este și cel mai mare oraș al ei și al șaselea oraș din UE după populație (1,9 milioane locuitori). În 2007, orașul Sibiu a fost ales Capitală Europeană a Culturii[6]. România este membră a unor organizații internaționale: ONU din 1955, CoE din 1993, Uniunea Europeană de la 1 ianuarie 2007, NATO din 29 martie 2004, OSCE, OIF din 2003, Uniunea Latină din 1980 și unor instituții economice: Grupul Băncii Mondiale, FMI din 1972, BERD din 1991, OCDE.
 
-Etimologie
+<!---->
+{{Infocaseta Țară
+| nume = România
+| nume_genitiv = României
+| imagine_drapel = Flag of Romania.svg
+| imagine_stemă = Coat of arms of Romania.svg
+| imagine_hartă = Location Romania EU Europe.PNG
+| descriere_hartă = Amplasarea '''României''' (verde închis):<br />— în cadrul  (verde deschis și gri închis)<br />— în cadrul  (verde deschis)
+| imn_național = <center></center><br /> 
+| limbi_oficiale =  (91%)
+| languages_type = Limbile minorităților mari
+| limbi =  (6,7%),  (1,1%)
+| etnonim = <small>(masc.)</small> român, <small>(fem.)</small> româncă, <small>(pl.)</small> 
+| capitală = 
+| cel_mai_mare_oraș = 
+| latd=44|latm=25|latNS=N|longd=26|longm=06|longEW=E
+| sistem_politic =   
+| ethnic_groups = 89,5% <br />6,6% <br />2,5% <br />1,4% alte minorități etnice
+| titlu_conducător1 = 
+| titlu_conducător2 = 
+| nume_conducător1 = 
+| nume_conducător2 = 
+| tip_suveranitate = Independență
+| notă_suveranitate = față de 
+| eveniment_fondare1 = declarată 
+| eveniment_fondare2 = recunoscută
+| dată_fondare1 =   
+| dată_fondare2 =  
+| aderareUEdată =  
+| suprafață_km2 = 238391
+| suprafață_loc = 82
+| procentaj_apa = 3
+| populație_estimare_an = 
+| populație_estimare =  21.904.551<ref>[http://www.indexmundi.com/romania/demographics_profile.html Index Mundi - Profilul demografic al României (2011)]</ref>
+| populație_estimare_loc = 52
+| populație_recensământ_an = 
+| populație_recensământ =  21.680.974<ref name="edrc_2002"></ref>
+| densitate_populație_km2 = 93
+| densitate_populație_loc = 104
+| PIB_an = 
+| PIB_PPC = 254,2 miliarde <ref name=CIA/>
+| PIB_PPC_loc = 48
+| PIB_PPC_pe_locuitor = 11.600 <ref name=CIA>https://www.cia.gov/library/publications/the-world-factbook/geos/ro.html</ref>
+| PIB_PPC_pe_locuitor_loc = 96
+| PIB_nominal = 165,983 miliarde USD
+| PIB_nominal_loc = 38
+| PIB_nominal_an = 2007
+| PIB_nominal_pe_locuitor = 7697 USD
+| PIB_nominal_pe_locuitor_loc = 58
+| IDU_an = 2005
+| IDU = 0,813
+| IDU_loc = 60
+| IDU_categorie = <span style="color: green">ridicat</span>
+| Gini = 31
+| Gini_an = 2005
+| Gini_categorie = <span style="color: green">coborât</span>
+| monedă = 
+| monedă_ISO = RON<sup>1</sup>
+| fus_orar = 
+| utc = +2
+| fus_orar_ODV = 
+| utc_ODV = +3
+| domeniu_internet = <sup>2</sup>
+| prefix_telefonic = 40
+| note = 1.  a fost reexprimat pe data de  . Odată cu această denominare, 10.000 lei (vechi) sunt echivalenți cu 1 leu (nou).<br />2. Se poate folosi și domeniul , întrucât România face parte din .<br />
+}}
+'''România''' este o țară situată în sud-estul , pe cursul inferior al , la nord de  și la țărmul nord-vestic al .<ref>[http://www.nato.int/invitees2004/romania/glance.htm Raport al OTAN]. Accesat la 15 decembrie 2008.</ref> Pe teritoriul ei este situată aproape toată suprafața  și partea sudică și centrală a . Se învecinează cu  la sud,  la sud-vest,  la nord-vest,  la nord și est și  la est, iar țărmul Mării Negre se găsește la sud-est.
 
-Pentru detalii, vezi: etimologia termenilor „român” și „România”.
-Numele de „România” provine de la „român”, cuvânt derivat din latinescul romanus.[7]
-Cel mai vechi indiciu referitor la existența numelui de „român” ar putea fi conținut de Cântecul Nibelungilor: „Ducele Ramunch din țara Valahilor/cu șapte sute de luptători aleargă în întâmpinarea ei/ca păsările sălbatice, îi vedeai galopând”.[8] Ramunch ar putea fi o transliterație a numelui „Român” reprezentând în acest context un conducător simbolic al românilor.[9]
+De-a lungul istoriei, diferite porțiuni ale teritoriului de astăzi al României au fost în componența sau sub administrația , , ,  sau a celui . 
 
+România a devenit  în  prin  dintre  și  condusă de  și a fost recunoscută ca țară independentă 19&nbsp;ani mai târziu. În , ,  și  s-au unit cu România formând  sau România interbelică,  care a avut extinderea teritorială maximă din  (295.641 km<sup>2</sup>). 
 
-Scrisoarea lui Neacşu, cel mai vechi document conservat scris în limba română
-Cele mai vechi atestări documentare ale termenului de „rumân/român” cunoscute în mod cert sunt conținute în relatări, jurnale și rapoarte de călătorie redactate de umaniști renascentiști din secolul al XVI-lea care, fiind în majoritate trimiși ai Sfântului Scaun, au călătorit în Țara Românească, Moldova și Transilvania. Astfel, Tranquillo Andronico notează în 1534, că valahii „se numesc romani”.[10] Francesco della Valle scrie în 1532 că valahii „se denumesc romani în limba lor”. Mai departe, el citează chiar și o scurtă expresie românească: „Sti rominest?”.[11] După o călătorie prin Țara Românească, Moldova și Transilvania, Ferrante Capecci relatează prin 1575 că locuitorii acestor provincii se numesc pe ei înșiși „români” (romanesci).[12] Pierre Lescalopier scrie în 1574 că cei care locuiesc în Moldova, Țara Românească și cea mai mare parte a Transilvaniei, „se consideră adevărați urmași ai romanilor și-și numesc limba «românește», adică romana”.[13]
-Mărturii suplimentare despre endonimul de „rumân/român” furnizează și autori care au venit în mod prelungit în contact direct cu românii. Astfel, umanistul sas Johann Lebel relatează în 1542 că „românii […] se numesc pe ei înșiși «Romuini»”.[14] Istoricul polonez Orichovius (Stanisław Orzechowski) scrie în 1554 că românii „se numesc pe limba lor romini după romani, iar pe limba noastră (poloneză) sunt numiți valahi, după italieni”,[15] în timp ce primatul și diplomatul ungar Anton Verancsics scrie în 1570 că „românii se numesc romani”,[16] iar eruditul maghiar transilvan Martinus Szent-Ivany citează în 1699 expresii românești ca: „Sie noi sentem Rumeni” și „Noi sentem di sange Rumena”.[17]
-Cel mai vechi indiciu cunoscut asupra unei denumiri geografice cu mențiunea „rumânesc” este conținută de unele versiuni ale operei Getica de Iordanes: „... Sclavini a civitate nova et Sclavino Rumunense et lacu qui appellantur Mursianus...”.[18] Denumirea Rumunense constituie o transliterație latinizantă a unei pronunții slave pentru „rumânesc”. Deși mențiunea Sclavino Rumunense s-a dovedit a fi apocrifă, ea fiind o interpolare ulterioară în textul lui Iordanes, relevanța ei istorică rămâne considerabilă, interpolarea neputând fi mai târzie de secolele al X-lea–al XI-lea.
+În ajunul celui de- (1940),  (Întregită), sub presiunea Germaniei condusă de Hitler și colaborarea guvernului pro-nazist condus de , a încetat să mai existe prin cedarea de teritorii  (nordul Transilvaniei),  (ul) și  (,  și ). După abolirea regimului lui  de la   și întoarcerea armelor contra Puterilor Axei, România s-a alăturat  (Anglia, Statele Unite, Franța și Uniunea Sovietică) și a recuperat nordul , fapt definitivat prin  semnat la 10 februarie 1947.
 
+La momentul destrămării Uniunii Sovietice și a   (), țara a inițiat o serie de reforme economice și politice. După un deceniu de probleme economice, România a introdus noi reforme economice de ordin general (precum cota unică de impozitare, în 2005) și a aderat la  la  .
 
-O hartă a ipoteticei Rumânii (România), datată 1855, realizată de Cezar Bolliac
-Cea mai veche atestare documentară cunoscută a numelui de țară este Scrisoarea lui Neacșu din 1521, ce conține mențiunea cěra rumŭněskŭ (Țeara Rumânească).
-Miron Costin insistă asupra denumirii de „român, adică roman” ce o poartă românii din Principatele Române.[19] La fel, Constantin Cantacuzino explică pe larg în Istoria Țării Rumânești originile și semnificația denumirii de „român, românesc” dată Țărilor Române. [20] Dimitrie Cantemir denumește în mod sistematic toate cele trei Principate locuite de români ca „Țări Românești”.[21] Termenul de „România” în accepțiunea sa modernă este atestat documentar în al doilea deceniu al secolului al XIX-lea.[22]
-Până în secolul al XIX-lea au coexistat pentru spațiul dintre Nistru și Tisa denumirile de „Rumânia” și „România”, precum și endonimul „rumâni” alături de „români”, forma scrisă cu „u” fiind predominantă.[23] Din termenul „rumân” s-a format la finele secolului XVIII exonimul modern a poporului român și a statului român în cazul principalelor limbi europene: „Rumänen/Rumänien” (germană), „Roumains/Roumanie” (franceză), „Rumanians/Rumania” (denumirea învechită din engleză), „Rumuni/Rumunija” (în sârbă; totuși, în cazul românilor timoceni s-a păstrat exonimul de „vlahi”, vechiul exonim al tuturor românilor[24], până în ziua de azi, chiar dacă se autodefinesc în limba maternă drept „rumâni”[25][26]) etc. În ultimele decenii, în mai multe limbi s-a trecut la înlocuirea formei care derivă din „rumân” în cea care derivă din „român”. Astfel, în limba engleză forma „Rumania” a fost în locuită cu „Romania”. În limba italiană denumirea „Rumania” a fost înlocuită cu „Romania”, iar în limba portugheză se folosesc formele „Romenia” (pentru a desemna statul român) și „Romeno” pentru a desemna poporul român.[23]
+România este o . Este a noua țară după suprafața teritoriului (238&nbsp;391&nbsp;) și a șaptea după  (peste 22&nbsp;milioane locuitori)<ref name="populație"></ref> dintre . Capitala țării, , este și cel mai mare  al ei și al șaselea  după populație (1,9&nbsp;milioane locuitori). În 2007, orașul  a fost ales <ref></ref>. România este membră a unor organizații internaționale:  din 1955,  din 1993,  de la 1 ianuarie 2007,  din 29 martie 2004, ,  din 2003,  din 1980 și unor instituții economice: ,  din 1972,  din 1991, .
 
-Istorie
-
-Pentru detalii, vezi: istoria României.
-Prin istoria României se înțelege, în mod convențional, istoria regiunii geografice românești, a popoarelor care au locuit-o precum și a statului Român modern. Una dintre cele mai dezbătute probleme din istoriografia românească, problemă care de fapt indică însuși drumul parcurs de aceasta, este problema originilor.[27][28][29][30] Astfel, originile românilor sunt disputate, existând mai multe teorii.[31]
-[modificare]Dacia și Imperiul Roman
-Pentru detalii, vezi: Daci și Dacia romană.
-Se consideră că triburile creatoare ale culturii bronzului pe teritoriul României aparțin grupului indo-european al tracilor.[32][33][34] Strabon în „Geografia” menționa că geții aveau aceeași limbă cu tracii, iar dacii aceeași limbă cu geții.[35] Totuși, prima relatare despre geți aparține lui Herodot.[36][37] Cucerirea Daciei de către romani conduce la contopirea celor două culturi: daco-romanii sunt strămoșii poporului român.[38] După ce Dacia a devenit provincie a Imperiul Roman s-au impus elemente de cultură și civilizație romană, inclusiv latina vulgară care a stat la baza formării limbii române.[39][40][41]
-
-
-Decebal, basorelief de pe Columna lui Traian
-Pe baza informațiilor din inscripția de la Dionysopolis[42][43][44] și de la Iordanes, se știe că sub stăpânirea lui Burebista, ajutat de marele preot Deceneu, s-a format primul stat geto-dac.[45][46] În anul 44 î.Hr., Burebista este asasinat de unul dintre slujitorii săi.[47] După moartea lui, statul geto-dac se va destrăma în 4, apoi în 5 regate.[48] Nucleul statal se menține în zona munților Șureanu, unde domnesc succesiv Deceneu, Comosicus și Coryllus.[49] Statul centralizat dac va atinge apogeul dezvoltării sale sub Decebal.[50] În această perioadă se mențin o serie de conflicte cu Imperiul Roman, o partea a statului dac fiind cucerită în 106 d.Hr. de împăratul roman Traian.[51] Între anii 271-275 d.Hr. are loc retragerea aureliană.[52]
-[modificare]Perioada principatelor și Epoca fanariotă
-Pentru detalii, vezi: Statele medievale românești și Epoca fanariotă.
-În primul mileniu, peste teritoriul României au trecut valuri de popoare migratoare: goții în secolul III - IV[53], hunii în secolul IV[54], gepizii în secolul V[55][56], avarii în secolul VI[57], slavii în secolul VII, ungurii în secolul IX, pecenegii[58], cumanii[59] , uzii și alanii în secolele X - XII și tătarii în secolul XIII.
-În secolul al XIII-lea sunt atestate primele cnezate la sud de Carpați.[60] Mai apoi, în contextul cristalizării relațiilor feudale, ca urmare a creării unor condiții interne și externe favorabile (slăbirea presiunii ungare și diminuarea dominației tătarilor) iau ființă la sud și est de Carpați statele feudale de sine stătătoare Țara Românească (1310), sub Basarab I și Moldova (1359), sub Bogdan I.[50] Dintre domnitorii ce au avut un rol mai important, pot fi amintiți: Alexandru cel Bun, Ștefan cel Mare, Petru Rareș și Dimitrie Cantemir în Moldova, Mircea cel Bătrân, Vlad Țepeș și Constantin Brâncoveanu în Țara Românească și Iancu de Hunedoara în Transilvania. Începând cu sfârșitul secolului al XV-lea cele două principate intra treptat în sfera de influență a Imperiului Otoman.
-
-
-Alexandru Ioan Cuza
-Transilvania, parte de-a lungul Evului Mediu a Regatului Ungariei[61], guvernată de voievozi, devine un principat de sine stătător, vasal Imperiului Otoman din 1526. La cumpăna secolelor al XVI-lea și al XVII-lea Mihai Viteazul domnește pentru o foarte scurtă perioadă de vreme peste o bună parte din teritoriul României de astăzi.[62]
-În secolul al XVIII-lea, Moldova și Țara Românească și-au păstrat în continuare autonomia internă, dar în 1711 și 1716 respectiv, începe perioada domnitorilor fanarioți,[63] numiți direct de turci din rândul familiilor nobile de greci din Constantinopol. Prin încheierea pactului dualist în 1867, Transilvania și-a pierdut la scurtă vreme resturile autonomiei sale politice, fiind înglobată din punct de vedere politic și administrativ Ungariei.[64]
-[modificare]Unirea și Regatul României
-Pentru detalii, vezi: Renașterea națională a României și Principatele Unite ale Moldovei și Țării Românești.
-Statul modern român a fost creat prin unirea principatelor Moldova și Muntenia (sau Țara Românească), în anul 1859, odată cu alegerea concomitentă ca domnitor în ambele state a lui Alexandru Ioan Cuza.[65][66][67] Acesta a fost obligat să abdice în anul 1866 de către o largă coaliție a partidelor vremii, denumită și Monstruoasa Coaliție, Cuza fiind obligat să părăsească țara.[68] În 1877, România își obține independența iar în 1881, Carol I este încoronat ca Rege al României.[69] În 1913, România a intră în război împotriva Bulgariei, la capătul căruia a obținut Cadrilaterul.[70][71][72] În 1914, regele Carol I moare, rege al României devenind Ferdinand I.[68]
-În 1916 România a intrat în Primul Război Mondial de partea Antantei.[73] Deși forțele române nu s-au descurcat bine din punct de vedere militar, până la sfârșitul războiului, Imperiile Austriac și Rus s-au dezintegrat; Adunarea Națională în Transilvania, și Sfatul Țării în Basarabia și Bucovina și-au proclamat Unirea cu România,[74] iar Ferdinand s-a încoronat rege al României la Alba Iulia în 1922.[75] Tratatul de la Versailles a recunoscut toate proclamațiile de unire în conformitate cu dreptul la autodeterminare stabilit de Declarația celor 14 puncte ale președintelui american Thomas Woodrow Wilson.[76]
-În 1938, regele Carol al II-lea își asumă puteri dictatoriale.
-Odată cu venirea sa la putere, Ion Gigurtu, președinte al Consiliului de Miniștri, între 4 iulie și 4 septembrie 1940, a declarat că va duce o politică nazistă pro-Axa Berlin–Roma, antisemită și fascist-totalitară[77][78][79]. În urma Pactului Ribbentrop-Molotov din 1939, prin acceptarea arbitrajului lui Hitler asupra Transilvaniei (după ce Gigurtu a declarat la radio că România trebuie să facă sacrificii teritoriale pentru a justifica orientarea sa nazistă și aderarea totală a României la Axa Berlin–Roma), România a cedat Ungariei nordul Transilvaniei, inclusiv orașul Cluj.[80][81][82] Vastele teritorii din Transilvania care au fost cedate de Ion Gigurtu în favoarea Ungariei conțineau importante resurse naturale, inclusiv mine de aur.[83] Ion Gigurtu a fost de acord și cu cedarea a 8000 km2 din Dobrogea de sud în favoarea Bulgariei[84] și Uniunii Sovietice, Basarabia Herța și Bucovina de Nord.[81]
-Față de retragerea haotică din Basarabia, cedările teritoriale, nemulțumirea opiniei publice și protestele liderilor politici, regele Carol al II-lea suspendă Constituția României și îl numește ca prim-ministru pe Generalul Ion Antonescu. Aceasta, sprijinit de Garda de Fier, cere regelui să abdice în favoarea fiului său, Mihai. Apoi, Antonescu își asumă puteri dictatoriale și devine șef de stat precum și președinte al consiliului de miniștri. În 1941, ca aliat al Germaniei, România declară război Uniunii Sovietice.[85][86]
-[modificare]România comunistă
-Pentru detalii, vezi: România socialistă.
-La data de 23 august 1944, armata sovietică fiind deja în Moldova de nord încă din luna martie, regele Mihai își dă acordul pentru înlăturarea prin forță a mareșalului Antonescu dacă acesta va refuza semnarea armistițiului cu Națiunile Unite.[87] În urma refuzului net al lui Antonescu, Regele Mihai l-a destituit și l-a arestat, iar România a trecut de partea Aliaților.[87]
-La mai puțin de 3 ani de la Ocupația sovietică a României, în 1947, regele Mihai I este forțat să abdice[88] și e proclamată Republica Populară Română - stat al democrației populare. Regimul instaurat, condus de Partidul Muncitoresc Român, își întărește poziția printr-o politică stalinistă de descurajare a oricărei opoziții politice și de distrugere a structurilor economico-sociale ale vechiului regim.[89][90] La începutul anilor 1960, guvernul român a început să-și afirme o anumită independență față de Uniunea Sovietică,[91] fără însă să renunțe la „cuceririle revoluționare”.[89] În 1965 moare principalul lider comunist Gheorghe Gheorghiu-Dej, după care România intră într-o perioadă de schimbări.[92] După o scurtă luptă pentru putere, în fruntea partidului comunist a venit Nicolae Ceaușescu,[92] care a devenit secretar general al Partidului Comunist Român în 1965, președinte al Consiliului de Stat în 1967 și președinte al Republicii Socialiste România în 1974. Conducerea lungă de câteva decenii a președintelui Nicolae Ceaușescu a devenit din ce în ce mai opresivă în anii 1980.[91]
-
-
-Revoluţia română din 1989
-[modificare]România după 1989
-Pentru detalii, vezi: România după 1989 și Revoluția română din 1989.
-După căderea comunismului în tot restul Europei de Est, un protest început la mijlocul lunii decembrie 1989 la Timișoara s-a transformat rapid într-un protest național împotriva regimului lui Ceaușescu, înlăturându-l pe dictator de la putere.[93]
-O organizație interimară formată din foste oficialități comuniste a preluat controlul guvernului, iar Ion Iliescu a devenit președintele provizoriu al țării. Noul guvern a revocat multe din politicile oprimante[94][95][96] și a închis câțiva dintre conducătorii regimului comunist.
-
-
-Din 2007, România este membră a Uniunii Europene.
-În mai 1990 s-au organizat alegeri ale partidelor pentru legislatură și președinție. Iliescu a fost ales președinte, iar partidul său, Frontul Salvării Naționale, a câștigat controlul legislativ. Petre Roman a devenit prim-ministru. Alegerile însă nu au pus punct demonstrațiilor antiguvernamentale. Dezlănțuirile minerilor au dus la demiterea guvernului Roman în septembrie 1991. În octombrie, fostul ministru de finanțe, Theodor Stolojan i-a urmat lui Roman ca prim-ministru și a format un nou cabinet.[97] În alegerile naționale din 1992, Ion Iliescu și-a câștigat dreptul la un nou mandat. Cu sprijin parlamentar de la partidele parlamentare naționaliste PUNR, PRM și fostul partid comunist PSM, a fost format un guvern în noiembrie 1992, sub prim-ministrul Nicolae Văcăroiu.[98]
-Emil Constantinescu din coaliția electorală Convenția Democrată Română (CDR) l-a învins în 1996 pe președintele Iliescu, după un al doilea scrutin și l-a înlocuit la șefia statului. Victor Ciorbea a fost numit prim-ministru. Ciorbea a rămas în această funcție până în martie 1998, când a fost înlocuit de Radu Vasile și mai târziu de Mugur Isărescu.[98] Alegerile din 2000 au fost câștigate de PSD și Ion Iliescu, iar Adrian Năstase a fost numit prim-ministru.[99] În 2004, alegerile l-au dat învingător pe Traian Băsescu în funcția de Președinte al statului, în fruntea unei coaliții formată din PNL și PD, alături de UDMR și PUR, iar în funcția de prim-ministru a fost numit Călin Popescu Tăriceanu.[100]
-Din 2004 România este membru NATO, iar din 2007 a devenit membră a Uniunii Europene.[101][102] În urma alegerilor legislative din noiembrie 2008, Partidul Democrat-Liberal a obținut cele mai multe mandate, fiind urmat de alianța dintre PSD și PC, PNL și UDMR.[103] Ulterior se formează un guvern de alianță, între PSD+PC și PD-L, condus de Emil Boc,[104] pentru ca din decembrie 2009, în urma votului Parlamentului, PD-L, UDMR și grupul parlamentar al independenților (devenit UNPR) să alcătuiască cabinetul Boc 2.
-[modificare]Geografie
-
-
-
-Sfinxul din Bucegi, aflat pe platoul Munților Bucegi, la 2216 metri altitudine, măsoară 8 metri în înălțime și 12 metri în lățime.
-Pentru detalii, vezi: geografia României.
-Teritoriul actual al României mai este numit și spațiul carpato-danubiano-pontic, deoarece România se suprapune unui sistem teritorial european, conturat după forma cercului Carpaților Românești și a regiunilor limitrofe impuse și subordonate complementar Carpaților, fiind mărginită în partea de sud de fluviul Dunărea, iar în partea de est de Marea Neagră.
-Pe Glob, România este situată în emisfera nordică, la intersecția paralelei 45° latitudine nordică și meridianului de 25° longitudine estică, iar în Europa în partea central sud-estică la distanțe aproximativ egale față de extremitățile continentului european.[105] România se învecinează la nord cu Ucraina, granița de sud este formată cu Bulgaria (o mare parte fiind frontieră acvatică, cu Dunărea), în vest cu Ungaria, în sud-vest cu Serbia, iar în est cu Republica Moldova (formată în totalitate de Prut). Frontierele României se întind pe 3150 km, din care 1876 km au devenit, în 2007, granițe ale Uniunii Europene (spre Serbia, Moldova și Ucraina), în timp ce cu Marea Neagră, granița formată are o lungime de 194 km pe platforma continentală (245 km de țărm). Suprafața României este de 238 391 km², la care se adaugă 23 700 km² din platforma Mării Negre.
-[modificare]Relief
-
-
-Hartă topografică a României
-
-
-Harta generală a României
-Relieful României este caracterizat prin patru elemente: varietate, proporționalitate, complementaritate și dispunere simetrică, dat fiind numărul mare de forme de relief, repartiția aproximativ egală a principalelor unități de relief (35% munți, 35% dealuri și podișuri și 30% câmpii) și gruparea reliefului.[105] Carpații Românești se extind ca un inel, ce închide o mare depresiune în centrul țării, cea a Transilvaniei.[105] Sunt munți cu altitudine mijlocie, fragmentați, cu un etaj alpin, pășuni alpine și întinse suprafețe de eroziune, a căror altitudine maximă se atinge în vârful Moldoveanu (din Munții Făgăraș), la 2 544 de metri. Pe teritoriul României, Munții Carpați au o lungime de 910 km.[106]
-La exterior Munților Carpați se află un inel de dealuri — Subcarpații și Dealurile de Vest — locurile cele mai populate,[105] datorită bogatelor resurse de subsol (petrol, cărbuni, sare) și condițiilor favorabile culturii viței-de-vie și pomilor fructiferi. În est și sud se extind trei mari podișuri (Moldovei, Dobrogei și Getic), dar și Podișul Mehedinți, în timp ce în sud și vest se întind două mari câmpii, Câmpia Română (îngustată spre est) și Câmpia de Vest.
-Delta Dunării este cea mai joasă regiune a țării, sub 10 m altitudine, cu întinderi de mlaștini, lacuri și stuf.[105] Ceva mai înălțate sunt grindurile fluviale și maritime (Letea, Caraorman, Sărăturile) pe care se grupează satele de pescari. Este un teritoriu descris din Antichitate de numeroși oameni de știință ai vremurilor, printre care Herodot, Strabon, Ptolemeu sau Plinius cel Bătrân.[107] Delta Dunării a fost introdusă în lista patrimoniului mondial al UNESCO în 1991 ca rezervație naturală a biosferei.[108]
-România beneficiază de toate tipurile de unități acvatice: fluvii și râuri, lacuri, ape subterane, ape marine. Particularitățile hidrografice și hidrologice ale României sunt determinate, în principal, de poziția geografică a țării în zona climatului temperat-continental și de prezența arcului carpatic. Factorul antropic a contribuit la unele modificări ale acestor particularități.[109]
-[modificare]Faună și floră
-Pentru detalii, vezi: fauna României și flora României.
+== Etimologie ==
 
 
-Pelicani zburând deasupra Dunării în Deltă
-Pe teritoriul României au fost identificate 3700 de specii de plante din care până în prezent 23 au fost declarate monumente ale naturii, 74 dispărute, 39 periclitate, 171 vulnerabile și 1253 sunt considerate rare.[110] Cele trei mari zone de vegetație în România sunt zona alpină, zona de pădure și zona de stepă.[111] Vegetația este distribuită etajat, în concordanță cu caracteristicile de sol și climă,[112] dar și în funcție de altitudine, astfel: stejarul, gârnița, teiul, frasinul (în zonele de stepă și dealuri joase); fagul, gorunul (între 500 și 1200 de metri); molidul, bradul, pinul (între 1200 și 1800 de metri); ienupărul, jneapănul și arborii pitici (într 1800 și 2000 de metri); pajiștile alpine formate din ierburi mărunte (peste 2000 de metri).[105] În largul văilor mari, datorită umezelii persistente, apare o vegetație specifică de luncă, cu stuf, papură, rogoz și adesea cu pâlcuri de sălcii, plopi și arini. În Delta Dunării predomină vegetația de mlaștină.[113]
-Fauna României este în special repartizată în funcție de vegetație. Astfel, pentru etajul stepei și silvostepei sunt specifice următoarele specii: iepurele, hârciogul, popândăul, fazanul, dropia, prepelița, crapul, carasul, știuca, șalăul, somnul; pentru etajul pădurilor de foioase (stejar și fag): mistrețul, lupul, vulpea, mreanul, ciocănitoarea, cinteza; pentru etajul pădurilor de conifere: păstrăvul, lostrița, râsul, cerbul, iar specifice faunei alpine sunt caprele negre și vulturii pleșuvi.[105]
-În particular, Delta Dunării este sălașul a sute de specii de păsări, incluzând pelicani, lebede, gâște sălbatice și păsări flamingo, protejate de lege (așa cum sunt de altfel și porcii sălbatici și lincșii). De asemenea Delta reprezintă un popas sezonal pentru păsările migratorii. Câteva dintre speciile rare de păsări aflate în zona Dobrogei sunt pelicanul creț, cormoranul mic, lopătarul, gâsca cu piept roșu și gârlița mare, dar și lebăda de iarnă.[114]
+Numele de „România” provine de la „”, cuvânt derivat din latinescul ''romanus''.<ref>[http://dexonline.ro/search.php?cuv=român Cuvântul „român”] în DEX, 1998 și Noul DEX, 2002</ref> 
+
+Cel mai vechi indiciu referitor la existența numelui de „român” ar putea fi conținut de '''': „Ducele Ramunch din țara Valahilor/cu șapte sute de luptători aleargă în întâmpinarea ei/ca păsările sălbatice, îi vedeai galopând”.<ref>„''Der herzoge Ramunch vzer Vlâchen lant/mit Sibenhunduert mannen chom er fvr si gerant/sam die wilden vogele so sah man si varn''”</ref> ''Ramunch'' ar putea fi o transliterație a numelui „Român” reprezentând în acest context un conducător simbolic al românilor.<ref>''Der Nibelunge not'', XII, ed. K. Lachmann, , 1878, p. 174; Francis P. Magoun jr., ''Geographical and Ethnic Names in the Nibelungenlied'', p. 129–130; Fritz Schuster, ''Herzog Ramunc aus dem Walachenland'', în „Sudost-Forschungen”, XI, 1946–1952, p. 284–290</ref> 
+, cel mai vechi document conservat scris în limba română]]
+Cele mai vechi atestări documentare ale termenului de „rumân/român” cunoscute în mod cert sunt conținute în relatări, jurnale și rapoarte de călătorie redactate de   din  care, fiind în majoritate trimiși ai , au călătorit în ,  și . Astfel, Tranquillo Andronico notează în , că i „se numesc romani”.<ref>„''nunc se Romanos vocant''” în: Endre Veress, [http://www.google.de/books?num=100&hl=en&as_brr=0&id=a3UDAAAAMAAJ&dq=Veress+Endre&q=Romanos+vocant&pgis=1#search ''Fontes rerum transylvanicarum: Erdélyi történelmi források''], Történettudományi Intézet, Magyar Tudományos Akadémia, Budapesta, 1914, p. 204</ref> Francesco della Valle scrie în  că valahii „se denumesc romani în limba lor”. Mai departe, el citează chiar și o scurtă expresie românească: „''Sti rominest?''”.<ref>„''... si dimandano in lingua loro Romei... se alcuno dimanda se sano parlare in la lingua valacca, dicono a questo in questo modo: Sti Rominest ? Che vol dire: Sai tu Romano, ...''” în: Claudio Isopescu, ''Notizie intorno ai romeni nella letteratura geografica italiana del Cinquecento'', în ''Bulletin de la Section Historique'', XVI, 1929, p. 1–90</ref> După o călătorie prin Țara Românească, Moldova și Transilvania, Ferrante Capecci relatează prin  că locuitorii acestor provincii se numesc pe ei înșiși „români” (''romanesci'').<ref>„''Anzi essi si chiamano romanesci, e vogliono molti che erano mandati quì quei che erano dannati a cavar metalli...''” în: Maria Holban, ''Călători străini despre Țările Române'', București, Editura Stiințifică, 1970, vol. II, p.158–161</ref> Pierre Lescalopier scrie în  că cei care locuiesc în Moldova, Țara Românească și cea mai mare parte a Transilvaniei, „se consideră adevărați urmași ai romanilor și-și numesc limba «românește», adică romana”.<ref>„''Tout ce pays la Wallachie et Moldavie et la plus part de la Transivanie a esté peuplé des colonie romaines du temps de Traian l’empereur… Ceux du pays se disent vrais successeurs des Romains et nomment leur parler romanechte, c'est-à-dire romain…''”, ''Voyage fait par moy, Pierre Lescalopier l’an 1574 de Venise a Constantinople'', în: Paul Cernovodeanu, ''Studii și materiale de istorie medievală'', IV, 1960, p. 444</ref> 
+
+Mărturii suplimentare despre endonimul de „rumân/român” furnizează și autori care au venit în mod prelungit în contact direct cu românii. Astfel, umanistul  Johann Lebel relatează în  că „românii […] se numesc pe ei înșiși «Romuini»”.<ref>„''Ex Vlachi Valachi, Romanenses Italiani,/Quorum reliquae Romanensi lingua utuntur.../Solo Romanos nomine, sine re, repraesentantes./Ideirco vulgariter Romuini sunt appelanti''”, Ioannes Lebelius, ''De opido Thalmus, Carmen Istoricum, Cibinii, 1779, p. 11–12 apud Adolf Armbruster, [http://www.google.de/books?num=100&hl=en&as_brr=0&id=aDEBAAAAMAAJ&dq=Johann+Lebel+Romuini&q=Solo+Romanos+nomine&pgis=1#search ''Romanitatea românilor. Istoria unei idei''], Editura Științifică București, 1992, S. 84</ref> Istoricul polonez Orichovius (Stanisław Orzechowski) scrie în  că românii „se numesc pe limba lor romini după romani, iar pe limba noastră (poloneză) sunt numiți valahi, după italieni”,<ref>„''qui eorum lingua Romini ab Romanis, nostra Walachi, ab Italis appellantur''” în: Stanislaus Orichovius, ''Annales polonici ab excessu Sigismundi'' în: I. Dlugossus, ''Historiae polonicae libri XII'', col 1555, apud Adolf Armbruster, ''Auf den Spuren der eigenen Identität. Ausgewählte Beiträge zur Geschichte und Kultur Rumäniens'', Editura Enciclopedica, 1991, p. 182</ref> în timp ce primatul și diplomatul ungar Anton Verancsics scrie în 1570 că „românii se numesc romani”,<ref>„''... Valacchi, qui se Romanos nominant...''”, „''Gens quae ear terras (Transsylvaniam, Moldaviam et Transalpinam) nostra aetate incolit, Valacchi sunt, eaque a Romania ducit originem, tametsi nomine longe alieno...''”, Antonius Verantius, ''De situ Transsylvaniae, Moldaviae et Transaplinae'' în ''Monumenta Hungariae Historica, Scriptores'', II, Pesta, 1857, p. 120, apud Krista Zach, [http://www.google.de/books?id=RKPcj3ZbBWUC&pg=PA40&dq=Verantius+Transsylvaniae&num=100&as_brr=0&hl=en&sig=-ND1AeHGCQ6rJqeaEypIcra_EZM#PPA40,M1 ''Konfessionelle Pluralität, Stände und Nation. Ausgewählte Abhandlungen zur südosteuropäischen Religions- und Gesellschaftsgeschichte''], LIT Verlag Berlin, Hamburg, Münster, 2004, p. 40</ref> iar eruditul maghiar transilvan Martinus Szent-Ivany citează în  expresii românești ca: „''Sie noi sentem Rumeni''” și „''Noi sentem di sange Rumena''”.<ref>„''Valachos [...] dicunt enim communi modo loquendi: Sie noi sentem Rumeni: etiam nos sumus Romani. Item: Noi sentem di sange Rumena: Nos sumus de sanguine Romano''”, Martinus Szent-Ivany, ''Dissertatio Paralimpomenica rerum memorabilium Hungariae'', Tyrnaviae, 1699, p. 39 apud Adolf Armbruster, ''Der Donau-Karpatenraum in den mittel- und westeuropäischen Quellen des 10.-16. Jahrhunderts. Eine historiographische Imagologie.'', 1990, p. 161</ref>
+
+Cel mai vechi indiciu cunoscut asupra unei denumiri geografice cu mențiunea „rumânesc” este conținută de unele versiuni ale operei '''' de : „''... Sclavini a civitate nova et '''Sclavino Rumunense''' et lacu qui appellantur Mursianus...''”.<ref>Citat din [http://books.google.com/books?id=DLMQAAAAIAAJ&pg=PA51&dq=sclavino+rumunnense&hl=de#PPA51,M1 ''De rebus Geticis''] de Iordanes, după Manuscrisul Vienez</ref> Denumirea ''Rumunense'' constituie o transliterație latinizantă a unei pronunții slave pentru „rumânesc”. Deși mențiunea ''Sclavino Rumunense'' s-a dovedit a fi apocrifă, ea fiind o interpolare ulterioară în textul lui Iordanes, relevanța ei istorică rămâne considerabilă, interpolarea neputând fi mai târzie de secolele al X-lea–al XI-lea. 
+, realizată de ]]
+Cea mai veche atestare documentară cunoscută a numelui de țară este  din , ce conține mențiunea ''cěra rumŭněskŭ'' (''Țeara Rumânească''). 
+
+ insistă asupra denumirii de „român, adică roman” ce o poartă românii din .<ref>„''Așa și neamul acésta, de carele scriem, al țărâlor acestora, numele vechiŭ și mai direptŭ ieste rumân, adecă râmlean, de la Roma. Acest nume de la discălicatul lor de Traian, și cât au trăit [...] tot acest nume au ținut și țin pănă astăzi și încă mai bine munténii decât moldovénii, că ei și acum zic și scriu țara sa rumânească, ca și românii cei din Ardeal. [...] Și așa ieste acestor țări și țărâi noastre, Moldovei și Țărâi Muntenești numele cel direptŭ de moșie, ieste rumân, cum să răspundŭ și acum toți acéia din Țările Ungurești lăcuitori și munténii țara lor și scriu și răspundŭ cu graiul: Țara Românească.''” în ''''</ref> La fel,   explică pe larg în '''' originile și semnificația denumirii de „român, românesc” dată . <ref>„''Însă vlahii, acești gheografi și mai toți istoricii câți scriu de aceste țări, zicea și Moldovei și ceștiia; apoi o împarte în doao, una de sus; alta de jos, îi zic. Le zic și: mai mare și mai mică; cea de sus, adecăte și mai mare, Moldova; cea de jos și mai mică, țara această Muntenească numeind, cum îi zic mai mulți așa; că Rumânească numai lăcuitorii ei o chiamă, și doar unii den ardeleni ăiî rumâni, pentru că și aceia și ceștea numai când să întreabă, ce iaste? Ei răspund: rumâni; iar moldovénii să osebesc de să răspund: moldovani, săvai că și ei sunt de un neam și de un rod cu ceștea, cum mai nainte mai pre larg vom arăta cu mărturiile multora. [...] și cum că apoi Traian mulțime de romani du pretutindenea den biruințele lui au adus aicea de au așezat lăcuitori și paznici acestor țărî, den carii și pănă astăzi să trag acești rumâni ce le zicem noi, iară grecii și latinii, vlahi și volahi le zic, încă ne-am adeverit den istoricii cei mai de credință și mai numeiți ce sunt. [...] Și mai chiar vedem că rumânii den Ardeal, moldovénii și céștea de țara aceasta, tot un neam, tot o limbă fiind, încă între dânșii mult să osebesc, care aceasta iaste cum să véde den amestecătura vecinilor lor. Așadară și acéle trei neamuri, ce zicem mai sus, den preavecinătatea romanilor, luând de-ale acelora cuvinte, și cu céle de moșie ale lor amestecându-le, și stricându-și limba, au rămas în această ce acum sunt. [...] Însă dară, valahii, adecăte rumânii, cum sunt rămășițele romanilor celor ce i-au adus aici Ulpie Traian, și cum că dintr-aceia să trag și până astăzi, adevărat și dovedit iaste de toți mai adevărații și de crezut istorici, măcară că apoi le-au mutat și numele, valahi zicându-le.''” în ''''</ref>  denumește în mod sistematic toate cele trei Principate locuite de români ca „Țări Românești”.<ref>„''Hronicon a toată Țara Românească (care apoi s-u împărțit în Moldova, Munteniască și Ardealul)...''” în: , ''Hronicul vechimei româno-moldo-vlahilor'' în: ''Operele Principelui Dimitrie Cantemir'', Academia Română, București, 1901, p. 180</ref> Termenul de „România” în accepțiunea sa modernă este atestat documentar în al doilea deceniu al secolului al XIX-lea.<ref> publică în grecește la  în 1816 ''Istoria României'' urmată în același an de ''Geografia României''. Termenul pare a fi pătruns deja în limabjul comun în primele decenii ale secolului al XIX-lea, astfel încât inscripția de pe piatra funerară a lui  din , datând din 1823 arată că: „Precum Hristos pe Lazăr din morți a înviat/Așa tu '''România''' din somn ai deșteptat.”</ref>
+
+Până în secolul al XIX-lea au coexistat pentru spațiul dintre  și  denumirile de „Rumânia” și „România”, precum și endonimul „rumâni” alături de „români”, forma scrisă cu „u” fiind predominantă.<ref name=autogenerated2>[http://www.orbilat.com/Languages/Rumanian/Rumanian_vs_Romanian.html Rumania(n) vs. Romania(n)<!-- Titlu generat de un robot -->]</ref> Din termenul „rumân” s-a format la finele secolului XVIII exonimul modern a poporului român și a statului român în cazul principalelor limbi europene: „Rumänen/Rumänien” (), „Roumains/Roumanie” (), „Rumanians/Rumania” (denumirea învechită din ), „Rumuni/Rumunija” (în ; totuși, în cazul  s-a păstrat exonimul de „”, vechiul exonim al tuturor românilor<ref>[http://dexonline.ro/search.php?cuv=valah Cuvântul „valah”] în DEX online</ref>, până în ziua de azi, chiar dacă se autodefinesc în limba maternă drept „rumâni”<ref>[http://www.timoc.org/clanicerom.htm Pagina Federației Românilor din Serbia]</ref><ref>[http://www.formula-as.ro/2007/774/spectator-38/dr-ivo-gheorghiev-8071 Dr. Ivo Gheorghiev - Spectator - Numarul 774 - Anul 2007 - Arhiva - Formula AS<!-- Titlu generat de un robot -->]</ref>) etc. În ultimele decenii, în mai multe limbi s-a trecut la înlocuirea formei care derivă din „rumân” în cea care derivă din „român”. Astfel, în limba engleză forma „Rumania” a fost în locuită cu „Romania”. În  denumirea „Rumania” a fost înlocuită cu „Romania”, iar în  se folosesc formele „Romenia” (pentru a desemna statul român) și „Romeno” pentru a desemna poporul român.<ref name=autogenerated2 />
+
+== Istorie ==
+
+
+Prin istoria României se înțelege, în mod convențional,  regiunii geografice românești, a  care au locuit-o precum și a statului Român modern. Una dintre cele mai dezbătute probleme din  românească, problemă care de fapt indică însuși drumul parcurs de aceasta, este problema originilor.<ref>Pentru istoricul probleme vezi: A. Armbruster, ''Romanitatea românilor. Istoria unei idei'', București, 1972.</ref><ref>, ''Continuitatea românilor, Privire istoriografică'', București, 1980, p. 9-86.</ref><ref>Ligia Bârzu, S. Brezeanu, ''Originea și continuitatea românilor. Arheologie și tradiție istorică'', București, 1991 , p. 13-81.</ref><ref>, ''Istorie și mit în conștiința românească'', București, 1997, p. 83-144.</ref> Astfel,  sunt disputate, existând mai multe teorii.<ref>[http://www.scribd.com/doc/7119777/Istoria-Romanilor Scribd] - , ''Istoria Românilor'', pag. 264 - Accesat la data de 16.03.2009</ref>
+
+=== Dacia și Imperiul Roman ===
+
+
+Se consideră că  creatoare ale  pe teritoriul României aparțin grupului  al .<ref>, ''Getica'', Capitolul I, ''Migrații cimmero-scythe. Sec. X-VI î.e.n.'', pag 25. - Editura Meridiane, București, 1982.</ref><ref>''„Așadar, arheologia a dovedit că poporul geto-dac era deplin format cu cel puțin patru sau chiar cinci sute de ani mai înainte ca numele său să figureze în filele izvoarelor literare ale lumii antice. Cât despre antecesorii și strămoșii nemijlociți ai geto-dacilor, ramura nordică a neamurilor trace, aceeași știință auxiliară a istoriei le confirmă prezența și înfloritoarea lor cultură materială și spirituală o dată cu debutul epocii bronzului, fapt petrecut pe la circa 2000 - 1800 Î.Hr.”'' - Extras din cartea ''„Decebal”'' de Liviu Mărghitan, Editura Militară, București, 1987, pag. 41.</ref><ref>[http://www.muzeulolteniei.ro/sectia-de-istorie-si-arheologie/colectii-arheologice/epoca-bronzului-cultura-garla-mare-si-verbicioara/ Muzeul Olteniei] -> ''Epoca bronzului, cultura Gârla Mare și Verbicioara'' - Accesat la data de 15.03.2009</ref>  în ''„”'' menționa că ''geții aveau aceeași limbă cu tracii, iar dacii aceeași limbă cu geții''.<ref>[http://www.scribd.com/doc/10882460/Strabon-Geografia-Vol-1 Scribd] - ''Geografia'' de , pag 22 - Accesat la data de 15.03.2009</ref> Totuși, prima relatare despre geți aparține lui .<ref>Herodotus - [http://books.google.com/books?id=sfHsgNIZum0C&pg=PA215&lpg=PA215&dq=herodotus+dacians+darius&source=web&ots=G4uX7Mnsqb&sig=kYPtXH157JEzuk7V618EreDadqY&hl=en#PPA215,M1 The Ancient History of Herodotus By Herodotus], pag. 213–217, Derby & Jackson.</ref><ref>''„Neamul tracilor este cel mai numeros din lume, după acel al inzilor. Dacă ar avea un singur cârmuitor sau dacă tracii s-ar înțelege între ei, el ar fi de nebiruit și cu mult mai puternic decât toate neamurile după socotința mea... Tracii au mai multe nume, după regiuni, dar obiceiurile sunt cam aceleași la toți, afară de '''geți''', trausi și de acei care locuiesc la nord de crestonai.”'' - , , V, 3.</ref>  conduce la contopirea celor două culturi: daco-romanii sunt strămoșii .<ref></ref> După ce   a  s-au impus elemente de cultură și civilizație romană, inclusiv  care a stat la baza formării .<ref>[http://www.learnromanian.ro/romana/Romania-istorie.php Learn Romanian] - Istoria României - Accesat la data de 15.03.2009</ref><ref></ref><ref></ref>
+, basorelief de pe '''']]
+Pe baza informațiilor din inscripția de la <ref>''„Cel dintâi și cel mai mare dintre regii din Tracia”'' - Inscriptia cetățeanului grec Acornion din Dionysopolis.</ref><ref>[http://www.observatorul.com/articles_main.asp?action=articleviewdetail&ID=3536 Observatorul - Publicat in Toronto, Canada] - România, stâlp oriental al latinității - Accesat la data de 01.05.2009</ref><ref>[http://www.dacia.co.ro/db.html Dacia] - ''Dacia în timpul lui Burebista'' - Accesat la data de 15.03.2009</ref> și de la , se știe că sub stăpânirea lui , ajutat de marele preot , s-a format primul stat geto-dac.<ref name="MAEistorie">[http://ue.mae.ro/index.php?lang=ro&id=151 MAE] - Istoria României - Accesat la data de 15.03.2009</ref><ref>, ''Dacii - Capitolul III - Burebista'', Editura pentru Literatură, București, 1968.</ref> În anul , Burebista este asasinat de unul dintre slujitorii săi.<ref>[http://www.geocities.com/solarguard/celtic/burebista.html Buresbita and his time] - Ion Horațiu Crișan, Bibliotheca Historica Romaniae, Bucharest, 1978</ref> După moartea lui, statul geto-dac se va destrăma în 4, apoi în 5 regate.<ref>[http://www.ghidromania.ro/despre-romania-istoric.php România, istorie] - Despre România - Accesat la data de 15.03.2009</ref> Nucleul statal se menține în zona , unde domnesc succesiv ,  și .<ref>[http://dacia.dracones.ro/ Istoria Daciei] - ''Dacia între Burebista și Decebal'' - Accesat la data de 15.03.2009</ref> Statul centralizat dac va atinge apogeul dezvoltării sale sub .<ref name="MEIU">Mică enciclopedie de istorie universală - pag. 284 - ''Marcel D. Popa, Horia C. Matei - Editura Politică, București, 1988.</ref> În această perioadă se mențin  cu , o partea a statului dac fiind cucerită în  de împăratul roman .<ref>[http://www.roman-emperors.org/assobd.htm#t-inx De Imperatoribus Romanis] - An Online Encyclopedia of Roman Emperors - Battle of Sarmizegetusa (Sarmizegetuza), A.D. 105 - Accesat la data de 15.03.2009</ref> Între anii 271-275 d.Hr. are loc retragerea aureliană.<ref></ref>
+
+=== Perioada principatelor și Epoca fanariotă ===
+
+
+În , peste teritoriul României au trecut valuri de : i în  - <ref></ref>, i în <ref></ref>, i în <ref name=gepizi></ref><ref>|place=New York|year=2001|url=http://mek.oszk.hu/03400/03407/html/33.html|accessdate=2008-08-31}}</ref>, i în <ref></ref>, i în , i în , i<ref></ref>, i<ref></ref> , i și i în  -  și i în .
+
+În  sunt atestate primele  la sud de .<ref>''În  sunt atestate primele formațiuni prestatale românești de la sud de Carpați : cnezatele lui  și ,  și .'' [http://www.arcanum.hu/mol/lpext.dll/fejer/413/416/50b?f=templates&fn=document-frame.htm&2.0 Copia textului original], în limba latină, al Diplomei Ioaniților. </ref> Mai apoi, în contextul cristalizării relațiilor feudale, ca urmare a creării unor condiții interne și externe favorabile (slăbirea presiunii  și diminuarea dominației ) iau ființă la sud și est de Carpați  de sine stătătoare  (), sub  și  (), sub .<ref name="MEIU"/> Dintre  ce au avut un rol mai important, pot fi amintiți: , ,  și  în Moldova, ,  și  în Țara Românească și  în Transilvania. Începând cu sfârșitul secolului al XV-lea cele două principate intra treptat în sfera de influență a . 
+]]
+, parte de-a lungul  a <ref></ref>, guvernată de voievozi, devine un principat de sine stătător, vasal  din . La cumpăna secolelor al XVI-lea și al XVII-lea  domnește pentru o foarte scurtă perioadă de vreme peste o bună parte din teritoriul României de astăzi.<ref></ref> 
+
+În ,  și  și-au păstrat în continuare autonomia internă, dar în  și  respectiv, începe ,<ref>, ''Între Orient și Occident. Țările Române la începutul epocii moderne'' - ''Un pic de istorie, pag. 34'', Editura Humanitas, București, 2002</ref> numiți direct de turci din rândul familiilor nobile de i din . Prin  în ,  și-a pierdut la scurtă vreme resturile autonomiei sale politice, fiind înglobată din punct de vedere politic și administrativ .<ref>Anton Dörner, ''[http://www.history-cluj.ro/Istorie/anuare/2001/Dorner-administratia.htm Administrația Transilvaniei în perioada anilor 1867–1876]'', Institutul de Istorie „George Bariț” din Cluj-Napoca - Accesat la data de 02.05.2009</ref>
+
+=== Unirea și Regatul României ===
+
+
+Statul modern român a fost creat prin  (sau Țara Românească), în anul , odată cu alegerea concomitentă ca domnitor în ambele state a lui .<ref>[http://www.jurnalul.ro/articole/142961/150-de-ani-de-la-unirea-principatelor-romane Jurnalul Național] - 150 de ani de la Unirea Principatelor Române - Accesat la data de 15.03.2009</ref><ref>[http://www.mnir.ro/ro/ExpozitiiTemporare/Expozitie.aspx?IDExpozitieTemp=68 Muzeul Național de Istorie a României] - Unirea Principatelor Române, 150 de ani - Accesat la data de 15.03.2009</ref><ref></ref> Acesta a fost obligat să abdice în anul  de către o largă coaliție a partidelor vremii, denumită și , Cuza fiind obligat să părăsească țara.<ref name="FC">Constantiniu, Florin: ''O istorie sinceră a poporului român'', București, Editura Univers Enciclopedic, 1997 - ISBN 973-9243-07-X</ref> În , România își  iar în ,  este încoronat ca .<ref>[http://www.tvr.ro/articol_print.php?id=2807 TVR] -> ''Carol I - un neamț care a obținut independența României'' - Accesat la data de 15.03.2009</ref> În , România a intră în , la capătul căruia a obținut ul.<ref>[http://www.rri.ro/arh-art.shtml?lang=2&sec=40&art=8410 Radio România Internațional] - România în războaiele balcanice - Accesat la data de 15.03.2009</ref><ref>''„Pe data de 27 iunie/10 iulie 1913, România si-a chemat ambasadorul de la Sofia și, printr-o notă diplomatică ultimativă, a anunțat Bulgaria că, în condițiile în care aceasta nu încetează acțiunile agresive împotriva Greciei și Serbiei, Armata Româna va intra în acțiune.”'' - Locotenent-colonel drd. Rizescu Alexandru - ''[http://www.armyacademy.ro/buletin/2_2001/art9.html Aspecte ale politicii de securitate a României în sud-edtul Europei la începutul secolului al XX-lea]'' - Accesat la data de 15.03.2009</ref><ref></ref> În 1914, regele Carol I moare, rege al României devenind .<ref name="FC"/>
+
+În  România a intrat în  de partea .<ref>[http://www.casaromana.org/istoria/r_secolulxx.html Casa Română] - Istoria românilor - Accesat la data de 15.03.2009</ref> Deși forțele române nu s-au descurcat bine din punct de vedere militar, până la sfârșitul războiului,  și  s-au dezintegrat; Adunarea Națională în , și  în  și  și-au proclamat Unirea cu România,<ref>[http://www.cimec.ro/istorie/Unire/inainte.htm#Ro CIMEC] - România înainte și după 1918 - Accesat la data de 15.03.2009</ref> iar  s-a încoronat rege al României la  în .<ref>[http://www.familiaregala.ro/?lng=&id2=010103 Familia Regală a României] - Ferdinand -  Accesat la data de 15.03.2009</ref>  a recunoscut toate proclamațiile de unire în conformitate cu dreptul la autodeterminare stabilit de  ale  .<ref>„[http://en.wikisource.org/wiki/Fourteen_Points_Speech Fourteen Points Speech]”, Woodrow Wilson. .</ref>
+
+În ,  își asumă puteri dictatoriale.
+
+Odată cu venirea sa la putere, Ion Gigurtu, președinte al Consiliului de Miniștri, între 4 iulie și 4 septembrie 1940, a declarat că va duce o politică nazistă pro-Axa Berlin–Roma, antisemită și fascist-totalitară<ref>''Le Figaro'', 6 iulie 1940, p. 2.</ref><ref>''Le Figaro'', 9 iulie 1940, p. 1.</ref><ref>''New York Times'', 5 iulie 1940; ''New York Times'', 7 iulie 1940; ''New York Times'', 30 iulie 1940; ''New York Times'', 9 august 1940.</ref>. În urma  din , prin acceptarea  asupra Transilvaniei (după ce Gigurtu a declarat la radio că România trebuie să facă sacrificii teritoriale pentru a justifica orientarea sa nazistă și aderarea totală a României la Axa Berlin–Roma), România a cedat Ungariei nordul Transilvaniei, inclusiv orașul .<ref>''Le Figaro'', 9 august 1940; ''New York Times'', 9 august 1940.</ref><ref name=autogenerated1>Constantiniu, Florin: ''Între Hitler și Stalin; România și pactul Ribbentrop-Molotov'', București, Editura Danubius, 1991.</ref><ref>Constantiniu, Florin: ''Hitler, Stalin și România - România și geneza Operațiunii „Barbarossa”'', București, Editura Univers Enciclopedic, 2002.</ref> Vastele teritorii din Transilvania care au fost cedate de Ion Gigurtu în favoarea Ungariei conțineau importante resurse naturale, inclusiv mine de aur.<ref>''Le Figaro'', 4 septembrie 1940.</ref> Ion Gigurtu a fost de acord și cu cedarea a 8000 km<sup>2</sup> din Dobrogea de sud în favoarea Bulgariei<ref>''Le Figaro'', 23 august 1940.</ref> și ,  Herța și .<ref name=autogenerated1 />
+
+Față de retragerea haotică din Basarabia, cedările teritoriale, nemulțumirea opiniei publice și protestele liderilor politici, regele Carol al II-lea suspendă  și îl numește ca prim-ministru pe . Aceasta, sprijinit de , cere regelui să abdice în favoarea fiului său, . Apoi, Antonescu își asumă puteri dictatoriale și devine șef de stat precum și președinte al consiliului de miniștri. În , ca aliat al , România .<ref>Constantiniu, Florin: ''Hitler, Stalin și România - România și geneza Operațiunii „Barbarossa”'', București, Univers Enciclopedic, 2002</ref><ref name="Encarta">„[http://encarta.msn.com/encyclopedia_761559516_9/Romania.html History of Romania]”. Encarta. Accesat la data de 14 martie 2009.</ref>
+
+=== România comunistă ===
+
+
+La data de  ,  fiind deja în  de nord încă din luna martie,  își dă acordul pentru înlăturarea prin forță a mareșalului Antonescu dacă acesta va refuza semnarea armistițiului cu .<ref name="Memoria">[http://www.revista.memoria.ro/?location=view_article&id=386 ''Memoria''], Eugen Denize. Accesat la data de 15 martie 2009.</ref> În urma refuzului net al lui Antonescu, Regele Mihai l-a destituit și l-a arestat, iar România a trecut de partea .<ref name="Memoria"/>
+
+La mai puțin de 3 ani de la , în ,  este forțat să abdice<ref>[http://www.adevarul.ro/articole/2005/abdicarea-regelui-mihai-i.html „Abdicarea Regelui Mihai I”], ''''. Accesat la data de 15 martie 2009.</ref> și e proclamată  - stat al democrației populare. Regimul instaurat, condus de , își întărește poziția printr-o politică stalinistă de descurajare a oricărei opoziții politice și de distrugere a structurilor economico-sociale ale vechiului regim.<ref name="CPADR">[http://www.presidency.ro/static/ordine/RAPORT_FINAL_CPADCR.pdf Raportul Comisiei prezidențiale pentru analiza dictaturii comuniste din România]. Accesat la data de 16 august 2010.</ref><ref></ref> La începutul , guvernul român a început să-și afirme o anumită independență față de ,<ref name="ICIistoria">[http://romania.ici.ro/ro/istorie/index.html Istorie]. ICI. Accesat la data de 15 martie 2009.</ref> fără însă să renunțe la „cuceririle revoluționare”.<ref name="CPADR"/> În  moare principalul lider comunist , după care România intră într-o perioadă de schimbări.<ref name="HisBritan">[http://www.britannica.com/EBchecked/topic/508461/Romania/42878/Communist-Romania „History » Communist Romania”], ''''. Accesat la data de 15 martie 2009.</ref> După o scurtă luptă pentru putere, în fruntea partidului comunist a venit ,<ref name="HisBritan"/> care a devenit secretar general al  în , președinte al Consiliului de Stat în  și președinte al  în . Conducerea lungă de câteva  a președintelui  a devenit din ce în ce mai opresivă în .<ref name="ICIistoria"/>
+]]
+
+=== România după 1989 ===
+
+
+După căderea comunismului în tot restul , un protest început la mijlocul lunii decembrie  la  s-a transformat rapid într-un  împotriva regimului lui Ceaușescu, înlăturându-l pe dictator de la putere.<ref>[http://www.learnromanian.ro/romana/Romania-istorie.php Istoria României] - Learn Romanian - Accesat la data de 15.03.2009</ref> 
+
+O organizație interimară formată din foste oficialități comuniste a preluat controlul guvernului, iar  a devenit președintele provizoriu al țării. Noul guvern a revocat multe din politicile oprimante<ref></ref><ref></ref><ref>[http://www.infoghidromania.com/istoriaromaniei.html Info Ghid Romania] - Istorie - Accesat la data de 15.03.2009</ref> și a închis câțiva dintre conducătorii regimului comunist. 
+, România este membră a .]]
+În mai  s-au organizat alegeri ale partidelor pentru legislatură și președinție. Iliescu a fost ales președinte, iar partidul său, , a câștigat controlul legislativ.  a devenit prim-ministru. Alegerile însă nu au pus punct .  au dus la demiterea  în septembrie . În octombrie, fostul ministru de finanțe,  i-a urmat lui Roman ca prim-ministru și a format un .<ref>[http://www.agriland.ro/ro/descopera/prezentare/istorie.html Agriland] - România, prezentarea țării - Istorie - Accesat la data de 15.03.2009</ref> În , Ion Iliescu și-a câștigat dreptul la un nou mandat. Cu sprijin parlamentar de la partidele parlamentare naționaliste ,  și fostul partid comunist , a fost format  în noiembrie 1992, sub prim-ministrul .<ref name="Istoria recenta">[http://www.ici.ro/romania/ro/istorie/hi80.html ICI] - Beneficiile democrației și bolile tranziției - Accesat la data de 15.03.2009</ref>  
+
+ din coaliția electorală  (CDR) l-a învins în  pe președintele Iliescu, după un al doilea scrutin și l-a înlocuit la șefia statului.   a fost numit prim-ministru. Ciorbea a rămas în această funcție până în martie , când a fost înlocuit de  și mai târziu de .<ref name="Istoria recenta"/>  au fost câștigate de  și , iar  a fost numit prim-ministru.<ref>[http://www.insse.ro/cms/rw/resource/stat_electorale.pdf?view=true Institutul Național de Statistică] - Statistică electorală - Accesat la data de 16.03.2009</ref> , alegerile l-au dat învingător pe  în funcția de Președinte al statului, în fruntea unei coaliții formată din  și , alături de  și , iar în funcția de prim-ministru a fost numit .<ref>[http://www.alegeri.tv/alegeri-2004-tur-2/ Alegeri TV] - Alegerile din 2004, turul 2 - Accesat la data de 16.03.2009</ref>
+
+Din  România este membru , iar din  a devenit membră a .<ref>[http://www.mae.ro/index.php?unde=doc&id=4951&idlnk=1&cat=3 MAE] - România în Uniunea Europeană - Accesat la data de 15.03.2009</ref><ref></ref> În urma ,  a obținut cele mai multe mandate, fiind urmat de alianța dintre  și ,  și .<ref></ref> Ulterior se formează un , între  și , condus de ,<ref>[http://www.antena3.ro/stiri/politica/parlamentarii-voteaza-trece-guvernul-boc_60798.html Antena 3] - ''Guvernul Boc a trecut de Parlament. Miniștrii au depus jurământul în fața președintelui.'' Accesat la data de 15.03.2009</ref> pentru ca din decembrie 2009, în urma votului Parlamentului, PD-L,  și grupul parlamentar al independenților (devenit ) să alcătuiască .
+
+== Geografie ==
+, aflat pe platoul , la 2216 metri altitudine, măsoară 8 metri în înălțime și 12 metri în lățime.]]
+
+
+Teritoriul actual al României mai este numit și spațiul ''carpato-danubiano-pontic'', deoarece România se suprapune unui sistem teritorial european, conturat după forma cercului  și a regiunilor limitrofe impuse și subordonate complementar Carpaților, fiind mărginită în partea de sud de fluviul a, iar în partea de est de .
+
+Pe , România este situată în , la intersecția paralelei 45° latitudine&nbsp;nordică și meridianului de 25° longitudine&nbsp;estică, iar în Europa în partea  la distanțe aproximativ egale față de extremitățile continentului european.<ref name="statele lumii"></ref> România se învecinează la nord cu Ucraina, granița de sud este formată cu Bulgaria (o mare parte fiind frontieră acvatică, cu Dunărea), în vest cu Ungaria, în sud-vest cu Serbia, iar în est cu Republica Moldova (formată în totalitate de Prut). Frontierele României se întind pe 3150&nbsp;km, din care 1876&nbsp;km au devenit, în 2007, granițe ale Uniunii Europene (spre Serbia, Moldova și Ucraina), în timp ce cu , granița formată are o lungime de 194&nbsp;km pe platforma continentală (245&nbsp;km de țărm). Suprafața României este de 238&nbsp;391&nbsp;km², la care se adaugă 23&nbsp;700&nbsp;km² din platforma Mării Negre.
+
+=== Relief ===
+
+
+Relieful României este caracterizat prin patru elemente: varietate, proporționalitate, complementaritate și dispunere simetrică, dat fiind numărul mare de forme de relief, repartiția aproximativ egală a principalelor unități de relief (35% munți, 35% dealuri și podișuri și 30% câmpii) și gruparea reliefului.<ref name="statele lumii"/>  se extind ca un inel, ce închide o mare depresiune în centrul țării, cea a .<ref name="statele lumii"/> Sunt munți cu altitudine mijlocie, fragmentați, cu un etaj alpin, pășuni alpine și întinse suprafețe de eroziune, a căror altitudine maximă se atinge în  (din Munții Făgăraș), la 2 544 de metri. Pe teritoriul României, Munții Carpați au o lungime de 910&nbsp;km.<ref name="Cruceru"></ref>
+
+La exterior Munților Carpați se află un inel de dealuri — i și  — locurile cele mai populate,<ref name="statele lumii"/> datorită bogatelor resurse de subsol (, , ) și condițiilor favorabile culturii viței-de-vie și pomilor fructiferi. În est și sud se extind trei mari podișuri (,  și ), dar și , în timp ce în sud și vest se întind două mari câmpii,  (îngustată spre est) și .
+
+ este cea mai joasă regiune a țării, sub 10&nbsp;m altitudine, cu întinderi de mlaștini, lacuri și stuf.<ref name="statele lumii"/> Ceva mai înălțate sunt urile fluviale și maritime (Letea, Caraorman, Sărăturile) pe care se grupează satele de . Este un teritoriu descris din  de numeroși oameni de știință ai vremurilor, printre care , ,  sau .<ref name="DeltaDunării"></ref> Delta Dunării a fost introdusă în lista  al  în  ca rezervație naturală a biosferei.<ref name="UNESCO">{{citat web | title =  Obiective culturale și naturale din România înscrise pe Lista Patrimoniului Mondial | publisher = Comisia Națională a României pentru UNESCO | url = http://www.cnr-unesco.ro/ro/patrimoniu.php
+| accessdate = 10 martie | accessyear = 2009}}</ref>
+
+România beneficiază de toate tipurile de unități acvatice: fluvii și râuri, lacuri, ape subterane, ape marine. Particularitățile hidrografice și hidrologice ale României sunt determinate, în principal, de poziția geografică a țării în zona climatului temperat-continental și de prezența arcului carpatic. Factorul antropic a contribuit la unele modificări ale acestor particularități.<ref name="GeoRom"></ref>
+
+=== Faună și floră ===
+
+
+Pe teritoriul României au fost identificate 3700 de specii de plante din care până în prezent 23 au fost declarate monumente ale naturii, 74 dispărute, 39 periclitate, 171 vulnerabile și 1253 sunt considerate rare.<ref></ref> Cele trei mari zone de vegetație în România sunt zona alpină, zona de pădure și zona de stepă.<ref> | url = http://www.fao.org/docrep/008/w3354e/W3354E25.htm | accessdate = 6 aprilie| accessyear = 2009}}</ref> Vegetația este distribuită etajat, în concordanță cu caracteristicile de sol și climă,<ref> | url = http://www.rri.ro/art.shtml?lang=2&sec=252&art=18152 | accessdate = 6 aprilie| accessyear = 2009}}</ref> dar și în funcție de altitudine, astfel: ul, , , ul (în zonele de stepă și dealuri joase); ul,  (între 500 și 1200 de metri); ul, ul,  (între 1200 și 1800 de metri); ul, ul și arborii pitici (într 1800 și 2000 de metri);  alpine formate din ierburi mărunte (peste 2000 de metri).<ref name="statele lumii"/> În largul văilor mari, datorită  persistente, apare o vegetație specifică de , cu , ,  și adesea cu pâlcuri de ,  și i. În  predomină vegetația de .<ref></ref>
+
+Fauna României este în special repartizată în funcție de vegetație. Astfel, pentru etajul stepei și silvostepei sunt specifice următoarele specii: le, ul, l, ul, , , ul, ul, , l, ; pentru etajul pădurilor de foioase (stejar și fag): ul, ul, a, ul, a, ; pentru etajul pădurilor de conifere: ul, , , ul, iar specifice faunei alpine sunt  și .<ref name="statele lumii"/>
+
+În particular, Delta Dunării este sălașul a sute de specii de păsări, incluzând i, ,  și păsări , protejate de lege (așa cum sunt de altfel și  și ). De asemenea Delta reprezintă un popas sezonal pentru păsările migratorii. Câteva dintre speciile rare de păsări aflate în zona Dobrogei sunt , , ul,  și , dar și .<ref> | title = Land » Plant and animal life | work = Romania | publisher = Encyclopædia Britannica Online | date = 2009 | url = http://www.britannica.com/EBchecked/topic/508461/Romania | accessdate = 2 mai | accessyear = 2009}}</ref>
+
+=== Climă ===
+
+]]
+Clima României este determinată în primul rând de poziția sa pe glob, precum și de poziția sa geografică pe continentul european. Aceste particularități conferă climei un caracter temperat continental cu nuanțe de tranziție.<ref name="ANM"> | url = http://www.meteoromania.ro/index.php?id=335 | accessdate = 1 aprilie | accessyear = 2009}}</ref>
+
+Extinderea teritoriului țării pe aproape 5° de latitudine impune diferențieri mai mari între sudul și nordul țării în ceea ce privește  decât extinderea pe circa 10&nbsp;°C de longitudine, astfel dacă temperatura medie anuală în sudul țării se ridică la circa 11&nbsp;°C, în nordul țării, la altitudini comparabile, valorile acestui parametru sunt mai coborâte cu circa 3&nbsp;°C. Între extremitatea vestică și cea estică a teritoriului național, diferența termică se reduce la 1&nbsp;°C (10&nbsp;°C în vest, 9&nbsp;°C în est).<ref name="ANM"/> 
+
+ul țării are un rol esențial în delimitarea zonelor și etajelor climatice.  formează o barieră care separă climatele continentale aspre din est de cele din vest de tip oceanic și adriatic. În concluzie, clima României este una de tip temperat-continentală, cu patru uri și este marcată de influențe ale climatelor stepice din est, adriatice din sud-vest, oceanice din vest și nord-vest, păstrându-și totuși identitatea climatului carpato-ponto-danubian.<ref name="ANM"/>
+
+ sunt moderate, variind de la insuficienta cantitate de 400&nbsp;mm din  la 500 mm în  și până la 600 mm în . Odată cu altitudinea, precipitațiile cresc, depășind pe alocuri 1000 mm pe an. 
+
+Primele înregistrări climatice în România s-au făcut odată cu înființarea  (în 1884) și cu apariția lucrărilor elaborate de . După 1960 are loc o dezvoltare a rețelei de stații meteorologice, apărând și importante lucrări referitoare la caracteristicile climatice ale spațiului montan, litoral, urban, rural, etc.<ref name="GeoRom"/>
+
+== Demografie ==
+
+
+* : <font size="4" color=#0088AA>'''||||||'''</font>  5.956.690 locuitori
+* : <font size="4" color=#0088AA>'''|||||||'''</font>  7.234.919 locuitori
+* : <font size="4" color=#0088AA>'''||||||||||||||||||'''</font>  18.057.028 locuitori
+* : <font size="4" color=#0088AA>'''||||||||||||||'''</font>  13.535.757 locuitori
+* : <font size="4" color=#0088AA>'''||||||||||||||||'''</font>  15.872.624 locuitori
+* : <font size="4" color=#0088AA>'''|||||||||||||||||'''</font>  17.489.450 locuitori
+* : <font size="4" color=#0088AA>'''|||||||||||||||||||'''</font>  19.103.163 locuitori
+* : <font size="4" color=#0088AA>'''||||||||||||||||||||||'''</font>  21.559.910 locuitori
+* : <font size="4" color=#0088AA>'''|||||||||||||||||||||||'''</font>  22.810.035 locuitori
+* : <font size="4" color=#0088AA>'''||||||||||||||||||||||'''</font>  21.698.181 locuitori
+* : <font size="4" color=#0088AA>'''||||||||||||||||||||||'''</font>  21.904.551 locuitori
+Conform , România are o populație de 21&nbsp;680&nbsp;974 de locuitori<ref name="rec8"/><ref>[http://www.evenimentul.ro/articol/n-2002-in-romania.html În 2002, în România erau 21.680.974 persoane] - Evenimentul.ro - Accesat la data de 25.02.2009</ref> și este de așteptat ca în următorii ani să se înregistreze o scădere lentă a populației ca urmare a sporului natural negativ.<ref>[http://www.jurnalul.ro/index.php?section=rubrici&article_id=1976 Statistică - Populația României continuă să scadă] - Jurnalul Național - Accesat la data de 25.02.2009</ref> Principalul grup etnic în România îl formează românii.<ref name="rec8">[http://recensamant.referinte.transindex.ro/?pg=8 Site-ul oficial cu rezultatele recensamantul din 2002]</ref> Ei reprezintă, conform recensământului din 2002, 89,5 % din numărul total al populației.<ref name="rec8"/> După români, următoarea comunitate etnică importantă este cea a , care reprezintă 6,6 % din populație, respectiv un număr de aproximativ 1&nbsp;400&nbsp;000 de cetățeni.<ref>[http://www.divers.ro/maghiari_situatia_dupa_1990_ro Maghiari din România] - ''Situația după 1990'' - Accesant 25.02.2009</ref> După datele oficiale, în România trăiesc 535&nbsp;250 de .<ref></ref> Alte comunități importante sunt cele ale , , , , , , , , , , , , , ,  și .<ref>[http://www.divers.ro/armeni_perioada_contemporana_ro Potrivit recensământului din anul 2002, numărul armenilor din România este de 1780 (sub 0,1% din populație), în scădere față de cei 1957 recenzați în 1992.] - Divers.ro - Armeni - Perioada contemporană - Accesat la data de 25.02.2009</ref><ref name="rec8"/> Din cei 745&nbsp;421 de germani câți erau în România în 1930,<ref>Recensământul general al populației României din 29 Decemvrie 1930, vol. II, pag. XXIV.</ref><ref>[http://www.hungarian-history.hu/lib/minor/min02.htm German Population of Romania, 1930-1948]</ref> în prezent au mai rămas aproximativ 60&nbsp;000.<ref>[http://www.bukarest.diplo.de/Vertretung/bukarest/ro/06/seite__minderheiten.html Minoritatea germană din România] -  Ambasada Germaniei București - Accesat la data de 25.02.2009</ref><ref>[http://www.auswaertiges-amt.de/diplo/en/Laenderinformationen/01-Laender/Rumaenien.html  German minority], Auswärtiges Amt</ref> De asemenea, în 1924, în Regatul României erau 796&nbsp;056 de evrei,<ref>[http://www.jewishvirtuallibrary.org/jsource/vjw/romania.html The Virtual Jewish History Tour - Romania]</ref> însă la recensământul din 2002 au fost numărați 6&nbsp;179.<ref name="rec8"/> 
+]]
+Numărul românilor ori al persoanelor cu strămoși născuți în România care trăiesc în afara granițelor țării este de aproximativ 12 milioane.<ref name=diaspora></ref><ref>[http://moldova.go.ro/fd/populatie/afarafd.htm 12 milioane de români, reprezentând jumatate din populația României, trăiesc în afara hotarelor țării] - Moldova.go.ro -  Accesat la data de 25.02.2009</ref> Puțin timp după , populația României a fost de peste 23&nbsp;000&nbsp;000 de locuitori. Însă începând cu 1991, aceasta a intrat într-o tendință de scădere treptată,<ref>[http://www.9am.ro/stiri-revista-presei/Social/101616/Populatia-Romaniei-ar-putea-sa-scada-sub-17-milioane-de-locuitori-in-urmatorii-50-de-ani.html 9am.ro] - ''Populația României ar putea să scadă sub 17 milioane de locuitori în următorii 50 de ani'' - Accesat la data de 25.02.2009</ref><ref>[http://www.standard.money.ro/articol_25417/berd__13_milioane_de_locuitori_in_romania_in_2050.html BERD: 13 milioane de locuitori în România în 2050] - Standard.ro - Accesat la data de 25.02.2009 </ref> ajungând actualmente la circa 21&nbsp;000&nbsp;000 de locuitori. Acest fapt se datorează liberei circulații în statele din afara granițelor României,<ref>[http://www.muncainstrainatate.anofm.ro/popula-ia-rom-niei-efectele-emigra-iei-n-scop-de-munc Populația României- efectele emigrației în scop de muncă] - muncainstrainatate.anofm.ro - Accesat la data de 25.02.2009</ref> dar și ratei natalității destul de scăzute.<ref>[http://www.ziare.com/Romania_are_tot_mai_putini_locuitori_-544591.html România are tot mai puțini locuitori] - Ziare.ro - Accesat la data de 25.02.2009</ref><ref>[http://populatiaromanieiincotro.unfpa.ro/consultarecarteverde/dezbatereacademie/declinstudiu/?limba=Ro Fondul ONU pentru populație] - Declinul demografic și viitorul populației României - Accesat la data de 25.02.2009</ref>
+
+Limba oficială a României este <ref>[http://www.cdep.ro/pls/dic/site.page?den=act2_1&par1=1#t1c0s0a13 Constituția României] - Articolul 13, Limba oficială -> ''În România, limba oficială este limba română.'' - Accesat la data de 25.02.2009</ref> ce aparține grupei  și este înrudită cu , , , , <ref>[http://www.unilat.org/SG/Organisation/Presentation/EtatsMembres/index.ro.asp Uniunea Latină] - State membre - Accesat la 25.02.2009</ref> și, mai departe, cu majoritatea limbilor europene. Româna este limba cu cel mai mare număr de vorbitori nativi ce reprezintă 91% din totalul populației României,<ref name="rec8"/> fiind urmată de limbile vorbite de cele două minorități etnice principale,  și . Astfel,  este vorbită de un procent de 6,7% iar  de respectiv 1,1% din numărul total al populației țării.<ref name="rec8"/> Până în , în România a existat o numeroasă comunitate de vorbitori de , reprezentată în cea mai mare parte de .<ref>[http://www.sibiweb.de/geschi/7b-history.htm The History of Transylvania and the Transylvania Saxons by Dr. Konrad Gündisch]</ref> Deși cei mai mulți dintre membrii acestei comunități au emigrat în Germania,<ref>[http://www.calendarintercultural.ro/agenda.php?namecat=8&words_ev=&etnie=1 Calendar Intercultural] - ''Germanii din România'' - Accesat la 25.02.2009</ref> au rămas totuși în prezent într-un număr semnificativ de 45&nbsp;000 de vorbitori nativi de limbă germană în România.<ref>[http://www.ethnologue.com/show_language.asp?code=deu ''Raportul Ethnologue pentru limba germană''] - Accesat la data de 25.02.2009</ref> În localitățile unde o anumită minoritate etnică reprezintă mai mult de 20% din populație, limba respectivei minorități poate fi utilizată în administrația publică și în sistemul judiciar.<ref></ref><ref></ref> Engleza și franceza sunt principalele limbi străine predate în școlile din România.<ref>[http://www.gandul.info/scoala/6-din-10-elevi-romani-vorbesc-o-limba-straina.html?3934;3544789 Gândul.info] - ''6 din 10 elevi români vorbesc o limbă străină - Elevii români preferă limba engleză'' - Accesat la data de 25.02.2009</ref>  este vorbită de un număr de 5 milioane de români în timp ce franceza de circa 4-5 milioane,<ref>[http://www.business-adviser.ro/analize_engleza_cea_mai_cunoscuta_limba_administratie.html Business-Adviser] - ''Engleza, cea mai cunoscută limba în administrație'' - Accesat la data de 25.02.2009</ref> iar germana, italiana și spaniola de câte 1-2 milioane fiecare. În trecut,  era cea mai cunoscută limbă străină în România,<ref>[http://laroumanie.free.fr/inter/new12.html Roumanie de France] - ''Câteva argumente pentru francofonia si francofilia românilor'' - Accesat la data de 25.02.2009</ref> însă de curând, engleza tinde să câștige teren. De obicei, cunoscătorii de limbă engleză sunt în special tinerii. În orice caz, România este membru cu drepturi depline a , iar în 2006 a găzduit la  un important summit al acestei organizații.<ref></ref>  a fost predată în special în , datorită tradițiilor ce s-au păstrat în această regiune din timpul .<ref></ref>
+
+=== Religie ===
+]]
+
+Viața religioasă în România se desfășoară conform principiului libertății credințelor religioase, principiu enunțat la ''articolul 29 din Constituția României'', alături de libertatea gândirii și a opiniilor.<ref>Constituția României, Articolul 29: [http://www.cdep.ro/pls/dic/site.page?den=act2_1&par1=2#t2c2s0a29 ''Libertatea conștiinței'']</ref> Chiar dacă nu se definește explicit ca stat laic, România nu are nicio religie națională, respectând principiul de secularitate: autoritățile publice sunt obligate la neutralitate față de asociațiile și cultele religioase.<ref>[http://www.culte.ro/DocumenteHtml.aspx?id=1661 Ministerul Culturii și Cultelor] - Legea nr. 489/2006 privind libertatea religioasă și regimul general al cultelor Publicată în Monitorul oficial Partea I, nr. 11/8.01.2007 -> ''„În România nu există religie de stat; statul este neutru față de orice credință religioasă sau ideologie atee.”'' - Accesat la data de 25.02.2009</ref>
+
+ este instituția religioasă din România cu cel mai mare număr de credincioși. Ea este o biserică autocefală care se află în comuniune cu celelalte . Cea mai mare parte a populației României, respectiv 86,7 %, s-a declarat ca fiind de confesiune creștin ortodoxă, conform recensământului din 2002,<ref>[http://www.crestinism-ortodox.ro/ Creștin-Ortodox] - ''Populația după religie la recensământul din 2002'' - Accesat la data de 25.02.2009</ref><ref>Din totalul de 18.817.975 de cetățeni care s-au declarat de religie ortodoxă la recensământul din , 18.251.823 de persoane s-au declarat de etnie română, 482.862 de etnie romă, 48.262 ucrainieni, 28.287 maghiari, 20.476 sârbi etc. ([http://www.insse.ro/RPL2002INS/vol1/tabele/t51a.pdf Institutul Național de Statistică din România])</ref> . Ponderea comunităților religioase aparținătoare altor ramuri ale creștinismului este următoarea:  (4,7 %),  (3,7 %),  (1,5 %) și  (0,9 %).<ref name="Recensământ-Religie">[http://recensamant.referinte.transindex.ro/?pg=8 Recensământul din 2002], structură după religie. Accesat la data de 25.02.2009</ref> Astfel, populația creștină din România reprezintă 99,3 % din totalul populației țării. În  există și o minoritate  compusă majoritar din turci și tătari.<ref>[http://www.islam.ro/pag.php?id_pag=3 Liga Islamică și Culturală din România]. Musulmanii din România. Accesat la data de 25.02.2009</ref> De asemenea, la recensământul din 2002, în România existau 6&nbsp;179 de persoane de religie , 21&nbsp;349 de  sau persoane fără religie și 11&nbsp;734 de persoane care nu și-au declarat religia.<ref name="Recensământ-Religie"/>
+
+Până la , cea mai mare parte a populației din  era formată din credincioși ai ,<ref>Recensământul general al populației României din 29 decemvrie 1930, vol. II: ''Neam, limbă maternă, religie'', Imprimeria Națională, București, 1938, p. XXVII.</ref> ca urmare a trecerii unei mari părți a românilor, până atunci ortodocși, la Biserica Romei, la sfârșitul .<ref>[http://www.christusrex.org/www2/greek-catholic/history/unirea.html Unirea românilor din Transilvania cu Biserica Romei] - Accesat la data de 25.02.2009</ref> ul și ul sunt prezente mai ales în Transilvania și .<ref name="Recensământ-Religie"/> În Bihor, de pildă, se află centrul  din România,<ref>[http://www.uniuneabaptista.ro/istoric Uniunea Baptistă din România] - Istoric - Accesat la data de 25.02.2009</ref> comunitatea de aici numărând 22&nbsp;294 de adepți. De asemenea, în România există și alte culte, precum ,  și altele asemenea.
+
+În august 2010, în România existau 18.300 de biserici<ref name="scgen2010-08-03">[http://www.cotidianul.ro/121172-In_Romania_sunt_18300_de_biserici_si_doar_425_de_spitale În România sunt 18.300 de biserici și doar 425 de spitale], 2 august 2010, cotidianul.ro, accesat la 3 august 2010</ref>.
+
+=== Educație ===
+
+
+Învățământul urmărește realizarea idealului  întemeiat pe valorile , ale diversității culturale, pe aspirațiile individuale, sociale și contribuie la păstrarea identității naționale în contextul valorilor europene. Idealul educațional al școlii românești constă în dezvoltarea liberă și armonioasă a personalității individului în vederea unei integrări eficiente în societatea bazată pe cunoaștere.<ref name="EDU">[http://www.edu.ro/index.php/articles/9229 Ministerul Învățământului] - ''Legea Învățământului Preuniversitar (proiect de lege aflat în dezbatere publică începând cu data de 17 decembrie 2007)'' - Accesat la data de 12.03.2009</ref>
+
+]]
+
+Încă de la , sistemul de învățământ românesc a fost într-un continuu proces de reorganizare care a fost atât lăudat cât și criticat.<ref name="UN"></ref> În conformitate cu legea educației (adoptată în 1995), sistemul educativ românesc este reglementat de către  (MECI).<ref>[http://www.cdep.ro/pls/legis/legis_pck.htp_act_text?idt=21091 CDEP] - ''Lege nr.84 din 24 iulie 1995'' - Legea învățământului - Accesat la data de 12.03.2009</ref> Fiecare nivel are propria sa formă de organizare și este subiectul legislației în vigoare.<ref name="EDU"/> Grădinița este opțională între 3 și 6 ani. Școlarizarea începe la vârsta de 7 ani (câteodată la 6 ani) și este obligatorie până în clasa a 10-a (de obicei, care corespunde cu vârsta de 16 sau 17).<ref name="UN"/>  Învățământul primar și secundar este împărțit în 12 sau 13 clase.<ref name="EDU"/> Învățământul superior este aliniat la spațiul european al învățământului superior. Sistemul oferă următoarele diplome: de absolvire (absolvirea școlii generale, fără examen),  (absolvirea liceului, după examenul de Bacalaureat), licență (Cadru de absolvirea a Universității, după un examen și / sau a tezei), Masterat (diplomă de master, după o teză și, eventual, un examen), Doctorat (doctor, după o teză).<ref>[http://www.edu.ro/index.php/articles/9230 EDU] - ''Legea Învățământului Superior (proiect aflat în dezbatere publică începând cu data de 17 decembrie 2007)'' - Accesat la data de 12.03.2009</ref>
+
+Primii patru ani sunt predați de către un singur profesor (învățător), pentru majoritatea elevilor.<ref name="CrsPed"></ref> Alte cadre didactice sunt folosite numai pentru câteva discipline de specialitate (de limbi Străine, informatică, etc.).<ref name="CrsPed"/> Cursurile sunt reconfigurate la sfârșitul clasei a parta, pe baza performanțelor academice. Selecția pentru clase se face pe baza testelor locale. Începând cu clasa a 5-a, elevii au un alt profesor pentru fiecare materie.<ref name="CrsPed"/> În plus, fiecare clasă are un profesor desemnat pentru a fi îndrumătorul clasei (diriginte). Studiile liceale sunt de patru ani, doi obligatorii (a 9-a și a 10-a ), doi neobligatorii (a 11-a și a 12-a).<ref name="CrsPed"/> Nu există examene între a 10-a și a 11-a ani. Sistemul național de învățământ superior este structurat pe 3 niveluri de studii universitare: studii universitare de licență, de masterat și doctorat.<ref>[http://www.edu.ro/index.php/articles/c22 EDU] - Învățământ superior - Accesat la data de 12.03.2009</ref>
+]]
+În , aproximativ 4,4 milioane din populație era înscrisă la școală. Dintre aceștea, 650.000, în grădiniță, 3,11 milioane (14% din populație), în învățământul primar și secundar și 650.000 (3% din populație) la nivel terțiar (universități).<ref></ref><ref>[http://www.insse.ro/cms/files/pdf/ro/cap8.pdf INSSE] - Educație - Accesat la data de 12.03.2009</ref> În același an, rata de alfabetizare a adulților români era de 97,3% (al 45-lea la nivel mondial), în timp ce raportul combinat brut de înscriere în sistemul educațional primar, secundar și terțiar a fost de 75% (al 52-a din întreaga lume).<ref></ref>
+
+Asociația Ad Astra a cercetătorilor români a publicat ediția din 2007 a topului universităților din România. Acest top, aflat la a 3-a ediție, cuprinde un clasament general, respectiv un clasament pe domenii științifice, care reflectă pregătirea și performanța științifică a cadrelor didactice ale universităților. Clasamentele sunt realizate pe baza articolelor științifice publicate de personalul universităților în reviste științifice recunoscute pe plan internațional. În  pe primele trei locuri în clasificarea universităților situau în ordine: ,  și .<ref>[http://www.mediafax.ro/social/clasificarea-universitatilor-12-institutii-printre-care-universitatea-din-bucuresti-si-universitatea-babes-bolyai-din-cluj-napoca-in-categoria-cercetare-avansata-si-educatie-8705359 Clasificarea universităților din România: Care sunt cele mai bune instituții de învățământ superior], mediafax.ro, accesat 2011-09-12</ref><ref>[http://www.realitatea.net/clasificarea-universitatilor-din-romania-vezi-topul_868158.html Cele mai bune și cele mai slabe universități din România], realitatea.net, accesat 2011-09-12</ref> Comparativ cu țările UE, competitivitatea forței de muncă din România din punct de vedere al educației și competențelor (abilităților) este încă redusă. În cadrul , aproximativ 70% din elevii de 15 ani din România au avut performanțe situate sub nivelul cerut pentru un loc de muncă modern, față de 37% din elevii de 15 ani din . Nivelul indicatorilor privind educația în România este scăzut comparativ cu al celor din UE.<ref></ref>
+
+=== Aglomerări urbane ===
+
+
+București este cel mai mare oraș și totodată capitala României.<ref></ref> La recensământul din 2002, populația orașului depășea 1,9 milioane de locuitori, în timp ce  concentrează o populație de aproximativ 2,2 milioane de locuitori. Pe viitor, sunt prevăzute planuri de extindere a granițelor ariei metropolitane București.<ref></ref><ref></ref>
+
+În România mai există încă cinci orașe care au o populație numeroasă (în jur de 300.000 de locuitori) și care se înscriu în . Acestea sunt: , , ,  și . Alte orașe cu o populație ce depășește 200.000 de locuitori sunt: , , ,  și . De asemenea, există încă alte 13 orașe care concentrează un număr mai mare de 100.000 de locuitori.<ref name="populație"/>
+
+În prezent, o parte din cele mai mari orașe sunt incluse într-o zonă metropolitană:  (450.000 de locuitori), ,  (ambele cu o populație de aproximativ 400.000 de oameni) și  (260.000 de locuitori), iar altele sunt planificate:  (600.000 de locuitori),  (400.000 de locuitori),  (400.000 de locuitori),  (370.000 de locuitori),  și .<ref></ref>
+
+
+
+
+== Politică ==
+
+,  și cel de-al patruzeci și treilea președinte al ,  ( )]]
+
+
+ se bazează pe modelul ,<ref name="Europaworld"></ref> și a fost ratificată prin referendum național la data de , .<ref name="Europaworld"/><ref>[http://www.britannica.com/EBchecked/topic/508461/Romania Encyclopedia Britannica] - Romania-> Government and society - Accesat la data de 12.02.2009</ref> În anul 2003 a avut loc un plebiscit<ref>[http://www.dreptonline.ro/legislatie/constitutia_romaniei.php Drept Online - Constitutia Romaniei din 2003] - ''Legea de revizuire a Constituției României nr. 429/2003 a fost aprobată prin referendumul național din 18-19 octombrie 2003 și a intrat în vigoare la data de 29 octombrie 2003, data publicării în Monitorul Oficial al României, Partea I, nr. 758 din 29 octombrie 2003 a Hotărârii Curții Constituționale nr. 3 din 22 octombrie 2003 pentru confirmarea rezultatului referendumului național din 18-19 octombrie 2003 privind Legea de revizuire a Constituției României.'' - Accesat la data de 12.02.2009</ref> prin care Constituției i-au fost aduse 79 de amendamente, devenind astfel conformă cu legislația Uniunii Europene.<ref name="Europaworld"/> Conform Constituției, România este un stat național, suveran și independent, unitar și indivizibil. Forma de guvernământ a statului român este . Statul se organizează potrivit principiului separației și echilibrului puterilor — legislativă, executivă și judecătorească — în cadrul unei democrații constituționale.<ref>[http://www.cdep.ro/pls/dic/site.page?den=act2_1&par1=1#t1c0s0a1 Constituția României] - ''Titlul I, Principii generale - Statul român, Articolul 1.'' - Accesat la data de 12.02.09</ref>  este ales prin vot universal, egal, direct, secret și liber exprimat.<ref>Art.81 din Constituția României</ref> În urma amendamentelor din 2003, mandatul de președinte a fost prelungit de la 4 la 5 ani.<ref name="Europaworld"/> Președintele numește , care la rândul său numește ul.<ref name="Europaworld"/> În timp ce șeful statului își are reședința la ,<ref>[http://www.presidency.ro/?_RID=gal&cat=3 Președintele României - Palatul Cotroceni] - Accesat la data de 12.02.2009</ref> primul-ministru împreună cu Guvernul își desfășoară activitatea la .<ref>[http://www.gov.ro/palatul-victoria__l1a101178.html Guvernul României - Palatul Victoria] - Accesat la data de 12.02.2009</ref> 
+
+ este ,<ref>[http://www.senat.ro/PaginaPrincipala.aspx Senat.ro - Organizarea și funcționarea] - Accesat la data de 12.02.2009</ref><ref name="deputați">[http://www.cdep.ro/pls/dic/site.page?id=10 Camera Deputaților - Palatul Parlamentului] - Accesat la data de 15 august 2010</ref> fiind alcătuit din , cu 137 de membri, și , cu 314 de membri. Un număr de 18 locuri suplimentare în Camera Deputaților sunt rezervate reprezentanților minorităților naționale.<ref>[http://birn.eu.com/en/1/180/1369/?tpid=2 BIRN Romania Partners EDRC on Ethnic Minority Issues] - Accesat la data de 25.02.2009</ref><ref>[http://www.hotnews.ro/stiri-ultima_ora-5206448-18-organizatii-ale-minoritatilor-nationale-vor-reprezentate-parlament.htm 18 organizații ale minorităților naționale vor fi reprezentate în Parlament] - HotNews.ro - Accesat la data de 25.02.2009</ref><ref></ref> Parlamentul are rol legislativ, discutând și votând legile ordinare și organice, atât în comisiile de specialitate cât și în plen. Membrii parlamentului sunt aleși prin vot uninominal mixt, universal, direct și secret.  este unul proporțional (membrii parlamentului se aleg din toate partidele care au depășit pragul electoral de 5 % din totalul sufragiilor exprimate, în baza unui algoritm). Alegerile se țin o dată la 4 ani, ultimele având loc la .  găzduiește din anul 1994 sediul Camerei Deputaților, iar din anul 2004 și sediul Senatului.<ref name="deputați"/>
+
+ este autoritatea publică a puterii executive, care funcționează pe baza votului de încredere acordat de Parlament și care asigură realizarea politicii interne și externe a țării și exercită conducerea generală a administrației publice. Numirea Guvernului se face de Președintele României, pe baza votului de încredere acordat Guvernului de Parlament.<ref>Art. 85 din Constituția României</ref> Guvernul este alcătuit din primul-ministru și miniștri. Primul-ministru conduce Guvernul și coordonează activitatea membrilor acestuia, cu respectarea atribuțiilor legale care le revin. De asemenea, Guvernul adoptă hotărâri și ordonanțe.<ref>[http://www.guv.ro/guvernul__l1a100926.html Gov.ro - Guvernul României - Prezentare] - Accesat la data de 12.02.09</ref>
+
+Potrivit principiului , sistemul judiciar din România este independent de celelalte ramuri ale guvernului și este compus dintr-o structură de instanțe organizate ierarhic. În România, justiția se înfăptuiește numai de către Înalta Curte de Casație și Justiție și celelalte instanțe judecătorești, respectiv curțile de apel, tribunalele, tribunalele specializate și judecătoriile.<ref></ref>  este instanța cea mai înaltă în grad,<ref>[http://www.scj.ro/default.asp Prezentare.] - ''Înalta Curte de Casație și Justiție a României'' - Accesat la data de 12.02.2009</ref> iar rolul său fundamental este de a asigura interpretarea și aplicarea unitară a legii de către celelalte instanțe judecătorești. Sistemul judiciar românesc este puternic influențat de modelul francez.<ref name="Europaworld"/><ref></ref>  este unica autoritate de jurisdicție constituțională în România, independentă față de orice altă autoritate publică și care are, conform Constituției României, rolul de garant al supremației Constituției.<ref>[http://www.ccr.ro/default.aspx?page=laws/law47 Curtea Constituțională a României] - ''Legea Nr.47/1992 privind organizarea și funcționarea Curții Constituționale'' - Accesat la data de 12.02.2009</ref> Constituția, introdusă în 1991, poate fi amendată doar printr-un referendum public, iar ultimul referendum de modificare a fost organizat în 2003. De atunci, de la acea modificare, Parlamentul nu mai are dreptul să treacă peste deciziile Curții Constituționale, indiferent de majoritate.
+
+Integrarea României în  din 2007<ref></ref> a avut o influență semnificativă asupra politicii interne a țării. Ca parte a acestui proces, România a inițiat reforme, inclusiv reforma din justiție, a intensificat cooperarea judiciară cu alte state membre și a luat măsuri împotriva corupției. Cu toate acestea, în raportul de țară din 2006, România și  au fost descrise ca fiind cele mai corupte țări ale Uniunii Europene.<ref></ref><ref>[http://www.ziua.ro/news.php?data=2009-02-14&id=21090 Ziua.ro] - ''Presa germană: Este tot mai clar că România și Bulgaria au aderat cu decenii prea devreme la UE'' - Accesat la data de 13.02.2009</ref>
+
+=== Relațiile externe ===
+
+
+
+După , România și-a reorientat politica pe calea întăririi legăturilor cu , în mod special cu  și . Dacă, în , România devenea membră a  și a  și de asemenea a ,<ref>[http://www.bnro.ro/Ro/Rel_Int/ Banca Națională a României] - ''Relațiile BNR cu organisme internaționale'' - Accesat la data de 28.02.2009</ref> în  ea a devenit membră a <ref>[http://www.nato.int/structur/countries.htm North Atlantic Treaty Organization] - NATO Member Countries - Romania, 2004 - Accesat la data de 28.02.2009</ref> iar din  face parte din .<ref>[http://europa.eu/abc/european_countries/index_en.htm European countries] - Member states of the EU -> Romania - Accesat la data de 28.02.2009</ref>
+ și ,  .]]
+Liderii României postdecembriste au făcut declarații publice în ceea ce privește strângerea relațiilor cu alte țări europene și, de asemenea, în ceea ce privește ajutorul dat acestora în procesul integrării euro-atlantice, în special în cazul ,  și .<ref>[http://www.bzi.ro/Romania-sprijina-proiectele-NATO-A32951.html România sprijină proiectele NATO] - ''România și-a achitat contribuția la două fonduri NATO, pentru sprijinirea Republicii Moldova și Georgia'' - Accesat la data de 28.02.2009</ref><ref>[http://www.9am.ro/stiri-revista-presei/Politica/107549/Romania-si-Ungaria-sprijina-aderarea-Ucrainei-in-UE.html 9am News] -  
+''România și Ungaria sprijină aderarea Ucrainei în UE'' - Accesat la data de 28.02.2009</ref> Liderii români au declarat public în mai multe ocazii că se așteaptă ca într-o perioadă de aproximativ 10 ani, toate țările democratice postsovietice din  și din  să acceadă în  și .<ref name=mae></ref> În decembrie 2005,   și secretarul de stat SUA  au semnat un acord care permite instalarea de baze militare americane în România.<ref></ref>
+
+România și-a arătat în mod public sprijinul pentru  și  în eforturile făcute de aceste țări pentru aderarea la Uniunea Europeană.<ref name=mae/> Relațiile economice turco-române au statut privilegiat.<ref></ref> În același timp, relațiile româno-maghiare s-au aflat tot timpul la nivelul cel mai înalt,  sprijinind eforturile României de aderare la UE.<ref>[http://www.satu-mare.ro/evenimente/2005/06/20/ungsprijrom.html Primăria Municipiului Satu Mare] - Ungaria sprijină aderarea României la UE - Accesat la data de 28.02.2009</ref><ref></ref>
+
+Relațiile României cu  au un statut special,<ref name=mae/> având în vedere că cele două țări folosesc practic  și au . România a fost primul stat care a recunoscut independența Republicii Moldova, la numai câteva ore după proclamarea independenței noului stat (27 august 1991). Din declarația , făcută cu acest prilej, reiese clar că, în viziunea autorităților de la , independența Moldovei era considerată o formă de emancipare de sub tutela Moscovei și un pas spre reunificarea cu România.<ref></ref> În prezent, România concepe relația sa cu Republica Moldova pe două coordonate majore: afirmarea caracterului special al acestei relații, conferit de comunitatea de limbă, istorie, cultură, tradiții - realități ce nu pot fi eludate sau negate; dimensiunea europeană a cooperării bilaterale, având la bază obiectivul strategic al ambelor state de integrare în Uniunea Europeană.<ref>[http://chisinau.mae.ro/index.php?lang=ro&id=654 Ambasada României la Chișinău] - Relații politico-diplomatice - Accesat la data de 28.02.2009</ref> În aprilie 2009 relațiile dintre România și  s-au înrăutățit prin introducerea de vize cetățenilor români și expulzarea ambasadorului României la Chișinău. Fostul Președinte al Republicii Moldova,  a acuzat România de intervenții în politica internă a .<ref>[http://www.ziare.com/Diaconescu_Limitarea_regimului_calatoriilor_in_R_Moldova_un_demers_abuzi-719588.html Ziare.com] - ''Diaconescu: Limitarea regimului calatoriilor in R. Moldova, un demers abuziv'' - Accesat la data de 13.05.2009</ref><ref>[http://www.evz.ro/articole/detalii-articol/847673/Voronin-ataca-Romania-din-toate-partile/ EVZ] - ''Voronin atacă România din toate părțile'' - Accesat la data de 13.05.2009</ref>
+
+România a avut neînțelegeri cu Ucraina în legătură cu  și cu  a  la est de , miza principală fiind zăcămintele de petrol și de gaze din zonă. Problema a fost prezentată în fața . Astfel, CIJ, prin  decizia nr. 2009/9 din 3 februarie 2009 a acordat 79,34% din zona în dispută României. României îi revin  iar  îi revin <ref>ICJ [http://www.icj-cij.org/docket/files/132/14985.pdf?PHPSESSID=87e357fcf3c2d689819cbb3c1b658684 ''Maritime Delimitation in the Black Sea (Romania v. Ukraine)''] icj-cij.org, 3 februarie 2009</ref><ref>MAE [http://www.mae.ro/index.php?unde=doc&id=38128&idlnk=2&cat=4 Comunicat de presă din 3 februarie 2009] mae.ro, accesat 4 februarie 2009</ref><ref>[http://www.antena3.ro/stiri/justitie/procesul-dintre-romania-si-ucraina-privind-insula-serpilor-se-incheie-marti_63647.html Verdict la Haga: România a câștigat 9.700 km pătrați de platou continental, 79% din suprafața disputată]</ref> Prin decizia CIJ Insula Șerpilor rămâne în componența Ucrainei. Aceasta a fost a 100-a decizie a CIJ de la înființarea sa. O altă problemă dintre cele două țări este cea a construcției .<ref>[http://www.antena3.ro/stiri/externe/mae-momentan-ucraina-nu-are-voie-sa-lucreze-la-canalul-bistroe_64584.html Antena 3] - ''MAE: Momentan, Ucraina nu are voie să lucreze la canalul Bâstroe.'' - Accesat la data de 28.02.2009</ref><ref>[http://www.ziua.net/display.php?id=154590&data=2004-08-11 Ziua - George Damian] - ''Canalul Bâstroe și Insula Șerpilor, dublu atac ucrainean'' - Accesat la data de 28.02.2009</ref>
+
+=== Organizare administrativ-teritorială ===
+
+
+
+Printre obiectivele  se află promovarea progresului economic și social, echilibrat și durabil, prin întărirea coeziunii între țările membre. Regiunea (Unitatea Administrativ Teritorială) este privită, în accepțiunea , ca unitate situată imediat sub nivelul statului cu autoritate aleasă a Administrației Publice și mijloace financiare proprii. România este împărțită în mai multe unități administrativ-teritoriale denumite ''județe''. Pentru a putea fi aplicată politica de dezvoltare regională, pe teritoriul României s-au înființat 8 regiuni de dezvoltare ca un rezultat al unui acord liber între  și cele locale.<ref>[http://www.primariamotru.ro/Infrastructuri.html Primăria din Motru] - Municipiul Motru cuprins în Dezvoltarea Regională Sud - Vest Oltenia - Accesat la data de 28.02.2009</ref>
+
+Conform Constituției, teritoriul României este organizat, sub aspect administrativ, în ''comune'', ''orașe'' și ''județe''.<ref>[http://www.casaromana.org/geografia/r_admindiv.html Casa Română] - România, Împărțirea administrativă - Accesat la data de 28.02.2009</ref> În condițiile legii, unele orașe sunt declarate municipii.<ref>[http://www.cdep.ro/pls/dic/site.page?den=act2_1&par1=1#t1c0s0a3 Constituția României] - Principii generale - Articolul 3, Teritoriul - Accesat la data de 28.02.2009</ref> Din punct de vedere istoric, exista 3 provincii tradiționale:  (formată din regiunile Oltenia, Muntenia și Dobrogea),  și  (formată din regiunile Banat, Crișana, Maramureș și Ardeal).<ref>[http://www.descopera.net/romania_geografie.html Descoperă.net] - Geografia României - ''Împărțirea teritorială a României'' - Accesat la data de 28.02.2009</ref>
+
+, unitatea elementară de organizare administrativă, este formată dintr-unul sau mai multe  și este condusă de un consiliu local și un  ales.<ref>[http://www.roposturo.ro/congres2005/ro_romania.htm Roposturo] - ''Congresul Mondial de Posturologie 2005'' - Despre România - Accesat la data de 28.02.2009</ref> România are 2 685 de comune însumând 13 285 de sate, respectiv cu o medie de cinci sate pe comună.<ref name="MAEB">[http://ue.mae.ro/index.php?lang=ro&id=141 MAE - Bruxelles] - ''Reprezentanța permanentă a României pe lângă Uniunea Europeană'' - România, Data generale - Accesat la data de 28.02.2009</ref>
+
+ul este unitatea administrativă condusă de un consiliu local și un primar ales.<ref>[http://www.roembus.org/weblinks/Romania/ro/Date%20generale.htm Roembus] - România - Date generale, Împărțirea administrativă - Accesat la data de 28.02.2009</ref> Orașele mai importante pot fi declarate . România are 263 de orașe, dintre care 82 sunt municipii.<ref name="MAEB"/>
+]]
+ul este unitatea administrativă condusă de un consiliu județean și un .<ref>[http://www.administratie.ro/artspec.php?id=2 Administrație] - Portalul Național de Administrație Publică - Accesat la data de 28.02.2009</ref> Consiliul județean este ales pentru a coordona activitatea consiliilor comunale și orășenești, având ca scop concentrarea interesului asupra serviciilor publice de importanță la nivel județean.  numește un prefect în fiecare județ pentru a fi reprezentantul său local.<ref>[http://www.ici.ro/romania/ro/geografie/county.html ICI - România] - Județe - Accesat la data de 28.02.2009</ref> România are 41 de județe plus municipiul-capitală București,<ref>[http://parizs.tripod.com/romania/ Municipalities of Romania (including Transylvania)] - ''Románia és Erdély önkormányzattal rendelkező városai és községei'' - Accesat la data de 28.02.2009</ref> care are un statut similar cu acela de județ. Un județ are, în medie, o suprafață de 5 800 km<sup>2</sup> și o populație de 500 000 de locuitori.<ref>[http://www.schengen.mira.gov.ro/index10.htm Schengen România] - România și Uniunea Europeană - Informații generale despre România</ref>  este considerat și el municipiu,<ref>[http://www.romturism.ro/detalii.php?din=destinatii&poz=56 RomTurism] - ''București, județul București'' - Accesat la data de 28.02.2009</ref> dar este singurul care nu face parte din niciun județ. Nu are consiliu județean, dar are un prefect.<ref>[http://www.prefecturabucuresti.ro/institutia-prefectului/rolul-prefectului/ Prefectura București] - Rolul prefectului - Accesat la data de 28.02.2009</ref> Cetățenii Bucureștiului aleg un primar general și un consiliu general.<ref>[http://www4.pmb.ro/wwwt/wwwcs/electorale/legislatie.html PMB] - ''Legislație în vigoare ce reglementează alegerea Primarului General al Municipiului București'' - Accesat la data de 28.02.2009</ref> Fiecare din  aleg și ele un primar și un consiliu local.<ref>[http://www.cdep.ro/pls/legis/legis_pck.htp_act?ida=48494&pag=4 CDEP] - ''Lege nr.67 din 25 martie 2004 pentru alegerea autorităților administrației publice locale'' - Accesat la data de 28.02.2009</ref>
+
+În afară de împărțirea pe județe, România este împărțită și în , corespondente nivelului -2 de diviziuni al UE, dar fără a avea capacități administrative. Regiunile de dezvoltare se referă la subdiviziunile regionale ale României creeate în 1998<ref>[http://www.primariaonline.ro/regiuni.php Primăria Online] - Regiuni de dezvoltare - Accesat la data de 28.02.2009</ref> și sunt folosite în special pentru coordonarea proiectelor de dezvoltare regională.<ref>[http://www.infoturist.ro/romania.html Info Turist] - România - Accesat la data de 28.02.2009</ref> Regiunile de dezvoltare nu sunt unități administrativ-teritoriale, nu au personalitate juridică, fiind rezultatul unui acord liber între consiliile județene și cele locale.<ref>[http://www.mie.ro/index.php?p=159 Ministerul Dezvoltării Regionale și Locuinței] - Politica de dezvoltare regională - Accesat la data de 28.02.2009</ref> Regiunile de dezvoltare ale României, numite după poziția geografică în țară, sunt: , , , , , , , .<ref>[http://www.smartfinancial.ro/smartfinancial/europa+&+integrare/integrarea+unitatilor+teritoriale+de+statistica+ale+romaniei+si+bulgariei+in+nuts Smart Financial] - ''Integrarea unităților teritoriale de statistică ale României și Bulgariei în NUTS'' - Accesat la data de 28.02.2009</ref>
+
+Împărțirea României în e este atestată documentar la  , când domnitorul  printr-un hrisov numește „ținutul Vâlcii” ''județ''. Astfel,  este primul județ atestat documentar de pe teritoriul actual al României.<ref></ref> Ultima reformă administrativ-teritorială majoră din România a avut loc în anul <ref>[http://www.replicahd.ro/replica_db/index.php?pagerun=2&title=judetele_depasite&more=1&c=1&tb=1&pb=1 Replica] - ''Administrație: Județele, depășite?'' - Accesat la data de 28.02.2009</ref> când s-a trecut de la împărțirea pe  și  la reîmpărțirea pe județe, desființată de autoritățile comuniste după .<ref>[http://www.prefecturabrasov.ro/upload/files/istoric.htm Prefectura Brașov] - Istoric - Accesat la data de 28.02.2009</ref>
+
+== Economie ==
+
+
+
+Cu un  estimat de  miliarde de lei și de  lei pe cap de locuitor în <ref>[http://www.insse.ro/cms/rw/pages/romania%20in%20cifre%202008.ro.do România in cifre 2008]</ref>, România este o țară cu un venit mediu-superior.<ref></ref> Produsul intern brut al României a urcat în ultimul trimestru din 2008 cu 2,9%, temperând creșterea pe întregul an la 7,1%. Valoarea PIB în  a fost de 503,959 miliarde lei (136,8 miliarde euro).<ref>[http://www.banknews.ro/stire/26143_economia_romaneasca_a_crescut_anul_trecut_cu_7,1p,_dupa_un_avans_de_doar_2,9p_in_trimestrul_iv.html Bank News] - Economia românească a crescut anul trecut cu 7,1%, după un avans de doar 2,9% in trimestrul IV - Accesat la data de 13.02.2009</ref>
+
+După , țara a cunoscut un deceniu de instabilitate și profund declin economic, consecințe provocate de o administrare defectuoasă și coruptă și de lipsa unor reale reforme structurale. De la începutul mileniului, economia României s-a transformat într-o economie relativ stabilă, caracterizată de o creștere vizibilă, dublată de reducerea  și a i. În 2006, conform Institutului Național de Statistică, PIB-ul a cunoscut o creștere în termeni reali de 7,9%, una dintre cele mai ridicate din Europa și a egalat PIB pe locuitor realizat de România în 1988.<ref></ref> Șomajul în România a fost de 3,9% în septembrie 2007,<ref></ref> un procent scăzut dacă se compară cu cel al altor țări mijlocii și mari din Europa precum Polonia, Franța, Germania și Spania.  a României este relativ mică, reprezentând 20,3% din PIB.<ref name="CIA"></ref> 
+
+Principalele industrii ale României sunt cea textilă și de încălțăminte, industria metalurgică, de mașini ușoare și de asamblare de mașini, minieră, de prelucrare a lemnului, a materialelor de construcții, chimică, alimentară și cea de rafinare a petrolului. O importanță secundară o au industriile farmaceutică, a mașinilor grele și a aparatelor electrocasnice.<ref name="GR"/> În prezent, industria constructoare de mașini este foarte dinamică, fiind susținuta în principal de producătorul de autovehicule
+. Industria românească de IT cunoaște de asemenea o creștere anuală constantă.<ref name="GR">[http://www.ghidromania.ro/despre-romania-comercial.php Ghid România] - România, economie - Accesat la data de 12.03.2009</ref> În general, România întreține un comerț intens cu țări din Uniunea Europeană, în special cu <ref>[http://www.adevarul.ro/articole/2003/romania-germania-scurt-istoric-al-cooperarii-economice.html Ziarul Adevărul] -> România - Germania: scurt istoric al cooperarii economice - Accesat la data de 12.03.2009</ref> și ,<ref>[http://roma.mae.ro/index.php?lang=ro&id=73669 MAE - Roma] - Evoluția schimburilor comerciale bilaterale - România - Italia - Accesat la data de 12.03.2009</ref> care sunt unii dintre cei mai importanți parteneri comerciali ai României.
+]]
+După o serie de  și reforme de la sfârșitul anilor '90 și începutul anilor 2000,<ref></ref> intervenția guvernului în economia țării a fost destul de absentă, în comparație cu economiile celorlalte state din Europa.<ref></ref> În 2005, România a înlocuit sistemul progresiv de  în care cota maximă era de 40%, cu o cotă unică de 16%. În 2007, aceasta era cea mai mică cotă din UE.<ref>|date=2007-06-26|accessdate=2008-08-31}}</ref> Însă, în 2008, România a fost eclipsată de Bulgaria care are acum o cotă unică de 10% și de Republica Cehă, unde s-a introdus recent o cotă de 15%.<ref></ref><ref>[http://www.banatbusiness.ro/stiri/49/Romania-nu-are-un-regim-fiscal-favorabil-in-ciuda-impozitului-scazut-pe-venitul-global/ Banat Business] - ''România nu are un regim fiscal favorabil, în ciuda impozitului scăzut pe venitul global'' - Studiu realizat de KPMG - Accesat la data de 12.03.2009</ref>
+
+Economia este, predominant, bazată pe servicii, care reprezintă 55% din PIB, iar  și  au de asemenea o contribuție importantă de 35%, respectiv 10% din PIB. În schimb, 32% din populația tării este angajată în agricultură și producție, una dintre cele mai mari rate din Europa.<ref name="CIA"/> Începând cu anul 2000, România a atras tot mai mulți investitori străini, devenind cea mai importantă destinație de investiții străine în Europa Centrală și de Sud-Est. Investițiile străine directe au fost, in 2006, în valoare de 8,3 miliarde €.<ref></ref> Un aport însemnat în economia românească îl reprezintă sumele de bani trimise de cetățenii români care lucrează în alte țări ale lumii. Conform ultimelor estimări ale Băncii Mondiale, această sumă s-a ridicat în anul 2008 la 9 miliarde dolari<ref>[http://peoplemove.worldbank.org/en/content/remittance-flows-to-developing-countries Remittance flows]</ref>.
+
+Printre problemele economiei în România se numără: o populație aproximativ jumătate rurală și nefiscalizată, prea mulți asistați sociali, prea mulți bani cheltuiți pe medicamente scumpe, evaziune fiscală ridicată<ref name="cp2010-06-02">[http://www.capital.ro/articol/afacerea-noastra-romania-135490.html Afacerea noastră, România], capital.ro, accesat la 2 iunie 2010</ref>.
+
+Potrivit unui raport din 2006 al , economia României se clasează pe locul 49 dintr-un număr total de 175 economii naționale în privința ușurinței de a face afaceri, înregistrând astfel o poziție mai bună decât alte țări din regiune, precum Ungaria și Cehia.<ref></ref> În plus, același studiu a considerat că România a fost în 2006 a doua țară din lume ca ritm al reformelor mediului de afaceri, după Georgia<ref></ref>. Pe de alta parte în România rata corupției continuă să rămână la un nivel îngrijorător de mare. 
+
+Salariul mediu brut în România, în luna august 2011, a fost de 2.005 lei, în scădere cu 22 de lei față de luna iulie 2011<ref>[http://www.insse.ro/cms/files/statistici/comunicate/castiguri/a11/cs08r11.pdf]</ref>.
+
+=== Transport ===
+
+
+
+Prin așezarea sa geografică, România reprezintă o zonă de intersecție a mai multor magistrale de , care leagă nordul de sudul Europei și vestul de estul acesteia. Pe de altă parte, rețeaua de transport din România asigură legătura între rețeaua de transport comunitară și rețeaua de transport a statelor necomunitare vecine din  și .<ref>[http://www.centru-logistic.ro/localizare.htm Centrul Logistic] - Localizare România - ''Coridorul IV Pan European'' - Accesat la data de 08.03.2009</ref> Totuși, datorită investițiilor, reparațiilor și întreținerii insuficiente, infrastructura de transport nu satisface nevoile economiei actuale, fiind mult în urma .<ref>[http://www.transport-business.ro/articol/Infrastructura-rutiera-ne-tine-in-loc-1010 Transport - Business] - ''Infrastructura rutieră ne ține în loc'' - Accesat la data de 08.03.2009</ref><ref>[http://stiri.itbox.ro/stiri-online/diverse/romania-nu-are-infrastructura-rutiera-necesara-dezvoltarii-economice.html Rompres] - ''România nu are infrastructura rutieră necesară dezvoltării economice'' - Accesat la data de 08.03.2009</ref>
+
+În ultima perioadă se fac eforturi pentru a aduce principalele  din România la nivelul rețelei de coridoare europene.<ref></ref> Au fost începute mai multe proiecte de modernizare a rețelei de coridoare europene, finanțate din fonduri <ref>[http://www.euractiv.ro/uniunea-europeana/articles|displayArticle/articleID_14861/Ritmul-de-absorbtie-a-fondurilor-ISPA-trebuie-accelerat.html Euractiv] - ''Ritmul de absorbție a fondurilor ISPA trebuie accelerat'' - Accesat la data de 08.03.2009</ref> și din împrumuturi garantate de stat de la instituțiile financiare internaționale.  urmărește finanțarea externă sau parteneriate public-private pentru alte modernizări ale rețelei rutiere, și în special ale .<ref>[http://www.gov.ro/capitolul-13-infrastructura-de-transport__l1a2078.html Guvernul României] - Capitolul 13 - Infrastructura de transport - Accesat la data de 08.03.2009</ref> În martie 2009, România are finalizați 280 km de autostradă.<ref>[http://www.evz.ro/articole/detalii-articol/838470/Bilantul-a-42-de-ani-de-autostrazi-in-Romania-280-de-kilometri/ Evenimentul Zilei] - ''Bilanțul a 42 de ani de autostrăzi în România: 280 de kilometri'' - Accesat la data de 08.03.2009</ref> Singurele autostrăzi din România sunt: , de la Pitești la București și , de la București la Cernavodă.<ref>[http://www.infrastructura.info/ Infrastructură] - Info - Accesat la data de 08.03.2009</ref> Se ia in discuție construirea unei autostrăzi prin Transilvania.<ref>[http://www.standard.money.ro/articol_46105/romania_ar_trebui_sa_aiba_2_000_de_km_de_autostrada__pana_in_2015.html România ar trebui sa aiba 2000&nbsp;km de autostradă până in 2015]</ref> Alte tronsoane care se află în diferite stadii sunt: , care leagă ul de  (PCTF Borș),  - ,  - ,  - ,  -  - ,  -  - .<ref></ref><ref>{{citat web|title=Strategia pentru România|language=Română|format=PDF|url=http://www.ebrd.com/about/strategy/country/romania/stratrom.pdf|publisher=Document al Băncii Europene
+Pentru Reconstrucție și Dezvoltare|accessdate=08-03-2009}}</ref>
+
+Compania națională de  este .<ref>[http://www.cfr.ro/CFR_new/infrastructura.htm Căile Ferate Române] - Site oficial - Prezentare Companie - Accesat la data de 08.03.2009</ref> În 2004 infrastructura feroviară cuprindea 22.247 km de căi ferate, din care aproximativ 8.585 km electrificate și 2.617 km linii duble, majoritatea la ecartament standard de 1.435 mm,<ref>[http://www.cfr.ro/CFR_new/Rom/infrastruc.htm CFR - Site oficial] - Infrastructura publică - Accesat la data de 08.03.2009</ref><ref></ref> rețeaua CFR fiind a patra ca mărime de Europa.<ref>[http://www.curierulnational.ro/Actualitate%20Companii/2008-04-18/CFR+SA+ar+putea+sa+scada+pretul+pentru+vanzarea+terenurilor+companiei Curierul Național] - ''CFR administrează a patra rețea feroviară din Europa ca volum de pasageri și marfă.'' - Accesat la data de 08.03.2009</ref> În perioada 1990 - 2002, numărul de pasageri transportați pe calea ferată pe rute interne și internaționale a înregistrat o scădere continuă, mai accentuată între 1990 și 1994 și mai lentă după 1994.<ref name=autogenerated3></ref> Cauzele care au condus la reducerea continuă a călătorilor expediați și a parcursului călătoriilor sunt legate de situația generală economică și sociala din țară, de reducerea veniturilor populației, de creșterea somajului (în cazul navetiștilor), precum și de creșterea numărului de autoturisme personale. Transportul feroviar de călători se asigură cu un număr de 817 , din care mai mult de jumătate au vechimi mai mari de 20 de ani.<ref>[http://www.adevarul.ro/articole/2004/jumatate-dintre-locomotivele-si-vagoanele-cfr-ului-sunt-expirate.html Adevărul.ro] - ''Jumătate dintre locomotivele și vagoanele CFR-ului sunt „expirate”'' - Accesat la data de 08.03.2009</ref> Începând cu anul 2005, a fost liberalizat transportul feroviar de călători, mai multe linii secundare fiind concesionate operatorilor privați.<ref>[http://www.wall-street.ro/articol/Companii/5439/Opt-companii-vor-asigura-transportul-feroviar-de-scurt-parcurs.html Wall Street] - ''Opt companii vor asigura transportul feroviar de scurt parcurs'' - Accesat la data de 08.03.2009</ref>
+]]
+ destinate traficului aerian public este formata din 17 aeroporturi civile,<ref>[http://www.e-transport.ro/AEROPORTUL_ORADEA_MODERNIZAT_PANA_IN_2010-i105-news21001-p82.html E-Transport] - ''Dintre cele 17 aeroporturi din România doar 11 sunt considerate aeroporturi de interes european.'' - Accesat la data de 08.03.2009</ref> toate fiind deschise traficului internațional. 12 dintre ele sunt deschise permanent, iar restul la cerere. Din cele 17 aeroporturi , 4 funcționează sub autoritatea , 12 sub autoritatea consiliilor județene și un aeroport a fost privatizat.<ref>[http://www.ziaruldeiasi.ro/economic/aeroportul-bucuresti-otopeni-va-deschide-un-terminal-cargo~ni1spn Ziarul de Iași] - Economic - Accesat la data de 08.03.2009</ref> Ca o observație generală, flota aeriană din România se află într-un amplu proces de modernizare. Flota de aeronave destinate traficului comercial s-a redus de la 55 de aeronave în anul 1991 la 34 de aeronave în anul 2004, prin scoaterea din exploatare a aeronavelor vechi.<ref>[http://www.fonduri-structurale-europene.ro/post/transportul-aerian.html Fonduri Structurale Europene] - Transportul aerian - Accesat la data de 08.03.2009</ref> 
+]]
+După ce ,  și  au contribuit prin rezultate de pionierat la dezvoltarea aviației, în  a luat ființă , care oferea servicii de transport aerian de pasageri, mărfuri și poștă, fiind prima companie aeriană din lume care a efectuat zboruri transcontinentale.<ref name="ClubCalator">[http://www.proavion.ro/companii-aeriene/tarom.php Proavion] - Clubul călătorului de oriunde - Despre compania aeriană Tarom - Accesat la data de 08.03.2009</ref> În anii următori au fost inființate companiile  (Liniile Aeriene Române),  (Societatea Română de Transporturi Aeriene),  (Transporturile Aeriene Româno-Sovietice).<ref name="ClubCalator"/>
+
+La   s-a înființat compania  (Transporturile Aeriene Române),<ref>[http://www.tarom.ro/compania-tarom/istoric/istoricul-aviatiei-in-romania.html TAROM] - Istoricul aviației în România - Accesat la data de 08.03.2009</ref> care mai funcționează și astăzi. La câțiva ani după lansare, TAROM opera deja zboruri către aproape toate țările europene, iar din 1966 efectuează zboruri peste Atlantic. Începând cu anul 1974 a realizat zboruri către Sydney via Calcutta și a introdus curse regulate spre New York și Beijing.<ref>[http://www.tarom.ro/compania-tarom/istoric/scurt-istoric-al-tarom.html Compania TAROM] - Scurt istoric al TAROM - Accesat la data de 08.03.2009</ref> Pe piața autohtonă sunt prezente cele mai mari companii aeriene europene clasice ( și ) și low-cost ( și ). În 2004 s-a înființat , prima companie românească de transporturi aeriene cu tarif redus.<ref>[http://www.blueair-web.com/index.php?location=about&LANG=RO Blue Air] - Despre noi - Accesat la data de 08.03.2009</ref>
+
+Transportul fluvial românesc se află încă la un nivel foarte redus (sub un procent) dar având potențial de creștere mare datorită râurilor navigabile dar și a fluviului . În , în România existau 1.731 km de ape navigabile. România are 2.251 de nave fluviale de categoria I, care pot efectua misiuni economice pe apele fluviale internaționale și circa 587, care pot naviga doar pe partea românească a Dunării și pe râurile interioare. Cele mai multe nave înmatriculate sunt cele de agrement, circa 13.246, turismul de agrement pe Dunăre și cel în apele maritime ale României dezvoltându-se în ultimii ani.<ref>[http://www.wall-street.ro/articol/Economie/17757/Turismul-creste-transportul-fluvial-de-agrement.html Economie, Wall-Street] - ''Turismul crește transportul fluvial de agrement'' - Accesat la data de 08.03.2009</ref> Important pentru România este  ce leagă portul  cu , scurtând cu aproximativ 400 de km ruta mărfurilor de la Marea Neagră până la porturile dunărene din Europa Centrală.<ref>[http://www.acn.ro/index.php?id=3 Administrația Canalelor Navigabile] - Istoric - Accesat la data de 08.03.2009</ref>
+
+Principalele mijloace de transport în comun sunt ele, ele, ele și ele, în general operate de regii autonome administrate de autoritățile locale (de exemplu, ). Singurul oraș care dispune de un sistem de  este București.  a fost deschis în , fiind astăzi cel mai folosit mijloc de transport din București, cu peste 650.000 de pasageri zilnic.<ref>[http://www.gdo.ro/Actualitate/2008-10-09/Bombardier+se+extinde+in+Romania Gazeta de Olt] - Bombardier se extinde în România - ''Trenurile produse de această companie transportă în prezent peste 650.000 de pasageri zilnic, pe cele trei magistrale bucureștene.'' - Accesat la data de 08.03.2009</ref>
+
+=== Turism ===
+
+
+
+Traversată de apele , România are un relief variat, incluzând împăduriții ,  și , cea mai bine păstrată deltă europeană<ref>[http://whc.unesco.org/en/list/588 UNESCO - Delta Dunării - Accesat la data de 05.05.2009]</ref>. Satele românești păstrează în general un mod de viață tradițional. România se bucură de o abundență a arhitecturii religioase și păstrează câteva orașe medievale și castele.<ref>[http://www.romanianmonasteries.org/ro/romania Romanian Monasteries] - Turismul în România - Accesat la data de 27.02.2009</ref>
+]]
+Turismul în România se concentrează asupra peisajelor naturale și a istoriei sale bogate, având de asemenea o contribuție importantă la economia țării. În 2006, turismul intern și internațional a asigurat 4,8% din  și aproximativ o jumătate de milion de locuri de muncă (5,8% din totalul locurilor de muncă).<ref></ref> După comerț, turismul este cea de-a doua ramură importantă din sectorul de servicii. Dintre sectoarele economice ale României, turismul este unul dinamic și în curs rapid de dezvoltare, fiind de asemenea caracterizat de un mare potențial de extindere.<ref>[http://www.wall-street.ro/articol/Turism/26256/Numarul-turistilor-straini-care-vor-alege-Romania-pentru-vacanta-va-creste.html Wall Street] - ''Numărul turiștilor străini care vor alege România pentru vacanță va crește'' - Accesat la data de 27.02.2009</ref> După estimările '''', România ocupă locul 4 în topul țărilor care cunosc o dezvoltare rapidă a turismului, cu o creștere anuală a potențialului turistic de 8% din 2007 până în 2016.<ref></ref> Numărul turiștilor a crescut de la 4,8 milioane în 2002, la 6,6 milioane în 2004. De asemenea, în 2005, turismul românesc a atras investiții de 400 milioane de euro.<ref></ref>
+
+În ultimii ani, România a devenit o destinație preferată pentru mulți europeni (mai mult de 60%<ref>[http://www.business-point.ro/turism/318/numarul-turistilor-straini-sositi-in-romania-a-crescut.html Business Point] - ''Numărul turiștilor străini sosiți în România a crescut'' - Accesat la data de 27.02.2009</ref> dintre turiștii străini provin din țările membre ), rivalizând și fiind la concurență cu țări precum , ,  sau . Stațiuni precum , , , ,  și  (numite uneori și ''Riviera Română'') sunt printre principale atracții turistice pe timp de vară.<ref></ref> În timpul iernii, stațiunile de schi de pe  și din  sunt destinațiile preferate ale turiștilor străini.<ref>[http://www.ici.ro/romania/ro/turism/c_vprahova.html ICI] - Valea Prahovei - Accesat la 28.02.2009</ref><ref>[http://www.ziare.com/Mii_de_turisti_pe_Valea_Prahovei-681818.html Ziare.com] - Mii de turiști pe Valea Prahovei - Accesat la data de 28.02.2009</ref> Pentru atmosfera lor medievală sau pentru castelele aflate în apropiere, numeroase orașe transilvănene precum , , ,  sau  au devenit importante puncte de atracție pentru turiști. De curând s-a dezvoltat și turismul rural ce se concentrează asupra promovării  și .<ref></ref> Principalele puncte de atracție le reprezintă , ,  ori .<ref></ref> România oferă și atracții turistice naturale, precum , ,  și alte peșteri din .<ref name="Enciclopedia statelor lumii"/> 
+ cu ]]
+Prin funcțiile sale complexe, prin poziția în cadrul țării și prin numeroasele obiective cu valoare istorică, arhitectonică și de altă natură, ul reprezintă unul dintre principalele centre turistice ale României.<ref>[http://www.infotravelromania.ro/bucuresti.html Info Travel Romania] - București, Turism - Accesat la data de 27.02.2009</ref><ref name="Enciclopedia statelor lumii">Horia C. Matei, Ion Nicolae, Silviu Neguț, Caterina Radu, ''Enciclopedia statelor lumii'', ediția a VII-a, București, Editura Meronia, 2001 - ISBN 973-99451-5-6</ref> Bucureștiul se remarcă prin de amestecul eclectic de stiluri arhitecturale, începând de la , rămășițele palatului din secolul al XV-lea al lui  - cel care a fost fondatorul orașului și, totodată, sursa de inspirație pentru personajul  -, la biserici ortodoxe, la vile în stil , la arhitectura greoaie stalinistă din perioada comunistă și terminând cu , o clădire colosală cu șase mii de încăperi, a doua ca mărime în lume după Pentagon.<ref>[http://www.turism.ro/bucuresti.php Turism în România] - ''București, o combinație eclectică de stiluri'' - Accesat la data de 27.02.2009</ref> 
+
+Printre cele mai importante obiectivele turistice ale municipiului București se numără: , , , , , , , , , , , , , .<ref>[http://www.travelworld.ro/romania/bucuresti/atractii_turistice_bucuresti.php Travel World] - Atracții turistice din București  - Accesat la data de 27.02.2009</ref><ref>[http://www.miculparis.ro/turistice/turul_bucurestiului.html Micul Paris] - Turul Bucureștiului - Accesat la data de 27.02.2009</ref> De asemenea, aici se organizează, în fiecare an, Târgul de Turism al României.<ref>[http://www.targuldeturism.ro/ Târgul de turism] - Romexpo - Accesat la data de 27.02.2009</ref><ref>[http://www.adevarul.ro/articole/vacante-nationale-la-targul-de-turism-bucuresti.html Ziarul Adevărul] - ''Vacanțe naționale, la Târgul de Turism București'' - Accesat la data de 27.02.2009</ref>
+
+ este situată în partea de nord a României, în nord-vestul . Regiune montană pitorească, cu tradiții etnografice ce dăinuie nealterate, Bucovina se remarcă printr-o activitate turistică dinamică, datorată în primul rând . Cele cinci mănăstiri cu pictură exterioară, intrate în patrimoniul turistic mondial, își păstrează caracteristicile după mai bine de 450 de ani.<ref>[http://www.centruldepelerinaj.ro/regiuni_bucovina_ro.php Centrul de pelerinaj] - Bucovina - Obiective turistice și de pelerinaj - Accesat la data de 27.02.2009</ref><ref>[http://www.manastiri-bucovina.go.ro/index.htm Mănăstiri în Bucovina] - Prima pagină - Accesat la data de 28.02.2009</ref>
+
+== Cultură ==
+]]
+
+România are o cultură unică datorită așezării sale geografice și a evoluției istorice distincte.<ref>[http://www.observatorcultural.ro/Dezbatere-la-Venetia-despre-o-Romanie-intre-Orient-si-Occident*id_718-news_details.html Observator Cultural] - Dezbatere la Veneția despre o Românie între Orient și Occident -> „România – scrie autorul – se prezintă ca o împletire peste secole de culturi și confesiuni religioase diferite, un fel de sinteză, uneori armonioasă, alteori plină de conflicte, dintre Orient și Occidentul european, și datorită unor dificultăți de natură etnico-istorică și religioasă nesoluționate nici pînă astăzi și bine înrădăcinate pe teritoriul său.” - Alberto Castaldini</ref> Este fundamental definită ca fiind un punct de întâlnire a trei regiuni: ,  și , dar nu poate fi cu adevărat inclusă în nici una dintre ele.<ref>[http://www.itcnet.ro/folk_festival/culture.htm Romania] - Culture, Historical Background - Accesat la data de 08.03.2009</ref> Identitatea românească a fost formată pe un substrat din amestecul elementelor  și , cu multe alte influențe.<ref>[http://www.claudiomutti.com/index.php?id_news=123&imag=2&url=6 Claudio Mutti] -  -> ''România, răscruce a Eurasiei'' - Accesat la data de 08.03.2009</ref> 
+]]
+  funcționează în cea mai mare parte ca  a elementelor împrumutate de la alte populații, originalitatea ei constând în modul de îmbinare și selectarea acestora.<ref> (2002). ''Folclorul muzical românesc'', Editura Muzicală, București. ISBN 973-42-0304-5</ref> În  și în , cele mai importante influențe au fost din partea popoarelor slave care au migrat în spațiul carpato-dunărean și care s-au format în vecinătatea ei — , , ,  și  —, din partea grecilor din  și mai apoi, sub protecție turcă, din , din partea , de la , precum și de la i care trăiesc în .<ref>[http://www.agriland.ro/ro/descopera/prezentare/cultura.html Agriland] - Prezentarea țării - Cultura - Accesat la data de 08.03.2009</ref> Cultura modernă română a apărut și s-a dezvoltat în aproximativ ultimii 250 ani sub o puternică influență din partea culturilor din vestul Europei, în special cea <ref>''„Rareori influența unui popor asupra altuia a fost mai completă, mai cuprinzătoare decât influența franceză în România.... Este recunoscută în toate manifestările spiritului uman, în politică cât și în legislație, în literatură cât și în organizarea administrativă sau în viața socială”'' - , „Influența franceză asupra spiritului public în România secolului XIX”, Paris, 1914</ref> și cea .<ref>[http://paris.mae.ro/index.php?lang=ro&id=13145 Ambasada României la Paris] - Relațiile Culturale - Accesat la data de 08.03.2009</ref><ref>[http://berlin.mae.ro/index.php?lang=ro&id=9547 Ambasada României la Berlin] - Scurt istoric al relațiilor culturale - Accesat la data de 08.03.2009</ref><ref name="AspecteCulturale">[http://www.ici.ro/romania/ro/cultura/cultural_aspects.html ICI - Aspecte culturale] - Scurtă istorie - Accesat la data de 08.03.2009</ref> În plus, sub influența tradiției bizantine și slavone, ii sunt, de asemenea, singurul popor majoritar  dintre .<ref>[http://www.culte.ro/DocumenteHtml.aspx?id=1718 Ministerul Culturii și Cultelor] - Biserica Ortodoxă Română - Accesat la data de 08.03.2009</ref><ref>[http://www.acad.ro/com2001/pag_com01_1505.htm Academia Română] - Ziua internațională a latinității - Accesat la data de 08.03.2009</ref>
+
+ul a apărut în  în  venit, în general, pe filieră .<ref>[http://www.univ-ovidius.ro/litere/Cercetare/Europa/Polonia.htm Universitatea Ovidius din Constanța] - ''Studii românești în Polonia'', Florentina Nicolae - Accesat la data de 08.03.2009</ref> Cel mai important reprezentant al său, , a scris o cronică a istoriei Moldovei.<ref>[http://www.crestinortodox.ro/remember-personalitati/72153-miron-costin Creștin Ortodox.ro] - Miron Costin - Accesat la data de 09.03.2009</ref><ref>[http://filosofieromaneasca.uv.ro/mironcostin.htm Filosofie Românească] - Miron Costin - Autorul celui dintâi poem filosofic din cultura română - Mona Mamulea - Accesat la data de 09.03.2009</ref> Alți umaniști au fost <ref>[http://www.ziua.ro/display.php?id=177199&data=2005-05-30 Ziua] - Dimitrie Cantemir, eruditul carturar - Accesat la data de 09.03.2009</ref> și .<ref></ref> Principalii reprezentanți ai ului au fost ,  și .<ref>, ''Istoria literaturii române de la origini și pînă în prezent'', Editura Minerva, București, 1981</ref>  din  a dat un impuls deosebit societății și culturii românești.<ref name="IsCR">[http://www.restromania.ro/Sociologie/IstoriaCulturiiRomane.htm Rest Romania] - Istoria Culturii Române - Accesat la data de 09.03.2009</ref> Pe baza unor înalte școli deja existente au fost întemeiate universități la <ref>[http://www.uaic.ro/uaic/bin/view/University/WebHome Universitatea din Iași] - Despre Universitatea „Alexandru Ioan Cuza” - Accesat la data de 09.03.2009</ref> și la ,<ref>[http://www.unibuc.ro/ro/main_rhist_ro Universitatea București] - Repere istorice - Accesat la data de 09.03.2009</ref> iar numărul de instituții culturale și științifice a crescut semnificativ.<ref></ref> Un mare impact în literatura română l-a avut cercul literar , fondat de un grup de personalități în jurul criticului literar , în .<ref name="Junimea">[http://www.cimec.ro/Muzee/iasi/rom/junimea.htm Muzeul Literaturii Române din Iași] - ''Junimea'' - Accesat la data de 09.03.2009</ref> Acesta a tipărit revista '''', unde au publicat, printre alții, , poetul național al României, ,  și , cel mai important dramaturg român.<ref name="Junimea"/><ref>[http://www.ilcaragiale.eu/ I.L. Caragiale] - ''Este considerat a fi cel mai mare dramaturg român și unul dintre cei mai importanți scriitori români.'' - Accesat la data de 10.03.2009</ref> În aceeași perioadă,  a fost unul dintre fondatorii picturii române moderne.<ref>[http://www.ici.ro/romania/ro/cultura/p_grigorescu.html Institul Național de Cercetare-Dezvoltare în Informatică] - Nicolae Grigorescu - Accesat la data de 09.03.2009</ref>
+
+
+Prima jumătate a  este un moment important pentru cultura română, aceasta atingând nivelul său maxim de afirmare internațională în armonie cu tendințele culturale europene.<ref>[http://www.observatorul.com/Default.asp?action=articleviewdetail&ID=7496 Observatorul] - „Miorița: Istorie și Globalizare” - Accesat la data de 09.03.2009</ref> Cel mai de seamă artist plastic, care a ocupat un loc deosebit și în , a fost  , o figură centrală a  și un pionier al captărilor, inovator în sculptura mondială prin imersiunea în sursele primordiale ale creației populare.<ref>[http://www.brancusi.com/bio.html Constantin Brâncuși] - Bio - Accesat la data de 09.03.2009</ref> Începutul secolului al XX-lea a fost, de asemenea, o perioadă importantă pentru proza românească, în care au activat personalități precum romancierii ,  și . În dramaturgie, un talent aparte a fost , iar  a fost actrița cea mai reprezentativă pentru această perioadă.<ref name="IsCR"/> 
+'',construită de Constantin Brâncuși în .]]
+Poezia interbelică va ajunge să se sincronizeze cu marea poezie europeană. Cei mai însemnați poeți din această perioadă sunt: ,<ref>Scriitori români, ''George Bacovia'' - Editura Științifică și Enciclopedică, București, 1978</ref>  și .<ref>, ''Literatura română - Clasicii. Secolele 19-20.'' - Casa de Editură și Impresariat „Euro-Asia”, Brașov, 2008.</ref> De asemenea, , unul dintre fondatorii , era originar din România.<ref>[http://www.huntfor.com/arthistory/C20th/dadaism.htm Huntfor] - Dadaism - Accesat la data de 10.03.2009</ref> De asemenea, în timpul acestei epoci s-au ivit și în filozofia română  figuri ca , ,  și .<ref name="IsCR"/> În domeniul istoriei, perioada a fost dominată de marele erudit .<ref name="IsCR"/> 
+
+După cel de-,  a introdus o  aspră și a folosit cultura ca pe un mijloc de control și subordonare a poporului. Libertatea de exprimare a fost constant restricționată pe diverse căi. În această perioadă, personalități dintre cele mai reprezentative au fost: scriitorii , , poeții , , precum și criticii literari  și .<ref>[http://www.ici.ro/romania/ro/cultura/literatura.html ICI] - ''Literatura'' - Accesat la 10.03.2009</ref> O altă consecință a atitudinii comuniste față de elite, în general, a fost apariția, pentru prima dată in istoria României, a unei diaspore adevărate incluzând mari personalități ale vieții științifice și culturale: (laureat al ); , renumitul istoric al religiilor; , dramaturg al absurdului și .<ref name="AspecteCulturale"/> Alți membri al diasporei, au fost  și , renumiți dirijori.
+]]
+
+===Muzică===
+
+ cuprinde totalitatea   elaborate de către  și . Posibilitatea de a trata muzica  și a protoromânilor este foarte limitată din pricina documentației minime păstrate. Începând cu , situarea la confluența dintre  și  a determinat o diferențiere între muzicile apreciate în : cele așezate în apus beneficiază de influențe , în vreme ce statele situate în est preiau elemente din muzicile ,  și, mai târziu, . Aceste influențe au acționat atât asupra , cât și a muzicii erudite ( –  în apus și bizantină în răsărit – și  laică).<ref name="curs-cosma"> (2009). Cursuri de istoria muzicii românești, </ref>  cuprinde toate creațiile culturii spirituale populare  din domeniul . Se face referire la moștenirea muzicală a românilor de la sat dintotdeauna și a popoarelor din care ei au luat naștere.<ref name="conventie">Științele folclorului nu se interesează de anumite demersuri ale studiului  sau ale ; în speță,  și disputa apartenențelor la teritorii sunt irelevante. Mai grăitor pentru folcloriști este în ce măsură se „îmbină” mărturiile culese și cât de bine exprimă o evoluție clară. Cu alte cuvinte, folclorul nu își asumă decât sarcina de a atribui noile element descoperite ''teritoriilor'' unde se manifestă; de aici și până la a numi '''' care le-a produs (mai cu seamă în situații istorice delicate, acolo unde nu există  care să facă referire la indigeni), răspunderea aparține altor discipline. Conchidem că apartenența etnică în studiul folcloric se realizează , cu erorile de rigoare.  români  și  adoptă poziția ului  (vezi ):<br /></ref> Sub delimitarea folcloristicii,<ref name="folc-vs-etno">Punctul de vedere al etnomuzicologilor va reveni pe parcursul articolului, neconstituind totuși baza sa teoretică; de pildă, aspectele comparative ale studiului folcloric vor fi corelate cu această disciplină (sau alte subiecte cu impact mai larg decât la nivel național). În cea mai mare parte, însă, va avea întâietate perspectiva folcloristicii, urmând tradiția școlii românești.</ref> folclorul muzical constituie o ramură a creației tradiționale românești, alături de: ,  și .<ref name="oprea18">Oprea (2002), pag. 18</ref><ref name="oprea64">Oprea (2002), pag. 64</ref> La începutul  se remarcă compozitorul , primul creator român ce realizează o sinteză organică, profundă între muzica folclorică românească și tendințele muzicii culte ale vremii sale (este epoca );<ref> și  (1979). ''Dicționar de muzică'', Editura Științifică și Enciclopedică, București, pag. 74.</ref> el folosește un limbaj muzical modern și experimentează în ariile  și .<ref name="curs-vsd"> (2008). Cursuri de istoria muzicii universale, </ref> Enescu este considerat cel mai valoros compozitor român din toate timpurile.<ref>Sava, pag. 73</ref>
+
+=== Arhitectură și arte plastice ===
+
+
+====Patrimoniul mondial====
+
+ include monumente din România precum: , , , , ,  și .<ref>[http://whc.unesco.org/en/statesparties/ro UNESCO] - Romania, Properties inscribed on the World Heritage List - Accesat la data de 10.03.2009</ref><ref name="UNESCO"/> De asemenea, în , orașul  a fost  împreună cu .<ref>[http://www.sibiu2007.ro/ Sibiu/Hermannstadt] - Capitala Culturală Europeană în 2007 - Accesat la data de 10.03.2009</ref>
+
+=== Știință ===
+
+În domeniul tehnic se pot nota realizări spectaculoase în domeniul aviației, făcute de , ,  și .<ref></ref><ref>[http://www.roaf.ro/ro/istorie1.php Forțele Aeriene Române] - Începuturi - Accesat la data de 10.03.2009</ref> Unul dintre întemeietorii ingineriei românești este  —- remarcabil inginer constructor, realizatorul multor invenții și premergător mondial al științei construcțiilor metalice și de beton armat.<ref>[http://www.ialomita.djc.ro/ObiectiveDetalii.aspx?ID=234 Direcția Județeană pentru Cultură, Culte și Patrimoniul Cultural Național Ialomița] - ''Podurile dintre Fetești și Cernavodă - „Anghel Saligny”'' - Accesat la data de 10.03.2009</ref> În arhitectură, printre realizările semnificative, putem cita: , ,  și .<ref name="Arhitectura">[http://www.ici.ro/romania/ro/cultura/arhitectura.html ICI] - Arhitectura - Accesat la data de 10.03.2009</ref> În epoca modernă,  este fondatorul școlii române de arhitectură.<ref></ref> În medicină, o mare contribuție adusă societății umane a fost rolul jucat în descoperirea insulinei de către omul de știință român .<ref>[http://www.medicalstudent.ro/personalitati/nicolae-constantin-paulescu.html Medical Student] - Nicolae Constantin Paulescu - Accesat la data de 10.03.2009</ref> De asemenea,  a fost un important neurolog, iar  a fost unul dintre primii bacteriologi.<ref>[http://www.travelworld.ro/romanesc/medicina/victor_babes.php Travel World] - Victor Babeș - Accesat la data de 10.03.2009</ref>  a fost unul dintre cei mai remarcabili matematicieni români.<ref>[http://www.craiova.ro/craiova/servlet/portal?actionCommand=SimpleAction&actEvent=display&dir=ro&tmpl=titeica Craiova.ro] - Personalități - Gheorghe Țițeica - Accesat la data de 10.03.2009</ref> 
+
+=== Cinematografie ===
+
+ul a apărut în România la   iar primele proiecții au avut loc în  la sediul ziarului de limba franceză ''L’Indépendance Roumaine''.<ref name="Film">[http://www.cncinema.abt.ro/ANF.aspx Centrul Național al Cinematografiei] - ''Istoria filmului românesc în 7000 de cuvinte'' - Marian Țuțui - Accesat la data de 10.03.2009</ref> Printre cei mai importanți regizori români, se numără: , , , , , , ,  și . Dintre  pot fi amintite: , ,  și . Alte filme din ultimii ani care s-au bucurat de succes internațional sunt: , regizat de  și  realizat de  și premiat cu  la Cannes.<ref>[http://www.imdb.com/title/tt1032846/awards IMDb] - Awards for ''4 luni, 3 săptamâni și 2 zile'' - Accesat la data de 10.03.2009</ref> Printre cei mai talentați actori români, se numără: , , , , , , , , , , , , , , , , , , , , ,  și .
+
+== Armată ==
+.]]
+
+
+Armata Română este formată din trei categorii de arme: '''', '''' și '''', aflate sub comanda ''Statului Major General'', direct subordonat . Pe timp de război,  este comandatul suprem al Forțelor Armatei. Ministerul Apărării Naționale are prevăzute, potrivit proiectului pe , cheltuieli în valoare de 7,65 miliarde de lei, respectiv 1,3% din PIB,<ref>[http://www.sfin.ro/articol_15343/%C3%8Enzestrarea_armatei_un_faliment_garantat.html Săptămâna Financiară] - ''Înzestrarea armatei, un faliment garantat'', Radu Tudor - Accesat la data de 14.03.2009</ref> ceea ce reprezintă cu aproximativ două miliarde de lei mai puțin față de suma prevazută în proiectul fostului .<ref>[http://www.mondonews.ro/Buget-MApN:-Suma-alocata-este-cu-2-mld-lei-mai-mica-fata-de-proiectul-fostului-Guvern+id-5131.html Mondo News] - ''Buget MApN: Suma alocata este cu 2 mld lei mai mică față de proiectul fostului Guvern'' - Accesat la data de 14.03.2009</ref> Modernizarea armatei române necesită, în următorii 10 ani, 13 miliarde euro, doar pentru programele mari de înzestrare, planificate atât pentru forțele aeriene, cât și pentru cele terestre și navale.<ref>[http://www.standard.money.ro/articol_36738/13_mld______in_zece_ani.html Standard.ro] - 13 mld. € în zece ani - Accesat la data de 14.03.2009</ref> În prezent, numărul total de efective participante la misiuni internaționale este de 1601.<ref>[http://www.defense.ro/misiuni-internationale/index.php Defense] - Efective participante la misiuni internaționale - Actualizat la 9 martie 2009 - Accesat la data de 14.03.2009</ref> Momentan, sunt trupe române în , ,  și .<ref>[http://www.forter.ro/ro/misiuni/ Forțele Terestre Române] - Misiuni internaționale - Accesat la data de 14.03.2009</ref> Serviciul militar obligatoriu a fost eliminat din .<ref>[http://www.mapn.ro/recrutare/amr.php MApN] - ''Lege Nr. 395 din 16 decembrie 2005 privind suspendarea pe timp de pace a serviciului militar obligatoriu și trecerea la serviciul militar pe bază de voluntariat.'' - Accesat la data de 14.03.2009 </ref><ref>[http://www.hotnews.ro/stiri-arhiva-1148301-luni-serviciul-militar-facultativ.htm HotNews] - ''De luni, serviciul militar e facultativ'' - Accesat la data de 14.03.2009</ref><ref>[http://www.tion.ro/stiri/IM:ALL:news-romania/articol/s-a-eliminat-obligativitatea-serviciului-militar/cn/aradon-news-editor5-20051125-063321 Tion] - S-a eliminat obligativitatea serviciului militar - Accesat la data de 14.03.2009</ref>
+
+=== Dotări ===
+
+Ca urmare a aderării României la  în , a urmat o perioadă de pregătiri intensive pentru transformarea armatei într-o instituție profesionistă până în anul 2007, urmând a avea 90.000 de angajați, dintre care aproximativ 75.000 de i și 15.000 civili.<ref>[http://www.curierulnational.ro/Eveniment/2003-11-27/In+2007,+armata+romana+va+avea+90.000+de+oameni Curierul Național] - ''În 2007, armata română va avea 90.000 de oameni'' - Accesat la data de 14.03.2009</ref> Dintre cei 75.000, circa 45.800 vor reprezenta forțele terestre, circa 13.250 forțele aeriene și 6.800 forțele navale, restul de 8.800 având alte sarcini.<ref>[http://www.adevarulonline.ro/2002-11-20/Viata%20Internationala/romania-cel-mai-important-dintre-viitorii-membri-ai-nato_26462.html Distribuția pe arme, estimată pentru 2007]</ref> În prezent Armata Română trece printr-un proces de restructurare în trei stagii. Primul stagiu va fi completat în 2007. Anul 2015 va marca sfârșitul celui de-al doilea stagiu, când forțele armate vor fi reduse la 80.000 de oameni. Întregul proces este estimat să fie completat în 2025. Aceste modificări au ca scop modernizarea structurii forțelor armate, prin reducerea personalului și achiziționarea de tehnologie nouă și îmbunătățită, compatibilă cu standardele NATO.<ref>[http://www.mapn.ro/despremap/inf_gen.php MApN] - Informații generale - Strategia de transformare a Armatei României - Accesat la data de 14.03.2009</ref>
+ în .]]
+Potrivit unui material difuzat de Ministerul Apărării Naționale (MApN), prioritatea în domeniul achizițiilor de echipamente moderne o dețin forțele aeriene.<ref name="MAEarmata">[http://ue.mae.ro/index.php?lang=ro&id=31&s=1567&arhiva=true Reprezentanța Permanentă a României pe lângă Uniunea Europeană - Bruxelles] - ''Armata română pregătește dotarea forțelor sale cu echipamente și sisteme de armament modernizate'' - Accesat la data de 14.03.2009</ref> O realizare a Forțelor Aeriene a fost modernizarea  , realizată cu ajutorul unei firme israeliene, care a dus la asigurarea interoperabilității cu sistemele NATO<ref name="MAEarmata"/> Tancul mijlociu românesc  a intrat recent în dotarea Forțelor Terestre ale armatei române, el fiind varianta modernizată a principalului vehicul de luptă al infanteriei.<ref name="MAEarmata"/> Obiectivul principal al Statului Major al Forțelor Navale a fost și este achiziția, revitalizarea și modernizarea fregatelor  și .<ref name="MAEarmata"/>
+
+=== Istoric ===
+
+La / , Prin Înaltul Ordin de Zi nr. 83, al domnitorului , este înființat .<ref>[http://www.mapn.ro/despremap/cronologie.php MApN] - Repere istorice - Accesat la data de 14.03.2009</ref> Bazele moderne ale constituirii și consacrării Forțelor Terestre pot fi plasate în timp din cea de-a doua jumătate a secolului al XIX-lea.<ref>[http://www.forter.ro/ro/istoric/ Forțele Teresre Române] - Istoricul Forțelor Terestre - Accesat la data de 14.03.2009</ref> Aviația militară română a luat ființă în anul 1910 datorită colaborării societății civile cu Ministerul de Război, iar primul avion militar de concepție și construcție românească, proiectat de inginerul aviator  și realizat la Arsenalul Armatei, a zburat la 17 iunie 1910.<ref>[http://www.roaf.ro/ro/istorie1.php Forțele Aeriene Române] - Istoric - Începuturi - Accesat la data de 14.03.2009</ref> 
+ cu ]]
+După , în anul 1859, s-a acționat pentru contopirea flotelor din Moldova și Muntenia și organizarea unei structuri navale unitare ce s-a numit Corpul Flotilei. Prima flotilă militară a statului român a avut în compunere 6 șalupe-canoniere și era dispusă în 6 baze, în porturile Chilia, Ismail, Galați, Brăila, Giurgiu și Calafat.<ref>[http://www.navy.ro/ Forțele Navale Române] - Istoric - Accesat la data de 14.03.2009</ref>  este numele a primului din cele două e cu acest nume ale Marinei Militare Române.<ref>[http://www.marinarii.ro/nave-de-istorie.php?id=6&name=Submarinul_Delfinul_ Marinarii] - Nave de istorie - Submarinul Delfinul - Accesat la data de 14.03.2009</ref> Cel actual, numit tot „Delfinul” în memoria primului, a fost construit în .<ref>[http://www.ziua.ro/display.php?id=212342&data=2006-12-06 Ziua] - „Delfinul” face valuri în Armată - Accesat la data de 14.03.2009</ref> Marina militară Română mai avea înainte de  alte două submarine:  și .<ref name="JN">[http://www.jurnalul.ro/articole/105005/delfinul-cu-submarinul-la-reparat ''„Delfinul” - Cu submarinul la reparat''] ''Jurnalul Național'', 7 octombrie 2007</ref>
+
+În Armata României, uniformele militare sunt purtate conform unui regulament.<ref name="uniforme">[http://www.defense.ro/uniforme/index.php MApN - Statul Major General] - Uniforme Militare - Accesat la data de 14.03.2009</ref> Toți militarii, indiferent de grad, inclusiv cei în rezervă și în retragere care au aprobare de a purta ținută militară, sunt obligați să cunoască și să aplice prevederile acestuia privind ținutele.<ref name="uniforme"/> Etapele de evoluție a uniformelor militare românești sunt legate de momente ale organizării armatei și reflectă caracterele epocii.<ref name="uniforme"/> Distincțiile militare onorifice sunt însemne care simbolizează aprecierea faptelor deosebite săvârșite în timpul îndeplinirii misiunilor militare. Ele cuprind embleme, insigne onorifice, plachete, denumiri onorifice și distincții de serviciu.<ref>[http://www.defense.ro/distinctii/index.php Statul Major General] - Distincțiile militare onorifice din Armata Română - Accesat la data de 14.03.2009</ref> 
+
+Clubul sportiv al armatei, Steaua, a fost înființat la 6 iunie 1947, pentru a continua într-un cadru instituționalizat vechea tradiție a practicării sportului în Armata României. În cei 60 de ani de existență, sportivii clubului s-au aflat în permanență printre protagoniștii întrecerilor naționale și internaționale.<ref>[http://www.defense.ro/steaua/index.php Ministerul Apararii Nationale - Statul Major General] - Clubul sportiv al armatei, Steaua - Accesat la data de 14.03.2009</ref> În fiecare an, pe  se sărbătorește Ziua Armatei,<ref>[http://www.evz.ro/articole/detalii-articol/825835/Astazi-este-Ziua-Armatei/ Realitatea] - Astăzi este Ziua Armatei - Accesat la data de 14.02.2009</ref> iar pe , de , în  și la  au loc numeroase parade militare.<ref>[http://www.mediafax.ro/social/parada-militara-ziua-nationala-romaniei-arcul-triumf.html?1688;1056051 Mediafax] - Paradă militară de Ziua Națională a României, la Arcul de Triumf - Accesat la 14.03.2009</ref> În București se află Universitatea Naționala de Apărare<ref>[http://www.unap.ro/ro/index.html UNAP] - Prezentare generală - Accesat la data de 14.03.2009</ref> și Muzeul Militar Național.<ref>[http://www.defense.ro/muzeumilitar/index.html Muzeul Militar Național Regele Ferdinand I] - Home - Accesat la data de 14.03.2009</ref>
+
+== Sport ==
+
+
+
+Primele asociații sportive din România au fost înființate la mijlocul secolului al XIX-lea. Una din primele s-a numit ''„Societatea de dare la semn”'' (înființată în timpul domniei lui ).<ref name="ICIsport">[http://www.ici.ro/romania/ro/sport/index.html Institul Național de Cercetare-Dezvoltare în Informatică - ICI] - Sport - Accesat la data de 15.03.2009</ref> În primii ani ai secolului al XX-lea s-au extins sporturi precum ,  și mai târziu jocurile de echipă. Primul meci de fotbal oficial s-a jucat la Timișoara în 1902 iar în 1910 a fost înființat primul club de rugby în București. Doi ani mai târziu a fost înființată în capitală Federația Societăților Sportive din România, fiind urmată de înființarea  în 1914.<ref name="COSP">[http://www.cor.ro/istoric.html Comitetul Olimpic si Sportiv Roman] -  Istoric - Accesat la data de 15.03.2009</ref> Prima instituție de învățământ superior în acest domeniu, Institutul Național de Educație Fizică, și-a deschis porțile în 1923. În perioada dintre cele două războaie mondiale sportivii români au obținut primele victorii în concursurile internaționale.<ref name="ICIsport"/>
+
+=== Oină ===
+]]
+
+ — sau ''hoina'' cum i se mai spunea — este socotită un joc sportiv național pentru români, având, pe pământul românesc, o vechime de cel puțin 6 secole, așa cum menționează cronici și hrisoave care îi subliniază popularitatea de care se bucura printre copii și tineri, oșteni și voievozi. În timpul lui , anul , oina se juca în , ea pătrunzând peste tot: în sate, în comune, în viața oamenilor.<ref>[http://www.nationala-romaniei.ro/index.php?option=com_content&task=view&id=196&Itemid=1 Istoria oinei]<!--legătură moartă-->. Naționala României. Accesat la data de 15 martie 2009.</ref> Jocul de oină amintește de o veche îndeletnicire a daco-romanilor, ul. A „oina” oile înseamnă a le coborî toamna de la munte la șesul verde, într-o zonă sau localitate din apropierea unui râu, fenomen numit .<ref>[http://www.oina.ro/originea_jocului_sportiv_national_roman_de_oina.html Originea jocului]. Asociația Oina. Accesat la data de 15 martie 2009.</ref>
+
+=== Fotbal ===
+
+, ]]
+ își începe activitatea prin meciul de la 8 iunie 1922 de la Belgrad, contra Iugoslaviei, scorul fiindu-i favorabil cu 2-1. La 20 mai 1923 Comisia de Fotbal a FSSR (Federatia Societatilor Sportive din Romania) este admisă la Congresul de la Zürich ca membră a FIFA. În această calitate de membră a , România participă la Turneul Olimpic de Fotbal de la .  este membră fondatoare a  în 1954. Din august 1990, FRF a devenit organ independent de conducere al mișcării fotbalistice din România, primul președinte ales fiind .<ref>[http://www.frf.ro/site/304/istoric.htm Federatia Romana de Fotbal] - Istoric - Accesat la data de 15.03.2009</ref>
+
+La nivel internațional, selecționata de fotbal a României a participat până acum la 7 . Cele mai mari succese le-a înregistrat pe parcursul anilor '90. În 1994, la , echipa României a reușit să ajungă până în sferturi, clasându-se atunci pe poziția 6 în clasamentul FIFA. Liderul <ref></ref> a fotbalului românesc este
+.<ref>[http://www.hagi.ro/ Gheorghe Hagi] - Biografie - Accesat la data de 15.03.2009</ref> În prezent, dintre fotbaliștii români celebri pot fi amintiți  și . 
+
+Cel mai cunoscut club de fotbal din România este , care în  a fost prima echipă din estul Europei și singura din România ce a câștigat .<ref name="Steaua">[http://www.steauafc.com/ro/trofee/ F.C. Steaua] - Trofeele Clubului - Accesat la data de 15.03.2009</ref> De asemenea, în 1989 a mai jucat o finală a Cupei Campionilor Europeni.<ref name="Steaua"/> Altă echipă de succes din fotbalul românesc este  care a jucat o semifinală a Cupei Campionilor Europeni în 1984, iar în 1990 semifinala .<ref>[http://www.fcdinamo.ro/palmares.php F.C. Dinamo] - Parlamares - Accesat la data de 15.03.2009</ref> În competiția 1982-83,  a participat la semifinala , dar clubul a fost dezafiliat în 2011 de la , astfel că în sezonul 2011-2012 nu participă în nicio competiție.<ref></ref>
+
+=== Alte sporturi și Jocurile Olimpice ===
+
+Prima  când a participat doar cu un singur sportiv. Mai apoi, delegația României a fost prezentă la toate edițiile Jocurilor Olimpice începând cu anul 1924, excepție făcând două ediții de vară, cele din 1932 și 1948 și una de iarnă, cea din 1960. România are un palmares de 292 de medalii (din care 86 de aur, 89 de argint și 117 de bronz)<ref></ref> câștigate de sportivi la , de la prima ediție, Paris, 1924 până la ediția .<ref name="COSP"/> Prima medalie olimpică, una de bronz, a fost câștigată la Paris în 1924 de către . Ea a fost urmată de una de argint la cursele de cai la .<ref name="ICIsport"/> Primele titluri de campion mondial au fost câștigate în 1934 și 1936 la sanie, în timp ce boxul românesc obținea primul titlu european în 1930 prin . În anii '50 s-au înregistrat succese notabile la tenis de masă feminin, tir, box, lupte și haltere.<ref name="ICIsport"/> Dintre sportivii din această perioadă pot fi amintiți  și . La  România s-a remarcat prin <ref>[http://www.mariromani.ro/top100.php Mari români] - Ivan Patzaichin - Accesat la data de 15.03.2009</ref> iar la  prin .<ref>[http://www.frcanotaj.ro/ro/index.php?option=com_content&task=view&id=5&Itemid=27 Federația Română de Canotaj] - Istoric - Accesat la data de 15.03.2009</ref> 
+]]
+Gimnastica românească a avut un număr semnificativ de succese fapt pentru care România a devenit cunoscută în întreaga lume. , prin performanțele sale răsunătoare consemnate de istoria sportului ca expresie a perfecțiunii este recunoscută peste ani de mișcarea olimpică ca sportiva secolului al XX-lea.<ref></ref> 
+
+La  1910 se înființează grupare polisportiva ''„Tenis Club Roman”'' (TCR). Aceasta reunea mai multe discipline: sporturi atletice, canotaj, footbal-rugby (denumirea englezească a rugby-ului), fotbal, înot, patinaj, sporturi de iarnă, scrimă, tenis și tir. Culorile noului club erau alb si verde, iar numarul membrilor se apropia de 350.  avea să apară în cadrul acestui club peste doi-trei ani, printre promotorii acestei discipline numărându-se  și .<ref>[http://www.rugby.ro/articol/1910-45/ Rugby Românesc] - Istori - Accesat la data de 11.05.2009</ref> La fel cum s-a întâmplat și cu jocul de fotbal, primele noțiuni legate de rugby, precum și cele dintâi baloane de joc, au fost aduse la  de către tineri români care studiaseră la . Acest proces s-a petrecut pe la începutul .<ref>[http://www.rugby.ro/articol/pionierii-74/ Rugby.ro] - ''Pionierii'' - Accesat la data de 11.05.2009</ref><ref>Aurel Barbu, Tiberiu Stama – ''„File din istoria rugbiului românesc”'' - Editura Consiliului.</ref><ref>Național pentru Educație Fizică și Sport, București, 1969.</ref><ref>Dumitru Manoileanu - ''„Rugby. Mică enciclopedie”'' - Editura Sport-Turism, București, 1982.</ref>
+
+ în  la începutul , fiind prezentat demonstrativ la . În  se constituie  (F.I.B.A.). România s-a aflat printre cele 8 țări membre fondatoare ale forului mondial alături de Anglia, Argentina, Cehoslovacia, Grecia, Italia, Lituania, Elveția și Portugalia. Din  se dispută campionatele europene (la care a participat și o echipă din această țară). În România, primele demonstrații de baschet au fost efectuate în . Până în , baschetul se practica în special în liceele din capitală, organizându-se sporadic competiții interșcolare.  ia ființă în . Dintre performanțele României pe plan internațional menționăm clasarea de 3 ori pe locul IV la campionatele feminine europene (1964,1966, 1968) și de 2 ori pe locul V la cele masculine (1957,1967). În 1981, la Campionatele Mondiale Universitare echipa de fete a României s-a clasat pe locul III, cucerind medalia de bronz, iar echipa masculină a ocupat locul IV.<ref>[http://www.halfcourt.info/A55B25/Halfcourt.nsf/ODIVAV/E8810CED4DB3C05686257158003AFCC4?OpenDocument Halfcourt.info] - Istoria baschetului românesc. Aspecte generale - Accesat la data de 11.05.2009</ref>
+]]
+Cu  și  (ultimul fiind câștigătorul marelui premiu FILT în 1972 și 1973) România a fost de trei ori finalistă în , fără însă a o câștiga vreodată.<ref name="ICIsport"/> Echipa masculină de handbal a câștigat 4 titluri mondiale.<ref>[http://www.frh.ro/ Federația Română de Handbal] - Istoric - Accesat la data de 15.03.2009</ref>
+
+În România,  este rezultatul împletirii mânuirii armelor și activităților militare organizate cu influența străină pătrunsă prin intermediul războaielor și schimburilor economice și culturale, fiecare epoca aducându-și contribuția la scrima sportivă de astăzi. În perimetrul țării această activitate s-a aflat printre primele discipline sportive. Prima participare românească la un concurs internațional de scrimă are loc în , în ,  ocupând locul I. În , la , românul  cucerește primul loc la un concurs internațional de spadă. În , forul sportiv U.F.S.R. recunoște oficial .<ref>[http://www.romanianfencing.org/module.php?module=newsannounce&catid=24&item=1005 Romanian Fencing] - Scrima în România - Accesat la data de 11.05.2009</ref>
+
+ul apare în România la sfârșitul , la inițiativa studenților care studiau în țările occidentale. În timpul vacanțelor, aceștia promovau atletismul organizând competiții de alergări, sărituri și aruncări. Primele Campionate Naționale ale României sunt organizate în , la 16 probe, și se adresează doar bărbaților. Un an mai târziu, în , se inaugurează la București primul teren de atletism, pe locul care devine ulterior . Primul concurs organizat de atletism are loc în  la , cu participarea elevilor de la liceele Sf. Sava și Matei Basarab.<ref>[http://www.fra.ro/men-13/Istoric.html Federația Română de Atletism] - Istoric - Accesat la data de 11.05.2009</ref> La atletism,  a fost, de asemenea, de trei ori campioană mondială.<ref>[http://www.nationala-romaniei.ro/index.php?option=com_content&task=view&id=89&Itemid=27 Mari sportivi] - Gabriela Szabó - Accesat la data de 15.03.2009</ref>
+
+
+
+== Referințe ==
+=== Note ===
+
+=== Bibliografie ===
+* Thede Kahl, ,  (Hrsg.): ''Rumänien. Raum und Bevölkerung – Geschichte und Geschichtsbilder – Kultur – Gesellschaft und Politik heute – Wirtschaft – Recht – Historische Regionen'', 2 Bände, LIT Verlag, 2. Aufl., Wien-Berlin 2008, 976 S. ISBN 978-3-8258-0069-7
+* : ''România: Stat – Națiune – Limbă'', București, Editura Univers Enciclopedic, 2002.
+
+== Legături externe ==
+<!--{{Proiecte surori
+|commons         = România
+|commonscat      = Romania
+|wikisursă       = România
+|wikicitat       = România
+|wikicitatcat    =  România
+|wikimanuale     =  România
+|wikiștiri       =  România
+|wikiștiricat    =  România
+|wikționar       =  România
+|wikispecies     =  România
+|wikiversitate   =  România
+|meta            =  România}}-->
+
+<div style="-moz-column-count:2; -webkit-column-count:2; column-count:2">
+;Administrație
+* [http://www.presidency.ro/ Președinția României]
+* [http://www.parlament.ro/index_en.html Parlamentul României]
+* [http://www.gov.ro/main/index/l/1/ Guvernul României]
+* [http://www.bnro.ro/ Banca Națională a României]
+* [http://www.edu.ro/index.php/articles/c242/ Ministerul Educației, Cercetării și Inovării]
+* [http://www.mmuncii.ro/ro/ Ministerul Muncii, Familiei și Protecției Sociale]
+* [http://www.mai.gov.ro/Home/index.htm Ministerul Administrației și Internelor]
+* [http://www.mae.ro/ Ministerul Afacerilor Externe]
+* [http://www.ms.ro/ Ministerul Sănătății Publice]
+* [http://www.cultura.ro/ Ministerul Culturii, Cultelor și Patrimoniului Național]
+* [http://www.patrimoniuromanesc.ro/ Obiective înscrise pe lista patrimoniului mondial UNESCO]
+
+;Informații suplimentare
+* [http://romaniainterbelica.memoria.ro/index.html Portretul României Interbelice]
+* [https://www.cia.gov/library/publications/the-world-factbook/geos/ro.html Profilul României] la ''''
+* [http://www.britannica.com/EBchecked/topic/508461/Romania România] la 
+* [http://news.bbc.co.uk/1/hi/world/europe/country_profiles/1057466.stm Profilul României] la 
+* [http://www.state.gov/p/eur/ci/ro/ România] la 
+* [http://www.dmoz.org/Regional/Europe/Romania/ România] la 
+* [http://www.theeuropeanlibrary.org/portal/libraries/Libraries.php?launch=1&language=en&page=Treasures&country=Romania România] la European Library
+
+;Hărți
+*  de la 
+* [http://wikimapia.org/#lat=46.407564&lon=25.1367188&z=6&l=0&m=h&v=2 România] la 
+* [http://lazarus.elte.hu/hun/digkonyv/topo/3felmeres.htm Hărțile militare austro-ungare la 1910]
+* [http://www.hartis.ro/ Harta Turistică] a României
+
+;Turism
+* [http://romania.ici.ro/ro/index.html România] la ICI
+* [http://www.romaniatourism.com/ Turismul] în România
+*  la 
+</div>
+
+{{Casete de navigare simplă
+|titlu =  Subiecte despre România
+|stare = pliată
+|listă1 = 
+
+
+
+
+
+
+}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
