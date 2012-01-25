@@ -1,0 +1,389 @@
+{{Land
+|nafn_á_frummáli=Ísland
+|nafn_í_eignarfalli=Íslands
+|fáni=Flag of Iceland.svg
+|skjaldarmerki=Coat_of_arms_of_Iceland.svg
+|staðsetningarkort=Europe location ISL.png
+|kjörorð=
+|þjóðsöngur=[[Lofsöngur]] 
+|tungumál=[[íslenska]]
+|höfuðborg=[[Reykjavík]]
+|stjórnarfar=[[Lýðveldi]]
+|titill_leiðtoga=[[Forseti]]<br />[[Forsætisráðherra]]
+|nöfn_leiðtoga=[[Ólafur Ragnar Grímsson]]<br />[[Jóhanna Sigurðardóttir]]
+|staða = Stofnun — Sjálfstæði
+|atburður1=[[Þjóðveldið|Þjóðveldi]]
+|dagsetning1=[[930]]
+|atburður2=''[[Gamli sáttmáli|Norsk hjálenda]]''
+|dagsetning2=[[1262]]
+|atburður3=''[[Kílarsamningurinn|Dönsk hjálenda]]''
+|dagsetning3=[[14. janúar]] [[1814]]
+|atburður4=[[Stjórnarskrá]] veitt
+|dagsetning4=[[1. desember]] [[1874]]
+|atburður5=[[Heimastjórnartímabilið|Heimastjórn]]
+|dagsetning5=[[1. febrúar]] [[1904]]
+|atburður6=[[Saga Íslands#Fullveldi|Fullveldi]]
+|dagsetning6=[[1. desember]] [[1918]]
+|atburður7=[[Lýðveldið Ísland|Lýðveldi]]
+|dagsetning7=[[17. júní]] [[1944]]
+|stærðarsæti=106
+|flatarmál_magn=1_E11_m²
+|flatarmál=103.125
+|hlutfall_vatns=2,7%
+|fólksfjöldi=318.200 
+|mannfjöldaár=Mannfjöldi 1. okt
+|mannfjöldasæti=175
+|íbúar_á_ferkílómetra=3,08
+|VLF_ár=2005
+|VLF=10.531
+|VLF_sæti=135
+|VLF_á_mann=35.546
+|VLF_á_mann_sæti=6
+|VÞL={{ágóði}} 0,968
+|VÞL_sæti=1 
+|gjaldmiðill=[[íslensk króna|króna]] (ISK)
+|tímabelti=[[UTC]]+0 (enginn sumartími)
+|tld=is
+|símakóði=354
+}}
+'''Ísland''' er [[eyríki]] í [[Atlantshafið|Norður-Atlantshafi]] á milli [[Grænland]]s, [[Færeyjar|Færeyja]] og [[Noregur|Noregs]]. Ísland er um 103.000 [[ferkílómetri|km²]] að stærð; það er önnur stærsta [[eyja]] í [[Evrópa|Evrópu]] á eftir Bretlandi og sú átjánda stærsta í heimi. Á Íslandi búa um það bil 320.000 manns. Höfuðborg landsins er [[Reykjavík]].
+
+''[[Landnámabók]]'' segir frá hvernig [[landnám Íslands]] hófst kringum árið [[874]] þegar [[Ingólfur Arnarson]] nam hér land, þó aðrir höfðu áður dvalið tímabundið á landinu. Á næstu áratugum og öldum flutti fjöldi fólks til Íslands á tímabili sem nefnt er [[landnámsöld]]. Ísland komst með [[Gamli sáttmáli|Gamla sáttmála]] undir vald [[Noregur|Noregs]] árið 1262 og var undir stjórn Norðmanna og [[Danmörk|Dana]] til ársins [[1918]], þegar það hlaut [[Sjálfstæðisbarátta Íslendinga|fullveldi]]. Danska ríkið fór þó með utanríkismál og landhelgisgæslu fyrir hönd Íslands og löndin  höfðu sameiginlegan konung þar til [[lýðveldi]] var stofnað á Íslandi [[1944]]. Landið hefur gengið undir ýmsum nöfnum, einkum meðal [[ljóðskáld]]a (sjá grein ''[[Heiti yfir Ísland]]'').
+
+Á síðari hluta [[20. öld|20. aldar]] jókst [[Verg landsframleiðsla|þjóðarframleiðsla]] Íslendinga til muna og innviðir og [[velferðarkerfi]] landsins efldust. Árið 2007 var Ísland þróaðasta land heims samkvæmt [[Vísitala um þróun lífsgæða|vísitölu SÞ um þróun lífsgæða]], en árið [[2008]] hófst [[Efnahagskreppan á Íslandi 2008|efnahagskreppa á Íslandi]]. Ísland er meðlimur í [[SÞ]], [[NATO]], [[EFTA]] og [[EES]].
+
+== Saga ==
+{{aðalgrein|Saga Íslands|Heiti yfir Ísland}}
+
+Ísland var, samkvæmt [[Íslendingabók Ara fróða|Íslendingabók]], fyrst numið af [[Noregur|norskum]] og [[Keltar|gelískum]] ([[Skotland|skoskum]] og [[Írland|írskum]]) [[landnemi|landnemum]] undir lok [[9. öldin|níundu]] og [[10. öldin|tíundu aldar]]. [[Þjóðveldið]] var sett á stofn með [[Alþingi]] árið [[930]] en það er meðal elstu [[þing|þjóðþinga]] sem enn eru starfandi.  [[Færeyjar|Færeyska]] [[w:fo:Løgting|Lögþingið]] og hið [[mön (Írlandshafi)|manska]] [[w:en:Tynwald|Tynwaldsþing]] eru þau norrænnu þing sem hafa sambærilegan aldur og Alþingi Íslendinga.
+
+Flestir landsnámsmanna voru [[ásatrú]]ar þó nokkrir [[kristni]]r og höfðu þeir flestir kynnst kristinni trú og látið skírast á [[Bretlandseyjar|Bretlandseyjum]]. Um svipað leyti sendi [[Haraldur blátönn]] Danakonungur [[Saxland|saxneskan]] biskup til Íslands til kristniboðs. Ekki gekk það alltaf og komu fleiri kristniboðar hingað á næstu árum og varð þeim nokkuð ágengt. [[Ólafur Tryggvason]] Noregskonungur var mjög áhugasamur um að kristna Ísland — með góðu eða illu. Á Alþingi sumarið [[1000]] ákváðu Íslendingar að taka kristni að ráðum [[Þorgeir Ljósvetningagoði Þorkelsson|Þorgeirs ljósvetningagoða]] sem þó var ásatrúar sjálfur fram að því. 
+
+[[Mótmælendatrú]] var innleidd í [[Danmörk]]u árið [[1536]] og áhrif [[Lúther]]s bárust hingað um það leyti með [[Þýskaland|Þýskum]] veiði- og verslunarmönnum. [[Jón Arason]], síðasti kaþólski biskup Norðurlanda var tekinn af lífi í [[Skálholt]]i 7. nóvember árið [[1550]] og eru [[siðaskiptin]] á Íslandi oftast miðuð við þann dag.
+
+{{Saga Íslands}}
+Ísland var ekki sett undir erlend ríki fyrr en næstum fjórum [[öld]]um eftir að það var fyrst numið. Þá fór svo að [[Listi yfir Noregskonunga|Noregskonungur]] náði landinu undir sína krúnu árið [[1262]]. Síðar varð Ísland svo hluti af [[Kalmarsambandið|Kalmarsambandinu]] árið [[1397]], en [[Danmörk|danskir]] þjóðhöfðingar höfðu verið yfir Noregi og Íslandi frá [[1380]]. 
+
+[[Svíþjóð]] leysti sig úr þessu sambandi árið [[1523]], og hét það þar eftir [[Dansk-norska ríkið]] og var gjarnan kallað Danaveldi. Seinna við aldamót [[18. öld|18.]] og [[19. öld|19. aldar]], í [[Napóleonsstyrjaldirnar|Napóleonsstyrjöldunum]] svokölluðu, reyndu Svíþjóð og Danmörk að halda hlutleysi sínu og árið [[1800]] gengu bæði löndin í svokallað “''Samband vopnaðs hlutleysis''” (''[[w:da:Væbnede neutralitetsforbund|Væbnede neutralitetsforbund]]'' á [[danska|dönsku]], ''[[w:en:Second League of Armed Neutrality|League of Armed Neutrality]]'' á [[enska|ensku]]). 
+[[Mynd:Denmark-Norway in 1780.svg|300px|thumb|left|Kort sem sýnir umfang Dansk-norska ríkisins um 1780]]
+
+[[Bretland|Bretar]] töldu þetta ógn og réðust þar með á [[Kaupmannahöfn]] árið [[1801]]. Eftir það gekk Danmörk úr því fyrirnefnda sambandi og gekk í bandalag við [[Napóleon Bonaparte|Napóleon]], [[Frakkland|Frakkakeisara]]. Bretar réðust því aftur á Kaupmannahöfn [[1807]] og hafði Svíþjóð þá gengið í lið við Breta. Þar sem Napóleoni hafði verið í nöp við Bretland síðan [[1803]], neyddi hann Dani til að lýsa yfir stríði á hendur Svíþjóð árið [[1808]]. —Svíar hófu þar með innrás í Noreg, en á sama tíma réðust [[Rússland|Rússar]] á [[Finnland]] sem þá var undir sænskum yfirráðum. Þetta tveggja hliða stríð reyndist Svíum hörmung því allt Finnland var síðan fært undir yfirráð Rússa. 
+
+Árið [[1814]], þegar Danmörk var um það bil að tapa fyrir sænskum, rússneskum og þýskum hermönnum, samþykkti [[Friðrik VI|Friðrik VI Danakonungur]] [[Kílarsamningurinn|Kílarsamninginn]] um að færa Noreg undir [[Svíakonungar|Svíakonung]] í skiptum fyrir hið [[Pommern|sænska Pommern]] til að forðast hernám [[Jótland]]sskaga. Hinsvegar yrðu norsku eignirnar Ísland, [[Færeyjar]] og [[Grænland]] enn undir dönskum yfirráðum. Samningurinn tók aldrei formlega gildi, og lýsti Noregur yfir skammvinnu sjálfstæði og varð Pommern seinna undir [[Prússland|Prússneskum]] völdum. Með þessum hætti komst Ísland undir vald Danakonungs og varð hluti Danaveldis.
+
+Ísland fékk [[stjórnarskrá]] og takmarkaða heimastjórn árið [[1874]] á þjóðhátíð í tilefni af [[1000 ára afmæli Íslandsbyggðar]], þar sem núverandi [[þjóðsöngur]] Íslands, [[Lofsöngur]] var frumfluttur. [[Fullveldi]] fylgdi í kjölfarið árið [[1918]]. [[Kristján X]] var þar með sameiginlegur þjóðhöfðingi Danmerkur og Íslands til ársins [[1944]], þegar lýðveldið var stofnað. Bar hann titilinn ''konungur Íslands'' og var sá eini sem gerði það.
+
+== Stjórnmál ==
+{{aðalgrein|Íslensk stjórnmál}}
+Ísland er [[lýðveldi]] með þingbundinni stjórn. [[Framkvæmdavald]]ið liggur hjá [[Forseti Íslands|forseta]] og [[Ríkisstjórn Íslands|ríkisstjórn]]. Æðsti maður ríkisstjórnar er [[Forsætisráðherra Íslands|forsætisráðherra]]. Ríkisstjórnin ber ábyrgð gagnvart [[Alþingi]], sem er handhafi [[löggjafarvald]]sins ásamt forseta. [[Dómsvald]] er í höndum [[Dómstólar Íslands|dómstóla]]; æðsti dómstóll landsins er [[Hæstiréttur Íslands|Hæstiréttur]].
+
+[[Forseti Íslands]] er [[þjóðhöfðingi]] landsins og er þjóðkjörinn í beinni kosningu allra kjörbærra manna. Kjörtímabil hans er 4 ár. Forseti er ábyrgðarlaus á ríkisstjórnarathöfnum og lætur [[ráðherra]] framkvæma vald sitt. Hann veitir formönnum stjórnmálaflokka umboð til stjórnarmyndunar eftir kosningar til Alþingis og skipar ráðherra en oftast er þessu ferli í raun stýrt af stjórnmálaflokkunum sjálfum, aðeins þegar þeir geta ómögulega komist að niðurstöðu sjálfir nýtir forsetinn sér þetta vald og skipar sjálfur ríkisstjórn. Þetta hefur þó ekki gerst í sögu lýðveldisins en gerðist [[1942]] þegar [[Sveinn Björnsson]], þáverandi [[ríkisstjóri Íslands]], skipaði [[utanþingsstjórn]]. Forseti Íslands hefur málskotsrétt gagnvart þinglögum samkvæmt stjórnarskrá og ber þá að efna til þjóðaratkvæðagreiðslu en lögin taka samt gildi, þangað til þau eru afnumin eða staðfest með þjóðaratkvæði.<ref>Deildar meiningar eru um raunveruleg völd forsetans, þá sérstaklega hvort hann geti neitað að skrifa undir lög og hvort slíkur gjörningur hafi einhverjar afleiðingar. Í [[Stjórnarskrá lýðveldisins Íslands|stjórnarskránni]] er sagt að slík synjun kalli á [[Þjóðaratkvæðagreiðsla|þjóðaratkvæðagreiðslu]] um lögin, en hins vegar lætur forseti ráðherra framkvæma vald sitt og eru margir á þeirri skoðun að það gildi um þetta vald eins og önnur völd forseta.</ref> Núverandi forseti er [[Ólafur Ragnar Grímsson]], sem tók við embættinu árið [[1996]]. Hann nýtti sér málskotsréttinn fyrstur forseta á Íslandi, þegar hann neitaði að skrifa undir fjölmiðlalögin árið 2004.
+
+[[Alþingi]], [[löggjafarþing]] Íslands, starfar í einni deild. 63 þingmenn þess eru kjörnir hlutfallskosningu í 6 [[Kjördæmi Íslands|kjördæmum]]. Kjörtímabilið er 4 ár en getur verið styttra ef það kemur til þingrofs en vald til að rjúfa þing liggur hjá ríkisstjórninni. Ráðherrar eiga einnig sæti á Alþingi en hafa ekki atkvæðarétt nema þeir séu einnig þingmenn en sú er reyndar venjan. Alþingi velur sér forseta til að hafa yfirumsjón með fundum þess, núverandi [[forseti Alþingis]] er [[Ásta Ragnheiður Jóhannesdóttir]]. Ríkisstjórnir á Íslandi eru nánast ávallt samsteypustjórnir tveggja eða fleiri flokka en einnig eru dæmi til um minnihlutastjórnir, einkum og sér í lagi vegna þess að enginn flokkur hefur hlotið hreinan meirihluta á þingi, í það minnsta ekki frá endurreisn lýðveldis. Núverandi ríkisstjórn er samsteypustjórn [[Vinstrihreyfingin - grænt framboð|Vinstrihreyfingarinnar - græns framboðs]] og [[Samfylking]]ar undir forystu [[Jóhanna Sigurðardóttir|Jóhönnu Sigurðardóttur]] forsætisráðherra.
+
+== Skipting í stjórnsýsluumdæmi ==
+=== Kjördæmi ===
+{{aðalgrein|Kjördæmi Íslands}}
+
+Íslandi er skipt upp í 6 [[kjördæmi]] sem kjósa sína fulltrúa á [[Alþingi]].
+
+=== Sveitarstjórn ===
+{{aðalgrein|Sveitarfélög á Íslandi}}
+
+Íslandi er skipt upp í 104 sveitarfélög sem eru mikilvægustu stjórnsýslueiningar landsins og hafa víðtæk völd á sviði skólamála, skipulags, samgangna og félagsmála.
+
+=== Sýslur ===
+{{aðalgrein|Sýslur á Íslandi}}
+
+Íslandi hefur frá fornu fari verið skipt upp í sýslur til umboðsstjórnar. Hinar gömlu landfræðilegu sýslur eru ekki lengur formlegar stjórnsýslueiningar á Íslandi, [[sýslumenn]] eru enn þá við lýði en umdæmi þeirra fylgja ekki alltaf gömlu sýsluskiptingunni.
+
+== Landafræði ==
+[[Mynd:Iceland sat cleaned.png|thumb|250px|right|Samsett [[gervihnattarmynd]] af Íslandi.]]
+{{aðalgrein|Landafræði Íslands}}
+Ísland er staðsett á [[heitur reitur|heitum reit]] á [[Atlantshafshryggurinn|Atlantshafshryggnum]]. Það er 102.800 ferkílómetrar að stærð. Þar eru mörg virk [[Eldfjöll Íslands|eldfjöll]] og ber þar helst að nefna [[Hekla|Heklu]] (1491m) og [[Eyjafjallajökull|Eyjafjallajökul]] (1502 m). Um það bil 10% eyjarinnar er undir [[Jöklar á Íslandi|jöklum]]. Á Íslandi eru <!-- eh? eru til kaldir hverir? tók út "heitir" hér -ævar--> [[hver]]ir víða, og gnótt jarðhita færir íbúunum heitt vatn, sem meðal annars er notað til húshitunar.
+
+Ísland er önnur stærsta eyja Evrópu, á eftir [[Bretland]]i. Eyjan er vogskorin, og flestir bæir standa við [[fjörður|firði]], [[vík]]ur og [[vogur|voga]]. Helstu þéttbýlisstaðir eru [[höfuðborg]]in [[Reykjavík]], [[Keflavík]], þar sem einn af [[alþjóðlegur flugvöllur|alþjóðlegum flugvöllum]] landsins er, og [[Akureyri]].
+
+Ísland liggur á tveimur jarðskorpuflekum, Norður-Ameríkuflekanum og Evrasíuflekanum. Landið telst sögulega til [[Evrópa|Evrópu]].
+
+[[Ystu punktar Íslands]] eru þeir staðir sem eru lengst til höfuðáttanna.
+
+== Efnahagsmál ==
+{{aðalgrein|Efnahagur Íslands}}
+[[Efnahagur]] þjóðarinnar byggir enn að talsverðu leyti á [[Fiskveiðar|fiskveiðum]], sem afla nær 40% útflutningstekna og veita 8% vinnandi manna störf. Þar sem aðrar [[náttúruauðlindir]] skortir (fyrir utan jarðhita og fallvötn til virkjunar), er efnahagslíf á Íslandi viðkvæmt og háð heimsmarkaðsverði á fiski og sjávarafurðum. Auk þess geta minnkandi fiskstofnar í [[efnahagslögsaga|efnahagslögsögu]] landsins haft töluverð áhrif á sveiflur í efnahagslífinu og heimsmarkaðsverð á [[ál]]i og [[kísilgúr]]i sem eru stærstu útflutningsvörur Íslendinga á eftir sjávarafurðum.
+
+Stjórn [[Sjálfstæðisflokkurinn|Sjálfstæðis]]- og [[Framsóknarflokkurinn|Framsóknarflokks]], sat við stjórnartaumana frá [[1995]] til 2007. Hún hafði á stefnuskránni að draga úr ríkisumsvifum og einkavæða ríkisfyrirtæki. Ríkisútgjöld, sem hlutfall af þjóðarframleiðslu, hafa þó vaxið síðustu ár. Núverandi ríkisstjórn stefnir að inngöngu í [[Evrópusambandið]]. 
+
+Fjölbreytileiki í efnahagslífinu hefur aukist undanfarna tvo áratugi. [[Ferðaþjónusta]] verður æ fyrirferðameiri, og reyna Íslendingar að laða til sín útlendinga með auglýsingum um hreina og ómengaða náttúru og öflugt næturlíf.
+Nokkuð dró úr hagvexti á árunum [[2000]] til [[2002]], en árið 2002 var hann neikvæður um 0,6%, frá 2003 hefur hagvöxtur hins vegar verið drjúgur en efnahagur í samanburði við nágrannalönd einkennst af óstöðugleika.
+
+== Lýðfræði ==
+{{aðalgrein|Lýðfræði Íslands}}
+Íslendingar eru í megindráttum [[Norðurlönd|norræn]] þjóð. Landið byggðist upphaflega norrænum mönnum, einkum frá [[Noregur|Noregi]],[[Svíþjóð]] ,[[Danmörk|Danmerkur]] og [[Keltar|Keltum]] frá nýlendum [[Víkingar|víkinga]] á [[Bretlandseyjar|Bretlandseyjum]] og Íslendingar hafa í gegnum tíðina átt mest samskipti við helstu fiskveiðiþjóðir á [[Norður-Atlantshaf]]i. Til er kenning um að Íslendingar séu að uppruna sérstakur þjóðflokkur, aðgreindur frá öðrum þjóðflokkum á norðurlöndum („[[Herúlakenningin]]“). Á síðari tímum hafa ýmsar kenningar um uppruna þjóðarinnar verið settar fram með [[erfðafræði]]legum rökum. Þá er talað um að flestar konur sem hingað komu hafi verið keltneskar (flestar ambáttir) en karlarnir að miklu leyti norrænir.
+
+Íbúafjöldi landsins sveiflaðist á milli um 30.000 og 80.000 við hefðbundinn efnahag í bændasamfélagi fyrri alda. Á [[19. öldin|19.]] og [[20. öldin|20. öld]] hefur Íslendingum fjölgað nokkuð ört og nú eru íbúar landsins tæplega 320.000 auk nokkurra þúsunda af íslenskum uppruna sem ekki eru búsett á Íslandi. Árleg fólksfjölgun mælist um 2,2%.<ref name="mannfjöldi">{{Vefheimild|url=http://www.hagstofa.is/Pages/95?NewsID=3224|titill=Mannfjöldatölur frá Hagstofu Íslands|ár=2008|mánuður=22. desember|útgefandi=Hagstofa Íslands}}</ref> Árið 2011 gaf [[Hagstofa Íslands]] út þrjár tegundir mannfjödaspáa fyrir 1. janúar 2060: lágspá sem spáir fólksfjöldanum 386.500, miðspá sem spáir fyrir 436.500 og háspá sem spáir 493.800 manns.<ref>[http://www.hagstofa.is/Pages/95?NewsID=5218 Spá um mannfjölda 2010-2060]{{sic}}, [https://hagstofa.is/lisalib/getfiletrack.aspx?ItemID=11237 Spá um mannfjölda 2010–2060 (Population projection 2010–2060)]</ref><ref>{{mbl|innlent/2011/05/31/islendingar_433_000_arid_2060|Íslendingar 433.000 árið 2060}}</ref>
+
+Á Íslandi er töluð [[íslenska]], sem er norrænt tungumál, og flestir íbúar landsins eru í hinni [[Evangelísk-lúthersk kirkja|evangelísk-lúthersku]] [[Þjóðkirkjan|þjóðkirkju]].
+
+Handbolti er þjóðaríþrótt Íslendinga, íslenska handboltalandsliðið hefur náð langt á undanförnum stórmótum.
+
+=== Innflytjendur ===
+Mikil fjölgun hefur verið á erlendum ríkisborgurum á Íslandi en árið 2005 fjölgaði þeim um 29,5% og árið [[2006]] var fjölgunin 34,7%.<ref name="innflytjendur">{{Vefheimild|url=http://mbl.is/mm/frettir/innlent/2008/03/11/6_8_prosent_ibua_erlendir_rikisborgarar/|titill=6,8% íbúa erlendir ríkisborgarar|ár=2008|mánuður=11. mars|útgefandi=Mbl.is}}</ref> Árið [[2007]] voru erlendir ríkisborgarar 18.563 talsins (6[[%]] af íbúum Íslands), og þann [[1. janúar]] [[2008]] voru 21.434 erlendir ríkisborgarar skráðir (6,8[[%]] af íbúum Íslands).<ref name="innflytjendur"/> Það er 15,5% fjölgun árið 2007. Hlutfall erlendra ríkisborgara af heildarmannfjölda Íslands er nú hærra en annars staðar á [[Norðurlöndin|Norðurlöndum]], en árið [[2006]] var það næst hæst í [[Svíþjóð]] eða um 5,4%.<ref name="innflytjendur"/> Konur voru jafnan fjölmennari í hópi erlendra ríkisborgara til árins [[2003]], en síðan [[2004]] hafa karlar verið fjölmennari en konur. Í árslok [[2007]] voru karlar með erlent ríkisfang 8,1% allra karla en konur 5,5% allra kvenna.<ref name="innflytjendur"/>
+
+Samkvæmt viðhorfskönnun sem var gerð árið 2009 meðal um 800 innflytjenda kom fram að dræm íslenskukunnátta hamlaði þeim helst í því að nýta menntun sína í starfi.<ref>{{mbl|innlent/2009/11/09/rumlega_helmingur_innflytjenda_adlagast_vel|Rúmlega helmingur innflytjenda aðlagast vel}}</ref>
+
+== Menning ==
+{{aðalgrein|Íslensk menning}}
+
+=== Kvikmynda- og bókmenntaverðlaun ===
+Árlega eru veitt verðlaun fyrir afrek liðins árs í bókmenntum og [[kvikmyndagerð á Íslandi]]. [[Edduverðlaunin]] eru verðlaun sem veitt eru þeim sem þykja hafa skarað fram úr á sviði kvikmynda og sjónvarps. Síðar á árinu eru [[Íslensku bókmenntaverðlaunin]] afhent því fólki sem talið er hafa borið af á ritvellinum.
+
+== Neðanmálsgreinar ==
+<div class="references-small"><references/></div>
+
+== Tengt efni ==
+* [[Alþingisbækur Íslands]]
+* [[Heiti yfir Ísland]]
+* [[Island.is]]
+* [[Íslensk sendiráð]]
+
+== Tenglar ==
+{{commons|Iceland|Íslandi}}
+{{Wiktionary|Ísland}}
+* [http://www.althingi.is/ Alþingi]
+* http://www.iceland.org/
+* http://www.iceland.is/
+* http://www.islandsmyndir.is/
+* [http://www.raduneyti.is Ríkisstjórnin]
+* {{Vísindavefurinn|6590|Hvað er séríslenskt?}}
+* {{Vísindavefurinn|54970|Hvert er formlegt heiti landsins okkar?}}
+* [http://www.riccardozipoli.com/demo/galleries_collections.php?a=77&n=6&d=ICELAND&pagine=1&paginazione=1 Ljósmyndasafn]
+
+=== Blaðagreinar ===
+* [http://www.timarit.is/titlebrowse.jsp?issueID=436135&pageSelected=5&lang=0 ''Hinir syndugu kvaldir í ísi og eldi''; grein í Lesbók Morgunblaðsins 1996]
+* [http://www.timarit.is/titlebrowse.jsp?issueID=419579&pageSelected=4&lang=0 ''Hver var fyrstur?''; grein í Lesbók Morgunblaðsins 1971]
+* [http://www.timarit.is/?issueID=419347&pageSelected=11&lang=0 ''Hverjir fundu Ísland?''; grein í Lesbók Morgunblaðsins 1968]
+* [http://www.timarit.is/?issueID=337695&pageSelected=99&lang=0 ''Ísland og Íslendingar''; grein í Tímariti hins íslenska bókmenntafélags 1887]
+Enskar greinar:
+* [http://www.guardian.co.uk/world/2008/may/18/iceland No wonder Iceland has the happiest people on earth], grein í Observer e. John Carlin
+* [http://www.independent.co.uk/news/europe/the-big-question-is-iceland-the-happiest-place-on-the-planet-and-what-can-we-learn-from-it-832105.html The Big Question: Is Iceland the happiest place on the planet, and what can we learn from it?], grein í The Independent e. Paul Vallely
+
+{{Evrópa}}
+{{Evrópuráðið}}
+{{Norðurlandaráð}}
+{{Vestnorræna ráðið}}
+{{Atlantshafsbandalagið}}
+{{Efnahags- og framfarastofnunin}}
+{{Fríverslunarsamtök Evrópu}}
+{{S|1944}}
+
+{{Tengill ÚG|af}}
+{{Tengill ÚG|lmo}}
+{{Tengill ÚG|vi}}
+{{Tengill ÚG|el}}
+
+[[Flokkur:Ísland| ]]
+
+{{Tengill GG|ar}}
+{{Tengill GG|de}}
+{{Tengill GG|eo}}
+
+[[ace:Islandia]]
+[[af:Ysland]]
+[[als:Island]]
+[[am:አይስላንድ]]
+[[an:Islandia]]
+[[ang:Īsland]]
+[[ar:آيسلندا]]
+[[arz:ايسلاندا]]
+[[ast:Islandia]]
+[[az:İslandiya]]
+[[bar:Island]]
+[[bat-smg:Islandėjė]]
+[[bcl:Islanda]]
+[[be:Ісландыя]]
+[[be-x-old:Ісьляндыя]]
+[[bg:Исландия]]
+[[bi:Iceland]]
+[[bm:Aisland]]
+[[bn:আইসল্যান্ড]]
+[[bo:ཨཡིསུ་ལེན་ཌ།]]
+[[bpy:আইসল্যান্ড]]
+[[br:Island]]
+[[bs:Island]]
+[[ca:Islàndia]]
+[[ce:Исланди]]
+[[ceb:Iceland]]
+[[ckb:ئایسلەند]]
+[[co:Islanda]]
+[[crh:İslandiya]]
+[[cs:Island]]
+[[csb:Islandëjô]]
+[[cu:Исландъ]]
+[[cv:Исланди]]
+[[cy:Gwlad yr Iâ]]
+[[da:Island]]
+[[de:Island]]
+[[diq:İslanda]]
+[[dsb:Islandska]]
+[[dv:އައިސްލަންޑަން]]
+[[dz:ཨའིསི་ལེནཌ་]]
+[[ee:Iceland]]
+[[el:Ισλανδία]]
+[[en:Iceland]]
+[[eo:Islando]]
+[[es:Islandia]]
+[[et:Island]]
+[[eu:Islandia]]
+[[ext:Islándia]]
+[[fa:ایسلند]]
+[[fi:Islanti]]
+[[fiu-vro:Island]]
+[[fo:Ísland]]
+[[fr:Islande]]
+[[frp:Islande]]
+[[frr:Islönj]]
+[[fur:Islande]]
+[[fy:Yslân]]
+[[ga:An Íoslainn]]
+[[gag:İslandiya]]
+[[gd:Innis Tìle]]
+[[gl:Islandia - Ísland]]
+[[gn:Iylanda]]
+[[got:𐌴𐌹𐍃𐌰𐌻𐌰𐌽𐌳]]
+[[gu:આઇસલૅન્ડ]]
+[[gv:Yn Eeslynn]]
+[[hak:Pên-tó]]
+[[haw:ʻĀina Hau]]
+[[he:איסלנד]]
+[[hi:आइसलैण्ड]]
+[[hif:Iceland]]
+[[hr:Island]]
+[[hsb:Islandska]]
+[[ht:Islann]]
+[[hu:Izland]]
+[[hy:Իսլանդիա]]
+[[ia:Islanda]]
+[[id:Islandia]]
+[[ie:Island]]
+[[ilo:Islandia]]
+[[io:Islando]]
+[[it:Islanda]]
+[[ja:アイスランド]]
+[[jbo:island]]
+[[ka:ისლანდია]]
+[[kaa:İslandiya]]
+[[kab:Island]]
+[[kbd:Ислэнд]]
+[[kg:Islande]]
+[[kk:Исландия]]
+[[kl:Islandi]]
+[[km:ប្រទេសអាយឡែន]]
+[[kn:ಐಸ್‍ಲ್ಯಾಂಡ್]]
+[[ko:아이슬란드]]
+[[koi:Исланд]]
+[[krc:Исландия]]
+[[ku:Îsland]]
+[[kv:Исландия]]
+[[kw:Island]]
+[[ky:Исландия]]
+[[la:Islandia]]
+[[lad:Islandia]]
+[[lb:Island]]
+[[lg:Isilandi]]
+[[li:Iesland]]
+[[lij:Islanda]]
+[[lmo:Islanda]]
+[[ln:Islandi]]
+[[lt:Islandija]]
+[[ltg:Īslandeja]]
+[[lv:Īslande]]
+[[mhr:Исландий]]
+[[mi:Tiorangi]]
+[[mk:Исланд]]
+[[ml:ഐസ്‌ലാന്റ്]]
+[[mn:Исланд]]
+[[mr:आइसलँड]]
+[[ms:Iceland]]
+[[mt:Iżlanda]]
+[[my:အိုက်စလန်နိုင်ငံ]]
+[[na:Aiterand]]
+[[nah:Iztlālpan]]
+[[nds:Iesland]]
+[[nds-nl:Ieslaand]]
+[[ne:आइसल्याण्ड]]
+[[nl:IJsland]]
+[[nn:Island]]
+[[no:Island]]
+[[nov:Islande]]
+[[nv:Tin Bikéyah]]
+[[oc:Islàndia]]
+[[os:Исланди]]
+[[pa:ਆਈਸਲੈਂਡ]]
+[[pam:Iceland]]
+[[pih:Iseland]]
+[[pl:Islandia]]
+[[pms:Islanda]]
+[[pnb:آئس لینڈ]]
+[[pnt:Ισλανδία]]
+[[ps:آيسلېنډ]]
+[[pt:Islândia]]
+[[qu:Islandya]]
+[[rm:Islanda]]
+[[ro:Islanda]]
+[[roa-rup:Islanda]]
+[[roa-tara:Islanne]]
+[[ru:Исландия]]
+[[rw:Isilande]]
+[[sa:आइसलैंड]]
+[[sah:Исландия]]
+[[sc:Islanda]]
+[[scn:Islandia]]
+[[sco:Iceland]]
+[[se:Islánda]]
+[[sg:Ïsalândi]]
+[[sh:Island]]
+[[si:අයිස්ලන්තය]]
+[[simple:Iceland]]
+[[sk:Island]]
+[[sl:Islandija]]
+[[so:Island]]
+[[sq:Islanda]]
+[[sr:Исланд]]
+[[ss:Echweni]]
+[[stq:Ieslound]]
+[[su:Islandia]]
+[[sv:Island]]
+[[sw:Iceland]]
+[[szl:Islandyjo]]
+[[ta:ஐசுலாந்து]]
+[[te:ఐస్‌లాండ్]]
+[[tet:Izlándia]]
+[[tg:Исландия]]
+[[th:ประเทศไอซ์แลนด์]]
+[[tk:Islandiýa]]
+[[tl:Lupangyelo]]
+[[tpi:Aislan]]
+[[tr:İzlanda]]
+[[tt:Исландия]]
+[[udm:Исландия]]
+[[ug:ئىسلاندىيە]]
+[[uk:Ісландія]]
+[[ur:آئس لینڈ]]
+[[uz:Islandiya]]
+[[vec:Islanda]]
+[[vi:Iceland]]
+[[vls:Ysland]]
+[[vo:Lisladeän]]
+[[wa:Izlande]]
+[[war:Islandya]]
+[[wo:Islaand]]
+[[wuu:冰岛]]
+[[xal:Ислгудин Орн]]
+[[yi:איסלאנד]]
+[[yo:Íslándì]]
+[[zea:Iesland]]
+[[zh:冰岛]]
+[[zh-classical:冰島]]
+[[zh-min-nan:Peng-tē]]
+[[zh-yue:冰島]]

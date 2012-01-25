@@ -1,0 +1,750 @@
+{{andre betydninger}}
+{{koord|64|N|12|E|type:country_region:NO|vis=tittel}}
+{{Infoboks land
+| lokalenavn = Kongeriket Norge<br />Kongeriket Noreg
+| flagg = Flag of Norway.svg
+| våpen = Coat of Arms of Norway.svg
+| våpenstørrelse = 49px
+| motto = Intet<small><sup>1</sup></small> <br /> Kongens [[motto|valgspråk]]: Alt for Norge
+| antallspråk = 1
+| språk = [[Norsk]]<small><sup>2</sup></small>
+| hovedstad = [[Oslo]]
+| innbyggernavn = Nordmann, norsk
+| styreform = [[Konstitusjonelt monarki|Konstitusjonelt&nbsp;monarki]]
+| leder1t = [[Liste over Norges monarker|Monark]]
+| leder1p = [[Harald V]]
+| leder2t = [[Liste over Norges statsministre|Statsminister]]
+| leder2p = [[Jens Stoltenberg]]
+| vann = 6
+| uavhengighetfra = [[Sverige]]<small><sup>3</sup></small>
+| uavhengighettid = [[7. juni]] [[1905]]
+| valuta = [[Norsk krone|Norske kroner]]
+| valutakode = NOK
+| tidssone = +1
+| utc2 = +2
+| tidssone_navn = [[Sentraleuropeisk tid|CET]]
+| tidssone2_navn = [[Sentraleuropeisk sommertid|CEST]]
+| nasjonaldag = [[17. mai (grunnlovsdag)|17. mai]]
+| nasjonalsang = [[Ja, vi elsker dette landet|«Ja, vi elsker dette landet»]] (de facto), [[Sønner av Norge (nasjonalsang)|«Sønner af Norge»]] (offisiell)
+| ISO 3166 = NO
+| toppnivådomene = [[.no]], [[.sj]] og [[.bv]]
+| altplassering = EUR location NOR.PNG
+| kart = Norgeskart.png
+| fotnoter = <sup>1</sup><small>Eidsvolleden anno [[1814]]: Enige og tro til Dovre faller</small>
+<sup>2</sup><small>[[Bokmål]] og [[nynorsk]] er likestilte målformer. I tillegg til norsk brukes [[nordsamisk]] som administrasjonsspråk i 7 kommuner, [[sørsamisk]] i en, [[lulesamisk]] i en og [[kvensk]] i en.</small><br />
+<sup>3</sup><small>Oppløsning av [[personalunion]]</small><br>
+<small>Landarealet omfatter Omfatter Norges hovedland, Svalbard (inkl. Bjørnøya) og Jan-Mayen.</small>
+}}
+[[Fil:Geiranger2.JPG|thumb|258px|[[Geiranger]]]]
+
+'''Kongeriket Norge''' ([[nynorsk]]: ''Kongeriket Noreg'') er et [[Norden|nordisk]], [[Europa|europeisk]] [[landområde|land]] og en selvstendig [[stat]] vest på [[den skandinaviske halvøy]]. Landet er langt og smalt, og kysten strekker seg langs [[Atlanterhavet|Nordatlanteren]] med havområder som [[Skagerrak]], [[Nordsjøen]], [[Norskehavet]] og [[Barentshavet]], hvor også Norges kjente [[Liste over norske fjorder|fjorder]] befinner seg. Totalt dekker det relativt tynt befolkede landet 385&nbsp;000 kvadratkilometer med nærmere fem millioner innbyggere. Det politiske styret er [[konstitusjonelt monarki]] med [[Parlamentarisme|parlamentarisk]] demokrati. Norge er et [[EØS]]-land og deltar både i [[Schengen-traktaten|Schengen]] og [[Dublin-samarbeidet]], men står utenfor [[EU]].
+
+== Etymologi ==
+{{wiktionary|Norge}}
+Seilingsleden fra [[Karmøy]] og nordover ble omtalt som ''Norðrvegr'', veien mot nord, noe som kan tyde på at det har vært et geografisk navn gitt av [[gøter]] eller [[daner]] på samme måte som uttrykkene vestrvegr, austrvegr, suðrvegr. Denne betydningen lever videre i det engelske, tyske og franske navnet på landet. På et senere tidspunkt har navnet på skipsleden også blitt navnet på fastlandet østenfor. Det er usikkert når [[Østlandet]] begynte å bli assosiert med landet som ble omtalt som Norðrvegr, ettersom denne landsdelen frem til 1000-tallet oftest var de danske kongenes skatteland («[[Oslofjorden|Viken]]»). 
+
+I [[Ottar fra Hålogaland|Ottars]] beretning til den engelske kong [[Alfred av England|Alfred]] fra ca. 880 brukes formen ''Norðweg'' og norðmannaland om hverandre. Runeinskripsjoner på en av de danske [[Jellingsteinene]] fra rundt 980 bruker  [[akkusativ]]formen ''Nuruiak'' som tilsvarer nominativ ''Norvegh''. I islandske middelalderhåndskrifter omtales landet som Noreg(h)r eller Norveg(h)r. 
+
+På 1300-tallet ble navnet sammentrukket til nominativformene Noreg(h)e, Norig(h)e, Norg(h)e. Senere dette hundreåret oppsto [[nominativ]]formene Norie, Nories der i'en ble uttalt som j, slik det fortsatt gjøres i svensk. Fra 1450 blir Noreg(h)-navnet sjeldnere, og ''Norg(h)e''-typen ble hyppigste form. 
+
+[[Ivar Aasen]] brukte dialektformen ''Norig'' da han skapte [[nynorsk|landsmålet]] på 1800-tallet. I 1917 ble formene ''Norig'' og ''Noreg'' sidestilt i [[nynorsk|landsmål]], men ved [[Rettskrivningen av 1938|rettskrivingsreformen i 1938]] ble ''Noreg'' eneform i nynorsk. På [[bokmål]] og [[riksmål]] har ''Norge'' alltid vært eneform. Landet heter ''Norga'' på [[nordsamisk]], ''Vuodna'' på [[lulesamisk]], ''Nøørje'' på [[sørsamisk]] og ''Norja'' på [[kvensk]].
+
+== Naturgeografi ==
+{{utdypende artikkel|Norges geografi|Norges klima}}
+
+Norges hovedland utgjør sammen med [[Sverige]] og deler av [[Finland]] [[den skandinaviske halvøy]]a, og til lands grenser det også mot [[Russland]] i det nord-østligste området. Landet er langt og smalt, og kysten strekker seg langs [[Atlanterhavet|Nordatlanteren]] med havområder som [[Skagerrak]], [[Nordsjøen]], [[Norskehavet]] og [[Barentshavet]], hvor også Norges kjente [[Liste over norske fjorder|fjorder]] befinner seg. Til havs er de nærmeste landene [[Danmark]], [[Storbritannia]], [[Færøyene]] og [[Island]].
+
+Norges landskap er generelt forrevet og fjellrikt. Kystlinjen på mer enn 20&nbsp;000 km avbrytes av steile fjorder samt et mangfold av øyer og holmer - i alt 239&nbsp;057 registrerte øyer, noe som gjør at den samlede kystlinje er 100&nbsp;915 km lang. Kun [[Canada]] har lenger kystlinje enn Norge. I tillegg finnes det flate [[vidde]]r, samt brede daler, spesielt på Østlandet, men også i Trøndelag. [[Nord-Norge]] er også kjent som [[midnattssol]]ens land, da landet delvis ligger nord for [[polarsirklene|polarsirkelen]]. Her går ikke solen under horisonten i en periode om sommeren, og om vinteren er disse områdene i en tilsvarende lang periode uten sollys.
+
+Norge følger [[Atlanterhavet|Nordatlanteren]] i nesten hele sin lengde. Tre havområder utgjør kystlinjen: [[Nordsjøen]] og dens avstikker [[Skagerrak]] i sørvest og sør, [[Norskehavet]] i vest og [[Barentshavet]], som er del av polhavet, i nordøst. Norges høyeste punkt på fastlandsnorge er [[Galdhøpiggen]] med sine 2&nbsp;469 meter over havet.
+
+Norges (og Europas) nordligste punktet på fastlandet ligger på [[Knivskjelodden]] i [[Nordkapp]] kommune. Det sørligste punktet i Norge ligger på halvøya Lindesnes i [[Lindesnes kommune]]. [[Norges geografiske midtpunkt]] er i [[Steinkjer]] kommune.
+
+Det norske [[klima]]et er temperert, spesielt langs kysten som påvirkes av [[golfstrømmen]] i nord til Barentshavet. Norge ligger i en sone hvor [[polarfronten]] skaper en vestlig luftstrøm, og dette dominerer vær og klima i stor grad. Klimaet inne i landet er likevel kaldt om vinteren, og i den nordligste delen dominerer mer arktiske forhold.
+
+=== Biland og territorialgrenser ===
+Øya [[Jan Mayen]] i nordvest er administrert som en del av hovedlandet og grenser til havs mot [[island]]sk farvann. Øygruppen [[Svalbard]] er under norsk suverenitet med de begrensninger [[Svalbardtraktaten]] setter, men er i likhet med [[Jan Mayen]] en del av kongeriket. [[Bouvetøya]] i [[Atlanterhavet|Søratlanteren]] er derimot et norsk [[biland]]. Norge gjør også krav på [[Peter I Øy|Peter 1.s øy]] i det sørlige [[Stillehavet]] og territoriet [[Dronning Maud Land]] i [[Antarktis]], men begge disse omfattes av [[Antarktistraktaten|Antarktis-traktaten]], som legger territoriale krav i [[Antarktis]] på is.
+
+På grunn av uenighet om [[delelinje]]n mellom norsk og russisk [[territorialfarvann]] i [[Barentshavet]], finnes det et område som inntil videre blir administrert av begge statene, den såkalte [[Gråsonen]]. 27. april 2010 ble det undertegnet en avtale mellom de to landene som tar sikte på å løse grensetvisten. Avtalen gikk ut på å trekke grensen mellom [[midtlinjeprinsippet |midtlinjen]], som har vært det norske standpunktet, og [[sektorlinjeprinsippet|sektorlinjen]] som har vært det russiske standpunktet. Det omtvistede området er på 176 000 kvadratkilometer,<ref>{{Kilde www|url=http://maritimt.com/nyheter/2010/delelinjen-i-barentshavet.html|tittel=Delelinjen i Barentshavet|besøksdato=4. mai 2011 kl. 16:38|språk=norsk|utgiver=Maritimt Magasin|utgivelsesdato=9. juni 2010 kl. 12:35}}</ref><ref>{{Kilde www|url=http://www.stortinget.no/Global/pdf/Utredning/Perspektiv07_04.pdf|format=pdf|språk=norsk|tittel=Delelinjen i Barentshavet|beøksdato=4. mai 2011 kl. 16:42|forfatter=Willy Østreng og Yngvild Prydz|utgiver=Stortinget: Perspektiv 04/07|utgivelsesdato=April 2007}}</ref> og blir etter denne avtalen delt i to omtrent like store deler. Før den nye grensen blir gjeldende må den [[ratifisering|ratifiseres]] av [[Stortinget]] og den russiske [[statsdumaen]].
+
+== Demografi ==
+{{utdypende artikkel|Norges demografi}}
+
+[[Fil:Population graph for Norway.svg|thumb|300px|Norges innbyggertall 1961-2011]]
+Norges folketall var 4,92 millioner 01.01.2011, og økte i 2010 med 62 106 personer. Kjønnsfordelingen er 50,01 % menn og 49,99 % kvinner pr. 01.01.2011. Dette er første gang det er mannsoverskudd i Norge siden det ble gjort folketelling fordelt på kjønn første gang i 1769. Aldersfordelingen er 25,3 % fra 0 til 20 år, 61,7 % fra 20 til 66 år, og 12,9 % fra 66 år og oppover (estimat 2011).<ref>http://www.ssb.no/befolkning/</ref> Omkring 34 % av landets befolkning bor i de fire fylkene (Akershus, Østfold, Vestfold og Oslo) rundt Oslofjorden, som kun dekker 3,63 % av landets areal.<ref>kilde: http://www.ssb.no/folkemengde/arkiv/tab-2011-02-24-01.html</ref>
+
+=== Folkegrupper ===
+
+{{utdypende artikkel|Nordmenn|Samer|Innvandrere i Norge}}
+
+[[Etnisk]] sett er størstedelen av den opprinnelige befolkningen [[Norden|nordisk]] / nord-[[germanske språk|germansk]], mens et lite mindretall med tyngdepunkt i nord er [[samer|samisk]] eller [[Finland|finsk]] / [[kvener|kvensk]]. [[Samer]] har status som [[urfolk]], mens [[skogfinner]], [[kvener]], [[romanifolket|romanifolk]] (reisende, tatere), [[sigøynere|roma (sigøynere)]] og [[jøder]] har status som [[nasjonale minoriteter i Norge|nasjonale minoriteter]]. De siste par årene har innvandring utgjort mer enn halvparten av befolkningsveksten, og en økende andel av befolkningen er [[innvandring|innvandrere]]; 12,2&nbsp;% eller 600&nbsp;900 mennesker pr. 1. januar 2011. Innvandrere blir her definert som alle med to utenlandskfødte foreldre (som blant annet inkluderer Norges konge, [[Harald V]]). De største innvandrergruppene etter opprinnelsesland kommer fra [[Pakistan]], [[Sverige]], [[Irak]], [[Somalia]], [[Danmark]], [[Polen]], [[Vietnam]], [[Bosnia-Hercegovina]], [[Iran]] og [[Tyrkia]]. <ref>[http://www.ssb.no/emner/02/01/10/innvbef/ SSB: Rekordstor vekst i innvandrerbefolkningen]</ref>  Det bør anmerkes at innvandrerne fra enkelte land er delt opp i flere etniske grupper. Eksempelvis kommer det både [[russere]] og [[tsjetsjenere]] fra [[Russland]], [[tyrkere]] og [[kurdere]] fra Tyrkia og innvandrerne fra [[Serbia]] er delt opp i [[serbere]] og [[albanere]]. Utenlandske [[statsborgerskap|statsborgere]] utgjør 4,8&nbsp;% av befolkningen med 222&nbsp;300 personer. Ser en bort fra de norske og nordiske statsborgerne, er det flest bosatte [[polakker|polske]], [[tyskere|tyske]] og [[irak]]iske  statsborgere. Det har de siste årene vært stor arbeidsinnvandring til Norge fra [[Polen]], [[Tyskland]], [[Sverige]] og [[Litauen]]. Det er også stor innvandring fra blant annet [[Romania]], [[Somalia]], [[Thailand]], [[Filippinene]], [[Russland]] og [[Irak]]. <ref>[http://ssb.no/innvutv/ SSB: Innvandring og utvandring 2006]</ref>.
+
+=== Språk ===
+[[Fil:Målformer i Norge.svg|thumb|[[Målform]]er etter kommune{{legend|#5599FF|2=Nynorsk}}{{legend|#E32636|Bokmål}}]]
+{{utdypende artikkel|Norsk|Samiske språk|Norsk språkhistorie}}
+
+Det norske språket er et [[nordiske språk|nordgermansk språk]] i den [[indoeuropeiske språk|indo-europeiske]] språkfamilien. Under [[Danmark-Norge|unionen med Danmark]] fortrengte [[dansk]] skriftspråk det norske. Etter oppløsningen av unionen skapte filologen [[Ivar Aasen]] et nytt norsk skriftspråk basert på de norske dialektene. Senere ble også det danske skriftspråket fornorsket. Som et resultat har Norge i dag to offisielle skriftnormaler eller [[målform]]er, [[bokmål]] som stammer fra dansk skriftspråk og dansk-norsk talespråk, og [[nynorsk]] som stammer fra Aasens skriftnorm. I dag normeres disse av [[Språkrådet]]. I tillegg opprettholder riksmålsbevegelsen sin egen skriftnormal [[riksmål]], som i hovedsak er sammenfallende med moderat bokmål. I høyere årstrinn i grunnskolen og i videregående skole undervises det i og gis karakter i både bokmål og nynorsk. Elever med annet morsmål enn norsk kan søke om fritak fra vurdering i sidemål. Muligens som et resultat av språkstriden er det i Norge i dag stor aksept for bruk av [[dialekt]]er i situasjoner der det i mange andre land er vanlig å slå over til [[standardspråk]].
+
+Majoriteten av den norske befolkningen skriver bokmål. Andelen nynorskelever i grunnskolen nådde en topp på rundt en tredjedel i 1943, men falt frem mot 1970-tallet til om lag 15%. På den annen side står nå nynorsken sterkere i sine kjerneområder enn den gjorde da den nettopp var stemt inn i skolene. Det nynorske skriftspråkets tilbakegang i skolene skyldes delvis at bokmål ble gjeninnført i mange skolekretser før nynorsken fikk festet seg, særlig i Nord-Norge og Trøndelag, delvis sammenslåing av mindre nynorskbrukende skolekretser med større bokmålskretser, og delvis større folkevekst i byene, som tradisjonelt har brukt bokmål. Årsakene til at nynorsken ikke fikk fotfeste i større deler av landet er usikker. En medvirkende årsak kan være at bokmålets stilling ble styrket gjennom sin dominans i massemediene som vokste frem etter krigen. Riksmålsbevegelsens offensiv på 1950-tallet kan også være en delforklaring.
+
+I 1993 ratifiserte Norge den europeiske minoritetsspråkpakten, og definerte [[samisk]] (herunder [[sørsamisk]], [[lulesamisk]], [[nordsamisk]]), [[kvensk]], [[romanes]] og [[Romani rakripa|romani]] som offisielle minoritetsspråk Norge har et særskilt ansvar for å bevare.<ref>{{Kilde www |url=http://www.regjeringen.no/nb/dep/fad/tema/nasjonale_minoriteter/midtspalte/minoritetssprakpakta.html?id=86936 |tittel=Minoritetsspråkpakten |utgiver=Fornyings-, administrasjons- og kirkedepartementet }}</ref> Alle språkene bortsett fra nordsamisk er i dag truet av utryddelse.{{tr|1=Gjelder dette også romani?}} Tidligere snakket man også [[pitesamisk]] og [[umesamisk]], men disse språkene har bare overlevd i Sverige og selv der er det bare noen få som fremdeles mestrer språket. Tidligere ble også [[skoltesamisk]] snakket, dette språket snakkes fortsatt av noen få i Finland og Russland. 
+
+Et annet minoritetsspråk som har blitt brukt lenge i Norge er [[norsk tegnspråk]]. Språket finnes i to hoved-dialekter, som har opphav i miljøene ved de to eldste døveskolene i Oslo og Trondheim. Språket ble styrket gjennom språkmeldingen av 2008, der det fikk en offisiell status som språk i Norge, noe Døveforbundet lenge hadde kjempet for.<ref>{{Kilde www |url=http://www.regjeringen.no/nn/dep/kud/dokument/proposisjonar-og-meldingar/stortingsmeldingar/2007-2008/stmeld-nr-35-2007-2008-.html?id=519923 |tittel=St.meld. nr. 35. Mål og meining : Ein heilskapleg norsk språkpolitikk |dato=2008-06-27 |utgiver= Kultur- og kirkedepartementet }}</ref><ref>{{Kilde www |url=http://www.nrk.no/kultur-og-underholdning/1.6116963 |tittel=Tegnspråk blir offisielt språk |utgiver=NRK |dato=2008-06-26 }}</ref>
+
+Innvandringen til Norge fra den siste halvdel av det 20. århundre har brakt nye folkegrupper til Norge med egne språk som f.eks. [[urdu]], [[arabisk]], [[vietnamesisk]] og [[somali]]. Disse språkene har ingen offisiell status i Norge.
+
+=== Religion ===
+[[Fil:Den norske kirkes våpen.svg|thumb|100px|[[Den norske kirke]]s våpen bygger på merket for [[erkebiskop]]er på [[16. århundre|1500-tallet]], og har et kløverblads[[kors]] og to [[Olav den hellige|Olavs]][[øks (symbol)|økser]].]]
+Siden [[reformasjonen]] i [[1536]] har [[den evangelisk-lutherske kirke|luthersk]] [[kristendom]] vært den dominerende religionen i Norge. Inntil [[dissenterloven]] ble vedtatt i [[1845]] var det forbudt for nordmenn å melde seg ut av statskirken og ikke-kristne trossamfunn fikk ikke lov til å organisere seg før i [[1891]]. I dag er samfunnet blitt mer og mer [[sekularisering|sekularisert]] og et flertall anser seg ikke som religiøse. [[Protestantisme]]n har allikevel hatt en sterk innflytelse på norsk kultur og samfunn og mange av dens verdier og tradisjoner lever videre selv blant ikke-religiøse i sekularisert form. Fremdeles er de fleste nordmenn medlem av statskirken som spiller en viktig rolle som seremonimester ved dåp, konfirmasjon, bryllup og begravelser. Det finnes også mange andre kristne trossamfunn og i det siste har også andre religioner, først og fremst [[Islam]], fått fotfeste i Norge, hovedsakelig gjennom innvandring.
+
+Omkring 79,2 % av befolkningen er medlemmer i den [[den evangelisk-lutherske kirke|evangelisk-lutherske]] [[Den norske kirke|statskirken]] (1.&nbsp;januar 2003: 3&nbsp;900&nbsp;062 medlemmer, 85,7 % av befolkningen). Andre kristne trossamfunn utgjør cirka 4,5 %: [[Frikirken|Den evangelisk lutherske frikirken]], [[Den katolske kirke]]n (44&nbsp;153 medlemmer), [[pinsebevegelsen|pinsemenigheter]] (46&nbsp;944 medlemmer), [[Metodisme|Metodistkirken]] m.fl..  
+
+Blant de ikke-kristne [[religion]]ene er [[islam]] sterkest representert i Norge med ca.&nbsp;1,5 %: islamske trossamfunn har 75&nbsp;761 medlemmer. Øvrige religioner har knapt 1 %. [[Human-Etisk Forbund]] har ca. 1,3 % oppslutning (69&nbsp;652 medlemmer). Pr.&nbsp;1.&nbsp;januar 2003 er rundt 5 % av innbyggerne ikke medlemmer i noe [[trossamfunn]] eller noen livssynsorganisasjon som mottar statsstøtte.<ref>[http://www.ssb.no/emner/07/02/10/trosamf/ SSB: Tro og livssynssamfunn utenfor Den norske kirke, 2006]</ref>
+
+=== Største tettsteder ===
+[[Fil:Vippetangen2.jpg|thumb|Oslo Rådhus og Akershus Festning ligger i landets største by.{{byline|Jon Rogne}}]]
+{{hoved|Liste over Norges største tettsteder}}
+[[Liste over Norges største tettsteder|Norges 20 største tettsteder]] pr. {{tettsted|år|ref}} ifølge [[Statistisk sentralbyrå]]. 
+
+{| class="wikitable sortable"
+|-
+! Tettsted
+! Folkemengde
+! Areal, km²
+|-
+| [[Tettstedet Oslo|Oslo]]
+| align=right | {{formatnum:{{tettsted|0801}}}} 
+| align=right | {{areal norske tettsteder|0801}}
+|-
+| [[Tettstedet Bergen|Bergen]]
+| align=right | {{formatnum:{{tettsted|5001}}}} 
+| align=right | {{areal norske tettsteder|5001}}
+|-
+| [[Stavanger/Sandnes]]
+| align=right | {{formatnum:{{tettsted|4522}}}} 
+| align=right | {{areal norske tettsteder|4522}}
+|-
+| [[Trondheim]]
+| align=right | {{formatnum:{{tettsted|6501}}}} 
+| align=right | {{areal norske tettsteder|6501}}
+|-
+| [[Fredrikstad/Sarpsborg]]
+| align=right | {{formatnum:{{tettsted|0022}}}} 
+| align=right | {{areal norske tettsteder|0022}}
+|-
+| [[Tettstedet Drammen|Drammen]]
+| align=right | {{formatnum:{{tettsted|2003}}}} 
+| align=right | {{areal norske tettsteder|2003}}
+|-
+| [[Porsgrunn/Skien]]
+| align=right | {{formatnum:{{tettsted|3005}}}} 
+| align=right | {{areal norske tettsteder|3005}}
+|-
+| [[Kristiansand]]
+| align=right | {{formatnum:{{tettsted|4002}}}} 
+| align=right | {{areal norske tettsteder|4002}}
+|-
+| [[Tromsø]]
+| align=right | {{formatnum:{{tettsted|8011}}}} 
+| align=right | {{areal norske tettsteder|8011}}
+|-
+| [[Tønsberg_(tettsted)|Tønsberg]]
+| align=right | {{formatnum:{{tettsted|2521}}}} 
+| align=right | {{areal norske tettsteder|2521}}
+|-
+| [[Ålesund]]
+| align=right | {{formatnum:{{tettsted|6025}}}} 
+| align=right | {{areal norske tettsteder|6025}}
+|-
+| [[Haugesund]]
+| align=right | {{formatnum:{{tettsted|4532}}}} 
+| align=right | {{areal norske tettsteder|4532}}
+|-
+| [[Moss_(tettsted)|Moss]]
+| align=right | {{formatnum:{{tettsted|0031}}}} 
+| align=right | {{areal norske tettsteder|0031}}
+|-
+| [[Sandefjord]]
+| align=right | {{formatnum:{{tettsted|2531}}}} 
+| align=right | {{areal norske tettsteder|2531}}
+|-
+| [[Bodø]]
+| align=right | {{formatnum:{{tettsted|7501}}}} 
+| align=right | {{areal norske tettsteder|7501}}
+|-
+| [[Arendal]]
+| align=right | {{formatnum:{{tettsted|3511}}}} 
+| align=right | {{areal norske tettsteder|3511}}
+|-
+| [[Hamar]]
+| align=right | {{formatnum:{{tettsted|1001}}}} 
+| align=right | {{areal norske tettsteder|1001}}
+|-
+| [[Lillehammer]]
+| align=right | {{formatnum:{{tettsted|1501}}}} 
+| align=right | {{areal norske tettsteder|1501}}
+|-
+| [[Larvik]]
+| align=right | {{formatnum:{{tettsted|2541}}}} 
+| align=right | {{areal norske tettsteder|2541}}
+|-
+| [[Halden]]
+| align=right | {{formatnum:{{tettsted|0001}}}} 
+| align=right | {{areal norske tettsteder|0001}}
+|}
+Tabellen viser innbyggere i tettstedet, ikke kommunen med tettstedets navn. Tettstedene med skråstrek består av to byer som har vokst sammen. I tettstedet Oslo har både Oslo, Sandvika og Lillestrøm bystatus. I tettstedet Drammen har også Hokksund bystatus, og i Porsgrunn/Skien har også Brevik, Stathelle og Langesund bystatus. Ytterligere 25 tettsteder har over 10 000 innbyggere, mens 169 har mellom 2000 og 10000 innbyggere. Totalt er det 922 offisielle tettsteder i Norge.
+
+== Politisk historie ==
+
+{{Utdypende artikkel|Norges historie}}
+
+=== Vikingtid til middelalder ===
+I [[vikingtiden]] fra det 8. århundre til det 11. århundre ble områdene som nå utgjør Norge, gradvis lagt under en kongemakt. Kong [[Harald Hårfagre]] underla seg de sør-vestlige delene av Norge ved slaget i [[Hafrsfjord]] omkring 880, og etablerte sitt kongesete på [[Avaldsnes]] på [[Karmøy]]. [[Østlandet]] kom under kontroll av kongemakten på midten av 1000-tallet, mens ladejarlætten som hadde herredømme i det nordlige Norge døde ut på samme tid. 
+
+I 995 grunnla kong [[Olav Tryggvason]] landets første kristne kirke på [[Moster]] i [[Bømlo]], og begynte [[kristendom|kristningen]] av landet. Etter [[slaget ved Stiklestad]] i 1030 vant [[kristendom]]men frem som statsreligion, noe som førte til at kongemakten heretter kunne støtte sin makt på en landsomfattende skrivekyndig kirkelig organisasjon med bånd til den latinskspråklige europeiske kulturen. Etter en hundreårig periode med [[borgerkrig]] fra 1130-tallet, ble kongemakten igjen konsolidert under [[Sverre Sigurdsson|Sverreætten]]. [[Håkon Håkonsson]] (1204–63) skapte det riksomfattende enekongedømme som etter utløpet av borgerkrigene i 1240. Under hans 46 år på tronen oppsto [[Norgesveldet]] hvor store oversjøiske landområder ble tvunget inn under kongemakten. Under kong [[Magnus Lagabøte]] ble Norge det andre landet i Europa som var undergitt én samlet lovbok. 
+
+=== Nedgang og dansketid ===
+
+[[Svartedauden]], som herjet fra 1348 til 1350 <ref>[[Steinar Imsen]] ''Noregs Nedgang'' s.77 ISBN 82-521-5938-9</ref>, og senere epidemier, fikk katastrofale følger og førte til at omtrent halvparten av befolkningen døde. Mange bygder ble liggende helt øde og det tok århundrer før folketallet var tilbake på tidligere nivå. Inntektene fra skatt og jordleie falt med nesten 80% påfølgende århundre, noe som rammet den norske staten hardere enn hva som var tilfellet i [[Sverige]] og [[Danmark]]. Landets samfunnsstyrende elite, den norske [[adel]]en, sank fra 600 til 200 familier og var relativt fåtallig sammenlignet med situasjonen i nabolandene. Med [[Svartedauden]] mistet adelen store deler av sitt økonomiske grunnlag, og adelens øverste organ, [[Riksrådet]] ble etter press fra [[Huset Oldenburg|Oldenburgkongen]] endelig oppløst i 1537. Dynastiske forhold medvirket ytterligere til at tiden som et selvstendig rike ebbet ut. Kongeslekten ble forent med den svenske i 1319, den danske i 1380 og døde helt ut i 1387. Norge gikk inn i [[Kalmarunionen]] med de andre nordiske land i 1397, og etter dens oppløsning i 1450 fortsatte kongefellesskapet med [[Danmark]] alene. I 1537 førte reformasjonen til at landets rikeste organisasjon, kirken, ble underlagt kongen i København isteden for å være ledet fra [[Nidaros erkebispedømme|erkebiskopen i Nidaros]]. 
+
+Den 434 år lange [[Dansketiden|unionen med Danmark]] ble på 1800-tallet ofte omtalt som «400-årsnatten», fordi Norge var den svakere part i unionen og ble styrt fra hovedstaden [[København]]. Tiden mellom 1570 og 1721 var preget av høye skatter som følge av langvarige kriger mellom Danmark-Norge og Sverige. Bortsett fra [[Kalmarkrigen]], der det nordlige Nord-Norge endelig ble fastslått som en del av det norske rike i 1613, førte nesten samtlige av krigene til tap av landområder som [[Båhuslen]], [[Jämtland|Jemtland]] og [[Herjedalen]]. I 1660 begikk kongen statskupp, oppløste det danske riksrådet og innførte kongelig [[enevelde]], en forfatning som vedvarte til 1814. Den nåværende grenselinjen til Sverige ble trukket i 1751 under fredstiden midt på 1700-tallet.
+
+=== Demokratisk forfatning i 1814 ===
+
+[[Fil:Eidsvoll_riksraad_1814.jpeg|300 px|thumb|''Grunnlovsforsamlingen Eidsvoll 1814''. Det berømte maleriet ble malt av [[Oscar Arnold Wergeland]] (1844-1910) 70 år etter grunnlovsforsamlingen og gitt som gave til [[Stortinget]] i [[1885]].]]
+Fredrik 6. av [[Danmark-Norge]] [[allianse|allierte]] seg med [[Napoléon Bonaparte|Napoleon]] og ble dermed en av taperne i Napoleonskrigene. I [[Kielfreden]] i 1814 ble Norge avstått til kongen av [[Sverige]]. I vårmånedene 1814 mens den svenske hær var i felttog på kontinentet, lyktes det [[Riksforsamlingen]] på [[Eidsvoll]] å gi landet en liberal [[Norges Grunnlov|grunnlov]] den [[17. mai (grunnlovsdag)|17. mai]] 1814, basert på [[Folkesuverenitetsprinsippet]]. Etter en kort krig med [[Sverige]] ble det forhandlet frem en [[personalunion]] med Sverige. <!-- Overhøyheten den norske kongen hadde hatt over [[Grønland]], [[Island]] og [[Færøyene]] ble beholdt av Danmarks konge. --> Norge fikk i 1814 egen hovedstad (Christiania), regjering, hær, flåte, lovverk, valuta, sentralbank og parlament. Stemmeretten omfattet nesten halvparten av den myndige mannlige befolkningen. Kun utenrikspolitikken ble styrt av den felles svensk-norske kongen gjennom det svenske utenriksdepartement.  
+
+På 1800-tallet ble statsstyret dominert av embetsmenn (universitetsutdannede jurister og prester, samt offiserer), men i motsetning til de fleste europeiske land var ikke [[adel]]en dominerende. I løpet av 1800-tallet ble en opposisjon mot embetsmennene gradvis organisert på Stortinget, noe som ledet til etablering av [[Venstre]] og senere flere partier. I 1884 ble dagens statsskikk innført, etter at en [[Riksrett|riksrettsdom]] fastslo at regjeringen heretter i realiteten skulle være en Stortingsoppnevnt komité ([[parlamentarisme]]) isteden for å være iverksettere av Kongens politikk slik det var tiltenkt i Grunnloven. 
+
+=== Fra unionsoppløsning til nåtid ===
+
+Økende norsk misnøye med unionen på slutten av  1800-tallet førte i 1905 til oppløsningen av den norsk-svenske personalunionen i [[1905]]. Dette ble bekreftet ved en folkeavstemning. Den norske regjeringen tilbød den norske tronen til den danske [[Haakon VII|prins Carl]]. Etter en ny folkeavstemning kåret [[Stortinget]] ham til konge og han tok navnet [[Haakon VII]]. <!-- Den norske kongefamilien tilhører, i likhet med den danske, det nordtyske fyrstehuset [[Schleswig-Holstein-Sonderburg-Glücksburg]] (en gren av huset [[Huset Oldenburg|Oldenburg]]). -->
+
+Norge førte en vestvendt nøytralitet under [[første verdenskrig|1. verdenskrig]]. I mellomkrigstiden var partipolitikken fragmentert og økonomien gjennomgikk en serie kriser, noe som førte til store deler av befolkningen både på ytterste høyre og venstre fløy mistet troen på parlamentarisk demokrati. Da [[andre verdenskrig|2. verdenskrig]] brøt ut, ønsket politikerne å holde landet nøytralt også i denne krigen, men landet ble overrumplet av det tyske angrepet på Norge [[9. april]] [[1940]]. Tyskerne innsatte et militærdiktatur mens den norske regjering og Konge ledet et eksilstyre fra London. Det gradvis økende hatet mot det tyske styret sammen med båndene til Storbritannia og USA som krigen skapte, førte til at alliansen ble videreført etter krigens slutt [[NATO]] som ble dannet i [[1949]]. Norge var også et av landene som bidro til opprettelsen av [[FN]] i [[1945]].
+
+Etterkrigstidens politikk har vært dominert av [[Det norske Arbeiderparti|Arbeiderpartiet]]. De hadde rent flertall fra 1945 til 1957, men tonet i løpet av denne tiden ned sin politiske linje fra sosialistisk [[planøkonomi]], til konsensuspreget [[blandingsøkonomi]]. Den norske regjering har ved tre anledninger (1962, 1967 og 1992) søkt om landets tilslutning i [[Den europeiske union]] (EU) (el. dens forløpere). De to sistnevnte søknadene munnet ut i ferdigforhandlede medlemskapsavtaler, men vant ikke tilslutning i rådgivende folkeavstemninger henholdsvis [[Rådgivende folkeavstemning om tilslutning til EF 1972|i 1972]] og [[rådgivende folkeavstemning om Norges tilslutning til EU 1994|i 1994]]. Norge er imidlertid tilknyttet EUs indre marked og medfølgende regelverk gjennom [[EØS]]-avtalen som trådte i kraft i 1994.
+
+== Politikk og administrasjon ==
+{{Utdypende artikkel|Norges politiske system}}
+[[Fil:Stortinget 2009.jpg|thumb|[[Stortingsbygningen]] i Oslo.{{byline|Alexander Ottesen}}]]
+[[Fil:King_Harald_V_of_Norway_Trondheim2010-_1.jpg|thumb|[[Kong Harald V]] av Norge]] 
+=== Statsoverhode og regjering ===
+{{utdypende artikkel|Liste over Norges monarker|Liste over Norges regjeringer}}
+Norge er et [[konstitusjonelt monarki]] med et [[parlamentarisme|parlamentarisk regjeringssystem]]. I henhold til [[Norges Grunnlov|Grunnloven]] fra 1814 er Kongen statsoverhode og velger selv sitt råd, men etter innføringen av parlamentarismen må imidlertid Regjeringen i praksis ha støtte fra et flertall i Stortinget. Kongen er den utøvende makt, og er øverstkommanderende for [[Forsvaret]]. Grunnloven gir Kongen vidtrekkende rettigheter, men disse utøves ikke i praksis i dag, og hans funksjon er i hovedsak blitt seremoniell. [[Statsrådet]], eller [[Liste over Norges regjeringer|Regjeringen]], består av en [[Norges statsminister|statsminister]] og minst syv [[minister|statsråder]], utnevnt av Kongen. [[Norges konge|Kongen]] kan i teorien utnevne hvem han vil, men har siden 1905 med få unntak valgt den regjeringen statsministeren foreslår.
+
+=== Parlament ===
+{{utdypende artikkel|Stortinget}}
+Det norske parlamentet, [[Stortinget]], har 169 medlemmer, som velges fra 19 [[fylke (Norge)|fylker]] for en fireårsperiode ut fra et system med proporsjonal representasjon. Det vil si at fylkene med høyest innbyggertall har flest representanter, dog slik at de tynnest befolkede fylkene har færre stemmer bak hver representant. 
+
+Stortinget har tolv ulike fagkomiteer, for eksempel ([[stortingets justiskomité|justiskomiteen]], [[stortingets finanskomité|finanskomiteen]], [[stortingets næringskomité|næringskomiteen]] m.v.). Stortingets 13. fagkomité heter [[Stortingets kontroll- og konstitusjonskomité|Kontroll- og konstitusjonskomiteen]]. I tillegg kommer spesialkomiteen [[Stortingets utvidede utenrikskomité]].
+
+=== Administrativ inndeling ===
+{{Se også|Norges kommuner|Norges fylker|Norske biland og områder med særstatus}}
+[[Fil:Norway counties.svg|thumb|300px|Norges fylker]]
+Norge er delt inn [[fylke (Norge)|19 fylker]] samt to «sysler», [[Svalbard]] og [[Jan Mayen]].  Fylkene er inndelt i totalt 429 [[Norges kommuner|kommuner]].<ref name=Regjeringen2011/> Begge disse administrasjonsnivåene styres av folkevalgte organ, [[fylkesting]] og [[kommunestyre]]r. I hovedstaden Oslo fungerer [[kommunestyre|bystyret]] både som fylkesting og kommunestyre. [[Fylkesmann]]en er statens representant overfor de folkevalgte, lokale myndigheter og han skal påse at Norges lover og statlige forskrifter blir fulgt, samt gi råd og veiledning ved behov. Hver kommune ledes av sitt eget kommunestyre og har en [[ordfører]]. [[Oslo]] og [[Akershus]] har felles fylkesmann. På Svalbard finnes ett [[Longyearbyen lokalstyre|lokalstyre]] som tilsvarer kommunestyre på fastlandet. Her er [[sysselmann]]en statens øverste representant og politimyndighet.  Ulike statsorganer deler Norge på andre måter. For eksempel har [[Den norske kirke]] elleve [[bispedømme]]r og helsevesenet har fire helseregioner.
+
+Fastlandet inndeles gjerne i de fem [[landsdel]]ene [[Nord-Norge]], [[Trøndelag]], [[Vestlandet]], [[Sørlandet]] og [[Østlandet]]. Denne inndelingen baserer seg på geografiske, historiske og språklige kriterier, men har ingen formell politisk betydning.
+
+Norge har tre [[biland]]: [[Bouvetøya]], [[Peter I Øy|Peter 1.s øy]] og [[Dronning Maud Land]].
+
+=== Rettsvesen ===
+
+{{Utdypende artikkel|Norges domstoler}}
+
+De ordinære [[Norges domstoler|rettsinstansene]] består [[forliksråd]]ene (behandler bare sivile tvistesaker), [[tingrett]]ene, [[lagmannsrett]]ene og [[Norges Høyesterett|Høyesterett]]. Det er ett forliksråd i hver [[kommune]], 65 tingretter og seks lagmannsretter ([[Borgarting lagmannsrett|Borgarting]], [[Eidsivating lagmannsrett|Eidsivating]], Agder, [[Gulating lagmannsrett|Gulating]], [[Frostatinget|Frostating]] og [[Hålogaland lagmannsrett|Hålogaland]]). Høyesterett har 19 [[dommer]]e og ledes en en [[høyesterettsjustitiarius]]. I tillegg er det enkelte særdomstoler som [[Arbeidsretten]].  Den særskilte [[Riksrett]]en behandler anklager om embedsforbrytelser begått av medlemmer fra [[Stortinget]], [[Norges regjering|regjeringen]] eller [[Norges Høyesterett|Høyesterett]], men denne har ikke vært i bruk siden 1927.
+
+Dommerne i tingrettene, lagmannsrettene og Høyesterett er alle jurister og utnevnes av [[Kongen i statsråd]] etter innstilling fra [[Justis- og politidepartementet|justisdepartementet]] og [[Innstillingsrådet for dommere]], og de er [[Embedsmann|embetsmenn]] som etter [[Norges Grunnlov|Grunnloven]] bare kan avskjediges ved [[dom]].
+
+===Utenrikspolitikk===
+[[Fil:KNM Fridtjof Nansen-2006-06-01-side.jpg|thumb|left|[[Sjøforsvaret|Det norske sjøforsvars]] [[Fridtjof Nansen-klassen|''Fridtjof Nansen''-fregatt]]]]
+[[Fil:Norges ambassader og delegasjoner i utlandet.svg|thumb|right|300px|Norges relasjoner til utlandet, vist med hvilke land Norge har en ambassade i. Kilde: [http://www.regjeringen.no/nb/dep/ud/dep/org/utenriksstasjoner.html?id=524467 Regjeringen.no]{{legend|#ff7f2a|Land med norsk [[ambassade]]}}{{legend|#ffccaa|Land der Norge representeres av en [[ambassadør]] med [[sideakkreditering]] (klikk på bildet for mer informasjon)}}]]
+Norge drifter ambassader i 86 land, og 60 land [[Liste over ambassader i Oslo|har sine ambassader i Norge]], hvorav samtlige holder til i Oslo.<ref>[http://www.regjeringen.no/nb/dep/ud/dep/org/utenriksstasjoner.html?id=524467 Liste over alle norske utenriksstasjoner på Regjeringen.no]</ref><ref>[http://www.regjeringen.no/upload/UD/Vedlegg/Protokoll/adrliste%20Norge%2012%20okt.xls List of foreign embassies in Norway at the website of the Norwegian ministry of foreign affairs]{{Dead link|date=March 2009}}</ref>
+
+Norge har hatt medlemskap i [[FN|De forente nasjoner]] (FN), [[NATO|Den nordatlantiske allianse]] (NATO), [[Europarådet]] og [[EFTA|Det europeiske frihandelsforbund]] (EFTA) siden disse organisasjoners opprettelse. Norge fulgte etter da nordiske naboland skrev søknader for tilslutning i [[Den europeiske union]] (EU) i  henholdsvis 1962, 1967 og 1992. Tross [[Danmark]], [[Sverige]] og [[Finland]]s innlemmelse ble de fremforhandlede tilslutningstraktater forkastet av det norske folk i rådgivende folkeavstemninger i 1972 og 1994. Etter nei-seieren ved avstemningen i 1994 forble Norge tilsluttet [[EØS|Det europeiske økonomiske samarbeidsområde]] (EØS), et avtaleverk inngått 1992 hvis medlemskap ble ansett for å være en forutsetning for landene som skulle tilsluttes EU i 1995. Dette system gir Norge adgang til mesteparten av Unionens indre marked, med den forutsetning at Norge innlemmer den lovgivning som anses for å være relevant for de deler av Det indre marked som omfattes av avtalen. I 2010 utgjorde dette tilsammen om lag 7000 rettsakter.<ref>{{cite web|url=http://intportal.vaf.no/hoved.aspx?m=2761&amid=49981 |title=Refleksjoner fra Brussel - Hospitering ved Sørlandets Europakontor - Vest-Agder Fylkeskommune |publisher=Intportal.vaf.no |date= |accessdate=2010-08-29}}</ref> Norske regjeringer har siden 1994 søkt tilslutning i deler av EUs samarbeid som overskrider EØS-avtalen. Deltagelse uten stemmerett er eksempelvis blitt innvilget i Unionens [[Den felles utenriks- og sikkerhetspolitikk|felles utenriks-, sikkerhets-]], [[:en:Dublin Regulation|asyl-]], utdannings- og [[:en:Prüm Convention|politisamarbeid]], [[Schengen-traktaten|Schengen-avtalen]], samt 19 ytterligere programmer.<ref>{{cite web|url=http://www.eu-norge.org/en/Norges_forhold_til_EU/deltakelse/EU_programmer/ |title=EU-programmer |publisher=Eu-norge.org |date=2009-06-30 |accessdate=2010-08-29}}</ref>
+
+Norge har blitt ansett for å være en betydelig deltager i internasjonalt utviklingsarbeid, da landet blant annet bidro til fremforhandlingen av [[Oslo-avtalen]] som var ment å bidra til [[Israel-Palestina-konflikten]]s slutt.
+
+== Næringsliv ==
+{{se også|Næringslivet i Norge}}
+[[Fil:Sildefiske i Bodø.jpg|thumb|Fiskerier har alltid vært en viktig næring i Norge]]
+[[Fil:Vannhjul.JPG|thumb|upright|Vannkraft har lenge blitt utnyttet, først direkte i vannmøller og oppgangssager, men senere til produksjon av elektrisitet.{{byline|Svein Harkestad}}]]
+[[Fil:Troll A Platform.jpg|thumb|Petroleumsvirksomhet har skapt store inntekter siden starten av 1970-tallet.]]
+[[Fil:Flamsbana.jpg|thumb|upright|I det postindustrielle Norge har virksomhet som turisme (her Flåmsbanen) fått et stadig større fokus.{{byline|Felix Andrews}}]]
+
+Norge hadde ved inngangen til 1900-tallet en økonomi på nivå med gjennomsnittet i Vest-[[Europa]]<ref>Sverre Knutsen: [http://www.aftenposten.no/meninger/kronikker/article818343.ece?service=print Hvorfor ble Norge rikt?]</ref>, og med en andel av befolkningen som utvandret til [[Amerika]] kun overgått av [[Irland]]. Til tross for fem års okkupasjon under [[andre verdenskrig|annen verdenskrig]] opplevde landet i løpet av hundreåret en rask velstandsøkning, og var ved inngangen til det 21. århundret et av de rikeste landene i verden målt i nasjonalprodukt pr. innbygger. Velstandsøkningen skjedde i en kombinasjon av naturgitte forhold ([[fiskeri]], [[vannkraft]], [[olje]], [[industri]]). Gjennom det norske [[statens pensjonsfond|oljefondet]] er velstanden til kommende generasjoner også sikret. Norge har i dag en akutt mangel på arbeidskraft og har siden 1970-tallet hatt en betydelig arbeidsinnvandring.
+
+Den norske [[økonomi]]en bygger på et rikt [[Kapitalisme|kapitalistisk]] [[velferdsstat|velferdssamfunn]]. De fleste sektorer er overlatt til private markedsaktører, dog underlagt en betydelig regulering, blant annet for å sikre konkurranse og miljøhensyn. Myndighetene kontrollerer noen områder som helse, utdanning og vannkraftproduksjon. Staten eier også store aksjeposter i større norske børsnoterte  selskapene som [[Statoil]], [[Norsk Hydro]], [[Telenor]] og [[DNB ASA|DNB]]. Verdien av disse postene tilsvarte i 2006 for 31,6 % av verdien  på [[Oslo børs]].  Staten opptrer i disse bedriftene som en normal aksjeeier med innflytelse gjennom styre og generalforsamling.
+
+Landet er rikt på [[naturressurser]] som [[Petroleum|olje]], [[naturgass]], [[vannkraft]] og [[fiskeri]]er. Andre naturressurser Norge har er [[landbruk|jordbruk]], [[skogbruk]], [[kull]] og [[mineral]]er. De store naturressursene har samtidig gjort landet avhengig av internasjonale [[råvare]]priser, særlig oljeprisen. I 1999 utgjorde oljeinntekter 35% av eksportinntektene, og Norge var dermed verdens tredje største oljeeksportør etter [[Saudi-Arabia]] og [[Russland]]. Staten får store deler av oljeinntektene gjennom høye skattesatser for oljeselskaper.
+
+Det ble igangsatt [[privatisering]]er i 2000, hvor regjeringen solgte en tredel av det helstatlige oljeselskapet Statoil. Norge står utenfor [[Den europeiske union|EU]] etter [[folkeavstemning]]ene [[Rådgivende folkeavstemning om tilslutning til EF 1972|i 1972]] og [[rådgivende folkeavstemning om Norges tilslutning til EU 1994|i 1994]], men er medlem av [[EFTA]], en del av [[Schengen-traktaten|Schengenavtalen]], og er sammen med [[Island]] og [[Liechtenstein]] en del av det indre markedet i EU gjennom [[EØS]]-avtalen. 
+
+På tross av flere undersøkelser, som viser at nordmenn har den høyeste livskvalitet i verden, er det stadig bekymringer omkring hvor landet vil stå når olje- og gassreservene er tømt. Statens store overskudd på sine budsjetter plasseres derfor i [[Statens pensjonsfond|Statens pensjonsfond – Utland]], som i sin helhet er investert i utlandet. Verdien av [[forvaltningskapital]]en i fondet passerte i 2007 2000 milliarder NOK, og er derved et av de største nasjonale fond i verden. [[Bruttonasjonalprodukt]] (BNP) i 2002 var 1&nbsp;547 milliarder NOK. Den økonomiske veksten i Fastlands-Norge var 4,6 prosent i 2006, det tredje året på rad med en vekst over 4 prosent. Norge har også en viktig industri basert på produksjon av [[elektrisitet|elektrisk]] og vitenskapelig utstyr, [[maskin]]er, [[metall]]er, [[fisk]], [[petroleum]]kjemi, skipsindustri og [[kjemisk substans|kjemikalier]].
+
+{| class="wikitable"
+! Økonomiske nøkkeltall 
+! Verdi
+! % av BNP
+! År, kilde
+|-
+| BNP 
+|  415,9 mrd US$
+|
+| 2010, ''Verdensbanken''
+|-
+| BNP (vekst) (Eurostat)
+| 2,9 %
+|
+| 2007, ''Eurostat'' (europa.eu)
+|-
+| BNP (vekst)
+|  3,9%
+|  
+|  Q3 2007, ''The Economist'' nov 2007
+|-
+| Industriproduksjon
+|  -0,6%
+|   
+|  Q3 2007, ''The Economist'' nov 2007
+|-
+| Konsumpriser 2006
+| 2,5 %
+|
+| 2006, ''Eurostat'' (europa.eu)
+|-
+| Konsumpriser 2007
+|  -0,3%
+|   
+|  Q3 2007, ''The Economist'' nov 2007
+|-
+| Renter 3 mnd 2006
+|  5,00%
+|  
+|  Sep 2006, ''Norges Bank''
+|-
+| Renter 3 mnd 2007
+|  5,74%
+|  
+|  Sep 2007, ''The Economist'' nov 2007
+|-
+| Børsindeks 1.jan-7.mai 2008
+|  -1,3%
+|   
+|  ''The Economist'' mai 2008
+|-
+| Arbeidsløshet
+|  2,5%
+|  
+|  Q3 2007, ''The Economist'' nov 2007
+|-
+| Eksport 2006
+| 1&nbsp;005 mrd NOK 
+|  46,6%
+|  2006, ''SSB "Utenriksøkonomi"''
+|-
+| - Storbritannia 2006
+| 209,5 mrd NOK 
+|  
+|  2006, ''SSB "Utenriksøkonomi"''
+|-
+| - Tyskland 2006
+| 96,4 mrd NOK 
+|  
+|  2006, ''SSB "Utenriksøkonomi"''
+|-
+| - Nederland 2006
+| 80,4 mrd NOK 
+|  
+|  2006, ''SSB "Utenriksøkonomi"''
+|-
+| - Frankrike 2006
+| 64,6 mrd NOK 
+|  
+|  2006, ''SSB "Utenriksøkonomi"''
+|-
+| - Sverige 2006
+| 50,3 mrd NOK 
+|  
+|  2006, ''SSB "Utenriksøkonomi"'' 
+|-
+| Import 2006
+| 612 mrd NOK 
+|  ''28,4%''
+|  2006, ''SSB "Utenriksøkonomi"''
+|-
+| - Sverige 2006
+| 61,7 mrd NOK 
+|  
+|  2006, ''SSB "Utenriksøkonomi"''
+|-
+| - Tyskland 2006
+| 55,3 mrd NOK 
+|  
+|  2006, ''SSB "Utenriksøkonomi"''
+|-
+| - Danmark 2006
+| 28,2 mrd NOK 
+|  
+|  2006, ''SSB "Utenriksøkonomi"''
+|-
+| - Storbritannia 2006
+| 26,2 mrd NOK 
+|  
+|  2006, ''SSB "Utenriksøkonomi"''
+|-
+| - Kina 2006
+| 23,1 mrd NOK 
+|  
+|  2006, ''SSB "Utenriksøkonomi"''
+|-
+| Handelsbalanse 2006
+| 373 mrd NOK 
+|  17,3%
+|  2006, ''SSB "Utenriksøkonomi"''
+|-
+| Handelsbalanse 12 mnd
+| 54,5 mrd $ 
+|  
+|  Q3 2007, ''The Economist'' nov 2007
+|-
+| Betalingsbalanse 12 mnd
+|  54,6 mrd $
+|  14,3%
+|  Q2 2007, ''The Economist'' nov 2007
+|-
+| Budsjettbalanse
+|  
+|  18,9%
+|  Q3 2007, ''The Economist'' nov 2007
+|-
+| Utviklingshjelp 
+|  - 2,20 mrd US$
+|  
+|  2005, ''UNDP Database''
+|-
+| BNP per innb 
+|  63&nbsp;960 US$
+|  
+|  2005, ''UNDP Database''
+|}
+
+== Samfunn og levekår ==
+{{seksjonstubb}}
+
+=== Husholdninger og arbeid ===
+39 prosent av husholdningene i Norge besto i 2008 av aleneboende. Av samboende par var 22 prosent ugifte, og blant par under 30 er det mer vanlig å være samboer enn å være gift. Av nye giftemål i 2007 var rundt 30 prosent borgerlige vielser.
+
+I 2008 var 2,5 millioner, eller 50 prosent av befolkningen i Norge sysselsatt. Kvinner utgjorde 47 prosent av disse.
+
+=== Sivilsamfunn ===
+I 2009 var i underkant av 1 637 000 personer registrert som medlem av norske arbeidstakerorganisasjoner. De største organisasjonene er [[LO]], [[YS]], [[Unio]] og [[Akademikerne]], som tilsammen organiserte 93 prosent av alle medlemmene i arbeidstakerorganisasjonene, mot 87 prosent i 1999.
+
+Levekårsundersøkelsen i 2007 viste at om lag 80 prosent av befolkningen var medlem av en eller flere organisasjoner, hvorav fag- og arbeidstakerorganisasjoner var den klart største gruppen. Men kun 47 prosent svarte at de var i aktive i organisasjonen de var medlem, og blant aktive medlemmer var de i idrettslag den største gruppen.
+
+=== Helse ===
+En gutt født i Norge i 2007 kunne forvente å bli 78,2 år, ei jente 82,7. Dette er en markant
+økning siden perioden 1946-1950, da tallene var henholdsvis 69,3 og 72,7 år.
+
+Hjerte og karsykdommer sto for nesten 40 prosent av dødsfallene i den norske befolkningen på begynnelsen av 2000-tallet, etter en nedgang fra 1970-tallet. Dødsfall på grunn av kreft har i stedet økt og sto for nærmer 30 prosent de første årene på 2000-tallet.  
+
+Av voldsomme dødsfall er det fallulykker, trafikkulykker og selvmord som dominerer, selv om antallet slike dødsfall har sunket de siste årene.
+
+=== Kriminalitet ===
+I levekårsundersøkelsen for 2007 rapporterte rundt 5,5 prosent av befolkningen over 16 år å ha blitt utsatt for vold eller trusler det siste året, og drøyt 10 prosent for tyveri eller skadeverk. Nivået er relativt stabilt i forhold til de foregående 25 årene med slike undersøkelser. 3,6 prosent av befolkningen ble utsatt for noen av de nærmere 400 000 lovbruddene registrert anmeldt av politiet samme år, først og fremst tyverier og andre vinningslovbrudd. [[Drap]]sratene i Norge har på 2000-tallet holdt seg i underkant av ett drap per 100 000 innbygger årlig, et av de laveste nivåene i verden.
+
+Politiet i Norge har det første tiåret på 2000-tallet tatt rundt 80 000 enkeltpersoner hvert år på bakgrunn av de anmeldte lovbruddene, hvorav omtrent 60 prosent pleier å få et forelegg (bot) og nærmere 30 prosent ender med å bli tiltalt for en domstol. Den vanligste årsaken til både bøtelegging og fengsling som straff i Norge er trafikklovbrudd, men dette er ikke lovbrudd som gir de strengeste straffene. 
+
+Av de i gjennomsnitt rundt 3 400 personene som satt i fengsel i Norge i 2009 hadde nærmere 30 prosent et narkotikalovbrudd som det alvorligste lovbruddet, fulgt av vinningslovbrudd og vold som de nest største gruppene, begge på over 20 prosent.
+
+== Kultur ==
+
+=== Musikk ===
+
+Norge har en lang og sterk [[folkemusikk]]tradisjon. På 1800-tallet ble denne musikken løftet frem av de nasjonale musikkpionerene [[Ole Bull]] og [[Ludvig Mathias Lindeman]] og gjort til en viktig del av den norske nasjonsbyggingen. Norges internasjonalt kjente klassiske komponister [[Edvard Grieg]] og [[Johan Svendsen]] var dypt inspirert av den norske folkemusikken og brakte folketoner og norsk folkemusikkrytmikk inn i sin kunstmusikk. Når det gjelder populærmusikk har Norge mange artister som driver med pop, rock eller elektronisk musikk. Blant de som har gjort mest suksess internasjonalt er [[A-ha]] og [[Röyksopp]]. I tillegg har landet kjente [[jazz]]artister som [[Bugge Wesseltoft]] og [[Jan Garbarek]]. Norge er også kjent som hjemlandet til [[Black Metal]].
+
+=== Litteratur og skriftkultur ===
+{{Utdypende artikkel|Norsk litteratur}}
+[[Fil:Ibsen.jpg|thumb|[[Henrik Ibsen]]]]
+Norge har en rik litterær tradisjon som går tilbake til norrøne kvad og kongesagaer som ble nedtegnet av Snorre Sturlason på [[Island]] på 1200-tallet. Det best kjente middelalderverket er [[Kongespeilet]] som er et læreverk i form av dialog som ble laget for sønnene til [[Magnus Lagabøte]]r.
+
+I [[dansketiden]] er de to mest berømte skribentene [[Petter Dass]], som skrev salmer og dikt hvorav det mest kjente er [[Nordlands Trompet]], en poetisk skildring av [[Nordland]], og den dansk-norske dramatikeren [[Ludvig Holberg]] som også skrev romanen [[Nils Klims reise til den underjordiske verden]].
+
+På 1800-tallet var det en oppblomstring av norsk litteratur. Den nasjonalromantiske [[Henrik Wergeland]] og den mer europeiske [[Johan Sebastian Welhaven]] var to fremtredende poeter som sto for hver sin vidt forskjellige tradisjon. [[Henrik Ibsen]] er fremdeles regnet som en av verdens fremste dramatikere og den fremste representant for [[realisme (litteratur)|realisme]] innen teater. Andre fremtredende forfattere på denne tiden var [[Bjørnstjerne Bjørnson]], [[Alexander Kielland]] og [[Jonas Lie]] som sammen med Ibsen ble regnet som [[de fire store]] på slutten av 1800-tallet. I tillegg bør [[Arne Garborg]] og [[Amalie Skram]] fremheves som viktige forfattere på denne tiden. Nevnes bør også [[Peter Christen Asbjørnsen|Peter Chr. Asbjørnsen]] og [[Jørgen Moe]]s utgivelser av norske folkeeventyr, som utkom første gang i 1840-årene. Til forskjell fra mesteparten av kunstlitteraturen, gjenspeilte eventyrene den sterke muntlige  fortellertradisjonen som fantes ute på bygdene. Folkeeventyrenes folkelige språkdrakt og bruk av norsk dagligtale, fikk stor betydning for utviklingen av det norske skriftspråket og den norske litteraturen.  
+
+Første halvdel av 1900-tallet ble dominert av [[Sigrid Undset]] og [[Knut Hamsun]] som begge var konservative og tilbakeskuende politisk selv om de skrev på svært forskjellig måte. Begge disse vant Nobelprisen i litteratur. 
+
+I etterkrigstiden har det vært et vidt spenn av forskjellig litteratur fra [[Jens Bjørneboe]] og [[Agnar Mykle]]s kulturradikalisme til [[Dag Solstad]]s venstreradikale modernisme til [[Erlend Loe]]s naivisme. [[Jan Kjærstad]], [[Lars Saabye Christensen]] og [[Erik Fosnes Hansen]] er kjente nålevende skjønnlitterære forfattere. [[Jon Fosse]] er den mest spilte norske dramatiker siden Henrik Ibsen, og var på begynnelsen av 2000-tallet den mest spilte samtidsdramatiker i Europa. I tillegg finner man også populære krimforfattere som [[Gunnar Staalesen]] og [[Anne Holt]].
+
+=== Billedkunst ===
+[[Fil:Theodor_Kittelsen_Ekko_1888.jpg|thumb|Maleri av ekkoet {{byline|Theodor Kittelsen|1888|Ekko}}]]
+Norge har en rik [[folkekunst]]historie i form av [[brukskunst]], [[rosemaling]] og treutskjæring. 1800-tallet anses i ettertid som en gullalder innen norsk bildende kunst. Preget av samtidens rådende [[romantikken|romantiske]] kunstideal oppnådde en rekke norske kunstnere internasjonal berømmelse, som for eksempel [[Adolph Tidemand]], [[Hans Gude]] og [[I.C. Dahl|J.C. Dahl]]. Denne norske gullalderkunsten gjenspeilte norsk landskap, historie og folkekultur. I ettertid er den mest internasjonalt kjente norske bildende kunster den ekspresjonistiske [[Edvard Munch]]. I moderne tid er [[Odd Nerdrum]], [[Håkon Gullvåg]], [[Inger Sitter]] og [[Ørnulf Opdahl]] blant de mest kjente norske malerne.
+
+[[Gustav Vigeland]] er Norges mest kjente skulptør og er mannen bak [[Frognerparken|Vigelandsparken]]. Fra etterkrigstiden er [[Arnold Haukeland]] og [[Nils Aas]] sentrale navn. 
+
+=== Idrett ===
+
+Som i andre europeiske land er [[fotball]] den mest populære sporten. I tillegg er ski- og vintersport svært populært, og norske toppidrettsutøvere har tradisjonelt hevdet seg internasjonalt i disse idrettene. Populære vintersporter er [[langrenn]], [[skøyter]], [[skihopping]], [[skiskyting]] og [[alpin skiidrett|alpine grener]].
+
+Kjente idrettsutøvere er blant annet [[Oscar Mathisen]], [[John Arne Riise]], [[Ole Gunnar Solskjær]], [[Sonja Henie]], [[Grete Waitz]], [[Bjørn Dæhlie]], [[Ole Einar Bjørndalen]], [[Cato Zahl Pedersen]], [[Petter Northug]], [[Kjetil André Aamodt]], [[Petter Solberg]], [[Johann Olav Koss]], [[Marit Bjørgen]], [[Kari Traa]] og hoppukevinnerne fra de senere årene [[Sigurd Pettersen]] og [[Anders Jacobsen (skihopper)|Anders Jacobsen]].
+
+=== UNESCOs verdensarvliste ===
+
+Åtte steder i Norge er med på [[FNs organisasjon for utdannelse, vitenskap og kultur|UNESCOs]] [[Verdensarven|verdensarvliste]]. Av disse regnes Geirangerfjorden og Nærøyfjorden som samme objekt på verdensarvlista, slik at Norge kun har sju objekter på denne.
+
+<gallery>
+Fil:Bryggen, Bergen3.JPG|[[Bryggen i Bergen|Bryggen]] i [[Bergen]] (1979)
+Fil:Urnes,a.jpg|[[Urnes stavkirke]] (1979)
+Fil:Roros02.jpg|[[Røros]] (1980)
+Fil:Alta Felszeichnung Rentiere.jpg|[[Helleristning]]ene i [[Alta]] (1985)
+Fil:Vegaoyan.jpg|[[Vega]]øyene i [[Nordland]] (2004)
+Fil:Hammerfest Meridianstein.jpg|[[Struves meridianbue]] (2005)
+Fil:The Seven Sisters, Geiranger Fjord, Norway.jpg|[[Geirangerfjorden]] (2005)
+Fil:Fjord in Norway.jpg|[[Nærøyfjorden]] (2005)
+</gallery></div>
+
+== Referanser ==
+{{referanser|refs=
+<ref name=Regjeringen2011>{{Kilde www|url=http://www.regjeringen.no/nb/dep/krd/pressesenter/pressemeldinger/2011/ynskjer-nye-inderoy-kommune-til-lukke.html?id=667865|utgiver=regjeringen.no|tittel=Ynskjer nye Inderøy kommune til lukke|dato=2011-12-29|besøksdato=2012-01-01}}</ref>
+}}
+
+== Eksterne lenker ==
+{{Søsterlenker}}
+* [http://www.norge.no Norge.no – Søkemuligheter for offentlig informasjon, offentlige etater o.l.]
+* [http://www.visitnorway.no VisitNorway.no – Offisiell reiseportal for Norge]
+* [http://www.regjeringen.no/ Informasjon fra regjeringen og departementene]
+* [http://www.stortinget.no Stortinget]
+* [http://www.ssb.no/emner/00/minifakta/no/ Minifakta Norge] og [http://www.ssb.no/norge/ Dette er Norge: Hva tallene forteller], gode statistiske oversikter fra Statistisk sentralbyrå og Utenriksdepartementet
+* [http://www.miljøstatus.no Miljøstatus i Norge]
+
+{{Navbokser
+|liste1    ={{Emner om Norge}}
+{{Navbokser
+ |tittel = Geografisk posisjon
+ |liste1  ={{europa}}}}
+{{Navbokser
+ |tittel = Internasjonale medlemskap
+ |liste1  ={{Nordisk råd}}{{EFTA}}{{WTO}}{{EØS-området}}{{CBSS}}{{Europarådet}}{{OECD}}{{Schengen-landene}}{{NATO}}}}
+}}
+
+
+{{beskyttet2}}
+
+{{Portal|Norge}}
+{{anbefalt}}
+{{Link UA|af}}
+
+
+[[Kategori:Norge| ]]
+[[Kategori:Konstitusjonelle monarkier]]
+[[Kategori:NATO-land]]
+[[Kategori:EFTA]]
+
+{{Link AA|zh-classical}}
+{{Link UA|ar}}
+
+[[ace:Norwègia]]
+[[kbd:Норвегэ]]
+[[af:Noorweë]]
+[[als:Norwegen]]
+[[am:ኖርዌይ]]
+[[ang:Norþƿeȝ]]
+[[ar:النرويج]]
+[[an:Noruega]]
+[[arc:ܢܘܪܒܝܓ]]
+[[frp:Norvèg·e]]
+[[ast:Noruega]]
+[[gn:Noruega]]
+[[az:Norveç]]
+[[bm:Norwij]]
+[[bn:নরওয়ে]]
+[[zh-min-nan:Norge]]
+[[be:Нарвегія]]
+[[be-x-old:Нарвэгія]]
+[[bcl:Norwey]]
+[[bi:Norway]]
+[[bg:Норвегия]]
+[[bar:Norwegn]]
+[[bo:ནོར་ཝེ།]]
+[[bs:Norveška]]
+[[br:Norvegia]]
+[[ca:Noruega]]
+[[cv:Норвеги]]
+[[ceb:Norway]]
+[[cs:Norsko]]
+[[co:Nurvegia]]
+[[cy:Norwy]]
+[[da:Norge]]
+[[de:Norwegen]]
+[[dv:ނޯވޭ]]
+[[dsb:Norwegska]]
+[[dz:ནོ་ཝེ་]]
+[[et:Norra]]
+[[el:Νορβηγία]]
+[[en:Norway]]
+[[myv:Норвегия Мастор]]
+[[es:Noruega]]
+[[eo:Norvegio]]
+[[ext:Noruega]]
+[[eu:Norvegia]]
+[[ee:Norway]]
+[[fa:نروژ]]
+[[hif:Norway]]
+[[fo:Noreg]]
+[[fr:Norvège]]
+[[fy:Noarwegen]]
+[[ga:An Iorua]]
+[[gv:Norlynn]]
+[[gag:Norvegiya]]
+[[gd:Nirribhidh]]
+[[gl:Noruega - Norge]]
+[[gan:挪威]]
+[[gu:નોર્વે]]
+[[got:𐌽𐌰𐌿𐍂𐍅𐌹𐌲𐍃]]
+[[hak:Nò-vî]]
+[[xal:Ноорскгин Нутг]]
+[[ko:노르웨이]]
+[[haw:Nolewai]]
+[[hy:Նորվեգիա]]
+[[hi:नॉर्वे]]
+[[hsb:Norwegska]]
+[[hr:Norveška]]
+[[io:Norvegia]]
+[[ilo:Norway]]
+[[bpy:নরৱে]]
+[[id:Norwegia]]
+[[ia:Norvegia]]
+[[ie:Norvegia]]
+[[iu:ᓄᕐᒋ/nurgi]]
+[[os:Норвеги]]
+[[zu:INoki]]
+[[is:Noregur]]
+[[it:Norvegia]]
+[[he:נורבגיה]]
+[[jv:Norwégia]]
+[[kl:Norge]]
+[[kn:ನಾರ್ವೇ]]
+[[pam:Norwega]]
+[[krc:Норвегия]]
+[[ka:ნორვეგია]]
+[[csb:Norweskô]]
+[[kk:Норвегия]]
+[[kw:Norgagh]]
+[[rw:Noruveje]]
+[[rn:Noruega]]
+[[sw:Norwei]]
+[[kv:Норвегия]]
+[[kg:Norge]]
+[[ht:Nòvèj]]
+[[ku:Norwêc]]
+[[ky:Норвегия]]
+[[lad:Noruega]]
+[[ltg:Norvegeja]]
+[[la:Norvegia]]
+[[lv:Norvēģija]]
+[[lb:Norwegen]]
+[[lt:Norvegija]]
+[[lij:Nòrvexa]]
+[[li:Noorwege]]
+[[ln:Norvej]]
+[[jbo:noreg]]
+[[lmo:Nurvegia]]
+[[hu:Norvégia]]
+[[mk:Норвешка]]
+[[mg:Norvezy]]
+[[ml:നോർവെ]]
+[[mt:Norveġja]]
+[[mi:Nōwei]]
+[[mr:नॉर्वे]]
+[[xmf:ნორვეგია]]
+[[arz:النرويج]]
+[[ms:Norway]]
+[[mdf:Норвегие]]
+[[mn:Норвеги]]
+[[my:နော်ဝေနိုင်ငံ]]
+[[nah:Noruegia]]
+[[na:Norwei]]
+[[nl:Noorwegen]]
+[[nds-nl:Noorwegen]]
+[[ne:नर्वे]]
+[[ja:ノルウェー]]
+[[ce:Норвеги]]
+[[frr:Norweegen]]
+[[pih:Norwaii]]
+[[nn:Noreg]]
+[[nrm:Norouague]]
+[[nov:Norvegia]]
+[[oc:Norvègia]]
+[[mhr:Норвегий]]
+[[om:Norway]]
+[[uz:Norvegiya]]
+[[pnb:ناروے]]
+[[pap:Noruega]]
+[[ps:ناروې]]
+[[koi:Норвег]]
+[[pms:Norvegia]]
+[[tpi:Nowe]]
+[[nds:Norwegen]]
+[[pl:Norwegia]]
+[[pnt:Νορβηγία]]
+[[pt:Noruega]]
+[[kaa:Norvegiya]]
+[[crh:Norvegiya]]
+[[ro:Norvegia]]
+[[rmy:Norvejiya]]
+[[rm:Norvegia]]
+[[qu:Nurwiga]]
+[[ru:Норвегия]]
+[[sah:Норвегия]]
+[[se:Norga]]
+[[sa:नार्वे]]
+[[sc:Norvegia]]
+[[sco:Norawa]]
+[[stq:Norwegen]]
+[[sq:Norvegjia]]
+[[scn:Norveggia]]
+[[simple:Norway]]
+[[ss:INoweyi]]
+[[sk:Nórsko]]
+[[sl:Norveška]]
+[[cu:Норєгъ]]
+[[szl:Norwygijo]]
+[[so:Norway]]
+[[ckb:نۆرویژ]]
+[[sr:Норвешка]]
+[[sh:Norveška]]
+[[su:Norwégia]]
+[[fi:Norja]]
+[[sv:Norge]]
+[[tl:Noruwega]]
+[[ta:நோர்வே]]
+[[roa-tara:Norveggie]]
+[[tt:Норвегия]]
+[[te:నార్వే]]
+[[tet:Noruega]]
+[[th:ประเทศนอร์เวย์]]
+[[tg:Норвегия]]
+[[tr:Norveç]]
+[[tk:Norwegiýa]]
+[[udm:Норвегия]]
+[[uk:Норвегія]]
+[[ur:ناروے]]
+[[ug:نورۋېگىيە]]
+[[za:Nozveih]]
+[[vec:Norveja]]
+[[vi:Na Uy]]
+[[vo:Norgän]]
+[[fiu-vro:Norra]]
+[[wa:Norvedje]]
+[[zh-classical:挪威]]
+[[vls:Nôorweegn]]
+[[war:Noruega]]
+[[wo:Noorwees]]
+[[wuu:挪威]]
+[[ts:Norge]]
+[[yi:נארוועגיע]]
+[[yo:Nọ́rwèy]]
+[[zh-yue:挪威]]
+[[diq:Norwec]]
+[[zea:Noorwegen]]
+[[bat-smg:Nuorvegėjė]]
+[[zh:挪威]]

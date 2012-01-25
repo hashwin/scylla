@@ -1,0 +1,419 @@
+{{Inligtingskas Taal
+|naam=Afrikaans
+|inheemsenaam=
+|familiekleur=Indo-Europees
+|state={{Vlagland|Suid-Afrika}}<br/>{{Vlagland|Namibië}}<br/>{{vlag|Verenigde Koninkryk}}<br/>{{vlag|Australië}}<br/>{{vlag|Nieu-Seeland}}<br/>{{vlag|Kanada}}<br/>{{vlag|Verenigde State}}<br/>{{vlag|Republiek van Ierland}}
+|streek=[[Suider-Afrika]]
+|sprekers= omtrent 6,49 miljoen (eerste taal)<br/>10,3 miljoen (tweede of derde taal)<ref>[http://www.ethnologue.com/show_language.asp?code=afr www.ethnologue.com].</ref>
+|rang=99
+|skrif=[[Latynse alfabet]]
+|fam2=[[Germaanse tale|Germaans]]
+|fam3=[[Wes-Germaanse tale|Wes-Germaans]]
+|fam4=[[Nederfrankies]]
+|nasie={{Vlagland|Suid-Afrika}}<br />{{Vlagland|Namibië}} (erken as minderheidstaal)
+|agentskap=Die [[Taalkommissie]] van die [[Suid-Afrikaanse Akademie vir Wetenskap en Kuns]] (in Suid-Afrika)
+|iso1=af|iso2=afr|iso3=afr
+|kaart=[[Lêer:Afrikaans ETN15 Status.svg|250px|Verspreiding van Afrikaans in die wêreld]]
+}}
+
+'''Afrikaans''' is 'n [[Nederfrankies]]e taal wat weer tuishoort onder die [[Germaanse tale|Germaanse]] tale. Afrikaans is een van die jongste erkende tale. Dit is op 8 Mei 1925 as 'n amptelike taal erken, en is tans die derde jongste Germaanse taal wat amptelike status geniet, naas Faroërs (of [[Faroëes]]) wat in 1948 grondwetlik erken is en [[Luxemburgs]] (of Lëtzebuergesch) wat hierdie status in 1984 gekry het.
+
+Afrikaans is tans een van die elf amptelike tale van [[Suid-Afrika]] en daarnaas ook 'n belangrike taal van [[Namibië]]. Dit word deur ongeveer 6.4 miljoen mense as eerste taal gebruik. Afrikaans het uit 17de eeuse [[Nederlands]] ontwikkel en is meer as 95 persent van sy woordeskat van Nederlandse oorsprong. 'n Klein aantal woorde is ontleen uit tale soos [[Maleis]], [[Portugees]], [[Frans]], [[Duits]], [[Engels]] en ander Afrikatale.<ref>Sien ''Language in South Africa'' deur Rajend Mesthrie, bladsye 200 tot 206:
+* [[Maleis]]: "amper" van ''hampir'', "baadjie" van ''badju'', "baie" van ''badju'' en "piering" van ''piring'';
+* [[Khoe]]: "gogga" van ''xoxon'';
+* [[Portugees]]: "bredie" van ''bredo'', "kombers" van ''cobertas'' en "kraal" van ''curral'';
+* [[Zoeloe]]: "moetie" en afleidings daarvan soos "moetieman", "moetiemoord" en "moeitiewinkel" van die [[Zoeloe]] ''umuthi'' wat medisyne beteken.</ref><ref>Taalgeskiedenis, CJ Conradie:
+* Woordeskat uit swart-tale: donga, dagha ("klei" of "sement"), mopanie, maroela, moepel, kaboe(-mielies), tollie, mamba, tsetse(-vlieg), indaba, indoena, impie, loboloa, pasella, babalaas, haiköna, ietermagö, sakaboela, tamboekie(-gras) , kaia, marog, skokiaan, poetoe(-pap).
+* Maleis: nartjie, blatjang, bobotie, borrie, sosatie, mebos, doepa, paljas, sieal, ramkie, nonnie, nonna, kierang, pamperlang, lieplapper;
+* Portugees: froetangs, makou, bredie, tamaai, maskie;
+* [[Duits]]: strawasie, laer, werda, jaarhonderd, sweis, verfoes, werskaf, hekel;
+* [[Frans]]: pawee(-perske), sermyn(-peer), bermotsersan(-peer). Let daarop dat meeste ander Afrikaanse woorde wat van Franse afkoms is eers in Nederlands opgeneem is en daardeur in Afrikaans beland het;
+* Khoekhoens: [[boegoe]], karee, dagga, koekmakranka, kambro, kanna, [[ghaap]], noem-noem, kwagga, oorbietjie, geitjie, gogga, karos, abba, kamma, kamalielies, kamtig, kastig, hoeka, ga(ng), soe, aitsa, arrie, eina, gonna, kierie, hn'n, ghnarra, gorra, karkoer, koedoe.
+</ref> Afrikaans het op sy beurt weer 'n groot invloed uitgeoefen op Suid-Afrikaanse Engels en plaaslike swart tale en 'n aantal Afrikaanse woorde is in baie ander tale opgeneem.<ref>Rajend Mesthrie, ''Language in South Africa''</ref>
+
+Sowat een miljoen van Suid-Afrika se 6,44 miljoen Afrikaanstaliges<ref>[http://www.ethnologue.com/show_language.asp?code=afr www.ethnologue.com]</ref> is tweetalige moedertaalsprekers van Afrikaans en Engels.<ref name=louw/> Daar is groot groepe Afrikaanstaliges in lande soos [[Namibië]] (146&nbsp;000), die [[Verenigde Koninkryk]] (ongeveer 100&nbsp;000)<ref>Volgens amptelike statistiek het 140&nbsp;236 Suid-Afrikaanse burgers in 2001 in die Verenigde Koninkryk gebly, [http://www.statssa.gov.za/PublicationsHTML/Report-03-51-032003/html/Report-03-51-032003_12.html ''Statistics South Afica - Comparative Assessment of Data on Self-Declared Emigration, 2002 Update'']</ref>, [[Nieu-Seeland]] (21&nbsp;000 in 2006)<ref>[http://www.stats.govt.nz/census/2006-census-data/quickstats-about-culture-identity/quickstats-about-culture-and-identity.htm?page=para011Master ''Statistics New Zealand - QuickStats about Culture and Identity'']</ref>, [[Botswana]] (20&nbsp;000), [[Australië]] (13&nbsp;000), en [[Kanada]] (2&nbsp;400 volgens die sensus van 1974; die aantal Suid-Afrikaanse immigrante beloop tans egter meer as 60&nbsp;000).<ref name=louw>[http://www.geocities.com/TheTropics/8240/afrikaan.htm ''Gerhard Louw: Afrikaans'']</ref>
+
+== Klassifikasie ==
+[[Lêer:Niederfränkisches Sprachgebiet.PNG|thumb|Nederfrankiese taalgebied in Europa.]]
+*[[Indo-Europese tale|Indo-Europees]]
+**[[Germaanse tale|Germaans]]
+***[[Wes-Germaanse tale|Wes-Germaans]]
+****[[Nederduits]]
+*****[[Nederfrankies]]
+******[[Nederlands]]
+*******Afrikaans
+
+Afrikaans is 'n [[Indo-Europees|Indo-Europese taal]] wat aan die [[Wes-Germaanse tale|Wes-Germaanse]] tak van die [[Germaanse tale]] behoort. Afrikaans behoort saam met [[Nederlands]] aan die [[Nederfrankies]]e taalgroep wat van [[Oudnederlands]] afstam. Nederfrankiese verskeidenhede word in [[Europa]] in [[Nederland]], die noorde van [[België]], [[Frans-Vlaandere]] in [[Frankryk]] en die [[Duitsland|Duitse]] gebied langs die [[Ryn]] tussen [[Keulen]] en die grens tussen Duitsland en Nederland gepraat. Buite Europa word Nederfrankiese verskeidenhede in [[Suid-Afrika]], [[Namibië]], [[Suriname]] en die Nederlandse eilande in die Karibiese See gepraat.
+
+Die Nederfrankiese verskeidenhede word saam met [[Nedersaksies]] onder [[Nederduits]] gegroepeer. Daar het 'n skeiding gekom tussen Nederduits en Hoogduits vanweë die [[Hoogduitse klankverskuiwing]].<ref>Glück, H. (ed.): ''Metzler Lexikon Sprache'', pages 472, 473. Stuttgart, Weimar: Metzler, 2000 (entries ''niederdeutsch'' and ''niederfränkisch'')</ref>
+
+== Geskiedenis ==
+:Sien Hoofartikel: [[Geskiedenis van Afrikaans]].
+=== Ontstaan van die Afrikaanse omgangsvariëteite ===
+[[Lêer:Ned taal monument.JPG|thumb|Die [[Eerste Taalmonument]] in [[Burgersdorp]] ([[Oos-Kaap]]) versinnebeeld die erkenning van [[Nederlands]] as amptelike taal in die [[Kaapkolonie]].]]
+[[Lêer:AfrikaanseTaalmonumentObelisks.jpg|thumb|Die [[Afrikaanse Taalmonument]] in [[Paarl]] ([[Wes-Kaap]]) versinnebeeld ook die invloed van ander tale by die ontstaan van Afrikaans.]]
+
+Teen die middel van die [[17de eeu]] het Europeërs hulle gevestig aan die Kaap. Op taalgebied sou hier 'n proses afspeel wat in alle Nuwe Wêreldlande afgespeel het, waar mense van verskillende tale en kulture vermeng het. Nuwe omgangsvariëteite sou ontstaan. Aan die Kaap sou ook taalontwikkelinge wat latent in [[Nederlands]] aanwesig was tot ontplooiing kom)<ref>Raidt, Edith H.: ''Afrikaans en sy Europese Verlede''. Kaapstad: Nasou Beperk 1991, bl. 230</ref>, (soos die sinkopee van die intervokaliese -d- en -g- (byvoorbeeld: sadel > saal en regen > reën).
+
+By die ontwikkeling van sommige Afrikaans-Hollandse omgangsvariëteite was die invloed van vreemde tale gering, maar ander variëteite het 'n [[kreooltaal|kreoliseringsproses]] ondergaan, byvoorbeeld Hottentot-Hollands en Slawe-Hollands. Alle vreemdelinge aan die Kaap het Nederlands egter eie probeer maak. Veral ander Europeërs is binne 'n relatief kort tydperk geassimileer. Die nuwe omgangsvariëteite word wel gekenmerk deur 'n eenvoudiger taalkode. Hierdie proses was egter nie alleen tot die Kaap beperk nie. In [[Brasilië]] sou in dieselfde tyd 'n omgangsvariëteit ontstaan het wat grammatikaal eenvoudiger is as Europese [[Portugees]]. Ook in [[Quebec]] sou 'n omgangsvariëteit ontstaan wat grammatikaal eenvoudiger is as Europese [[Frans]]. 
+
+As gevolg van die Europese [[volksverhuising]], verhuis [[Friese]], [[Angele]], [[Sakse]] en [[Jutte]] van die Europese vasteland na die Britse eilande waar hierdie Germaanse immigrante vermeng met die Britse [[Kelte]]. Tussen 800 en 1100 sou ook [[Wikings]] of Vikinge hulle vestig op die Britse Eilande. Die nuwe Germaanse taal wat hier ontwikkel het en later as Engels (afkomstig van Angele) bekend sou staan, is ook grammatikaal eenvoudiger as die Germaanse tale van die Europese vasteland.
+
+As gevolg van die grootskaalse taal- en kultuurvermenging in Amerika, sou dáár ook nuwe omgangsvariëteite ontstaan het wat grammatikaal eenvoudiger is as Standaardengels. Die bekendste voorbeeld hiervan is [[Negerengels]].
+
+Die Nederlandse omgansvariëteite aan die Kaap tussen 1652 en omstreeks 1800 is selde op skrif gesit, wat beteken dat ons vandag nie presies weet hoe hierdie variëteite gelyk het nie.<ref>Raidt, Edith H.: Afrikaans en sy Europese Verlede. Derde hersiene en uitgebreide uitgawe. Kaapstad: Nasou 1991, bl. 171</ref> Teen omstreeks 1800 is die volgende omgangsvariëteite aan die Kaap gepraat, naamlik:
+:1) Suiwer Nederlands;
+:2) Burger Afrikaans of Kaaps-Hollands, soos gebruik deur die aristokrasie;
+:3) Boere-Afrikaans, veral op die platteland;
+:4) Hottentot-Hollands (of Hottentot-Afrikaans);
+:5) Slawe-Afrikaans;
+:6) Vreemdeling-Afrikaans.<ref>van der Merwe H.J.J.M.: Herkoms en Ontwikkeling van Afrikaans. Afrikaanse Pers-Boekhandel: Johannesburg 1970, bl. 69</ref>
+
+Die skywer [[A.N.E. Changuion]] vermeld dat in 1844 die volgende variëteite aan die Kaap gepraat was, naamlik:
+:1) Suiwer Nederlands;
+:2) Hoog-Hollands, soos gebruik in die gegoede burgerlike kringe aan die Kaap;
+:3) Plat-Kaaps van ander blankes en Engelse;
+:4) Plat-Kaaps van die Hottentotte en ander 'gepeupel'.<ref>Changuion, A.N.E.: De Nederduitsche Taal in Zuid-Afrika Hersteld. Kaapstad: Richert Pike 1844</ref>
+
+In 1875 was [[S.J. du Toit]] van mening dat daar drie soorte Afrikaans gepraat was aan die Kaap en dit was volgens hom:
+:1) Heere-Afrikaans;
+:2) Boere-Afrikaans;
+:3) Hottentot-Afrikaans.<ref>E.H. Raidt: Taalvariasie in Negentiende-Eeuse Afrikaans. Tydskrif vir Geesteswetenskappe, jaargang 32(4), 240-256, bl. 241</ref>
+
+S.J. du Toit was van mening dat die 'regte' inwoners van Suid-Afrika, Boere-Afrikaners was en het hy Boere-Afrikaans beskou as die model waarop Standaardafrikaans geskoei moes word.
+
+=== Standaardisering en ontwikkeling van Afrikaans as kultuurtaal ===
+
+Aan die Kaap is verskillende Afrikaans-Hollandse omgangsvariëteite gepraat met Nederlands as oorkoepelende kultuurtaal. Nederlands was die algemeen aanvaarde kultuurtaal en het gedien as skryftaal, bestuurstaal, kerktaal en die taal van die onderwys. In [[1806]] het die Kaapkolonie vir die tweede keer in Britse hande geval waarna Engels aan 'n kragtige opmars begin het. Onder Engelse bestuur is die gebruik van Afrikaans-Nederlands ontmoedig.
+
+In 1854 het die Oranje Vrystaat Nederlands aanvaar as amptelike taal. In 1882 is Nederlands erken as amptelike taal in die Kaap naas Engels. In [[1888]] is Nederlands erken as amptelike taal in die Transvaalse Republiek (ZAR). Om die erkenning van Nederlands as amptelike taal in die Kaapse parlement te herdenk, is te  Burgersdorp die [[Eerste Taalmonument]] opgerig in [[1893]]. Aan die einde van die 19de eeu was daar mense wat van mening was dat Afrikaans (veral Boere-Afrikaans) meer erkenning moes geniet en het hulle voorspraak begin maak vir 'n eie inheemse taal: Afrikaans. In die Nederlandstalige pers is toe soms briewe en artikels geplaas in Afrikaans.
+
+Ook het die Kaapse Maleiers begin om Afrikaans-Nederlands naas Arabies te gebruik in hulle godsdiensgeoefening. Die Maleiers het onder andere Afrikaans-Nederlands geskryf maar in die Arabiese alfabet.
+
+== Die Afrikaanse Taalbeweging ==
+[[Lêer:Afrikaanse Patriot.jpg|thumb|Die Afrikaanse Patriot uitgegee in 1876.]]
+Die eerste- en tweede [[Afrikaanse Taalbeweging]] het veral die [[Amerikaanse Taalbeweging]] en ook die [[Vlaamse Taalbeweging]] as voorbeelde beskou. In die VSA het [[Noah Webster]] gepleit vir 'n eie inheemse Amerikaanse taal in die plek Engels. Ook in Vlaandere, Brasilië, Noorweë en Quebec het stemme opgegaan vir 'n eie inheemse taal. Hierdie taalbewegings was deur nasionalisme aangevuur. Die [[Vlaamse Taalbeweging]], die [[Brasiliaanse Taalbeweging]], die [[Amerikaanse Taalbeweging]] en die [[Quebecse Taalbeweging]] het op 'n mislukking uitgeloop. Die [[Noorse Taalbeweging]] was wel aanvanklik 'n sukses, maar is tans besig om te misluk. Alleen die [[Afrikaanse Taalbeweging]] was volledig suksesvol in die vestiging van 'n ''nuwe kultuurtaal''. Die motivering en doelstellings van al hierdie taalbewegings was dieselfde.
+
+Die eerste Afrikaanse taalbeweging neem 'n aanvang in 1875 met die stigting van die GRA of die [[Genootskap van Regte Afrikaners]] in die Paarl. Die doelstellings van die '''GRA''' is egter deur die meeste Kapenaars verwerp. Nederlands was beskou as die algemene aanvaarde kultuurtaal. Dit was die formele skryftaal, kerktaal, bestuursaal, onderwystaal en die taal van die pers. Nederlands het hoë aansien geniet en is as 'n deftige statustaal beskou. Afrikaans was beskou as 'n taal wat die stempel van onkunde dra. Hoofregter J.H. de Villiers was in 1876 van mening dat 'n Afrikaanse Bybel, soos voorgestaan deur die Patriotmanne, onvanpas was, omdat die Afrikanerbevolking Nederlands in elk geval verstaan.<ref>A. de Villiers: Die Hollandse Taalbeweging in Suid-Afrika, Kaapstad, 1936, bl.97</ref> Dieselfde regter was al op 13 Mei 1875 in Kaapstad van mening dat as dit die bedoeling is van die GRA en Patriotmanne om Nederlands te vervang met Afrikaans, dit later sal blyk 'n groot "misslag" te wees en die beweging uiteindelik 'n mislukking sal word omdat die bevolkingsgrootte van die Afrikaners te klein is.<ref>A. de Villiers: Die Hollandse Taalbeweging in Suid-Afrika, Kaapstad, 1936, bl.36</ref>
+
+Artikels in die Nederlandstalige pers het neerhalend na Afrikaans verwys. In ''De Zuid-Afrikaan'' is na Afrikaans verwys as 'n "''corruptie''", "''een mengelmoes van onzin en dwaasheid''", wat niks anders sou wees as "''een caricatuur van de gemeene wijze waarop die Mozambiekers op onze straten spreken en n.b. meestal geschreven wordt door uitlanders, die noch ons volk, noch ons land kennen''".<ref>Van Rensburg (1997), bl. 44</ref> ''Di Afrikaanse Patriot'', mondstuk van die GRA, is as 'n"''vod''", 'n "''Prulblad''", "'''n Hottentot Courant''" beskryf.
+
+Die meeste Afrikaners in die tyd, het Afrikaans egter as 'n uiters inferieure taalvorm beskou. Vir hulle was dit 'n taal sonder grammatika; 'n Hottentotstaal; 'n wartaal; 'n mengelmoes vol onsin en dwaashede en 'n taal wat by skaapkrale en in die kombuis hoort.
+
+=== Afrikaans en nasionalisme ===
+
+Die [[erkenning van Afrikaans]] as amptelike taal, naas Engels, vind plaas in 1925. Volgens wet 9 van 1925 is Afrikaans toe aan Nederlands gelykgestel, maar in die praktyk het die ondersteuners van [[D.F. Malan]] Nederlands op 'n despotiese manier met Afrikaans vervang.<ref>J.J. le Roux: Handleiding in het Afrikaans voor Nederlanders. Amsterdam: S.L. van Looy. 1921. bl. 4.</ref>
+ 
+Afrikaans het sinoniem geword met [[nasionalisme]]. Afrikaans as kultuurtaal is beskou as die produk van nasionalisme;<ref>F.A. Ponelis: "Standaardafrikaans in oorgang." V.N. Webb (red.), Afrikaans ná Apartheid. Pretoria. J.L. van Schaik. 1992, bl.69-90.</ref> of as 'n uitingsvorm van nasionalisme.<ref>J.du P. Scholtz: Wording en Ontwikkeling van Afrikaans. Kaapstad: Tafelberg uitgewers. 1980. bl. 9.</ref> Die Afrikaners het immers oor 'n reeds gevestigde kultuurtaal beskik (Nederlands) wat doelbewus vervang moes word met 'n ander kultuurtaal (Afrikaans).
+
+Die ondersteuners van D.F. Malan wou nie alleen 'n wig inslaan tussen Afrikaans en Nederlands nie, maar ook 'n wig tussen die Afrikaners en die Kleurlinge. [[J.B.M. Hertzog]] het juis gewaarsku dat Malan die verkeerde pad volg. Vir Hertzog was Nederlands die kultuurtaal van die Afrikaner en het Hertzog die Kleurlinggemeenskap ook beskou as deel van die Afrikaners. Malan het gewen. Hy het die kleurlinge tot nie-blankes laat verklaar en hulle uit 'blanke' dorpe en stede laat verwyder. Uiteindelik het juis hierdie rassisme die taal skade berokken. Afrikaans het 'apartheidstaal' geword, 'n simbool van die onderdrukking van die gekleurde helfte van sy eie sprekers.
+
+Met sy nuwe funksie as amptelike taal het die woordeskat van Afrikaans in die [[20ste eeu]] grootskaals uitgebrei, en intussen het meer as 200 Afrikaanse vakwoordeboeke verskyn. Om die taal, wat oorspronklik 'n eenvoudige kommunikasiemiddel en omgangstaal was, te kon uitbou as 'n medium vir die onderwys, administrasie, literatuur, kunste en wetenskappe, is dikwels na Nederlandse terme teruggegryp om [[neologisme]]s te vorm. Die verskillende Afrikaanse vaktale het intussen ook die internasionale woordeskat, wat op hulle gebiede gebruiklik is, oorgeneem.
+
+=== Afrikaans na 1994 ===
+Die grondwet van [[1909]] het bepaal dat Nederlands en Engels die amptelike tale van die land was. In [[1925]] is Afrikaans aan Nederlands gelykgestel. Die grondwet van [[1961]] het Afrikaans en Engels as amptelike tale erken, maar bevestig dat Afrikaans en Nederlands sinonieme was. Volgens die grondwet van [[1983]] was slegs Afrikaans en Engels die amptelike tale van die land. Die grondwet van [[1996]] het elf amptelike tale erken waarvan Afrikaans een is.
+
+Die aftakeling van Afrikaans as 'n volwaardige ampstaal in Suid-Afrika het in die afgelope jare tot groot paniek gelei. Regeringsinstellings en privaat maatskappye gee om verskillende redes dikwels die voorkeur aan Engels. Die mening het begin posvat dat Engels, as wêreldtaal, 'n meer geskikte taal vir onderwys en internasionale kommunikasie is. 
+
+Hierdie beskouing is in stryd met die teenswoordige ontwikkeling in baie lande, waar streektale - as 'n soort reaksie op die toenemende [[globalisering]]stendense en die dreigende verlies van kulturele identiteit - begin herleef. Afrikaans toon in sy huidige situasie baie ooreenkomste met Europese streektale en beskik oor dieselfde potensiaal om in sy hoofsaaklike taalgebiede - die weste van Suid-Afrika en die suide van Namibië - 'n funksie as enigste amps- en wetenskapstaal te kan vervul. Daar is talle voorbeelde van ander lande, waar 'n konsekwente taalbeleid ten gunste van kleiner tale suksesvol ingestel is. Die [[Kanada|Kanadese]] provinsie [[Québec (provinsie)|Québec]] het 'n eentalige Franse gebied in [[Noord-Amerika]] geword, ondanks die ekonomiese druk wat vanuit die Engelse omgewing uitgaan. In Katalonië, die historiese nywerheidsentrum van [[Spanje]], het die plaaslike [[Katalaans]] [[Spaans]] volledig verdring uit die openbare lewe, en selfs die tersiêre onderwys het Katalaans as enigste voertaal aanvaar. In [[Luxemburg]] word 't [[Luxemburgs (taal)|Luxemburgs]] (wat eintlik 'n vorm van [[Moeselfrankies]] is) as amptelike taal erken naas Frans en Duits. 
+
+In die geval van Afrikaans bly die letterkunde en die kultuurlewe 'n waarborg vir die voortbestaan van Afrikaans. Afrikaanse koerante en tydskrifte is net so suksesvol soos privaat televisiekanale, wat op die Afrikaanse mark gemik is. In die suidelike helfte van Namibië is Afrikaans die belangrikste huis- en omgangstaal, en ook die grootste [[koerant]] van die land, ''Die Republikein'', verskyn in Afrikaans.
+
+Uit die skatting van 2007 blyk dat Engels (as onderrigtaal) nie 'n groot invloed uitoefen op Afrikaanssprekende kinders se huistaalgebruik nie. Dit blyk verder ook dat baie minder bruin Afrikaanssprekers na Engels oorskakel, as wat aanvanklik vermoed was. Dieselfde gebeur in Namibië. Alhoewel Engels sedert 1990 die amptelike taal in Namibië is en die onderwystaal slegs Engels is, groei die aantal Afrikaanssprekendes.{{feit}}
+
+== Huidige verspreiding ==
+=== Afrikaans in Suider-Afrika ===
+[[Lêer:South Africa Afrikaans speakers proportion map.svg|thumb|Suid-Afrikaanse provinsies met 'n meerderheid van Afrikaanstaliges. Daar is ook groot Afrikaanse gemeenskappe in die ander provinsies.]]
+[[Lêer:South Africa 2001 Afrikaans speakers density map.svg|thumb|Geografiese verspreiding van Afrikaans in Suid-Afrika ná bevolkingsdigtheid per vierkante kilometer in 2001.]]
+[[Lêer:Distribution of Afrikaans in Namibia.png|thumb|Verspreiding van Afrikaans in Namibië.]]
+[[Lêer:Afrikaans ETN15 Spread.svg|thumb|Hoofverspreiding van Afrikaans.]]
+
+Daar is onlangs nuwe skattings (gegrond op ''SA Satistics 2010 mid-year estimates'') uitgereik wat toon dat Afrikaans as huistaal oor die afgelope drie jaar veranderinge ondergaan het. Die getal van mense wat Afrikaans by die huis gebruik het van omtrent 6,44 miljoen in 2007 tot omtrent 6,49 miljoen in 2010 gestyg (alles insluitende Namibië). 
+
+Wat verrassend hierby mag wees is dat die syfer van swart Afrikaanssprekendes gestyg het van omtrent 0,24 miljoen in 2007 tot 0,29 miljoen in 2010. As redes daarvoor word onder meer die bevolkingsgroei in Namibië asook in die Vrystaat en die noordelike deel van Suid-Afrika vermoed waar Afrikaans die meesgebruikte taal onder werkers in die landbou is wat sodoende die taal ook by die huis gebruik. 
+
+Verder kan ook vasgestel word dat Afrikaanse huishoudings toenemend na "dubbelmedium" oorskakel wat beteken dat Engels asook afrikaans gebruik word. Die getal wit afrikaanssprekendes het effens verhoog, terwyl die persentasie bruin Afrikaanssprekendes stadig maar seker daal.  Volgens 2007 se ''Community Survey'' word  geskat dat daar omtrent 6,44 miljoen Suid-Afrikaners Afrikaans as huistaal gebruik het (Blankes: 2,76 miljoen - insluitende Namibië, Bruin: 3,44 Miljoen - insluitende Namibië, Swart: 0,24 Miljoen (uitsluitende Namibië), Indiërs: minder as 10&nbsp;000). 
+
+Benewens blanke en bruin Afrikaanssprekendes word Afrikaans deur die meeste etniese groepe in Suid-Afrika as 'n tweede (of selfs derde) taal gepraat. Die westelike Suid-Afrika (met die provinsies Noord- en Wes-Kaap en die westelike gebiede van die Vrystaat) is tans 'n oorwegend Afrikaanstalige gebied; 'n groot persentasie van Afrikaanses in die gebied is Kleurlinge. 
+
+In die oostelike Suid-Afrika is daar stedelike konsentrasies van veral blanke Afrikaanssprekers in [[Pretoria]], [[Bloemfontein]], [[Vereeniging]], [[Welkom]], [[Potchefstroom]], [[Klerksdorp]], [[Kemptonpark]], [[Pietersburg]], [[Nelspruit]], [[Witbank]] en [[Krugersdorp]]. In [[Namibië]] is daar ongeveer 146&nbsp;000 sprekers. Afrikaans word daar erken as nasionale taal, maar die enigste amptelike taal is sedert onafhanklikheid in [[1989]] [[Engels]]. Volgens skattings is daar tot twintig miljoen mense wêreldwyd wat Afrikaans as moeder-, tweede of derde taal kan praat.
+
+===Afrikaans as Afrikataal===
+Hoewel Afrikaans as 'n Germaanse taal geklassifiseer word, kan dit op grond van ruimtelike gebruik as 'n Afrikataal bestempel word. In Afrika word daar 'n reeks tale gepraat, wat nie aan mekaar verwant is nie. In die sin kan enige ''taal van Afrika'' as sinoniem met ''Afrikataal'' beskou word. 
+Verdere redes sluit in<ref>Ponelis, F.A. : "Inleiding tot die Afrikaanse taalkunde." Botha/Ponelis/Combrink/Odendal (Reds.), Ruimtelike klassifikasie. Kaapstad. Academica. 1989, bl.26-27.</ref>:
+* Die taal dra die naam van die vasteland.
+* Gedurende sy ontwikkeling het Afrikaans redelik baie woorde uit ander Afrikatale, soos Khoekhoens en die swart tale, ontleen.
+* Die taalgemeenskap het in Afrika die lig gesien en is merendeels tot Afrika beperk. Die sprekers van Maleis, Nederlands, Frans, Hoogduits, Platduits en Portugees, wat vanuit ander wêrelddele afkomstig is, het aan die Kaap 'n nuwe, oorspronklike taalgemeenskap, naamlik dié van Afrikaans geskep.
+* Daar is Afrikane wat Afrikaans magtig is. 
+
+Omrede die [[Taalkommissie]], wat die Afrikaanse taal reguleer, se hoofkwartier fisies op die Afrika-vasteland gestasioneer is (vergelyk [[Nederlandse Taalunie]], wat die Nederlandse taal reguleer, in [[Den Haag]]), kan dit ook as aanduiding dien dat Afrikaans 'n Afrikataal is.
+
+=== Afrikaans in die res van die wêreld ===
+Met die einde van die amptelike beleid van rasseskeiding het die internasionale belangstelling in Suid-Afrika duidelik toegeneem, en kulturele bande met Nederland{{feit}} en Vlaandere{{feit}} is versterk. 'n Aantal universiteite in die buiteland, onder meer [[Gent]] in [[België]], [[Keulen]] en [[Göttingen]] in [[Duitsland]] en [[Wene]] in [[Oostenryk]], het Afrikaans as 'n taalvak binne die verband van die Neerlandistiek ingevoer. Die Adam Mickiewicz-universiteit in [[Poznań]], [[Pole]] se Insituut vir Engelse Filologie het 'n Departement van Nederlands en Suid-Afrikaanse Studies<ref>[http://ifa.amu.edu.pl/fa/Department_of_Dutch_and_South_African_Studies ''UAM - Department of Dutch and South African Studies'']</ref> en bied ook spesialisasie in Suid-Afrika en Afrikaans aan.<ref>[http://ifa.amu.edu.pl/dutchafrikaans/afrikaans/index.html UAM/IFA - Suid-Afrikaanse Spesialisasie]</ref>
+
+Skole vir sekondêre onderwys in [[Nederland]] kan kies om Afrikaans as 'n deel van die vak ''Nederlands'' te onderwys. Die ontwikkeling en [[geskiedenis van Afrikaans]] is 'n verpligte deel van die vak ''Literatuurgekiedenis'' (as 'n deel van die geskiedenis van die Nederlandse taal in Suid-Afrika).
+
+Suid-Afrikaanse emigrante het in baie oorsese lande Afrikaanse gemeentes, klubs en ander instellings gestig, en tans is daar enkele honderdduisend sprekers van Afrikaans in die buiteland. In Julie 2008 is die eerste Afrikaanse radioprogram, OppieStasie, in Australië deur Erika von Kaschke (nee Jooste) op die gemeenskapsradiostasie, begin.<ref>[http://www.radiofremantle.com Radio Fremantle 107.9FM]</ref> Die program, wat Afrikaanse musiek speel en inligting aan nuwe immigrante verskaf, word elke Sondag vanaf 15:30 tot 16:30 (Wes-Australiese tyd) uitgesaai.
+
+== Die woordeskat van Afrikaans ==
+
+Met insluiting van komposita het die woordeskat van Afrikaans tussen 1900 en die laat 20ste eeu gegroei van slegs 50&nbsp;000 tot 'n driekwart miljoen woorde.<ref>Raidt (1991), bl. 177</ref> Saam met die uitbou van Afrikaans tot 'n volwaardige moderne amps- en wetenskapstaal is dus honderdduisende nuwe woorde by die oorspronklike kernwoordeskat, wat van Nederlands oorgeërf is, gevoeg. Alhoewel Afrikaans in leksikale opsig grotendeels sy Nederlandse wortels bewaar het, is daar nogtans net soos in ander gevalle waar 'n Europese taal na 'n nuwe oorsese omgewing oorgeplant is, 'n aantal belangrike afwykings van moderne Nederlands.
+
+=== Ou Nederlandse woorde ===
+Net soos Amerikaanse Engels baie woorde van 17de en 18de eeuse Engels bewaar het wat in moderne Britse Engels uitgesterf het (soos ''fall'' wat in Engeland deur die Latynse ''autumn'' vervang is), het sommige ou Nederlandse woorde, wat in die moderne Nederlandse standaardtaal nie meer gebruiklik is nie, in Kaaps-Nederlands bly voortleef:
+
+{| border="0" cellpadding="3" cellspacing="3" style="margin-left:1em"
+! '''KAAPS-NEDERLANDS / AFRIKAANS'''
+! '''ALGEMEEN NEDERLANDS (AN)'''
+|---- |- bgcolor="gainsboro"
+| '''bloeisel'''
+| '''bloesem'''
+|---- |- bgcolor="gainsboro"
+| '''fontein'''
+| '''bron/fontein'''
+|---- |- bgcolor="gainsboro"
+| '''plaas'''
+| '''boerderij, hofstede, hoeve'''
+|---- |- bgcolor="gainsboro"
+| ''''navorsing'''
+| '''onderzoek'''
+|---- |- bgcolor="gainsboro"
+| '''party'''
+| '''enige, menige'''
+|---- |- bgcolor="gainsboro"
+| '''ystervark'''
+| '''stekelvarken'''
+|}
+
+=== Dialektiese woorde ===
+Alhoewel die destydse, veral Suid-Nederlandse standaardtaal van VOC-amptenare aanvanklik die meeste hoë funksies aan die Kaap vervul het, het Afrikaans-Nederlandse omgangsvariëteite uit die Nederlandse dialekte ontwikkel. Sommige woorde uit die Nederlandse dialekte, wat in Nederland en Vlaandere nie in die huidige woordeskat van die standaardtaal opgeneem is nie, is wél opgeneem in die Kaaps-Nederlandse en Afrikaanse leksikon:
+
+{| border="0" cellpadding="3" cellspacing="3" style="margin-left:1em"
+! '''KAAPS-NEDERLANDS / AFRIKAANS'''
+! '''ALGEMEEN NEDERLANDS (AN)'''
+|---- |- bgcolor="gainsboro"
+| '''bees'''
+| '''rund''' (cfr. beest)
+|---- |- bgcolor="gainsboro"
+| '''vark'''
+| '''zwijn, varken'''
+|---- |- bgcolor="gainsboro"
+| '''vat'''
+| '''nemen''' (cfr. vatten)
+|---- |- bgcolor="gainsboro"
+| '''spog'''
+| '''pochen'''
+|---- |- bgcolor="gainsboro"
+| '''kuier ('n besoek aflê)'''
+| '''kuieren (op je gemak wandelen)'''
+|}
+
+Die Afrikaanse woorde ''boetie'' en ''boeta'' het hulle oorsprong heel waarskynlik in Nederlandse dialekvorme soos ''beut'' en ''boetje''.<ref>Scholtz, J. du P.: ''Afrikaans uit die vroeë tyd''. Kaapstad: Nasou Beperk 1965, bl. 97</ref>
+
+=== Woorde met veranderde betekenis ===
+Net soos in ander oorsese gebiede het Europese setlaars ook aan die Kaap begin om met bekende woorde uit hul beskaafde en dialektiese Nederlands na nuwe diere, plante en ander dinge te verwys mits hulle ten minste 'n sekere ooreenkoms met Europese spesies en natuurverskynsels getoon het. Sodoende het 'n aantal Nederlandse woorde in 'n nuwe konteks en omgewing ook 'n ander betekenis gekry.
+
+'n Groter aantal voorbeelde kom uit die landboutaal. 'n ''Dam'' is in Nederland steeds 'n wal, terwyl dit in Afrikaans ook na die water kan verwys wat deur die damwal ingehou word. Afrikaanssprekendes kan byvoorbeeld sê dat hulle ''in die dam gaan swem'', en bedoel dan die ''damwater''. Die Suid-Afrikaanse taalkundige [[S.P.E. Boshoff]] het hierdie oorgang na 'n nuwe betekenis aan die verskil van bodem tussen die waterryke Nederland en die droë, dor klimaat van Suid-Afrika toegeskryf, alhoewel die ''Dagregister'' van [[Jan van Riebeeck]], die eerste Nederlandse goewerneur aan die Kaap, volgens J. du P. Scholtz ook bewys lewer dat die betekenisverskuiwing al in die Nederlandse omgangstaal aan die gang was.<ref>Raidt (1991), bl. 180</ref>
+
+''Pad'' het in Afrikaans 'n ruimer betekenis gekry as in Nederlands waar dit slegs na 'n weg verwys wat deur die voetstappe van mense of diere gemaak is. In Suid-Afrika het dit ook 'n sinoniem vir 'n geasfalteerde verkeersweg geword, en reeds in die 18de eeu het afleidings soos ''padmaker'' in die Kaapse taal voorgekom wat na 'n opsigter verwys het wat vir die instandhouding van 'n pad verantwoordelik was.<ref>Raidt (1991), bl. 181</ref>
+
+''Vlei'' - wat uit ''vallei'' ontstaan het - het naas "dal tussen twee bergreekse" spesifiek Kaapse betekenisse gekry soos "moerassige laagte tussen berge" en "duinmeer". 18de en 19de eeuse reisigers het reeds na hierdie taalgebruik verwys.<ref>Raidt (1991), bl. 181</ref>
+
+''Dalk'' - wat uit ''dadelik'' saamgetrek is - het selfs 'n verandering ten opsigte van sy woordsoort ondergaan. Terwyl ''dadelik'' 'n bywoord van tyd is ("onmiddellik, gou"), word ''dalk'' in Afrikaans as 'n bywoord met modale funksie gebruik en is 'n sinoniem vir "miskien, moontlik". Die oudste dokumente, waarin die Kaaps-Nederlandse ''dalk'' voorkom, dateer uit die jare 1787 en 1789.<ref>Raidt (1991), bl. 182</ref>
+
+=== Verengelsing ===
+
+Ná die einde van die [[Tweede Vryheidsoorlog]] het groot getalle Afrikaners begin verstedelik. Die Witwatersrand was 'n groot trekpleister, maar ook hoofsaaklik Engelssprekend. Honderde duisende Afrikaners het in hierdie stede verengels.
+
+In die twintigerjare is die eerste Afrikaanse hoërskole aan die Rand gestig en Afrikaners is aangemoedig om hulle eie taal met trots te gebruik. Dit was in 'n poging om die verengelsing teë te gaan. Aanvanklik was dit ook 'n groot sukses. Daar is begin om ook [[Anglisisme]]s aktief uit Afrikaans te weer. Sedert die negentigerjare swaai die gety egter weer ten gunste van Engels.
+
+Engels druk deurgaans 'n swaar stempel af op Afrikaans. Beide die Afrikaanse leksikon en sintaksis ervaar 'n sterk Engelse invloed. Baie Afrikaanse ouers het begin om hulle kinders na Engelstalige skole te stuur. Baie Afrikaanse ouers praat wel nog onderling Afrikaans met mekaar, maar Engels met hulle kinders.
+
+== Spelwyse ==
+In die verlede is verskillende spelvorme vir Afrikaans gebruik, byvoorbeeld die Patriotspelling van die GRA en die [[getoelies]] van die Kaapse Moslemgemeenskap, wat albei van 'n vereenvoudigde en vernieude spelling gebruik gemaak het.
+
+Sedert [[1914]] is die [[Taalkommissie]] van die [[Suid-Afrikaanse Akademie vir Wetenskap en Kuns]] verantwoordelik vir die normalisering van Afrikaans. Die spelreëls van die Taalkommissie word gepubliseer in die [[Afrikaanse woordelys en spelreëls]].
+
+Die rede vir die invoering van 'n Afrikaanse spelling word wel bevraagteken. Aanvanklik is beweer dat in Afrikaans die skrifbeeld die gesproke beeld moet volg - ''ons skryf soos ons praat''. Sommige het egter gemeen dat die Afrikaanse spelling nie sodanig ingevoer is om die spreektaal te volg nie, maar om die 'twee tale' te skei. Die gewysigde skrifbeeld moes die skeiding vergestalt. Vele Afrikaanse en Nederlandse woorde word immers op dieselfde manier uitgespreek, byvoorbeeld: ''richting, rigting; provincie, provinsie; nationaal, nasionaal; rover, rower; vrouw, vrou; ens''. <!-- Die punt kan egter gemaak word dat die spellings van bv. "nationaal", en "rover" nie foneties is nie, en dus nie "skryf soos ons praat" volg nie -->
+
+Nogtans het die Taalkommissie die spelling gewysig. 
+
+In [[1925]] is die [[Roeland Anthonie Kollewijn|Kollewijn]] spelling, wat in [[1891]] ontwerp is, as die spelling vir Afrikaans in Suid-Afrika aanvaar. Hierdie spelling was 'n vereenvoudiging van die moeilike Nederlandse spelling. ''Russisch'' moet nou ''Russies'' word en ''moeilijk'' ''moeilik''. Dit was 'n meer fonetiese spelling gebaseer op die skryf hoe jy praat manier. Hierdie spelling was in sekere gemeenskappe, veral in [[Vlaandere]] en in Suid-Afrika in gebruik geneem, maar nie amptelik aanvaar nie.
+
+== Woordeboek van die Afrikaanse Taal ==
+
+Die [[Woordeboek van die Afrikaanse Taal]], algemeen bekend as die WAT, is die grootste verklarende Afrikaanse woordeboek.  As omvattende verklarende woordeboek probeer dit om Afrikaans in sy wydste omvang te weerspieël.  Afrikaans in al sy verskyningsvorme, nl. standaardtaal, streektaal, geselstaal en die verskillende variëteite van Afrikaans soos [[Namakwaland]]s en Kaaps word in die WAT opgeneem.  Dertien dele is reeds gepubliseer. Die dertiende deel, wat die letter R bevat, het in 2009 verskyn.  Dit is ook op CD en op die internet beskikbaar.
+
+== Streeksdialekte ==
+* [[Kaapse Afrikaans]]
+* [[Oorlams]]
+* [[Oosgrens-Afrikaans]]
+* [[Oranjerivier-Afrikaans]]
+
+== Sien ook ==
+* [[Tale in Suid-Afrika]]
+* [[Afrikaanssprekende bevolking in Suid-Afrika]]
+* [[Afrikaanse Woordelys en Spelreëls]] (AWS)
+* [[Afrikaanse letterkunde]]
+* [[Verskille tussen Afrikaans en Nederlands]]
+
+== Verwysings ==
+{{Verwysings|2}}
+
+== Eksterne skakels ==
+{{CommonsKategorie}}
+=== Algemene inligting ===
+* [http://www.omniglot.com/writing/afrikaans.htm Omniglot-arikel oor Afrikaans]
+* [http://www.ethnologue.com/14/show_language.asp?code=AFK Ethnologue-verslag oor Afrikaans]
+* [http://afrikaans.be/ Afrikaans.be] - Webblad vir die gebruik, bevordering en uitbreiding van Afrikaans in België en Nederland
+
+=== Ontstaan en geskiedenis van Afrikaans ===
+* [http://taalschrift.org/discussie/000191.html Afrikaans is Amsterdams!] Nederlandse artikel in [[Taalschrift]] - Tydskrif oor taal en taalbeleid
+* [http://www.dbnl.nl/tekst/toit001patr01_01/ S.J. du Toit se Patriot woordeboek: Afrikaans-Engels (uit 1902)]
+
+=== Taalhulpmiddels ===
+* [http://translate.google.com/#af|nl| Google se masjienvertaling van en na Afrikaans]
+* [http://translate.org.za/content/view/23/40/lang,af/ Gratis en vrye Afrikaanse speltoetser vir OpenOffice, Mozilla Firefox en Mozilla Thunderbird]
+* [http://www.wspel.co.za/ Gratis Afrikaanse spel- en grammatikatoetser vir MS-Office 2000/XP/2003/2007/2010]
+* [http://www.spel.co.za Kommersiële Afrikaanse speltoetser, tesourus en woordafbreker]
+* [http://translate.org.za/content/view/24/54/lang,af/ Afrikaanse sleutelbord]
+* [http://web.sois.uwm.edu/AFR101/ Afrikaanse lesse op die net]
+* [http://www.onnet.up.ac.za/ Goudmyn vir Afrikaans-onderwysers] - Webruimte vir Afrikaans-onderwysers by die [[Universiteit van Pretoria]]
+
+=== Sagteware in Afrikaans ===
+* [http://translate.org.za/content/view/15/54/lang,af/ Mozilla Firefox] - webblaaier
+* [http://translate.org.za/content/view/16/54/lang,af/ Mozilla Thunderbird] - e-posprogram
+* [http://translate.org.za/content/view/17/54/lang,af/ OpenOffice.org] - kantoorsuite
+* [http://translate.org.za/index.php?lang=af Translate.org.za] - 'n Projek om vrye en oopbronsagteware in Afrikaans en ander Suid-Afrikaanse tale te vertaal
+* [http://pootle.translate.org.za/af/ Pootle] - aanlyn vertaling van Afrikaanse oopbronsagteware
+
+=== Afrikaanse kultuur verwante skakels ===
+* [http://www.fak.org.za/ FAK]
+* [http://www.akademie.co.za/ Die Suid-Afrikaanse Akademie vir Wetenskap en Kuns]
+* [http://www.hdn.za.net/ Huis der Nederlanden] Nederlands-Vlaams-Afrikaanse kultuursentrum
+* [http://www.storiewerf.co.za/welkom.htm Storiewerf] oor kinder- en jeugboeke
+* [http://www.voortrekkers.org.za/ www.voortrekkers.org.za] Amptelike webblad van Die Voortrekkers
+
+=== Afrikaans in die buiteland ===
+* [http://afrikaans.be/ Afrikaans.be] 'n Webblad vir die gebruik, bevordering en uitbreiding van Afrikaans in België en Nederland.
+* [http://www.ned.univie.ac.at/afrikaans/ Euro-Afrikaans] Afrikaans in Europa by die Departement Nederlandistik, Universiteit van Wene
+* [http://www.afrikaans.org.nz/ Die Afrikaanse Klub van Nieu-Seeland]
+* [http://www.roepstem.net/ Die Roepstem] 'n Nederlandse inisiatief om die Afrikaanse en die Nederlandse taalwêreld saam te bring
+* [http://www.afrikaans.nu/ Afrikaans hoort by Nederlands] met besprekingsforum
+* [http://nederlandsvirafrikaanses.weebly.com/ Nederlands vir (Afrikaanse) dommies] 'n Webblad vir Afrikaanssprekendes wat wil (of moet) Nederlands leer
+* [http://flam.co.za Bladmusiek van Afrikaanse liedere]
+
+{{Germaans}}
+
+[[Kategorie:Afrikaans| ]]
+
+{{Voorbladster}}
+
+{{Link GA|de}}
+{{Link GA|ru}}
+
+[[nso:Afrikaans]]
+
+[[an:Afrikaans]]
+[[ang:Affricanisc sprǣc]]
+[[ar:لغة أفريقانية]]
+[[arc:ܠܫܢܐ ܐܦܪܝܩܐܢܝܐ]]
+[[arz:لغه افريكانس]]
+[[ast:Afrikaans]]
+[[az:Afrikaans]]
+[[bar:Afrikaans]]
+[[bat-smg:Afrėkanu kalba]]
+[[be:Афрыкаанс]]
+[[be-x-old:Афрыкаанс]]
+[[bg:Африканс]]
+[[bn:আফ্রিকান্স ভাষা]]
+[[br:Afrikaneg]]
+[[ca:Afrikaans]]
+[[cs:Afrikánština]]
+[[cv:Африкаанс]]
+[[cy:Afrikaans]]
+[[da:Afrikaans]]
+[[de:Afrikaans]]
+[[el:Αφρικάανς γλώσσα]]
+[[eml:Afrikaans]]
+[[en:Afrikaans]]
+[[eo:Afrikansa lingvo]]
+[[es:Afrikáans]]
+[[et:Afrikaani keel]]
+[[eu:Afrikaans]]
+[[fa:زبان آفریکانس]]
+[[fi:Afrikaans]]
+[[fo:Afrikaans mál]]
+[[fr:Afrikaans]]
+[[fy:Afrikaansk]]
+[[ga:An Afracáinis]]
+[[gd:Afrikaans]]
+[[gl:Lingua africáner]]
+[[he:אפריקאנס]]
+[[hi:अफ्रीकांस भाषा]]
+[[hif:Afrikaans bhasa]]
+[[hr:Afrikaans]]
+[[hu:Afrikaans nyelv]]
+[[hy:Աֆրիկանս]]
+[[id:Bahasa Afrikaans]]
+[[is:Afríkanska]]
+[[it:Lingua afrikaans]]
+[[ja:アフリカーンス語]]
+[[ka:აფრიკაანსი]]
+[[ko:아프리칸스어]]
+[[krc:Африкаанс тил]]
+[[kv:Африкаанс (кыв)]]
+[[kw:Afrikaans]]
+[[la:Lingua Africana]]
+[[lad:Lingua afrikaans]]
+[[li:Afrikaans]]
+[[lij:Lèngoa afrikaans]]
+[[lt:Afrikanų kalba]]
+[[lv:Afrikandu valoda]]
+[[mg:Fiteny afrikaans]]
+[[mk:Африкаанс]]
+[[mr:आफ्रिकान्स भाषा]]
+[[ms:Bahasa Afrikaans]]
+[[nah:Afrikaantlahtōlli]]
+[[nds:Afrikaans]]
+[[nds-nl:Afrikaans]]
+[[nl:Afrikaans]]
+[[nn:Afrikaans]]
+[[no:Afrikaans]]
+[[nov:Afrikansum]]
+[[oc:Afrikaans]]
+[[pap:Afrikaans]]
+[[pl:Język afrikaans]]
+[[pms:Lenga afrikaans]]
+[[pnb:افریقان]]
+[[pt:Língua africâner]]
+[[qu:Afrikans simi]]
+[[ro:Limba afrikaans]]
+[[ru:Африкаанс]]
+[[rw:Ikinyafurikansi]]
+[[scn:Afrikaans]]
+[[sco:Afrikaans leid]]
+[[se:Afrikánsagiella]]
+[[sh:Afrikaans]]
+[[simple:Afrikaans]]
+[[sk:Afrikánčina]]
+[[sl:Afrikanščina]]
+[[sq:Gjuha afrikane]]
+[[sr:Африканс]]
+[[stq:Afrikoansk]]
+[[sv:Afrikaans]]
+[[sw:Kiafrikaans]]
+[[szl:Godka afrikaans]]
+[[ta:ஆபிரிக்கான மொழி]]
+[[th:ภาษาแอฟริคานส์]]
+[[tr:Afrikaanca]]
+[[tt:Африкаанс]]
+[[ug:ئاڧرىقانچە]]
+[[uk:Африкаанс]]
+[[vec:Afrikaans]]
+[[vi:Afrikaans]]
+[[xh:IsiBhulu]]
+[[yo:Èdè Áfríkáánì]]
+[[zea:Afrikaons]]
+[[zh:南非語]]
+[[zu:IsiBhunu]]

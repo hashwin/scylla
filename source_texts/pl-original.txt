@@ -1,0 +1,1387 @@
+{{DisambigRP|państwa|[[Polska (ujednoznacznienie)|inne znaczenia słowa Polska]]|RP|[[RP (ujednoznacznienie)|inne znaczenia skrótu RP]]}}
+{{Państwo infobox
+ | nazwa_oryginalna       = Rzeczpospolita Polska
+ | nazwa_polska           =
+ | flaga_obraz            = Flag of Poland.svg
+ | godło_obraz            = Herb Polski.svg
+ | nazwa_dopełniacz       = Rzeczypospolitej Polskiej
+ | p1                     =
+ | p1_flaga               =
+ | lata_istnienia         =
+ | n1                     =
+ | n1_flaga               =
+ | dewiza                 = <!-- Prosimy, nie wpisuj tu nic. Polska nie ma oficjalnej dewizy. Kraje, które nie mają dewizy, nie mają wpisu w tym polu, jak i w tym o języku dewizy, poniżej. Ale mają odnośnik do zewnętrznego hasła "motta nieoficjalne"-->
+ | dewiza_język           =
+ | dewiza_polski          =
+ | lokalizacja_obraz      = Poland in the European Union on the globe (Europe centered).svg
+ | konstytucja            = [[Konstytucja Rzeczypospolitej Polskiej]]
+ | państwo                =
+ | język_urzędowy         = [[Język polski|polski]]<ref>Dodatkowo za języki pomocnicze oficjalne uznane zostały: [[Gminy dwujęzyczne w Polsce|niemiecki w 22 gminach, białoruski w 4 gminach, kaszubski w 2 gminach i litewski w 1 gminie]] [http://www2.mswia.gov.pl/download.php?s=1&id=1857 ''Lista gmin wpisanych na podstawie art. 10 ustawy z dnia 6 stycznia 2005 r. o mniejszościach narodowych i etnicznych oraz o języku regionalnym do Urzędowego Rejestru Gmin, w których jest używany język pomocniczy''].</ref>
+ | język_używany          = [[Język polski|polski]] <!-- Prosimy, nie wpisuj tu nic więcej. Wymienianie na tej liście języków wszystkich mniejszości zamieszkujących w Polsce (Ślązaków, Niemców, Litwinów, Słowaków, Czechów, Ukraińców, Białorusinów, Romów, Żydów, Wietnamczyków itd.) oraz innych języków używanych przez Polaków (np. angielski) jest pozbawione sensu i nie niesie żadnej rzeczywistej informacji.-->
+ | stolica                = [[Warszawa]]
+ | ustrój_polityczny      = [[demokracja parlamentarna]]
+ | typ_państwa            = [[Demokracja|demokratyczny]]
+ | głowa_państwa          = [[Bronisław Komorowski]]
+ | głowa_państwa_opis     = [[Prezydent Rzeczypospolitej Polskiej|Prezydent RP]]
+ | status_terytorium      =
+ | zależne_od             =
+ | głowa_terytorium       =
+ | głowa_terytorium_opis  =
+ | w_imieniu_tekst        = [[Marszałek Sejmu Rzeczypospolitej Polskiej|Marszałek Sejmu]], [[Marszałek Senatu Rzeczypospolitej Polskiej|Marszałek Senatu]]
+ | w_imieniu_urząd        = [[Ewa Kopacz]], [[Bogdan Borusewicz]]
+ | w_imieniu              =
+ | szef_rządu             = [[Donald Tusk]]
+ | szef_rządu_opis        = [[Premierzy Polski|Prezes Rady Ministrów]]
+ | w_imieniu_tekst2       = [[Wicepremier]]zy
+ | w_imieniu_urząd2       = [[Waldemar Pawlak]]
+ | w_imieniu2             =
+ | powierzchnia           = 312 679<ref name="powierzchnia" group="uwagi">Jest to [[Powierzchnia Polski|powierzchnia administracyjnego terytorium Polski]]. Powierzchnia obszaru lądowego (łącznie z wodami śródlądowymi) – 311 888 km², powierzchnia obszaru morskich wód wewnętrznych – 2005 km² (łącznie: 313 893 km²), a morza terytorialnego – 8682 km² (łącznie 322 575 km²). Powierzchnia administracyjna Polski (312 679 km²) to powierzchnia w granicach administracyjnych województw, poza obszarem lądowym obejmująca część morskich wód wewnętrznych (Zalew Wiślany, Zalew Szczeciński, obszary wód portów).</ref><ref name="CSO_2008">{{cytuj pismo|tytuł=Powierzchnia i ludność w przekroju terytorialnym w 2010 r.|wydawca=GUS|odpowiedzialność=Departament Metodologii, Standardów  i Rejestrów |strony=17|data=2010|url=http://www.stat.gov.pl/cps/rde/xbcr/gus/PUBL_L_powierzchnia_ludnosc_teryt_2010.pdf}}</ref><ref>{{cytuj pismo | nazwisko = Dmochowska | imię = Halina (red.) | tytuł = Warunki naturalne i ochrona środowiska | url = http://www.stat.gov.pl/cps/rde/xbcr/gus/PUBL_oz_maly_rocznik_statystyczny_2011.pdf | czasopismo = Mały Rocznik Statystyczny Polski 2011 | strony = 25-26 | data = 2011-07-21 | wydawca = [[Główny Urząd Statystyczny]] | miejsce = Warszawa | issn = 1640-3630 | język = pl | data dostępu = 2011-10-29}}</ref>
+ | powierzchnia_wód       =
+ | powierzchnia_miejsce   = 70
+ | ludność                = {{Wzrost}}38 200 037<ref name="GUS">{{cytuj stronę|url=http://www.stat.gov.pl/gus/5840_655_PLK_HTML.htm|tytuł= Ludność. Stan i struktura w przekroju terytorialnym (Stan w dniu 31 XII 2010 r.)|data=||data dostępu=21-05-2011| autor = Główny Urząd Statystyczny}}</ref>
+ | gęstość                = 120,92
+ | gęstość_miejsce        =
+ | ludność_rok            = 2010
+ | narodowości            = [[Polacy]]: 96,7%<ref>Wyniki spisu z 2002 roku wskazują, że w ogólnej liczbie ludności Polski wynoszącej wówczas 38 230,1 tys. – 36 983,7 tys., czyli 96,74% osób zadeklarowało swoją narodowość jako polską. Źródło: {{cytuj stronę|url=http://www.stat.gov.pl/gus/5840_4520_PLK_HTML.htm|tytuł=Wyniki Narodowego Spisu Powszechnego Ludności i Mieszkań 2002}}<br />{{cytuj stronę|url=http://www.stat.gov.pl/cps/rde/xbcr/gus/PUBL_raport_z_wynikow_nsp_ludnosci_i_mieszkan_2002.pdf|tytuł=Raport z wyników Narodowego Spisu Powszechnego Ludności i Mieszkań 2002}}</ref>
+ | ludność_miejsce        = 34
+ | pkb                    = {{Wzrost}}499,6&nbsp;mld&nbsp;[[Dolar amerykański|USD]]<ref name="PKB">Dane dotyczące PKB na podstawie szacunków [[Międzynarodowy Fundusz Walutowy|Międzynarodowego Funduszu Walutowego]] na lata 2008–2015: {{cytuj stronę|url=http://www.imf.org/external/pubs/ft/weo/2010/01/weodata/weorept.aspx?pr.x=71&pr.y=9&sy=2008&ey=2015&scsm=1&ssd=1&sort=country&ds=.&br=1&c=964&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC&grp=0&a=|tytuł=IMF: World Economic Outlook Database, Report for Selected Countries and Subjects – Poland|data dostępu=29 lipca 2010}}</ref>
+ | pkb_rok                = 2011
+ | pkb_osoba              = {{Wzrost}}13&nbsp;079&nbsp;[[Dolar amerykański|USD]]
+ | pkb_ppp                = {{Wzrost}}760,1&nbsp;mld&nbsp;[[Dolar amerykański|USD]]<ref name="PKB" />
+ | pkb_ppp_rok            = 2011
+ | pkb_ppp_osoba          = {{Wzrost}}19&nbsp;887&nbsp;[[Dolar amerykański|USD]]
+ | wydarzenie1            = Zjednoczenie części [[Słowianie zachodni|plemion zachodniosłowiańskich]] (tzw. [[plemiona polskie]]) przez [[Władcy Polski|książąt Polan]]
+ | data1                  = ok. 870 – ok. 930
+ | wydarzenie2            = Chrzest księcia [[Mieszko I|Mieszka]] i jego poddanych
+ | data2                  = [[966]]
+ | wydarzenie3            = [[Polska w okresie rozbicia dzielnicowego|Rozbicie dzielnicowe]]
+ | data3                  = [[1138]]–[[1320]]
+ | wydarzenie4            = [[Unia lubelska]]
+ | data4                  = [[1569]]
+ | wydarzenie5            = [[Rozbiory Polski|Rozbiory]]
+ | data5                  = [[1772]], [[1793]], [[1795]]
+ | wydarzenie6            = Ogłoszenie niepodległości
+ | data6                  = [[7 października]] [[1918]]
+ | wydarzenie7            = Uznanie niepodległości
+ | data7                  = [[11 listopada]] [[1918]]
+ | wydarzenie8            = Wprowadzenie przez [[Sejm Rzeczypospolitej Polskiej]] zmian w [[Konstytucja Polskiej Rzeczypospolitej Ludowej|Konstytucji PRL]] i zmiana nazwy na ''Rzeczpospolita Polska''
+ | data8                  = [[31 grudnia]] [[1989]]
+ | wydarzenie9            = Wstąpienie do [[Unia Europejska|UE]]
+ | data9                  = [[1 maja]] [[2004]]
+ | utworzenie_sposób      =
+ | od_kogo                =
+ | utworzenie_data        =
+ | likwidacja_sposób      =
+ | przez_kogo             =
+ | likwidacja_data        =
+ | religia_dominująca     = [[Kościół łaciński|rzymski katolicyzm]]
+ | waluta_nazwa           = [[złoty]]
+ | waluta_symbol          = [[PLN]], zł
+ | UTC                    = +1 – zima<br />[[Uniwersalny czas koordynowany|UTC]] +2 – lato
+ | hymn                   = <center>[[Plik:Mazurek Dabrowskiego.ogg]]</center><br />''[[Hymn Polski|Mazurek Dąbrowskiego]]''<br />
+ | hymn_nazwa_polska      =
+ | kod_ISO                = PL
+ | domena                 = [[.pl]]
+ | kod_samochodowy        = PL
+ | kod_samolotowy         = SP
+ | numer_kierunkowy       = +48
+ | terytoria_zależne      =
+ | terytoria_autonomiczne =
+ | mapa_obraz             =
+ | uwagi                  =
+ | commons                = Polska
+ | wikinews               = Kategoria:Polska
+ | quote                  = Polska
+ | wikisłownik            = Polska
+}}
+{{Portal|Polska|grafika=Coat of arms of Poland-official3.png}}
+'''Polska''', '''Rzeczpospolita Polska''' – [[państwo]] położone w [[Europa Środkowa|Europie Środkowej]]<ref>http://unstats.un.org/unsd/geoinfo/gegn23wp48.pdf.</ref><ref name="cia.gov">[https://www.cia.gov/library/publications/the-world-factbook/geos/pl.html CIA – The World Factbook].</ref>, między [[Morze Bałtyckie|Bałtykiem]] na północy a [[Karpaty|Karpatami]] i [[Sudety|Sudetami]] na południu w dorzeczu [[Wisła|Wisły]] i [[Odra|Odry]]. Powierzchnia administracyjna Polski wynosi 312 679&nbsp;km²<ref name="powierzchnia" group="uwagi"/><ref name="CSO_2008"/>, co daje jej 70. miejsce na świecie i dziewiąte w Europie. Zamieszkana przez ponad 38 milionów ludzi<ref name="CSO_2008"/>, zajmuje pod względem zaludnienia 34. miejsce na świecie<ref>NationMaster.com 2003–2007, [http://www.nationmaster.com/country/pl-poland ''Poland, Facts and figures.''].</ref>, a szóste w Unii Europejskiej.
+
+Od zachodu graniczy z [[Niemcy|Niemcami]], od południa z [[Czechy|Czechami]] i [[Słowacja|Słowacją]], od wschodu z [[Ukraina|Ukrainą]] i [[Białoruś|Białorusią]], od północnego wschodu z [[Litwa|Litwą]] oraz od północy z [[Rosja|rosyjską]] eksklawą o nazwie [[obwód kaliningradzki]]. Ponadto większość północnej granicy Polski wyznacza wybrzeże [[Morze Bałtyckie|Morza Bałtyckiego]]. Polska [[wyłączna strefa ekonomiczna]] na Bałtyku graniczy ze strefami [[Dania|Danii]] i [[Szwecja|Szwecji]].
+
+[[III Rzeczpospolita]] jest szybko rozwijającym się państwem, członkiem wielu organizacji międzynarodowych. Polska należy do [[Unia Europejska|Unii Europejskiej]], [[NATO]], [[Organizacja Narodów Zjednoczonych|ONZ]], [[Światowa Organizacja Handlu|Światowej Organizacji Handlu]], [[Organizacja Współpracy Gospodarczej i Rozwoju|Organizacji Współpracy Gospodarczej i Rozwoju]], [[Europejski Obszar Gospodarczy|Europejskiego Obszaru Gospodarczego]], [[Międzynarodowa Agencja Energetyczna|Międzynarodowej Agencji Energetycznej]], [[Rada Europy|Rady Europy]], [[Organizacja Bezpieczeństwa i Współpracy w Europie|Organizacji Bezpieczeństwa i Współpracy w Europie]], [[Międzynarodowa Agencja Energii Atomowej|Międzynarodowej Agencji Energii Atomowej]] oraz [[G6]]. Polska jest jednym z założycieli organizacji takich jak: [[Środkowoeuropejskie Porozumienie o Wolnym Handlu]] (opuszczone w 2004 r.), [[Rada Państw Morza Bałtyckiego]], [[Grupa Wyszehradzka]] czy [[Trójkąt Weimarski]]. Ponadto Polska należy do [[Układ z Schengen|Układu z Schengen]] oraz stara się o wejście do [[Strefa euro|Strefy Euro]] i [[Europejska Agencja Kosmiczna|Europejskiej Agencji Kosmicznej]].
+
+== Etymologia ==
+{{Main|Etymologia nazwy Polska}}
+Źródłem nazwy Polska jest prawdopodobnie nazwa [[Słowianie zachodni|zachodniosłowańskiego]] plemienia [[Polanie|Polan]] (''Polanie'')<ref group="uwagi">W ''[[Żywot pierwszy św. Wojciecha|Żywocie pierwszym św. Wojciecha]]'' (ok. 1000) występuje łacińska forma ''Polani'', w ''Kronice'' [[Thietmar z Merseburga|Thietmara z Merseburga]] (1002) – Poleni.</ref>. Nazwa Polan z kolei pochodzi od indoeuropejskiego wyrazu ''pole'', oznaczającego ''pole uprawne'' lub otwartą przestrzeń. Nazwa ''Polska'' zaczęła być używana w odniesieniu do całego [[Państwo|państwa]] w XI wieku i funkcjonowała pierwotnie jako forma określenia „ziemia polska” (łac. ''terra Poloniæ''). Zarówno własne nazwy Polski i Polaków ([[endonim]]y) jak i większość nazw nadawanych im w innych językach ([[egzonim]]y) wywodzą się z tego źródła.
+
+== Historia ==
+{{Main|Historia Polski|Kalendarium historii Polski}}
+Za datę utworzenia państwa polskiego najczęściej przyjmowany jest rok 966, kiedy władca [[Mieszko I]] [[Chrzest Polski|przyjął chrzest]]. W roku 1025 władca Polski uzyskał tytuł [[król]]ewski. Od końca XIII wieku na tron polski często wybierano [[Wacław II|władców krajów sąsiednich]]. W 1569 roku, po wygaśnięciu trwającej od 1386 unii dynastycznej z [[Wielkie Księstwo Litewskie|Litwą]] oba kraje zdecydowały się na [[unia lubelska|unię realną]]. Nowe państwo nosiło nazwę [[Rzeczpospolita Obojga Narodów]].
+
+W latach 1772–1795 ziemie Rzeczypospolitej zostały rozdzielone przez sprzymierzonych [[Rozbiory Polski|zaborców]]: [[Królestwo Prus|Prusy]], [[Imperium Rosyjskie|Rosję]] i [[Imperium Habsburgów w XVIII wieku|Austrię]]. W 1918 roku Polska odzyskała niepodległość jako [[II Rzeczpospolita]], we wrześniu 1939 roku została ponownie [[Kampania wrześniowa|zaatakowana]] i [[Pakt Ribbentrop-Mołotow|podzielona]] przez [[III Rzesza|III Rzeszę]] i [[Związek Socjalistycznych Republik Radzieckich|ZSRR]]. Był to bezpośredni powód wybuchu [[II wojna światowa|II wojny światowej]] w Europie. W następstwie wojny życie utraciło ponad 6 milionów obywateli Polski, a państwo stało się [[Polska Rzeczpospolita Ludowa|republiką socjalistyczną]] [[Blok wschodni|uzależnioną]] od ZSRR. 
+
+W efekcie [[Jesień Ludów|Jesieni Ludów]] obalono władzę komunistyczną i niedługo potem Polska stała się państwem o [[Demokracja parlamentarna|ustroju demokratycznym]]. Mieszkańcy powszechnie nazywają ją [[III Rzeczpospolita|III Rzecząpospolitą]]. [[Plan Balcerowicza|Zreformowano gospodarkę]] i powrócono do [[Gospodarka rynkowa|modelu rynkowego]].
+
+12 marca 1999 roku Polska przystąpiła do [[NATO|Paktu Północnoatlantyckiego]], zaś 1 maja 2004 roku stała się członkiem [[Unia Europejska|Unii Europejskiej]].
+
+=== Prehistoria ziem polskich ===
+{{Main|Prehistoria ziem polskich}}
+W okresie [[Starożytność|starożytności]] tereny współczesnej Polski zamieszkiwało wiele odmiennych grup etnicznych. Przynależności [[Etniczność|etniczne]] i [[Językoznawstwo|lingwistyczne]] tych grup, w szczególności [[Słowianie#Hipotezy dotyczące pochodzenia Słowian|kwestia pochodzenia i ekspansji]] [[Słowianie|Słowian]], pozostaje niepewna.
+
+W 1933 odkryto pozostałości [[Biskupin (stanowisko archeologiczne)|osady biskupińskiej]], założonej około 738 roku p.n.e. i wiążącej się z kręgiem [[Kultura łużycka|kultury łużyckiej]].
+
+=== Dynastia Piastów ===
+{{Main|Historia Polski (do 1138)|Polska w okresie rozbicia dzielnicowego|Zjednoczone Królestwo Polskie}}
+Polska uformowała się w jednolicie zarządzane terytorium w połowie X wieku. Pierwszym potwierdzonym historycznie [[Władcy Polski|władcą Polski]] był [[Mieszko I]], który w 966 [[Chrzest Polski|przyjął chrzest]], co zapoczątkowało zwalczanie pogańskich [[Religia Słowian|wierzeń etnicznych]] i [[Chrześcijaństwo|chrystianizację]] społeczeństwa. Przyjęcie chrztu miało w ówczesnym czasie także duże znaczenie polityczne. Pierwszym władcą, który został koronowany, był syn Mieszka I – [[Bolesław I Chrobry|Bolesław Chrobry]], który kontynuując politykę ojca zorganizował w roku 1000 [[I zjazd gnieźnieński|zjazd w Gnieźnie]].
+
+W 1138, po śmierci [[Bolesław III Krzywousty|Bolesława III Krzywoustego]], Polska została podzielona między jego potomków, co zapoczątkowało trwające prawie 200 lat rozbicie dzielnicowe. W XIII wieku Henrykowie Śląscy ([[Henryk I Brodaty]] i [[Henryk II Pobożny]]) zjednoczyli dwie dzielnice – Śląsk i Małopolskę, lecz po najazdach [[Mongołowie|Mongołów]], zakończonych klęskami w [[Bitwa pod Chmielnikiem|bitwie pod Chmielnikiem]] oraz [[Bitwa pod Legnicą|bitwie pod Legnicą]] w 1241, ich państwo ponownie się rozpadło. Zjednoczenia kraju dokonał [[Władysław I Łokietek|Władysław Łokietek]], który w roku 1320 koronował się na króla Polski. Jego syn, [[Kazimierz III Wielki]], skutecznie umocnił i rozszerzył pozycję Polski w regionie – poszerzył terytorium Polski, zawarł kompromisowe sojusze i przeprowadził liczne reformy wewnętrzne, w szczególności w budownictwie i gospodarce. Po jego bezpotomnej śmierci wygasła dynastia Piastów jako władców Polski.
+
+=== Dynastia Andegawenów ===
+Po śmierci Kazimierza Wielkiego w 1370 tron polski przejął [[Ludwik Węgierski]] z dynastii [[Andegawenowie|Andegawenów]]. Okres jego rządów to zarazem początek supremacji szlachty w życiu politycznym kraju, obdarzonej w 1374 w [[Koszyce|Koszycach]] pierwszym [[Przywilej|przywilejem generalnym]].
+
+Kiedy również Ludwik zmarł w 1382, w Polsce nastąpił okres najdłuższego w jej historii [[Bezkrólewie|bezkrólewia]]. Ostatecznie królem Polski [[16 października]] [[1384]] została córka Ludwika, [[Jadwiga Andegaweńska]]. W 1386 weszła ona w związek małżeński z księciem [[Wielkie Księstwo Litewskie|litewskim]] [[Władysław II Jagiełło|Jagiełłą]], który [[4 marca]] [[1386]] został koronowany na władcę Polski.
+
+=== Dynastia Jagiellonów ===
+{{Main|Historia Polski (1386-1492)|Historia Polski (1492-1572)}}
+Pod panowaniem [[Jagiellonowie|Jagiellonów]] Polska zawarła w 1385 [[Unia polsko-litewska|unię z Wielkim Księstwem Litewskim]]. W 1410 w [[bitwa pod Grunwaldem|bitwie pod Grunwaldem]], zjednoczona armia polsko-litewska odniosła zdecydowane zwycięstwo nad zagrażającym obu państwom [[Zakon krzyżacki|zakonem krzyżackim]]. Po [[Wojna trzynastoletnia|wojnie trzynastoletniej]], zakon stał się [[wasal]]em Polski.
+
+Następował rozwój polskiej kultury, nauki i ekonomii, z osobistościami jak [[Mikołaj Kopernik]] i [[Jan Kochanowski]]. Rozpowszechniona też była tolerancja religijna. Na początku XVI wieku powołano pierwsze oddziały zwycięskiej w wielu bitwach formacji kawalerii polskiej armii – [[Husaria|husarii]].
+
+Polska i Litwa w latach 1474–1569 były też celem 75 najazdów [[Tatarzy|tatarskich]]<ref name="Davies">{{cytuj książkę |nazwisko=Davies |imię=Brian|tytuł=Warfare, State and Society on the Black Sea Steppe,1500–1700|rok=2007}}</ref>.
+
+=== Rzeczpospolita Obojga Narodów ===
+{{Main|Historia Polski (1572-1697)|Historia Polski (1697-1795)|I Rzeczpospolita}}
+W 1569 Polska i Litwa zawarły [[unia lubelska|unię lubelską]]; utworzona została [[Rzeczpospolita Obojga Narodów]], a każdy nowo koronowany [[król Polski]] automatycznie zostawał [[władcy Litwy|władcą Litwy]] i nigdy nie był podnoszony na [[Wielkie Księstwo Litewskie]]<ref>{{cytuj książkę | nazwisko = Ochmański| imię = Jerzy| autor link = Jerzy Ochmański| tytuł = Historia Litwy| wydawca = Zakład Narodowy im. Ossolińskich| miejsce = Wrocław| rok = 1990| strony = 128| isbn = 83-04-03107-8}}</ref>. Po bezpotomnej śmierci [[Zygmunt II August|Zygmunta II Augusta]], ostatniego króla z dynastii Jagiellonów, w 1573 wprowadzono [[wolna elekcja|wolną elekcję]]. Ówczesna Rzeczpospolita, szczególnie po uchwaleniu wolności religijnej na [[Konfederacja warszawska (1573)|konfederacji warszawskiej]], była nazywana „azylem heretyków”; ściągali do niej prześladowani w zachoniej Europie [[mennonici]], [[Antytrynitaryzm|antytrynitarze]], wypędzani z Hiszpanii przez Inkwizycję [[Żydzi]] i [[hugenoci]] z [[Francja|Francji]]. [[Szlachta]] w Polsce, znacznie liczniejsza niż na zachodzie Europy, korzystała z przywilejów [[złota wolność szlachecka|złotej wolności]]. W okresie tym, nazywanym [[złoty wiek Polski|złotym wiekiem Polski]], Rzeczpospolita powiększała swoje terytorium, stając się największym państwem w Europie.
+
+W XVII wieku Rzeczpospolita uwikłana była w konflikty ze [[Szwecja|Szwecją]] („[[Potop szwedzki|potop]]”), Kozakami ([[powstanie Chmielnickiego]]) i Rosją ([[wojna polsko-rosyjska 1654-1667]]). Wraz z nieefektywnością rządu wskutek prawa ''[[liberum veto]]'' doprowadziły one do stopniowego upadku państwa i wzrostu zależności wobec sąsiadów. Mimo to, [[Jan III Sobieski]] był w stanie rozgromić armię turecką w [[Bitwa pod Wiedniem (1683)|bitwie pod Wiedniem]].
+
+Pod koniec XVIII wieku podjęto próby reformy kraju, m.in. ostatni król Polski [[Stanisław August Poniatowski]] powołał w 1773 [[Komisja Edukacji Narodowej|Komisję Edukacji Narodowej]], a w 1791 [[Sejm Czteroletni]] uchwalił [[Konstytucja 3 maja|Konstytucję 3 Maja]].
+
+=== Rozbiory i okres pod zaborami ===
+{{Main|Historia Polski (1795-1831)|Historia Polski (1831-1914)}}
+Trzy [[rozbiory Polski]] (w 1772, 1793 i 1795) położyły kres próbom naprawy państwa. Rzeczpospolita Obojga Narodów przestała istnieć, a jej terytoria zostały rozdzielone pomiędzy [[Rosja|Rosję]], [[Królestwo Prus|Prusy]] i [[Austria|Austrię]].
+
+W okresie zaborów Polacy zbrojnie lub politycznie podejmowali działania mające na celu odzyskanie niepodległości. W 1807 [[Napoleon Bonaparte|Napoleon I]] utworzył podległe Francji [[Księstwo Warszawskie]], jednak w 1815 roku na kongresie wiedeńskim zwycięskie państwa [[Wojny napoleońskie|wojen napoleońskich]] zadecydowały o jego podziale. Ze wschodniej części Księstwa Warszawskiego utworzono [[Królestwo Kongresowe]], z [[Konstytucja Królestwa Polskiego|własną konstytucją]] i [[car]]em Rosji jako głową państwa, stopniowo ograniczano jednak jego autonomię. W latach 1830–1831 trwało narodowe [[powstanie listopadowe]].
+
+W drugiej połowie XIX wieku autonomię uzyskała znajdująca się pod zaborem austriackim [[Galicja (Europa Wschodnia)|Galicja]]. Do 1846 roku istniało [[Wolne Miasto Kraków]], jednak po stłumieniu [[Powstanie krakowskie|powstania krakowskiego]] zostało ono przyłączone do Austrii. Na terenie Prus powstało mające zaspokoić narodowe ambicje Polaków [[Wielkie Księstwo Poznańskie]], które po powstaniach wielkopolskich w latach 1846 i 1848 zlikwidowano. W 1863 roku wybuchło trwające ponad rok narodowe [[powstanie styczniowe]].
+
+=== II Rzeczpospolita ===
+==== Dwudziestolecie międzywojenne ====
+[[Plik:Pilsudski 1910 1920 LOC hec 14263 restored.jpg|mały|upright|[[Józef Piłsudski]] – Naczelnik Państwa polskiego w latach 1918–1922]]
+[[Plik:5 Warszawa 083.jpg|mały|[[Belweder w Warszawie|Belweder]] – siedziba Naczelnika Państwa i prezydentów [[II Rzeczpospolita|II RP]]]]
+{{Main|Historia Polski (1918-1939)|II Rzeczpospolita}}
+Za formalny początek [[II Rzeczpospolita|II Rzeczypospolitej]] uznaje się 11 listopada 1918, kiedy to władzę wojskową w [[Warszawa|Warszawie]] objął [[Józef Piłsudski]]. W wyniku jego działań wojska niemieckie wycofały się z miasta, a tworzące się właśnie polskie instytucje państwowe nadały mu tytuł Naczelnika Państwa. Po zakończeniu [[I wojna światowa|I wojny światowej]] zwycięskie państwa [[Ententa|Ententy]] zaaprobowały plan utworzenia niepodległego państwa polskiego.
+
+Pierwsze lata po ogłoszeniu niepodległości były okresem niepokojów społecznych i konfliktów. W latach 1918–21 Polska prowadziła równocześnie sześć wojen ze swoimi sąsiadami. Toczyły się [[Konflikt polsko-litewski|konflikty z Litwą]] i [[Wojna polsko-ukraińska|Ukrainą]] dotyczące wschodniej granicy kraju, wybuchły trzy [[Powstania śląskie|powstania na Śląsku]] i [[Powstanie wielkopolskie|powstanie w Wielkopolsce]] przeciwko niemieckim władzom na tych terenach, dochodziło do [[Polsko-czechosłowackie konflikty graniczne|konfliktów z Czechosłowacją]] o sporne tereny graniczne. Najpoważniejszym konfliktem tego okresu była wygrana przez Polskę [[wojna polsko-bolszewicka]] w 1919.
+
+Podstawowym problemem II Rzeczypospolitej był brak spójności w ramach samego społeczeństwa polskiego. Ludność wywodziła się z terenów trzech zaborów, które przez ponad stulecie stanowiły tereny różnych krajów. Trudnością były też różnice pomiędzy mniejszościami narodowymi, które stanowiły liczną część społeczeństwa. Osób określających się jako Polacy było około 68,9%, Ukraińców było 13,9%, Żydów 8,7%, Białorusinów 3,1% a Niemców 2,3%. Około 75% ludności Polski mieszkało na wsi, której największymi problemami była bieda i duże przeludnienie. Polska scena polityczna również była miejscem silnych konfliktów. Czołowe partie polityczne – [[Polska Partia Socjalistyczna]], [[Polskie Stronnictwo Ludowe (1895-1913)|Polskie Stronnictwo Ludowe]] i [[Narodowa Demokracja]] prezentowały diametralnie różne wizje państwa polskiego. Tragicznym rezultatem tych napięć było [[Zamach na Gabriela Narutowicza|zabójstwo]] związanego z PSL prezydenta [[Gabriel Narutowicz|Gabriela Narutowicza]] w 1922.
+
+W pierwszych latach istnienia Polska przyjęła ustrój [[Demokracja parlamentarna|demokracji parlamentarnej]] – w styczniu 1919 odbyły się pierwsze [[Sejm Ustawodawczy (1919-1922)|wybory do Sejmu]], a 17 marca 1921 uchwalono [[Konstytucja marcowa|tekst konstytucji]]. W roku 1924 w ramach kształtowania gospodarki państwa i walki z rosnącą inflacją przeprowadzono [[Reforma walutowa Władysława Grabskiego|pakiet reform]] premiera [[Władysław Grabski|Władysława Grabskiego]], wprowadzono nową walutę – [[Złoty|złotego]] oraz założono [[Bank Polski Spółka Akcyjna|Bank Polski]]. Prowadzono duże inwestycje w przemysł wydobywczy na Śląsku, rozbudowywano infrastrukturę elektryczną i kolejową, zbudowano [[Centralny Okręg Przemysłowy]] i nowy [[Port Gdynia|port morski w Gdyni]]. Okres międzywojenny był czasem intensywnego rozwoju kultury polskiej – powstawały ważne dzieła literackie i malarskie, a również prace naukowe. Państwo skutecznie inwestowało w edukację, szczególnie w nauczanie początkowe na terenach wiejskich.
+
+W 1926 roku, w sytuacji kryzysu politycznego Józef Piłsudski doprowadził do wojskowego [[Zamach stanu|zamachu stanu]], znanego jako [[przewrót majowy]]. W wyniku przewrotu system demokracji parlamentarnej został przekształcony w [[Autorytaryzm (ustrój)|system autorytarny]], w którym większość władzy obejmował prezydent, natomiast wolność działania opozycji oraz wolność prasy i słowa została poważnie ograniczona. Władzę przejął Piłsudski oraz jego współpracownicy, tworzący środowisko znane jako ''[[sanacja]]''. Autorytarny sposób sprawowania władzy przez „pułkowników” przyczynił się do dalszego rozszerzenia napięć społecznych i radykalnych postaw w czasie lat 30.<ref name=igrzsko/>
+
+==== II wojna światowa ====
+[[Plik:Lviv 1939 Sov Cavalry.jpg|thumb|220px|Defilada kawalerii sowieckiej po kapitulacji [[Lwów|Lwowa]], [[Wały Hetmańskie]] obok Grand Hotelu]]
+{{Main|Historia Polski (1939-1945)|Kampania wrześniowa|Agresja ZSRR na Polskę 1939|Okupacja niemiecka w Polsce 1939-1945}}
+[[Plik:Granica-zrywanie godła.jpg|mały|left|1 wrzesień 1939, Żołnierze niemieccy zdejmujący szlaban graniczny]]
+1 września 1939 [[Wehrmacht|wojska hitlerowskich Niemiec]] uderzyły na Polskę. W pierwszych tygodniach po inwazji rozegrało się [[Kampania wrześniowa|kilka ważniejszych bitew]], z których największą była przegrana przez [[Wojsko Polskie II RP|polskie wojsko]] [[bitwa nad Bzurą]]. 14 września wojska niemieckie rozpoczęły [[Obrona Warszawy (1939)|oblężenie Warszawy]]. Równocześnie z oblężeniem miasta rozpoczęła się ewakuacja urzędów centralnych, rządu i prezydenta przez granicę południową do [[Królestwo Rumunii|Rumunii]]. 17 września Polska zaatakowana została również przez [[Armia Czerwona|Armię Czerwoną]], której natarcie było skutkiem [[Pakt Ribbentrop-Mołotow|tajnego porozumienia pomiędzy]] [[III Rzesza|III Rzeszą]] a [[Związek Socjalistycznych Republik Radzieckich|ZSRR]]. Walki trwały do początków października 1939 – 28 września skapitulowali obrońcy Warszawy, a 6 października zakończyła się ostatnia, przegrana przez Polaków [[Bitwa pod Kockiem (1939)|bitwa kampanii wrześniowej]].
+
+Terytorium Polski zostało podzielone pomiędzy III Rzeszę a Związek Radziecki na mocy [[s:Traktat o granicach i przyjaźni III Rzesza-ZSRR 28.09.1939 r. z tajnymi protokołami|paktu pomiędzy tymi krajami]]. Tereny zajęte przez Armię Czerwoną wcielone zostały do ZSRR, część terenów okupowanych przez Niemcy włączona została do III Rzeszy, na części utworzono tzw. [[Generalne Gubernatorstwo]]. Równocześnie z wprowadzeniem władzy okupacyjnej rozpoczęły się [[Zbrodnie niemieckie w Polsce (1939-1945)|represje wymierzone w społeczeństwo polskie]]. Na terenach okupowanych przez Niemcy i ZSRR prowadzono masowe aresztowania i egzekucje osób pełniących wcześniej funkcje państwowe lub zaangażowanych w ruch oporu. Szczególny rodzaj prześladowań wymierzony został w [[Historia Żydów w Polsce|żydowską ludność Polski]] – [[Żydzi|osoby pochodzenia żydowskiego]] zmuszone zostały do zamieszkania w zamkniętych dzielnicach – [[Getto|gettach]], stopniowo odebrane zostały im wszelkie prawa. Od 1941 roku w [[Obozy niemieckie 1933-1945|niemieckich obozach zagłady]] [[Holocaust|zginęło około 90% Żydów]] będących obywatelami Polski. Hitlerowcy prowadzili również [[Wysiedlenia Polaków podczas II wojny światowej dokonane przez Niemców|masowe wysiedlenia ludności polskiej]], w wyniku których wiele osób pozbawionych zostało miejsca zamieszkania lub zmuszonych do [[Roboty przymusowe w III Rzeszy|przymusowej pracy]] na terenie Niemiec.
+
+Odpowiedzią na represje i aresztowania była zbrojna działalność [[Polskie Państwo Podziemne|Państwa Podziemnego]] i organizacji ruchu oporu. Kulminacją tych działań była [[Akcja Burza|akcja „Burza”]] i [[powstanie warszawskie]] w 1944. W 1943 wybuchło [[powstanie w getcie warszawskim]]. Przez cały okres wojny międzynarodowo uznaną kontynuacją władz II Rzeczypospolitej był [[Rząd RP na uchodźstwie]]. W wyniku działań [[II wojna światowa|II wojny światowej]] i w czasie okupacji zginęło około 16% obywateli Polski<ref>{{Cytuj stronę| url = http://www.muzhp.pl/artykuly/239/polska-w-ii-wojnie-swiatowej | tytuł = Polska w II wojnie światowej | data dostępu = 2010-11-13| autor = Łukasz Wojtach | opublikowany = Muzeum Historii Polski}}</ref>, zniszczonych zostało wiele miast, w tym niemal całkowicie Warszawa<ref name=igrzsko/><ref name="Polska. Losy państwa i narodu 1939-1989"/><ref name="Najnowsza historia Polski 1914-1945">{{Cytuj książkę|imię=Wojciech|nazwisko=Roszkowski|tytuł=Najnowsza historia Polski 1914–1945|wydawca=Świat Książki|miejsce=Warszawa|rok=2003|isbn = 83-7311-991-4}}</ref>.
+
+=== Polska Rzeczpospolita Ludowa ===
+[[Plik:Strike Gdansk 1980.jpg|mały|1980, Strajk w Stoczni Gdańskiej, kolebce [[Niezależny Samorządny Związek Zawodowy "Solidarność"|„Solidarności”]]]]
+{{Main|Polska Rzeczpospolita Ludowa|Historia Polski (1944-1989)}}
+[[Plik:PKWN Manifest.jpg|mały|upright|left|[[Manifest PKWN]]]]
+[[Plik:Okragly Stol 1989.jpg|mały|1989, Obrady [[Okrągły Stół (historia Polski)|Okrągłego Stołu]], podczas których podjęto decyzję o rozpisaniu wolnych wyborów, które utorowały drogę przemianom demokratycznym w Polsce i Europie]]
+W styczniu 1944 roku nacierająca na [[III Rzesza|hitlerowskie Niemcy]] [[Armia Czerwona]] przekroczyła przedwojenną granicę [[Związek Socjalistycznych Republik Radzieckich|ZSRR]] i [[II Rzeczpospolita|Polski]]. W lipcu 1944 w ZSRR utworzono [[Polski Komitet Wyzwolenia Narodowego]], który miał sprawować władzę na terenach Polski wyzwolonych przez wojska radzieckie. W skład PKWN wchodzili wyznaczeni przez [[Józef Stalin|Józefa Stalina]] polscy działacze [[komunizm|komunistyczni]]. W czerwcu 1945 powstał [[Tymczasowy Rząd Jedności Narodowej]], natomiast kraje Europy Zachodniej cofnęły uznanie [[Rząd RP na uchodźstwie|rządowi RP na uchodźstwie]]. Władze komunistyczne w Polsce wyeliminowały z życia publicznego wszystkie partie opozycyjne, wprowadziły terror policyjny i masowe aresztowania politycznych przeciwników, głównie działaczy [[Polskie Państwo Podziemne|organizacji konspiracyjnych]] z czasów okupacji. W wyniku sfałszowanych [[Wybory do Sejmu Ustawodawczego w 1947 roku|wyborów w roku 1947]] do pierwszego [[Sejm Ustawodawczy (1947-1952)|powojennego Sejmu]] większość zdobyły partie komunistyczne.
+
+W pierwszych latach po wyzwoleniu przeprowadzono wiele zmian społecznych i politycznych – m.in. zasiedlenie tzw. [[Ziemie Odzyskane|Ziem Odzyskanych]], [[Nacjonalizacja przemysłu|nacjonalizację przemysłu]] oraz [[Reforma rolna w Polsce (1944)|reformę rolnictwa]]. Rozpoczęto odbudowę kraju ze zniszczeń wojennych, w tym odbudowę całkowicie zniszczonej Warszawy. W 1948 powstała [[Polska Zjednoczona Partia Robotnicza]], co spowodowało faktyczne wprowadzenie w Polsce systemu jednopartyjnego. W 1952 roku państwo polskie zmieniło nazwę na Polska Rzeczpospolita Ludowa, uchwalono również [[Konstytucja Polskiej Rzeczypospolitej Ludowej|Konstytucję Polskiej Rzeczypospolitej Ludowej]]. Jednocześnie zwiększono terror policyjny oraz prześladowania opozycji, kościoła katolickiego i przedwojennych działaczy publicznych, które trwały aż do śmierci Stalina w 1953. W 1956 odbył się pierwszy w PRL strajk generalny oraz krwawo stłumione przez wojsko i milicję [[Poznański Czerwiec|demonstracje w Poznaniu]].
+
+W wyniku zmian w Związku Radzieckim przeprowadzonych po śmierci Stalina, również w Polsce [[Odwilż gomułkowska|zmniejszono represje wymierzone w obywateli]] i powołano nowe władze, której przywódcą został [[I sekretarze KC PZPR|I sekretarz PZPR]] [[Władysław Gomułka]]. Nowy rząd podjął próbę zmiany relacji ze społeczeństwem i reformy gospodarki, których jednak zaprzestano już po kilku latach. W 1968 władze rozbiły demonstracje studentów w Warszawie i Krakowie, co stało się pretekstem do [[Marzec 1968|antysemickiej i antyinteligenckiej kampanii]], w wyniku której wiele osób zmuszonych zostało do emigracji. Po kolejnej fali brutalnie stłumionych [[Grudzień 1970|strajków robotniczych w 1970 roku]] Władysław Gomułka zrezygnował ze stanowiska I sekretarza, a jego miejsce zajął [[Edward Gierek]].
+
+Nowa ekipa rządowa podjęła próbę reformy gospodarki i przyspieszania wzrostu gospodarczego kraju. W wyniku reform wprowadzonych przez ekipę Gierka, które finansowano głównie z pożyczek zagranicznych, rozpoczęto budowę wielu nowych zakładów przemysłowych, zmechanizowano rolnictwo, budowano masowo osiedla mieszkaniowe. Podniósł się tez poziom życia społeczeństwa, wzrosła dostępność wielu produktów oraz wysokość zarobków. Z powodu błędów ekonomicznych wynikających ze stosowania [[Gospodarka planowa|centralnie planowanej gospodarki]] już w roku 1975 doprowadzono do załamania gospodarki i dużego zwiększenia [[Zadłużenie zagraniczne PRL|zadłużenia zagranicznego Polski]]. Zmusiło to rząd do wprowadzenia dużych podwyżek cen żywności, na co społeczeństwo zareagowało falą strajków i protestów, które wybuchły w [[Czerwiec 1976|czerwcu 1976]]. Strajki te zostały brutalnie stłumione przez milicję, a ich uczestnicy objęci represjami. Protesty w 1976 doprowadziły do powstania pierwszych organizacji opozycji antykomunistycznej.
+
+Kolejne strajki miały miejsce w [[Sierpień 1980|lipcu i sierpniu 1980 roku]]. Władze podjęły z protestującymi rozmowy, w wyniku których podpisano [[porozumienia sierpniowe]]. Porozumienia te gwarantowały m.in. powstanie legalnego związku zawodowego – [[Niezależny Samorządny Związek Zawodowy "Solidarność"|NSZZ „Solidarność”]]. We wrześniu 1980 Edward Gierek został odsunięty od władzy, a jego miejsce zajął [[Stanisław Kania]]. Po ponad rocznym okresie względnej swobody politycznej i społecznej w Polsce, w grudniu 1981 władze podjęły decyzję o [[Stan wojenny w Polsce 1981-1983|wprowadzeniu stanu wojennego]], co łączyło się z likwidacją wszelkich swobód obywatelskich, masowymi aresztowaniami działaczy opozycji i wprowadzaniem władzy wojskowej w kraju. Stan wojenny trwał do 1983 roku<ref name=igrzsko>{{cytuj książkę | nazwisko = Davies | imię = Norman | tytuł = Boże igrzysko. Historia Polski. | url = http://books.google.com/books?id=9Tbed6iMNLEC&printsec=frontcover&hl=pl&source=gbs_similarbooks_s&cad=1#v=onepage&q&f=true | wydanie = 5 | wydawca = Znak | miejsce = Kraków | rok = 2006 | isbn = 8324006540 | język = en | data dostępu = 18.08.2010}}</ref><ref name="Polska. Losy państwa i narodu 1939-1989">{{Cytuj książkę|imię=Andrzej|nazwisko=Friszke|tytuł=Polska. Losy państwa i narodu 1939–1945|wydawca=Wydawnictwo Iskry|miejsce=Warszaw|rok=2003|isbn = 83-207-1711-6|strony = 91}}</ref><ref name="Najnowsza historia Polski 1945-1980">{{Cytuj książkę|imię=Wojciech|nazwisko=Roszkowski|tytuł=Najnowsza historia Polski 1945–1980|wydawca=Świat Książki|miejsce=Warszawa|rok=2003|isbn = 83-7311-992-2|strony = 634-648}}</ref>.
+
+=== III Rzeczpospolita ===
+[[Plik:Podpisanie traktatu UE.jpg|mały|Podpisanie przez prezydenta [[Aleksander Kwaśniewski|Aleksandra Kwaśniewskiego]] traktatu dotyczącego przystąpienia Polski do Unii Europejskiej]]
+{{Main|III Rzeczpospolita}}
+Pod koniec 1988 w wielu miejscach Polski wybuchły strajki, których osłabione władze komunistyczne nie były w stanie stłumić. W tej sytuacji podjęły rozmowy z [[Lech Wałęsa|Lechem Wałęsą]] i innymi działaczami [[Niezależny Samorządny Związek Zawodowy "Solidarność"|„Solidarności”]], w wyniku których strajki zostały zakończone, natomiast władze zezwoliły na legalizację NSZZ „Solidarność” i na rozmowy o częściowym dopuszczeniu tej organizacji do władzy.
+
+Rozmowy te, znane jako [[Okrągły Stół (historia Polski)|obrady Okrągłego Stołu]], zostały przeprowadzone w pierwszej połowie 1989. W trakcie rozmów ustalono, że zostaną przeprowadzone wybory parlamentarne, w których kandydaci opozycji będą mogli otrzymać maksymalnie 35% miejsc w Sejmie oraz dowolną liczbę miejsc w Senacie. Władze komunistyczne zobowiązały się również do dopuszczenia do utworzenia wolnych mediów oraz do zakończenia represji wobec opozycjonistów. [[Wybory parlamentarne w Polsce w 1989 roku|Pierwsze częściowo wolne wybory]] odbyły się 4 i 18 czerwca 1989 – w ich wyniku [[Komitet Obywatelski "Solidarność"|Komitet Obywatelski „Solidarność”]] otrzymał maksymalną dopuszczoną liczbę miejsc w Sejmie. 24 sierpnia 1989 powstał pierwszy demokratyczny [[rząd Tadeusza Mazowieckiego]]. Rok później przeprowadzono [[Wybory prezydenckie w Polsce w 1990 roku|wybory prezydenckie]], które wygrał Lech Wałęsa.
+
+Demokratyczne władze Polski przeprowadziły w czasie pierwszych lat III Rzeczypospolitej wiele istotnych zmian i reform. Początkowo wprowadzono zmiany do [[Konstytucja Polskiej Rzeczypospolitej Ludowej|Konstytucji PRL]] zmieniające nazwę państwa na Rzeczpospolita Polska, przywracające do [[Godło Rzeczypospolitej Polskiej|godła]] orła w koronie i odrzucające zasady komunistycznego [[System jednopartyjny|systemu jednopartyjnego]]. W roku 1990 przyjęto pakiet reform gospodarczych znanych jako [[plan Balcerowicza]], polegający na wprowadzeniu [[Wolny rynek|wolnego rynku]], obniżeniu [[Inflacja|inflacji]] i [[Deficyt budżetowy|deficytu budżetowego]] oraz na dążeniu do przyspieszenia [[Wzrost gospodarczy|wzrostu gospodarczego]]. W 1997 roku przyjęto nową [[Konstytucja Rzeczypospolitej Polskiej|Konstytucję RP]], określającą zasady działania państwa funkcjonujące do dzisiaj.
+
+Kolejnymi prezydentami Polski byli [[Aleksander Kwaśniewski]] (1995–2000 i 2000–2005), [[Lech Kaczyński]] (2005–2010) i [[Bronisław Komorowski]] (od 2010). Od ukształtowania III RP w 1989 w kraju istniało [[Składy rządów polskich#Rządy III Rzeczypospolitej (od 1989)|15 ekip rządowych]], których działania doprowadziły do znacznego rozwoju państwa i wzrostu poziomu życia jego mieszkańców. Strategicznym celem rządów pierwszego dwudziestolecia III RP było wejście do [[NATO]] i [[Unia Europejska|Unii Europejskiej]], co zostało osiągnięte odpowiednio w 1999 i 2004 roku. Polska odgrywa istotną rolę w rozszerzonej Unii Europejskiej, czego znakiem było objęcie przez [[Jerzy Buzek|Jerzego Buzka]] w 2009 roku stanowiska [[Przewodniczący Parlamentu Europejskiego|przewodniczącego Parlamentu Europejskiego]]<ref name=igrzsko/>.
+
+== Ustrój polityczny ==
+{{Main|Ustrój polityczny Polski}}
+Na podstawie [[Konstytucja Rzeczypospolitej Polskiej|Konstytucji Rzeczypospolitej Polskiej]] z 1997 Polska jest [[Demokracja parlamentarna|republiką parlamentarną]] z [[System parlamentarno-gabinetowy|systemem parlamentarno-gabinetowym]], opierającą się na [[Trójpodział władzy|trójpodziale władzy]].
+
+=== Konstytucja ===
+{{Main|Konstytucja Rzeczypospolitej Polskiej}}
+Konstytucja Rzeczypospolitej Polskiej to najważniejszy [[akt prawny]] w Polsce, uchwalony 2 kwietnia 1997 przez [[Zgromadzenie Narodowe w Polsce|Zgromadzenie Narodowe]] i zatwierdzony w ogólnonarodowym [[Referendum 1997|referendum 25 maja 1997]]. Ogłoszony w {{Dziennik Ustaw|rok=1997|numer=78|pozycja=483}}, wszedł w życie 17 października 1997. Konstytucja złożona jest z [[Preambuła|preambuły]] i 13 rozdziałów, w tym 243 [[artykuł (prawo)|artykuły]]. [[Konstytucja]] określa charakter ustroju państwowego. Ukazuje sposób zorganizowania i działania głównych organów państwa. Definiuje status prawny [[obywatel]]i i sposób ich wpływania na politykę państwa.
+
+=== Władza ustawodawcza ===
+[[Plik:20070111 obrady sejmu sala plenarna1.jpg|mały|[[Sala Posiedzeń w Sejmie|Sala obrad Sejmu]]]]
+{{Main|Sejm Rzeczypospolitej Polskiej|Senat Rzeczypospolitej Polskiej}}
+[[Władza ustawodawcza|Władzę ustawodawczą]] stanowi dwuizbowy [[parlament]] (Sejm – 460 posłów, Senat – 100 senatorów) wybierany w bezpośrednich, powszechnych i tajnych [[Wybory parlamentarne|wyborach parlamentarnych]] na 4-letnią kadencję od dnia pierwszego posiedzenia. Jego głównym zadaniem jest stanowienie prawa poprzez uchwalanie ustaw konstytucyjnych i zwykłych, w tym budżetowej, a także ratyfikowanie umów międzynarodowych. W wyjątkowych przypadkach opisanych w Konstytucji możliwe jest rozwiązanie Sejmu (a jednocześnie Senatu) przed upływem końca kadencji przez głowę państwa lub uchwałę przyjętą większością 2/3 głosów. Jego przedłużenie możliwe jest jedynie w czasie [[Stan wyjątkowy|stanu wyjątkowego]] lub do 3 miesięcy po zakończeniu kadencji.
+
+Organizację Sejmu i Senatu, porządek prac oraz sposób powoływania i działalności ich organów określają regulaminy uchwalone przez każdą z izb.
+
+Sejm i Senat ze swego grona wybierają marszałka i wicemarszałków, którzy tworzą [[prezydium]]. [[Marszałek Sejmu Rzeczypospolitej Polskiej|Marszałek Sejmu]] jest najwyższym przedstawicielem izby niższej parlamentu, przewodniczy obradom Sejmu oraz reprezentuje go na zewnątrz. Sejm i Senat powołują również [[Komisja parlamentarna|komisje parlamentarne]]: stałe, które mają za zadanie przygotowywanie projektów w dziedzinie ustawodawstwa i kontroli (obecnie działa ich 39: 25 w Sejmie i 14 w Senacie) oraz nadzwyczajne, powoływane w celu rozpatrzenia konkretnych spraw izby i ulegające rozwiązaniu po wykonaniu zadania. Specjalnym rodzajem komisji nadzwyczajnej jest [[sejmowa komisja śledcza]].
+
+Posłowie i senatorowie mogą tworzyć [[Klub (parlament)|kluby parlamentarne]] składające się z co najmniej 15 parlamentarzystów, a posłowie ponadto [[Koło (parlament)|koła poselskie]], dla utworzenia których potrzeba 3 posłów.
+
+Przewodniczący klubów parlamentarnych wraz z członkami prezydium tworzą [[Konwent Seniorów]], organ zapewniający współdziałanie klubów poselskich w sprawach związanych z działalnością i tokiem prac izb w polskim parlamencie. Posłom i senatorom w okresie sprawowania przez nich mandatu przysługuje [[immunitet]].
+
+{{Zobacz też|Zgromadzenie Narodowe w Polsce}}
+
+==== Proces legislacyjny ====
+{{Main|Proces legislacyjny w Polsce}}
+Prawo [[Inicjatywa ustawodawcza|inicjatywy ustawodawczej]], na mocy art. 118 Konstytucji RP, przysługuje prezydentowi, rządowi, Senatowi, grupie 15 posłów lub komisji sejmowej, a także grupie 100 tys. obywateli<ref name="konst rozdz 4">{{cytuj stronę|url=http://www.sejm.gov.pl/prawo/konst/polski/4.htm|tytuł=Konstytucja Rzeczypospolitej Polskiej|język=pl|data dostępu=2010-07-28}}</ref>. Projekt ustawy trafia do tzw. [[Laska marszałkowska (Polska)|laski marszałkowskiej]]. Następnie odbywają się trzy czytania w Sejmie. Ustawę przyjętą przez Sejm rozpatruje Senat, który ma prawo zgłosić do niej poprawki lub ustawę odrzucić (po odrzuceniu ustawa wraca do Sejmu, gdzie bezwzględną większością głosów można odrzucić sprzeciw Senatu). Uchwalona przez Sejm i Senat ustawa trafia następnie do [[Prezydent Rzeczypospolitej Polskiej|Prezydenta RP]], który może w ciągu 21 dni przyjąć i podpisać ją, bądź zgłosić [[weto]] i przekazać do ponownego rozpatrzenia Sejmowi (weto prezydenckie może być odrzucone przez izbę niższą parlamentu większością 3/5 głosów w obecności co najmniej 230 posłów) lub wystąpić do [[Trybunał Konstytucyjny|Trybunału Konstytucyjnego]] z wnioskiem o zbadanie jej zgodności z [[Konstytucja Rzeczypospolitej Polskiej|Konstytucją]]. Podpisaną ustawę publikuje się w [[Dziennik Ustaw|Dzienniku Ustaw Rzeczypospolitej Polskiej]].
+
+==== System prawny ====
+{{Main|System prawny w Polsce}}
+System prawny w Polsce ma charakter tzw. prawa stanowionego, tzn. nie wykorzystuje w procesie stosowania prawa zjawiska [[precedens]]u, powszechnie występującego w [[Kraje anglosaskie|krajach anglosaskich]].
+
+{{Zobacz też|Prawa człowieka w Polsce}}
+
+=== Władza wykonawcza ===
+[[Plik:Koniecpolski palace warszawa.jpg|mały|[[Pałac Prezydencki w Warszawie]]]]
+[[Plik:Kancelaria rady ministrów (2).JPG|mały|[[Kancelaria Prezesa Rady Ministrów]]]]
+{{Main|Prezydent Rzeczypospolitej Polskiej|Rada Ministrów w Polsce}}
+Organami [[Władza wykonawcza|władzy wykonawczej]] w Polsce są: Prezydent RP oraz Rada Ministrów<ref name="konst rozdz 1">{{cytuj stronę|url=http://www.sejm.gov.pl/prawo/konst/polski/1.htm|tytuł=Konstytucja Rzeczypospolitej Polskiej|język=pl|data dostępu=2010-07-28}}</ref>. Prezydent jest wybierany w powszechnych [[Wybory prezydenckie w Polsce|wyborach prezydenckich]] na 5-letnią kadencję (wygrywa ten kandydat, który otrzyma bezwzględną większość głosów). Może on sprawować tę funkcję maksymalnie przez dwie kadencje. Według Konstytucji Prezydent jest najwyższym przedstawicielem państwa w stosunkach wewnętrznych i międzynarodowych, pełni rolę zwierzchnika [[Siły Zbrojne Rzeczypospolitej Polskiej|Sił Zbrojnych Rzeczypospolitej Polskiej]], stoi na straży nienaruszalności i niepodzielności terytorium kraju oraz czuwa nad przestrzeganiem Konstytucji. Do jego uprawnień należy, m.in. podpisywanie ustaw przyjętych przez Sejm i Senat, ratyfikowanie umów międzynarodowych, powoływanie sędziów, nadawanie [[Obywatelstwo polskie|obywatelstwa]] czy stosowanie prawa łaski<ref name="Dz.U. z 2000 r. nr 47; poz. 544">{{cytuj stronę|url=http://infor.pl/skany/spis.php?rodzaj=dzu&rok=2000&num=47&poz=544&str=0001|tytuł=Dziennik Ustaw Rzeczypospolitej Polskiej nr 47 z roku 2000|data=2000-06-12|strony=23|język=pl|data dostępu=2010-07-28}}</ref>.
+
+Organem doradczym Prezydenta RP w sprawach bezpieczeństwa państwa jest [[Rada Bezpieczeństwa Narodowego]]. W sprawach szczególnie ważnych dla interesu państwa prezydent może zwołać [[Rada Gabinetowa|Radę Gabinetową]] – wspólne posiedzenie głowy państwa wraz z Radą Ministrów. W pełnieniu funkcji i wykonywaniu obowiązków prezydentowi pomaga [[Kancelaria Prezydenta RP]].
+
+Rada Ministrów, czyli rząd, jest kolegialnym organem władzy wykonawczej. W jego skład wchodzą: [[prezes Rady Ministrów]] (premier), [[wicepremier]]zy, [[Minister|ministrowie]] oraz przewodniczący komitetów.
+
+Tryb tworzenia rządu określony jest w Konstytucji RP, w myśl której, prezydent desygnuje Radę Ministrów wraz z prezesem Rady Ministrów. Premier w terminie 14 dni, przedstawia Sejmowi program działania rządu ([[exposé]]) z wnioskiem o udzielenie [[wotum zaufania]] (poparcia). Sejm uchwala wotum zaufania bezwzględną większością głosów w obecności co najmniej połowy ustawowej liczby posłów. W przypadku, gdyby rządowi nie udzielono wotum zaufania, Sejm w ciągu kolejnych 14 dni wybiera premiera oraz proponowanych przez niego członków Rady Ministrów wg takich samych reguł głosowania. Prezydent RP powołuje tak wybrany rząd i odbiera przysięgę od jego członków. Na wypadek, gdyby w takim trybie rząd nie został powołany Konstytucja RP przewiduje inne rozwiązanie. Prezydent w terminie 14 dni powołuje Prezesa RM i na jego wniosek członków RM. Sejm w ciągu następnych 14 dni udziela jej wotum zaufania, tym razem większością głosów. W razie nieudzielenia w takim trybie rządowi wotum zaufania, Prezydent RP skraca kadencję Sejmu i zarządza nowe wybory.
+
+{{Zobacz też|Prezydenci Polski|Prezes Rady Ministrów|Premierzy Polski|Składy rządów polskich|Administracja rządowa w Polsce}}
+
+=== Władza sądownicza ===
+[[Plik:Sąd Najwyższy pl Krasińskich pegazy BK.JPG|mały|Gmach [[Sąd Najwyższy (Polska)|Sądu Najwyższego]]]]
+{{Main|Wymiar sprawiedliwości w Polsce}}
+Organami wymiaru sprawiedliwości w Polsce są: [[Sąd Najwyższy (Polska)|Sąd Najwyższy]], [[sądy powszechne]] ([[Sąd rejonowy|rejonowe]], [[Sąd okręgowy|okręgowe]] i [[Sąd apelacyjny|apelacyjne]]) oraz [[sądy szczególne]] ([[Sądownictwo wojskowe|sądy wojskowe]] i [[Sąd administracyjny|administracyjne]] – wojewódzkie sądy administracyjne i [[Naczelny Sąd Administracyjny]]). Wespół z [[Trybunał Stanu|Trybunałem Stanu]] i [[Trybunał Konstytucyjny|Trybunałem Konstytucyjnym]] tworzą niezawisłą [[Sąd|władzę sądowniczą]].
+
+Podstawą władzy sądowniczej jest wyłącznie [[prawo]], niezależne od innych organów państwowych. [[Sąd]]y i [[trybunał]]y wydają wyroki w imieniu Rzeczypospolitej Polskiej, wszyscy sędziowie i członkowie trybunałów podlegają wyłącznie Konstytucji RP i ustawom. Sędziowie nie mogą należeć do żadnej partii politycznej ani związków zawodowych (apolityczność). Nie wolno im również prowadzić działalności publicznej sprzecznej z zasadami niezależności sądów i niezawisłości sędziów.
+
+Do kompetencji wymiaru sprawiedliwości należy orzekanie w rozpoznawanych sprawach z zakresu [[Prawo karne|prawa karnego]], [[Prawo cywilne|prawa cywilnego]] i [[Prawo administracyjne|prawa administracyjnego]].
+
+{{Zobacz też|Sądownictwo Wojska Polskiego}}
+
+=== Partie polityczne ===
+{{Main|Partie polityczne Polski}}
+Status prawny polskich partii politycznych określają: [[Konstytucja Rzeczypospolitej Polskiej]] oraz ustawa z 27 czerwca 1997, w której zapisana jest pełna definicja partii politycznej, brzmiąca następująco:
+
+: ''Partia polityczna jest dobrowolną organizacją występującą pod określoną nazwą, stawiającą sobie za cel udział w życiu publicznym poprzez wywieranie metodami demokratycznymi wpływu na kształtowanie polityki państwa lub sprawowanie władzy publicznej.''
+
+Artykuł 13. Konstytucji RP zakazuje istnienia partii odwołujących się w swoich programach do [[Totalitaryzm|totalitarnych]] metod i praktyk działania [[Narodowy socjalizm|nazizmu]], [[faszyzm]]u i [[komunizm]]u, a także tych, których program lub działalność zakłada lub dopuszcza nienawiść rasową i narodowościową, stosowanie przemocy w celu zdobycia władzy lub wpływu na politykę państwa albo przewiduje utajnienie struktur lub członkostwa.
+
+Każda partia, która nie łamie art. 13 Konstytucji, podlega wpisaniu do ewidencji partii politycznych prowadzonej przez Sąd Okręgowy w Warszawie (wniosek musi być poparty przez co najmniej tysiąc pełnoletnich obywateli). Ewidencja partii politycznych jest jawna i dostępna dla każdego. Po wpisaniu do ewidencji partia ma moc prawną i jest objęta ochroną prawną przewidzianą dla dóbr osobistych.
+
+W trakcie kadencji od 2007 rozkład poszczególnych mandatów i liczba klubów i kół poselskich uległy jednak zmianie<ref name="sejm członkowie różnica">{{cytuj stronę|url=http://www.sejm.gov.pl/poslowie/kluby/kluby_kola.htm|tytuł=Aktualne kluby i koła Sejmu RP VI Kadencji|data=2011-04-10|język=pl|data dostępu=2011-04-11}}</ref>.
+
+W wyborach w 2007 zaznaczyły się różnice między preferencjami politycznymi różnych regionów. Platforma Obywatelska wygrała we wszystkich okręgach Polski zachodniej, Prawo i Sprawiedliwość zaś we wszystkich okręgach wschodniej Polski z wyłączeniem okręgu warszawskiego, podwarszawskiego, łódzkiego i krakowskiego. PO wygrało także we wszystkich miastach wojewódzkich oprócz Rzeszowa i Kielc. Z kolei LiD był drugą siłą polityczną w części powiatów zachodniej Polski, gdzie udało mu się osiągnąć nawet 25%.
+
+==== Partie w Sejmie od 2011 ====
+Po wyborach parlamentarnych w 2011 r. mandaty rozkładają się następująco w Sejmie<ref name="PKW 2011">{{cytuj stronę|url=http://wybory2011.pkw.gov.pl/wsw/pl/sjm-22.html|tytuł=Wybory do Sejmu Rzeczypospolitej Polskiej 2011. Wyniki głosowania|opublikowany=[[Państwowa Komisja Wyborcza]]|data dostępu=2011-10-13}}</ref>:
+* [[Platforma Obywatelska|Platforma Obywatelska RP]] (39,18%, 207 mandaty),
+* [[Prawo i Sprawiedliwość]] (29,89%, 157 mandatów),
+* [[Ruch Palikota]] (10,02%, 40 mandatów),
+* [[Polskie Stronnictwo Ludowe]] (8,36%, 28 mandatów),
+* [[Sojusz Lewicy Demokratycznej]] (8,24%, 27 mandatów)
+* [[Mniejszość Niemiecka (komitet wyborczy)|Komitet Wyborczy Wyborców Mniejszość Niemiecka]] (0,19%, 1 mandat).
+
+Obecnie Ruch Palikota ma 41 posłów, ponieważ z SLD przeszedł [[Sławomir Kopyciński]].
+
+7 listopada 2011 został zawiązany klub [[Solidarna Polska]]. Utworzyło go 16 posłów i 1 senator [[Prawo i Sprawiedliwość|Prawa i Sprawiedliwości]].
+
+==== Komitety Wyborcze w Senacie od 2011 ====
+Po wyborach parlamentarnych w 2011 r. mandaty rozkładają się następująco w Senacie<ref name="PKW 2011">{{cytuj stronę|url=http://wybory2011.pkw.gov.pl/wsw/pl/sjm-22.html|tytuł=Wybory do Sejmu Rzeczypospolitej Polskiej 2011. Wyniki głosowania|opublikowany=[[Państwowa Komisja Wyborcza]]|data dostępu=2011-10-13}}</ref>:
+* Komitet Wyborczy Platforma Obywatelska RP – 63 senatorów
+* Komitet Wyborczy Prawo i Sprawiedliwość – 31 senatorów
+* Komitet Wyborczy Polskie Stronnictwo Ludowe – 2 senatorów
+* Komitet Wyborczy Wyborców Cimoszewicz do Senatu – 1 senator
+* Komitet Wyborczy Wyborców Kazimierza Kutza – 1 senator
+* Komitet Wyborczy Wyborców Marka Borowskiego – 1 senator
+* Komitet Wyborczy Wyborców Rafał Dutkiewicz – 1 senator
+
+=== Polityka zagraniczna ===
+{{Main|Polityka zagraniczna Polski}}
+
+==== Cele polityki zagranicznej Polski ====
+Podstawowe cele polityki zagranicznej w latach 90. XX wieku pozostawały niezmienne mimo zmian politycznych w parlamencie i rządzie. Były to: członkostwo w [[NATO]] oraz [[Unia Europejska|Unii Europejskiej]], współtworzenie stabilnego systemu bezpieczeństwa europejskiego opartego na współdziałaniu NATO, [[Unia Zachodnioeuropejska|UZE]], [[Organizacja Bezpieczeństwa i Współpracy w Europie|OBWE]] oraz [[Organizacja Narodów Zjednoczonych|ONZ]], utrzymywanie dobrosąsiedzkich stosunków z państwami regionu, działanie na rzecz współpracy regionalnej, zrównoważona polityka wobec Zachodu i Wschodu, popieranie procesów rozbrojeniowych, ochrona tożsamości narodowej i dziedzictwa kulturowego, rozwinięte kontakty z [[Polonia|Polonią]]<ref>{{cytuj książkę|autor=Kuźniar|autor2=Szczepanik|tytuł=Polityka zagraniczna RP 1989–2005}}</ref>.
+
+W początkach XXI wieku polityka zagraniczna Polski koncentrowała się na czterech priorytetach: osiągnięciu członkostwa w UE, umacnianiu bezpieczeństwa państwa, poprawie stosunków ekonomicznych z zagranicą oraz umacnianie stabilności regionalnej i pozycji Polski w Europie Środkowo-Wschodniej<ref>Exposé ministra [[Bronisław Geremek|Bronisława Geremka]] z maja 2000, według {{cytuj stronę|url=http://www.opracowania.info /readarticle.php?article_id=1566|tytuł=Główne założenia polskiej polityki zagranicznej po 1989 r.|data dostępu=7 grudnia 2008}}</ref>.
+
+Minister [[Radosław Sikorski]] w exposé 7 maja 2008 sformułował kierunki polskiej polityki zagranicznej w pięciu obszarach<ref>{{cytuj stronę|url=http://www.psz.pl/index.php?option=com_content&task=view&id=10851|tytuł=Polska/ Expose Sikorskiego nt. polskiej polityki zagranicznej|data dostępu=7 grudnia 2008}}</ref>:
+* „Polska silna mocą solidarnej Unii Europejskiej” (pełniejsze wykorzystywanie możliwości wynikających z uczestnictwa w UE)
+* „rola Polski w światowym systemie bezpieczeństwa” (bezpieczeństwo energetyczne, dywersyfikacja źródeł i szlaków dostaw surowców, zaangażowanie w działania stabilizacyjne NATO, modernizacja NATO, ulokowanie elementów infrastruktury wojskowej Sojuszu w Polsce, rozszerzenie NATO o Ukrainę i Gruzję);
+* „wzmocnienie wizerunku Polski na świecie”;
+* „Polonia” (zwiększenie liczby urzędów konsularnych, reforma polskiego systemu edukacyjnego, która pozwoli obywatelom na stałe mieszkającym za granicą na kontynuację nauki w języku polskim oraz reedukację tych, którzy będą chcieli wrócić, głosowanie korespondencyjne bądź przez Internet);
+* „nowoczesna służba dyplomatyczna”.
+
+{{Zobacz też|Polska w Unii Europejskiej}}
+
+== Siły zbrojne ==
+[[Plik:Krzesiny 10RB.JPG|mały|Jeden z 48 polskich F-16]]
+{{Main|Siły Zbrojne Rzeczypospolitej Polskiej}}
+„Siły Zbrojne Rzeczypospolitej Polskiej” to główne określenie wojska polskiego, dzielącego się (2008) na: [[Wojska Lądowe Rzeczypospolitej Polskiej|Wojska Lądowe]], [[Siły Powietrzne Rzeczypospolitej Polskiej|Siły Powietrzne]], [[Wojska Specjalne Rzeczypospolitej Polskiej|Wojska Specjalne]] oraz [[Marynarka Wojenna Rzeczypospolitej Polskiej|Marynarkę Wojenną]]. Ich głównym zadaniem jest obrona granic Polski przed atakami z zewnątrz, oraz współpraca z [[NATO]]. Polskie SZ liczyły 1 stycznia 2006 137 200 żołnierzy i poborowych w służbie czynnej.
+
+Głównym zadaniem Sił Powietrznych jest prowadzenie operacji mających na celu uzyskanie przewagi w powietrzu i wspieranie oddziałów innych Rodzajów Sił Zbrojnych. Składają się z [[Wojska lotnicze|Wojsk Lotniczych]], [[Wojska Obrony Powietrznej Kraju|Wojsk Obrony Przeciwlotniczej]] i [[Wojska radiotechniczne|Wojsk Radiotechnicznych]]. Ich prekursorem były siły powietrzne [[Armia Polska we Francji|Błękitnej Armii]] podczas I wojny światowej. Do 2004 nosiły nazwę: Wojska Lotnicze i Obrony Powietrznej Rzeczypospolitej Polskiej.
+
+Marynarka Wojenna odpowiada za obronę wybrzeża i [[Morze terytorialne|wód terytorialnych]]. Pod względem [[Jednostki organizacyjne Marynarki Wojennej Rzeczypospolitej Polskiej|organizacyjnym]] jest związkiem operacyjnym – [[Flota|flotą]]. Początek wojenno-morskiej obecności Polski na Bałtyku datuje się na XV wiek, natomiast współczesne polskie siły morskie powstały w 1918 po odzyskaniu niepodległości.
+
+{{Zobacz też|Wojsko Polskie w operacjach pokojowych}}
+
+== Podział administracyjny ==
+{{Main|Podział administracyjny Polski}}
+Polska jest państwem unitarnym<ref>Art. 3 Konstytucji</ref>, a ustrój jej władzy lokalnej opiera się na dualizmie, gdyż poza agendami administracji rządowej istnieje samorząd terytorialny<ref>{{cytuj książkę|nazwisko=Garlicki|imię=Leszek|autor link=Leszek Garlicki|tytuł=Polskie prawo konstytucyjne|wydanie=11|wydawca=Liber|miejsce=Warszawa|rok=2007|strony=299|isbn=978-83-7206-142-3}}</ref>, powołany do zadań publicznych niezastrzeżonych dla innych organów władzy<ref>Art. 163 Konstytucji</ref>. Jego podstawową jednostkę stanowi [[gmina]]<ref>Art. 164 ust. 1 Konstytucji</ref>.
+
+{{Polska województwa 2|float=right}}
+Od 1 stycznia 1999 obowiązuje trzystopniowy podział administracyjny kraju na:
+* '''16 [[województwo|województw]]'''
+: składających się w sumie z
+:* 65 [[Miasto na prawach powiatu|miast na prawach powiatu]] i
+:* 314 [[powiat]]ów
+:: które składają się w sumie z
+::* '''2479 [[gmina|gmin]]'''
+::: w tym
+:::* 306 [[gmina miejska|gmin miejskich]]
+:::* 602 [[gmina miejsko-wiejska|gmin miejsko-wiejskich]]
+:::* 1571 [[gmina wiejska|gmin wiejskich]]
+
+(wg stanu z 1 stycznia 2011)
+
+=== Samorząd terytorialny ===
+{{Main|Samorząd terytorialny w Polsce}}
+W Polsce wyróżnia się trójszczeblowy samorząd<ref name="G301">{{cytuj książkę|nazwisko=Garlicki|imię=Leszek|autor link=Leszek Garlicki|tytuł=Polskie prawo konstytucyjne|wydanie=11|wydawca=Liber|miejsce=Warszawa|rok=2007|strony=301|isbn=978-83-7206-142-3}}</ref>:
+* [[samorząd gminny]];
+* [[samorząd powiatowy]];
+* [[samorząd województwa]].
+Jednostki samorządu terytorialnego (gminy, powiaty i województwa) mają osobowość prawną<ref>Art. 165 ust. 1 Konstytucji</ref> i zapewniony udział w dochodach publicznych<ref>Art. 167 Konstytucji</ref>. [[Wybory samorządowe|Wybory do organów stanowiących]] są powszechne, równe, bezpośrednie i przeprowadzane w głosowaniu tajnym<ref>Art. 169 ust. 1 Konstytucji</ref>.
+
+== Geografia ==
+{| style="float:right;"
+| {{Polska mapa|float=right}}
+|}
+[[Plik:Physico-Geographical Regionalization of Poland.png|mały|Mapa [[Regionalizacja fizycznogeograficzna Polski|regionów fizycznogeograficznych Polski]]]]
+[[Plik:Polska hydrografia2.jpg|mały|Sieć hydrograficzna Polski]]
+{{Main|Geografia Polski}}
+Polska zajmuje 9. miejsce w Europie pod względem powierzchni oraz 8. pod względem liczby ludności. Długość [[Granice Polski|granic Polski]] wynosi 3511&nbsp;km, w tym 440&nbsp;km przypada na granicę morską (linia [[Wybrzeże|wybrzeża]] [[Morze Bałtyckie|Morza Bałtyckiego]], która nie jest linią granicy państwa, wynosi 770&nbsp;km).
+Graniczy z następującymi państwami<ref>{{cytuj pismo | nazwisko = Dmochowska (red.) | imię = Halina | tytuł = Warunki naturalne i ochrona środowiska | url = http://www.stat.gov.pl/cps/rde/xbcr/gus/PUBL_oz_maly_rocznik_statystyczny_2011.pdf | czasopismo = Mały Rocznik Statystyczny Polski 2011 | strony = 26 | data = 2011-07-21 | wydawca = [[Główny Urząd Statystyczny]] | miejsce = Warszawa | issn = 1640-3630 | język = pl | data dostępu = 2011-10-29}}</ref>
+* od zachodu z [[Niemcy|Niemcami]] (467&nbsp;km),
+* od południa z [[Czechy|Czechami]] (796&nbsp;km) i [[Słowacja|Słowacją]] (541&nbsp;km),
+* od wschodu z [[Ukraina|Ukrainą]] (535&nbsp;km) i [[Białoruś|Białorusią]] (418&nbsp;km),
+* od północy z [[Litwa|Litwą]] (104&nbsp;km) i [[Rosja|Rosją]] ([[obwód kaliningradzki]], 210&nbsp;km).
+Długość granicy morskiej wynosi 440&nbsp;km.
+
+Po 1945 dokonano pewnych [[Korekty granic Polski od 1945 roku|korekt granic Polski]].
+
+W wymiarze północ-południe Polska rozciąga się na długości 649&nbsp;km, to jest 5° i 50'. Powoduje to różnicę w długości trwania dnia między północną i południową częścią Polski. Latem na północy dzień jest dłuższy o ponad godzinę niż na południu, zimą – odwrotnie. W wymiarze wschód-zachód rozpiętość Polski wynosi 689&nbsp;km, co w mierze kątowej daje 10° 02'.
+
+Polska leży w strefie czasu środkowoeuropejskiego, jest to czas słoneczny [[południk]]a 15° przebiegającego m.in. na zachód od [[Jelenia Góra|Jeleniej Góry]], [[Zielona Góra|Zielonej Góry]] i [[Gorzów Wielkopolski|Gorzowa Wielkopolskiego]] oraz na wschód od [[Szczecin]]a.
+
+[[Geometryczny środek Polski]] znajduje się w [[Piątek (województwo łódzkie)|Piątku]] koło [[Łęczyca|Łęczycy]]. Najstarszy (1775) obliczony [[Środek Europy|geometryczny środek Europy]] znajduje się w [[Suchowola|Suchowoli]] koło [[Sokółka|Sokółki]], w województwie podlaskim. Przez Polskę przebiega również granica pomiędzy kontynentalnym blokiem Europy Wschodniej, a rozczłonkowaną przez morza wewnętrzne Europą Zachodnią.
+
+Współrzędne geograficzne skrajnych punktów Polski:
+* 49°00' [[Szerokość geograficzna|szer. geogr. N]] – szczyt [[Opołonek]],
+* 54°50' [[Szerokość geograficzna|szer. geogr. N]] – [[Jastrzębia Góra]]<ref group="uwagi">Najbardziej na północ wysuniętą latarnią morską w Polsce jest latarnia na przylądku [[Przylądek Rozewie|Rozewie]], położona niedaleko [[Władysławowo|Władysławowa]] i czasem to Rozewiu przypisuje się – błędnie – skrajnie północne położenie w Polsce; jest ona jednak o kilkaset metrów mniej wysunięta w morze niż plaże Jastrzębiej Góry.</ref> w [[Gmina Władysławowo|gminie Władysławowo]],
+* 14°07' [[Długość geograficzna|dług. geogr. E]] – łuk [[Odra|Odry]] koło [[Osinów Dolny|Osinowa Dolnego]],
+* 24°09' [[Długość geograficzna|dług. geogr. E]] – kolano [[Bug]]u koło [[Zosin (powiat hrubieszowski)|Zosina]].
+
+=== Rzeki i jeziora ===
+{{Main|Rzeki Polski|Jeziora Polski}}
+Najdłuższe rzeki w Polsce to [[Wisła]] (o długości 1047&nbsp;km), [[Odra]] (854&nbsp;km, w granicach Polski 742&nbsp;km), [[Warta]] (808&nbsp;km), [[Bug]] (772&nbsp;km; w granicach Polski 224&nbsp;km; odcinek graniczny 363&nbsp;km), [[Narew]] (484&nbsp;km) i [[San]] (443&nbsp;km).
+
+Największe [[Jezioro|jeziora]] w Polsce to [[Śniardwy]] (113,8&nbsp;km²) i [[Mamry]] (104&nbsp;km²) na [[Mazury|Mazurach]]. Są to stosunkowo płytkie jeziora morenowe. Najgłębszym polskim jeziorem jest jezioro [[Hańcza (jezioro)|Hańcza]] (108,5 m), nieco bardziej na wschód, na [[Suwalszczyzna|Pojezierzu Wschodniosuwalskim]]. Są głównie jeziora pochodzenia [[Lodowiec|lodowcowego]] i są położone przede wszystkim w północnej części kraju, zgrupowane na obszarach zwanych pojezierzami. Na terenie Polski występuje 7081 jezior o powierzchni większej niż 1 ha<ref name=jeziora>{{cytuj książkę | nazwisko = Mordawski | imię = Jan | tytuł = Geografia 3: geografia Polski: podręcznik dla liceum ogólnokształcącego, liceum profilowanego i technikum: zakres podstawowy | rok = 2003 | wydawca = Operon | isbn = 83-7390-004-7 | strony = 45}}</ref> (ich łączna powierzchnia to 281 377 ha). W stosunku do roku 1954 liczba jezior zmniejszyła się aż o 2215, czyli ponad 11 proc. Spowodowane to było szybkim zanikaniem najmniejszych jezior. [[Jeziorność]] Polski wynosi tylko 0,9 proc. powierzchni kraju<ref name=jeziora2>{{cytuj książkę | nazwisko = Mordawski | imię = Jan | tytuł = Geografia 3: geografia Polski: podręcznik dla liceum ogólnokształcącego, liceum profilowanego i technikum: zakres podstawowy | rok = 2003 | wydawca = Operon | isbn = 83-7390-004-7 | strony = 43}}</ref>. Dla porównania w [[Szwecja|Szwecji]] jeziora zajmują ponad 8,5 proc. powierzchni, a jezior o powierzchni powyżej 2 akrów (ok. 0,81 ha) jest tam ponad 97,5 tysiąca<ref name=szwecja>{{cytuj stronę | url = http://www.sverigeturism.se/smorgasbord/smorgasbord/natrecspo/nature/lakes.html | tytuł = Lakes, Streams and Rivers | data dostępu = 2009-10-30 | opublikowany = Smorgasbord | język = en}}</ref>.
+
+=== Budowa geologiczna ===
+Na obszarze Polski stykają się 3 wielkie jednostki tektoniczne:
+# [[Platforma wschodnioeuropejska w Polsce|platforma prekambryjska]] wschodniej Europy (wschodnia i północno-wschodnia Polska), a więc [[Nizina Wschodnioeuropejska]];
+# [[platforma paleozoiczna]] środkowej i zachodniej Europy ([[Pozaalpejska Europa Środkowa]]). Spod pokrywy osadowej tej platformy wyłaniają się części [[Górotwory kaledońskie|górotworów kaledońskich]] i [[Górotwory hercyńskie|hercyńskich]] ([[Sudety Zachodnie]] i [[Sudety Wschodnie|Wschodnie]], [[Góry Świętokrzyskie]]);
+# [[alpidy]] ([[Karpaty]] z [[Podkarpacie]]m).
+
+=== Ukształtowanie powierzchni ===
+[[Plik:Poland topo.jpg|mały|Mapa hipsometryczna Polski]]
+{{Main|Góry w Polsce|Najwyższe szczyty w Polsce}}
+Przeważającą część obszaru kraju zajmują tereny [[Nizina|nizinne]] wschodniej części [[Nizina Środkowoeuropejska|Niżu Środkowoeuropejskiego]], a średnia wysokość wynosi 173 m [[n.p.m.]] [[Krainy geograficzne w Polsce]] ułożone są równoleżnikowo (pasowo) przechodząc od terenów nizinnych na północy i w Polsce centralnej do terenów [[Wyżyna|wyżynnych]] i [[Góra|górskich]] na południu.
+Polska ma 70 szczytów powyżej 2000 metrów wysokości, wszystkie w [[Tatry|Tatrach]]. Najwyższym punktem kraju są [[Rysy]] – szczyt w [[Tatry Wysokie|Tatrach Wysokich]] (2499,1 m n.p.m.), najniżej położonym punktem jest [[depresja (geografia)|depresja]] [[Raczki Elbląskie]] na [[Żuławy Wiślane|Żuławach Wiślanych]] (-1,8 m n.p.m.).
+
+=== Klimat ===
+[[Plik:Polska średnia temperatura.png|mały|left|Średnia roczna temperatura]]
+[[Plik:Polska opad roczny.png|mały|Opad normalny]]
+Polska leży w strefie [[Klimat umiarkowany|klimatu umiarkowanego]] ciepłego przejściowego. W wyższych partiach [[Sudety|Sudetów]] i [[Karpaty|Karpat]] występuje klimat górski. Latem średnia temperatura to od 17&nbsp;°C na wybrzeżu do 19,3&nbsp;°C na [[Dolny Śląsk|Dolnym Śląsku]] i w okolicach [[Tarnów|Tarnowa]]. Zimą od około 0&nbsp;°C w [[Świnoujście|Świnoujściu]], –1&nbsp;°C na [[Nizina Śląska|Nizinie Śląskiej]], [[Ziemia Lubuska|Ziemi Lubuskiej]] i wybrzeżu, –3&nbsp;°C w [[Warszawa|Warszawie]] do poniżej –5&nbsp;°C na Suwalszczyźnie. Średnia roczna temperatura waha się od ponad 9&nbsp;°C w okolicach [[Wrocław]]ia, [[Legnica|Legnicy]] i [[Zielona Góra|Zielonej Góry]] do około 6&nbsp;°C na Suwalszczyźnie.
+
+Opady roczne wynoszą około 600&nbsp;mm. Najniższe – około 500&nbsp;mm – notuje się na [[Kujawy|Kujawach]], co związane jest z położeniem tego obszaru w [[Cień opadowy|cieniu opadowym]] pojezierzy; najwyższe – z wyjątkiem gór – notuje się na środkowej części wybrzeża i na [[Wyżyna Śląska|Wyżynie Śląskiej]] (około 750–800&nbsp;mm rocznie).
+
+[[Okres wegetacyjny]] trwa przeciętnie od 180-190 dni na północnym wschodzie kraju do 235 dni w okolicach [[Słubice|Słubic]], [[Głogów|Głogowa]] i [[Wrocław]]ia.
+
+Liczba dni z pokrywą śnieżną jest zróżnicowana i wzrasta w miarę przesuwania się na wschód. Na [[Nizina Szczecińska|Nizinie Szczecińskiej]], [[Ziemia Lubuska|Ziemi Lubuskiej]] i na [[Nizina Śląska|Nizinie Śląskiej]] pokrywa śnieżna zalega przez mniej niż 40 dni w roku, w centrum Polski około 60 dni, a na Suwalszczyźnie przez ponad 100 dni.
+
+Dni gorące, z temperaturą maksymalną powyżej 25&nbsp;°C, występują od kwietnia do września, czasem także w październiku. Jest ich od około 10-20 na wybrzeżu do ponad 40 na [[Podkarpacie|Podkarpaciu]] i [[Nizina Śląska|Nizinie Śląskiej]]. Dni upalnych, z temperaturą maksymalną powyżej 30&nbsp;°C notuje się od 1 na północy do 8 w okolicach [[Wrocław]]ia, [[Tarnów|Tarnowa]] i [[Słubice|Słubic]].
+
+Ekstremalne temperatury powietrza zanotowane na terytorium Polski to +40,2&nbsp;°C ([[Prószków]] k. Opola, 29 lipca 1921 r.) oraz –42,2&nbsp;°C ([[Olecko]], 9 lutego 1929 r.), –42&nbsp;°C ([[Dubie (województwo małopolskie)|Dubie]] k. Krakowa, 2 lutego 1929 r.), –41&nbsp;°C ([[Siedlce]], 11 stycznia 1940 r.), –40,6&nbsp;°C ([[Żywiec]], 10 lutego 1929 r.), –39,6&nbsp;°C ([[Jelenia Góra]], 10 lutego 1956 r.), –37&nbsp;°C ([[Stuposiany]], 28 grudnia 1996 r.).
+
+== Środowisko naturalne ==
+=== Flora ===
+{{Main|Szata roślinna Polski}}
+W granicach Polski stwierdzono dotychczas występowanie blisko 3000 rodzimych i trwale zadomowionych [[takson]]ów w randze [[Gatunek (biologia)|gatunku]] i podgatunku roślin [[Okrytonasienne|okrytonasiennych]] '' (Magnoliophyta)''<ref>{{cytuj książkę|nazwisko=Mirek|imię=Z.|nazwisko2=Piekos-Mirkowa|imię2=H.|nazwisko3=Zając|imię3=A i M.|rok=2002|tytuł=Flowering plants and Pteridophytes of Poland – a checklist. Krytyczna lista roślin naczyniowych Polski|wydawca=IB PAN|miejsce=Kraków|isbn=83-85444-83-1}}</ref>. Poza tym, występuje na jej obszarze 67 gatunków [[paprotniki|paprotników]] '' (Pteridophyta)'', 910 gatunków [[Mszaki|mszaków]] '' (Bryophyta)'', 2000 gatunków [[Zielenice|zielenic]] '' (Chlorophyta)'', 25 gatunków [[Ramienicowce|ramienic]] i 39 gatunków [[Krasnorosty|krasnorostów]] '' (Rhodophyta)''<ref>{{cytuj książkę|nawisko=Andrzejewski|imię=R.|nazwisko2=Weigle|imię2=A.|rok=1992|tytuł=Polskie studium różnorodności biologicznej|wydawca=Narodowa Fundacja Ochrony Środowiska|isbn=83-85908-01-3}}</ref>.
+
+=== Fauna ===
+[[Plik:Zubr BPN 06.jpg|mały|[[Żubr]]]]
+{{Main|Fauna Polski}}
+[[Fauna]] Polski należy do [[Prowincja europejsko-zachodniosyberyjska|prowincji europejsko-zachodniosyberyjskiej]], wchodzącej w skład [[Kraina palearktyczna|Palearktyki]]. Należy ona do średnio zróżnicowanych pod względem gatunkowym i reprezentowana jest przez ok. 33 tys. gatunków zwierząt (są szacunki, które mówią, iż po dokładnej analizie będzie to liczba znacznie wyższa, dochodząca do 47 tys.). Znaczna część spośród tych gatunków występuje (lub występowała – jak [[żubr]]) nie tylko w Polsce, ale też innych obszarach Europy.
+
+Na terenie kraju występuje ponad 90 gatunków [[Ssaki|ssaków]]<ref name="ssaki">W różnych źródłach podawane są odmienne liczby gatunków ssaków żyjących na terenie Polski: od 89 do 107.</ref>, 444 gatunki [[Ptaki|ptaków]] (z czego ok. 220 gniazdowych), 9 gatunków [[Gady|gadów]], 18 – [[Płazy|płazów]], 119 gatunków [[Ryby|ryb]] (w tym 55 słodkowodnych), 5 gatunków [[Bezżuchwowce|bezżuchwowców]], ok. 260 gatunków [[Mięczaki|mięczaków]], 25–30 tysięcy gatunków [[Owady|owadów]], ok. 1400 gatunków [[Pajęczaki|pajęczaków]], ok. 240 gatunków [[Pierścienice|pierścienic]], 5 – [[Jamochłony|jamochłonów]], 8 – [[Gąbki|gąbek]] oraz ok. 4 tysięcy gatunków [[Pierwotniaki|pierwotniaków]].
+
+Pod względem występowania gatunków zwierząt Polska dzieli się na 7 [[Krainy zoogeograficzne|krain zoogeograficznych]]: [[Kraina południowobałtycka|południowobałtycką]], [[Kraina śląska|śląską]], [[Kraina opolska|opolską]], [[Kraina kielecka|kielecką]], [[Kraina karpacko-sudecka|karpacko-sudecką]], [[Kraina Jury polskiej|krainę Jury polskiej]] i [[Kraina podalpejska|podalpejską]].
+
+Skład gatunkowy polskiej fauny ukształtował się dopiero po ostatnim [[Zlodowacenie|zlodowaceniu]], kiedy to po ustąpieniu [[Lodowiec|lodowców]] z terenów południowych napłynęły nowe gatunki zwierząt. Także w czasach historycznych zmieniała się lista zwierząt żyjących na terenie kraju: niektóre gatunki przestawały być obecne w faunie Polski (np. [[tur]]y, [[Tarpan (koń)|tarpany]], [[Soból|sobole]]), inne zaś dołączały do krajowych gatunków, czy to na drodze świadomej introdukcji (np. [[bażant]]y, [[muflon]]y, [[Daniel (zwierzę)|daniele]]), czy to w wyniku przypadku ([[jenot]]y, [[piżmak]]i, ostatnio też [[Szop pracz|szopy pracze]], z [[Owady|owadów]] m.in. [[Stonka ziemniaczana|stonki]]).
+
+Większość gatunków obecnie występujących w Polsce stanowią zwierzęta [[Las|leśne]] strefy lasów liściastych (jak [[Jeleń szlachetny|jelenie]], [[Sarna|sarny]], [[dzik]]i). W północno-wschodniej części Polski żyją też gatunki typowe dla strefy [[Tajga|tajgi]], a nawet [[Tundra|tundry]] (np. [[Puszczyk zwyczajny|puszczyki]], [[Łoś|łosie]], [[Zając bielak|zające bielaki]]), zaś w południowo-wschodniej także gatunki [[step]]owe ([[Suseł|susły]], [[Żołna zwyczajna|żołny]] i in.). Nieco odmienny od reszty kraju skład gatunkowy ma fauna obszarów górskich ([[Karpaty]], [[Sudety]]). Poza gatunkami typowymi dla tego typu środowiska (jak [[kozica]] czy [[świstak]]) żyją tam też zwierzęta wytępione na pozostałym obszarze kraju ([[Ryś|rysie]], [[żbik]]i i [[Niedźwiedź brunatny|niedźwiedzie]]). Niektóre z gatunków polskiej fauny są typowymi zwierzętami [[Gatunek synantropijny|synantropijnymi]] (np. [[szczur]]y i [[Wróbel zwyczajny|wróble]]).
+
+=== Ochrona przyrody ===
+{{Main|Ochrona przyrody w Polsce}}
+W Polsce prowadzi się aktywne działania mające na celu ochronę przyrody. Chociaż pewne działania w zakresie ochrony przyrody można spotkać już w średniowieczu i wiekach późniejszych, to przemyślane i planowe działania oparte na naukowych podstawach podjęto na szerszą skalę dopiero w 2. połowie XX wieku. Najcenniejsze obszary chroni sieć [[Park narodowy|parków narodowych]] i [[rezerwat przyrody|rezerwatów przyrody]].
+Po akcesji do Unii Europejskiej w Polsce wprowadzono także sieć obszarów [[Natura 2000]], na których chroni się elementy przyrody zagrożone w skali Europy. Poza obszarowymi formami ochrony obowiązuje prawna [[gatunkowa ochrona zwierząt]], [[Ochrona gatunkowa grzybów|grzybów]] i [[Ochrona gatunkowa roślin|roślin]].
+
+{{Zobacz też|Rezerwaty przyrody w Polsce|Parki narodowe w Polsce|Parki krajobrazowe w Polsce|Ogrody zoologiczne w Polsce}}
+
+== Demografia ==
+{| class="wikitable" style="float:right; margin:1em 0em 1em 1em; width:22%;"
+!colspan=6 | Ludność Polski
+|-
+! Rok !! Ludność
+! Rok !! Ludność
+|-
+! 1846
+| 11 107 000
+! 1970
+| 32 642 000
+|-
+! 1911
+| 22 110 000
+! 1978
+| 35 061 000
+|-
+! 1921
+| 27 177 000
+! 1988
+| 37 879 000
+|-
+! 1931
+| 32 107 000
+! 1990
+| 38 183 000
+|-
+! 1938
+| 34 849 000
+! 1995
+| 38 610 000
+|-
+! 1946
+| 23 930 000
+! 2000
+| 38 654 000
+|-
+! 1950
+| 25 008 000
+! 2005
+| 38 191 000
+|-
+! 1960
+| 29 776 000
+! 2010
+| 38 200 000
+|-
+|colspan=6| [[Plik:Poland-demography 1946-2008.png|220px|center|Wykres liczby ludności Polski w latach 1946–2008 (w tysiącach)]]
+|-
+!colspan=6| Liczba ludności Polski w latach 1946–2009<ref>[http://www.stat.gov.pl/cps/rde/xbcr/gus/PUBL_rocznik_demograficzny_2009.pdf ''GUS: Rocznik Demograficzny 2008.''].</ref> (w tysiącach)
+|}
+{{Main|Ludność Polski|Polacy}}
+[[Plik:Lanckoronaa.jpg|mały|lewo|[[Lanckorona]], wieś założona prawdopodobnie w XII wieku przez niemieckich kolonistów. Zabytkowa drewniana zabudowa przy ul. Piłsudskiego, niegdyś typowo polska]]
+[[Plik:Kartogram ludnosci Polski.png|thumb|upright=1.3|Wielkość powiatów jest w przybliżeniu proporcjonalna do liczby mieszkańców. Im ciemniejszy kolor, tym większa jest rzeczywista powierzchnia powiatu.]]
+W okresie kształtowania się państwowości Polska obejmowała swym zasięgiem ziemie o powierzchni ponad ćwierć miliona km² z przeszło milionem mieszkańców. Za czasów [[Kazimierz III Wielki|Kazimierza Wielkiego]] obszar państwa (około 270 tys. km²) zamieszkiwało ponad 2,5 miliona osób. Unia z Litwą przyniosła radykalny przyrost demograficzny i terytorialny. Za czasów [[Stefan Batory|Batorego]] obszar państwa zbliżył się do 1 miliona km², zaś ludność w końcu XVI wieku prawdopodobnie osiągnęła 9 milionów. W chwili utraty niepodległości wielonarodowościowe państwo liczyło co najmniej 13–14 milionów mieszkańców, przy czym przez cały okres wspólnej państwowości z [[Litwa|Litwą]] znaczną część ludności stanowiły osoby posługujące się innym językiem niż polski (w końcu XVIII wieku było ich ok. 60%). Po odzyskaniu niepodległości w granicach Polski znalazło się kilka milionów osób o innej niż polska narodowości, tak więc Polska przed [[II wojna światowa|II wojną światową]] była krajem wielonarodowościowym, gdzie mniejszości stanowiły powyżej 30% ludności. W okresie między 1921 a wybuchem II wojny światowej liczba ludności wzrosła z 27,2 mln do 35,2 mln Jednak zmiany granic Polski po wojnie oraz przesiedlenia sprawiły, że obecnie Polska jest krajem nieomalże jednolitym etnicznie. Wszystkie mniejszości narodowe łącznie nie przekraczają 3% ludności.
+
+Po II wojnie światowej w Polsce zanotowano niespotykany nigdzie indziej (poza ZSRR) przyrost naturalny. W latach 50. XX wieku w Polsce przybywało ponad 500 tys. mieszkańców rocznie (tyle osób zamieszkiwało wówczas w Krakowie). Przyczyną tak dużego przyrostu naturalnego był ogromny ubytek ludności w czasie wojny (wg różnych źródeł od 6 do 10 milionów). Kolejny wyż demograficzny przyszedł z początkiem lat 70. oraz na początku lat 80. (zbliżenie się członków rodzin w czasie stanu wojennego). Od końca lat 80. przyrost naturalny drastycznie spadł, by na początku XXI wieku zejść poniżej zera. Obecnie znów notuje się nieznacznie większą liczbę urodzeń, gdyż w okres prokreacji wchodzi wyż demograficzny lat 70. Ponadto od kilku lat obserwuje się prorodzinną politykę państwa („becikowe”, ulgi podatkowe), a także kobiety, które odłożyły rodzicielstwo w latach 90. na rzecz kariery rodzą dzieci. Niemniej jednak z Polski do krajów UE wyemigrowało (wg różnych szacunków) od 500 tysięcy do ponad 2 milionów młodych ludzi, którzy pragną założyć rodziny w nowym miejscu zamieszkania. W ostatnich latach ludność Polski ustabilizowała się na poziomie 38,1 mln osób (w okresie od X 2006 do III 2009 liczba ta wahała się w wąskim przedziale 38,11-38,14 mln<ref name="stat.gov.pl">{{cytuj stronę|url=http://www.stat.gov.pl/cps/rde/xbcr/gus/PUBL_oz_biuletyn_statystyczny_04m_2009.pdf|tytuł=Biuletyn Statystyczny nr 4 rok 2009 |data dostępu=5 czerwca 2009}}</ref>). Według prognoz GUS z 2010 roku, liczba ludności w Polsce w 2030 ma wynieść ok. 36,8 mln<ref name="GUSMRS2010">{{cytuj stronę|url=http://www.stat.gov.pl/gus/5840_737_PLK_HTML.htm|tytuł=Mały rocznik statystyczny 2010 |data dostępu=8 maja 2011}}</ref>. W 2008 i 2009 roku nastąpił wzrost liczby urodzeń. W 2008 roku w Polsce urodziło się 414 tys. dzieci, a w 2009 roku 418 tys<ref name="GUSMRS2010"/>.
+
+Przyrost naturalny jest zróżnicowany regionalnie. Przyczyniają się do tego konteksty historyczne i społeczne – np. na [[Górny Śląsk|Górnym Śląsku]] występuje jedna z najwyższych w kraju dzietność na kobietę, a mimo to ludność tego województwa zmniejsza się. Spowodowane jest to znacznymi migracjami, głównie starszych osób, które w latach 70. przybyły tu do pracy w przemyśle, a teraz na emeryturze wracają w swoje rodzinne strony. Z kolei Warszawa jest najstarszym miastem w Polsce, o ujemnym przyroście naturalnym a mimo to z powodu migracji liczba ludności miasta rośnie.
+
+Obszarami o najwyższym przyroście naturalnym pozostają [[Małopolska]], województwa północne i wschodnie (wyjątkiem jest tutaj [[województwo podlaskie]]), a najniższy i ujemny przyrost naturalny odnotowuje się w województwach zachodnich (z wyjątkiem [[Wielkopolska|Wielkopolski]] i [[Województwo zachodniopomorskie|Pomorza Zachodniego]] gdzie przyrost jest dodatni) i centralnych, w szczególności w [[Województwo łódzkie|łódzkim]].
+
+=== Narodowości oraz grupy etniczne ===
+{{Main|Mniejszości narodowe i etniczne w Polsce}}
+{|class="wikitable" style="float:left; margin: 0em 1em 0em 0em; width:28%"
+! colspan=3 | ''Według spisu ludności z 2002 roku struktura narodowości w Polsce przedstawia się następująco:''
+|-
+! narodowość
+! liczba
+! '''%'''
+|-
+| [[Polacy]] || 36 658 166 || 95,63%
+|-
+| [[Ślązacy]]<ref name="śl">Społeczność deklarująca narodowość śląską nie jest oficjalnie uznawana za mniejszość narodową, ani etniczną, ponieważ nie została uwzględniona w ustawie z dnia 6 stycznia 2005 r. o mniejszościach narodowych i etnicznych oraz o języku regionalnym ([http://isap.sejm.gov.pl/DetailsServlet?id=WDU20050170141 Dz.U. 2005 nr 17 poz. 141]).</ref> || 173 200 || 0,45%
+|-
+| [[Niemcy]] || 152 900 || 0,40%
+|-
+| [[Białorusini]] || 48 700 || 0,13%
+|-
+| [[Ukraińcy]] || 31 000 || 0,08%
+|-
+| [[Romowie]] || 12 900 || 0,03%
+|-
+| [[Rosjanie]] || 6100 || 0,01%
+|-
+| [[Łemkowie]] || 5900 || 0,01%
+|-
+| [[Litwini]] || 5800 || 0,01%
+|-
+| inna narodowość || 471 500 || 1,23%
+|-
+| nieokreślona || 774 900 || 2,03%
+|}
+
+[[Plik:Tatarian Cemetery Kruszyniany Poland.jpg|mały|Cmentarz tatarski w [[Kruszyniany|Kruszynianach]]. Tatarzy osiedlili się w 18 wioskach na polskich ziemiach królewskich, z łaski [[Jan III Sobieski|Jana III Sobieskiego]], otrzymując tytuły szlacheckie bez wymogu przejścia na katolicyzm co było niespotykane w Europie w owych czasach]]
+
+[[Plik:Arbeit-auschwitz04.jpg|mały|Brama główna byłego niemieckiego nazistowskiego obozu koncentracyjnego i zagłady [[Auschwitz-Birkenau|Auschwitz I]] w [[Oświęcim]]iu]]
+[[Polacy]] posługują się [[język polski|językiem polskim]] zaliczanym do [[rodzina językowa|rodziny]] [[języki słowiańskie|języków słowiańskich]]. Dla pewnej części Polaków [[język ojczysty|językiem ojczystym]] jest blisko z nim spokrewniony [[język kaszubski]]. Język polski jest [[język urzędowy|językiem urzędowym]] Rzeczypospolitej, jakkolwiek prawo gwarantuje [[mniejszość narodowa|mniejszościom narodowym]] używanie ich własnych [[język (mowa)|języków]], zwłaszcza na obszarach, gdzie występują ich większe skupiska. W 21 gminach<ref>Na podstawie [http://bip.mswia.gov.pl/portal/bip/13/71/Rejestry.html ''Urzędowego Rejestru Gmin, w których używany jest język pomocniczy.''] umieszczonego na stronach BIP MSWiA.</ref> jako pomocnicze języki urzędowe stosowane są [[język niemiecki]], [[język kaszubski]], [[język litewski]] oraz [[język białoruski]] (tzw. [[Gminy dwujęzyczne w Polsce|gminy dwujęzyczne]]).
+
+W [[Narodowy Spis Powszechny 2002|Narodowym Spisie Powszechnym z 2002 r.]] ponad 96% ankietowanych zadeklarowało narodowość polską, 1,23% (471,5 tys. osób) zadeklarowało przynależność do innej narodowości, natomiast 2,03% ludności (774,9 tys. osób) nie określiło swej przynależności narodowościowej. Najbardziej liczne [[Mniejszości narodowe i etniczne w Polsce|mniejszości narodowe i etniczne]] stanowią [[Ślązacy]]<ref name="śl" /> (173,2 tys.) [[Niemcy]] (152,9 tys.), [[Białorusini]] (48,7 tys), [[Ukraińcy]] (31,0 tys), [[Romowie]] (12,9 tys), [[Rosjanie]] (6,1 tys.), [[Łemkowie]] (5,9 tys.) i [[Litwini]] (5,8 tys.).
+
+W Polsce nie obserwuje się masowego napływu imigrantów jak w krajach zachodnich. Niemniej jednak coraz więcej firm sprowadza pracowników zza granicy, szczególnie z Ukrainy, Białorusi oraz Dalekiego Wschodu (Chiny, Wietnam). Zajmują oni lukę na rynku pracy powstałą z powodu nasilonej w ostatnich latach emigracji zarobkowej młodych Polaków. Źródła UE wskazują, że w ciągu najbliższych lat i do Polski ściągać będą imigranci, głównie ze wschodniej Europy. Pojawiają się też, wraz z zagranicznymi firmami otwierającymi fabryki w Polsce, zagraniczni pracownicy średniego i wyższego szczebla kierowniczego wraz z rodzinami, w tym oprócz pochodzących z Europy Zachodniej i Ameryki, także z Azji: Korei Południowej i Japonii.
+
+=== Statystyki demograficzne ===
+{| class="wikitable" style="text-align:center; width:auto;"
+!colspan=2 style="text-align:center;" | ('''2010''')
+|-
+|'''Liczba ludności'''
+|''38 463 689''
+|-
+|'''[[Współczynnik urbanizacji]]'''
+|''61%'' (2008)
+|-
+!colspan=2|'''Ludność według wieku'''
+|-
+|0 – 14 lat
+|''15,5%'' (mężczyzn 2 964 995; kobiet 2 802 278)
+|-
+|15 – 64 lat
+|''71,6%'' (mężczyzn 13 713 078; kobiet 13 845 251)
+|-
+|ponad 64 lata
+|''13,4%'' (mężczyzn 1 966 406; kobiet 3 190 911)
+|-
+!colspan=2|'''Średni wiek'''
+|-
+|W całej populacji
+|''38,2'' lat
+|-
+|Mężczyzn
+|''36,5'' lat
+|-
+|Kobiet
+|''40'' lat
+|-
+|'''Przyrost naturalny'''
+|''-0,05%''
+|-
+|'''Współczynnik urodzeń'''
+|''10,04'' urodzeń/1000 mieszkańców
+|-
+|'''Współczynnik zgonów'''
+|''10,1'' zgonów/1000 mieszkańców
+|-
+|'''Współczynnik migracji'''
+|'' –0,47'' migrantów/1000 mieszkańców
+|-
+!colspan=2|'''Ludność według płci'''
+|-
+|przy narodzeniu
+|''1,06'' mężczyzn/kobiet
+|-
+|poniżej 15 lat
+|''1,06'' mężczyzn/kobiet
+|-
+|15 – 64 lat
+|''0,99'' mężczyzn/kobiet
+|-
+|powyżej 64 lat
+|''0,62'' mężczyzn/kobiet
+|-
+|w całej populacji
+|''0,94'' mężczyzn/kobiet
+|-
+!colspan=2|'''Umieralność niemowląt'''
+|-
+|W całej populacji
+|''6,66'' śmiertelnych/1000 żywych
+|-
+|płci męskiej
+|''7,38'' śmiertelnych/1000 żywych
+|-
+|płci żeńskiej
+|''5,9'' śmiertelnych/1000 żywych
+|-
+!colspan=2|'''Oczekiwana długość życia'''
+|-
+|W całej populacji
+|''75,85'' lat
+|-
+|Mężczyzn
+|''71,88'' lat
+|-
+|Kobiet
+|''80,06'' lat
+|-
+|'''Rozrodczość'''
+|''1,29'' urodzeń/kobietę
+|-
+|'''Współczynnik dorosłych z [[wirus zespołu nabytego braku odporności|HIV]]/[[Zespół nabytego niedoboru odporności|AIDS]]'''
+|''0,03%'' (2008)
+|-
+|'''Liczba osób zakażonych HIV/AIDS'''
+|''11 901'' (wrzesień 2008)<ref name=PZH>{{cytuj stronę|tytuł=Państwowy Zakład Higieny|url=http://www.pzh.gov.pl/oldpage/epimeld/hiv_aids/index.htm|data dostępu=3 grudnia 2008}}</ref>
+|-
+|'''Liczba zmarłych na HIV/AIDS'''
+|''940'' (wrzesień 2008)<ref name=PZH />
+|}
+[[Plik:POLSKA Miasta.png|thumb|upright=0.7|Rozmieszczenie miast w Polsce]]
+
+=== Miasta Polski ===
+{{Main|Miasta w Polsce|Miasta w Polsce (statystyki)}}
+Według danych [[Główny Urząd Statystyczny|GUS]] z 1 stycznia 2011, w Polsce jest 908 miast. Najmniejsze z nich ([[Wyśmierzyce]]) liczy 858 mieszkańców, największe zaś ([[Warszawa]]) jest niemal 2000 razy większe. Według danych z 2006 do największych polskich [[Aglomeracja|aglomeracji]] należą [[aglomeracja warszawska]] (2 943 625 mieszkańców)<ref>Stan na 31 grudnia 2006 dla ''Obszaru Metropolitalnego Warszawy'' wg {{cytuj książkę|autor=Barbara Czerwińska-Jędrusiak (red.)|tytuł=Obszar Metropolitalny Warszawy|wydawca=Urząd Statystyczny w Warszawie|miejsce=Warszawa|data=wrzesień, 2008|strony=4, 62|isbn=978-83-89628-76-3|url=http://www.stat.gov.pl/cps/rde/xbcr/warsz/ASSETS_publ_el_omw.pdf}}</ref>, [[konurbacja górnośląska]] (2 226 300<ref>Stan na 30 września 2006 wg {{cytuj stronę|url=http://www.stat.gov.pl/katow/69_363_PLK_HTML.htm|tytuł=AGLOMERACJA ŚLĄSKA W LICZBACH – Podmioty gospodarki narodowej – Powierzchnia i ludność |autor=GUS|data dostępu=2009-03-05}} Uwzględniono 19 miast wchodzących w skład konurbacji.</ref>) i [[aglomeracja krakowska]] (1 449 783)<ref>Stan na 31 grudnia 2006 wg {{cytuj stronę|url=http://www.stat.gov.pl/krak/69_630_PLK_HTML.htm|tytuł=Krakowski obszar metropolitalny|autor=GUS|opublikowany=stat.gov.pl|data dostępu=2009-03-05}}</ref>.
+
+Poniższa lista przedstawia największe miasta Polski (liczące ponad 100 tys. mieszkańców w grudniu 2010)<ref name=autonazwa1>[http://www.stat.gov.pl/cps/rde/xbcr/gus/PUBL_l_ludnosc_stan_struktura_31_12_2010.pdf. Błąd 404. Strona o podanym adresie nie istnieje<!-- Tytuł wygenerowany przez bota -->]</ref>:
+
+{{Miasta w Polsce}}
+
+=== Wyznania religijne ===
+[[Plik:Jasna Góra.PNG|mały|Klasztor o. Paulinów na [[Jasna Góra|Jasnej Górze]] w [[Częstochowa|Częstochowie]] – centrum pielgrzymek w Polsce]]
+<!--NIE DODAWAJ WIĘCEJ ZDJĘĆ KOŚCIOŁÓW. PSUJE TO UKŁAD TEKSTU A WIKIPEDIA NIE JEST GALERIĄ GRAFIK.-->
+{{Main|Kościoły i związki wyznaniowe w Polsce}}
+Największą wspólnotę religijną stanowi [[Kościół katolicki]], do którego należy około 34 mln wiernych. W obrządku [[Kościół łaciński|rzymskokatolickim]] [[Chrzest|ochrzczonych]] jest 33,7 mln mieszkańców Polski, co stanowi około 89% populacji. [[Kościół katolicki obrządku bizantyjsko-ukraińskiego|Kościół greckokatolicki]] liczy 55 tys. wiernych, [[Kościół katolicki obrządku ormiańskiego|Kościół ormiańskokatolicki]] 5 tys., [[Kościół katolicki obrządku bizantyjsko-słowiańskiego w Polsce|Kościół neounicki]] 195 osób. Z tradycji [[Katolicyzm|katolickiej]] wywodzi się [[starokatolicyzm]], do którego należy 47 tys. wiernych ([[Kościół Starokatolicki Mariawitów w RP|Kościół Starokatolicki Mariawitów]] – 23,7 tys. wiernych, [[Kościół Polskokatolicki w RP|Kościół Polskokatolicki]] – 20,6 tys. wiernych, [[Kościół Katolicki Mariawitów w RP|Kościół Katolicki Mariawitów]] – 2 tys. wiernych, [[Kościół Starokatolicki w Rzeczypospolitej Polskiej|Kościół Starokatolicki w RP]] – 675 wiernych, [[Polski Narodowy Katolicki Kościół w RP|Polski Narodowy Katolicki Kościół]] – 450 wiernych, [[Reformowany Kościół Katolicki]] – 90 wiernych). Obok starokatolików działalność prowadzą grupy [[Tradycjonalizm katolicki|tradycjonalistów katolickich]]: [[Bractwo Kapłańskie Świętego Piusa X|lefebrystów]] i [[Sedewakantyzm|sedewakantystów]].
+
+Wspólnoty tradycji [[Prawosławie|prawosławnej]] liczą ponad pół miliona wiernych ([[Polski Autokefaliczny Kościół Prawosławny]] – 504,2 tys., [[Staroprawosławna Pomorska Cerkiew RP|Wschodni Kościół Staroobrzędowców w RP]] – 1110 osób, [[Apostolski Kościół Ormiański]] – ok. 100 osób). W Polsce mieszkają także przedstawiciele [[Koptyjski Kościół Ortodoksyjny|Kościoła koptyjskiego]].
+
+Do [[protestantyzm]]u przyznaje się ponad 150 tysięcy wiernych: [[Kościół Ewangelicko-Augsburski w RP|Kościół Ewangelicko-Augsburski]] – 75 tys., [[Kościół Zielonoświątkowy w RP|Kościół Zielonoświątkowy]] – 23 tys., [[Kościół Adwentystów Dnia Siódmego]] – 9,5 tys., [[Kościół Chrześcijan Baptystów w RP|Kościół Chrześcijan Baptystów]] – 6,5 tys., [[Wspólnota Kościołów Chrystusowych w RP]] – 6 tys., [[Kościół Nowoapostolski]] w Polsce – 5 tys., [[Kościół Ewangelicko-Metodystyczny w RP|Kościół Ewangelicko-Metodystyczny]] – 4,5 tys., [[Kościół Boży w Chrystusie]] – 3,6 tys., [[Kościół Ewangelicko-Reformowany w RP|Kościół Ewangelicko-Reformowany]] – 3,5 tys., [[Kościół Wolnych Chrześcijan w RP|Kościół Wolnych Chrześcijan]] – 2,8 tys., [[Chrześcijańska Wspólnota Zielonoświątkowa]] – 2,5 tys., [[Kościół Chrystusowy w Polsce]] – 2,4 tys., [[Kościół Chrześcijan Wiary Ewangelicznej w RP|Kościół Chrześcijan Wiary Ewangelicznej]] – 1,8 tys., oraz [[Kościół Ewangelicznych Chrześcijan w RP|Kościół Ewangelicznych Chrześcijan]] – 1,7 tys..
+
+Wyznania [[Restoracjonizm|restoracjonistyczne]] obejmują: [[Świadkowie Jehowy|Związek Wyznania Świadków Jehowy]] (126,5 tys. wiernych), [[Wolni Badacze Pisma Świętego|Zrzeszenie Wolnych Badaczy Pisma Świętego]] – 2,2 tys., [[Świecki Ruch Misyjny "Epifania"]] – 1,7 tys. wiernych oraz [[Kościół Jezusa Chrystusa Świętych w Dniach Ostatnich]] ([[Mormoni]]) – 1,3 tys. wiernych.
+
+Inne grupy wyznaniowe liczą łącznie ok. 150 tysięcy członków, a największe z nich to [[Muzułmański Związek Religijny w Rzeczypospolitej Polskiej|Muzułmański Związek Religijny]] – 5 tys. wiernych, [[Chrześcijański Kościół Głosicieli Dobrej Nowiny]] – 5,5 tys. wiernych. Kilka prawnie zarejestrowanych w [[Ministerstwo Spraw Wewnętrznych i Administracji|MSWiA]] związków wyznaniowych (jak [[Rodzimy Kościół Polski]] lub [[Rodzima Wiara]]) ma natomiast źródła w etnicznych, przedchrześcijańskich [[Religia Słowian|wierzeniach Słowian]]. Grupy praktykujących [[Buddyzm w Polsce|buddystów]] powstają w Polsce od lat 70. XX wieku, wiele z nich zrzesza obecnie [[Polska Unia Buddyjska]]. W roku 1990 zarejestrowano [[Hinduizm|hinduistyczne]] [[Międzynarodowe Towarzystwo Świadomości Kryszny]]. Działają także grupy zwolenników [[Wolnomularstwo|masonerii]], [[Antropozofia|antropozofii]] i [[Teozofia|teozofii]].
+
+Największe w Polsce międzywyznaniowe organizacje chrześcijańskie to: [[Polska Rada Ekumeniczna]] zrzeszająca kościoły [[Protestantyzm|protestanckie]], [[Starokatolicyzm|starokatolickie]] i [[Prawosławie|prawosławne]] oraz [[Alians Ewangeliczny w RP|Alians Ewangeliczny]] zrzeszający kościoły, [[Zbór|zbory]] i organizacje związane z [[Ewangelikalizm|ewangelikalnym]] [[protestantyzm]]em.
+
+Według badań [[Centrum Badania Opinii Społecznej|CBOS]] z 2007, 55% Polaków w sprawach wiary stosuje się do zaleceń Kościoła, 39% wierzy na swój sposób, a 6% deklaruje się jako niewierzący, niezdecydowani lub obojętni religijnie<ref>{{Cytuj stronę|url=http://www.cbos.pl/SPISKOM.POL/2007/K_078_07.PDF|tytuł=Polacy wobec Kościoła oraz nauczania papieża Benedykta XVI|autor=CBOS|język=pl|data dostępu=2008-11-10}}</ref>.
+
+W Polsce praktykuje około 45% wszystkich wierzących i jest to po [[Malta|Malcie]] najwyższy wskaźnik w Europie, przy czym w latach osiemdziesiątych praktykowało około 60%. Po kilkuletnim wzroście liczby praktykujących, w 2007 nastąpił spadek (z 45,8% w 2006 do 44,2%). Według Rocznika Statystycznego<ref name = "religie_z_gus">{{Cytuj pismo | autor = Główny Urząd Statystyczny | url = http://www.stat.gov.pl/cps/rde/xbcr/gus/PUBL_maly_rocznik_statystyczny_2007.pdf | wydawca = Zakład Wydawnictw Statystycznych | miejsce = Warszawa | czasopismo = Mały Rocznik Statystyczny Polski}}</ref> w 2008 roku nastąpił kolejny spadek uczestnictwa w niedzielnych [[Nabożeństwo|nabożeństwach]] (z 44,2% do 40,4%)<ref name="ekai">[http://ekai.pl/wydarzenia/raport/x19211/najnowsze-dane-o-polskiej-religijnosci-spadek-o-procent/ ''Najnowsze dane o polskiej religijności – spadek o 3, 8 procent.''].</ref>. Lecz w 2009 roku minimalnie wzrosła frekwencja w nabożeństwach niedzielnych do 41,5%, oraz liczba przystępujących do [[Eucharystia (sakrament)|komunii św.]]<ref>{{cytuj stronę | url = http://www.rp.pl/artykul/20,479528_Wciaz_malo_katolikow_na_mszach.html | tytuł = Wciąż mało katolików na mszach | autor = | język = pl | data dostępu = 2008-05-22}}</ref>.
+
+Najbardziej zurbanizowane diecezje rzymskokatolickie są najmniej religijne. W Warszawie, Szczecinie i Łodzi do kościoła uczęszcza regularnie niecałe 20% społeczeństwa; najmniej religijnymi diecezjami są [[Archidiecezja szczecińsko-kamieńska|diecezja szczecińsko-kamieńska]] (26,8%), [[Archidiecezja łódzka|diecezja łódzka]] (26,9%) i [[diecezja koszalińsko-kołobrzeska]] (27,4%), a najbardziej religijnymi są diecezje południowo-wschodnie: [[diecezja tarnowska]] (67,8%), [[diecezja rzeszowska]] (63,1%) i [[Archidiecezja przemyska|diecezja przemyska]] (59%)<ref name="ekai"/>.
+
+Za członków poszczególnych kościołów i związków religijnych przyjmuje się zazwyczaj osoby, które w stosunek członkostwa weszły (np. poddane [[Chrzest|obrzędowi chrztu]]), nawet jeżeli w okresie późniejszym z niego wystąpiły. Wiarygodne dane statystyczne nie mogą więc zostać sporządzone wyłącznie na podstawie oficjalnej dokumentacji [[Kościół (organizacja)|kościoła]]. Sprawia to, na przykład, że liczba Polaków bez wyznania prawdopodobnie jest znacznie zaniżona, a wyznawców Kościoła rzymskokatolickiego – znacznie zawyżona.
+
+=== Polacy na świecie ===
+[[Plik:Chopin1849opt02.jpg|mały|upright=0.6|Fryderyk Chopin]]
+[[Plik:John Paul II Medal of Freedom 2004.jpg|mały|upright=0.6|[[Jan Paweł II]], pierwszy Polak wybrany na papieża]]
+{{Main|Polonia}}
+Oprócz populacji krajowej, jest to szeroko rozumiana Polonia, oraz rdzenni mieszkańcy terytoriów niegdyś w Rzeczypospolitej Polskiej lub obocznych, znajdującymi się dziś poza granicami kraju. Polacy żyją w dużych liczbach na Litwie, Czechach, Białorusi, Ukrainie, w Rosji (tamże są m.in. historycznie rozproszeni po Syberii, z koncentracją w Jakucji), w Kazachstanie (z powodu rosyjskich zesłań), Gruzji (podobnie), Niemczech, Wielkiej Brytanii, Stanach Zjednoczonych, Kanadzie, Australii, większości krajów Europy Zachodniej i Skandynawii (Polacy są najliczniejszą grupą obcokrajowców na Islandii), w Ameryce Południowej, szczególnie w Brazylii.
+
+Polacy i Polska występują i utrwaleni geograficznie są nawet pojedynczo: anonimowy majtek na polinezyjskiej wyspie (na jego cześć została nazwana wieś o nazwie [[Poland (wieś w Kiribati)|Poland]] na atolu [[Kiritimati]]), czy pamiętnie w infrastrukturze całych państw, jako kolejowy budowniczy w [[Andy|Andach]] Peru i Ekwadoru: inżynier [[Ernest Malinowski]]. W tym kontekście, kojarzą się prace podróżnika i antropologa [[Bronisław Malinowski (antropolog)|Bronisława Malinowskiego]] na pacyficznych wyspach [[Melanezja|Melanezji]], które później zaowocowały jego teoretycznymi osiągnięciami, m.in. podłożem brytyjskiej [[Antropologia kulturowa|antropologii kulturowej]].
+
+Niewątpliwie najszerzej znanym Polakiem jest papież [[Jan Paweł II]], który jako pierwszy papież wybrany spoza Włoch od prawie 500 lat, oraz działacz na rzecz praw człowieka, pojednania międzywyznaniowego oraz wolnej Polski zaskarbił sobie poważanie w skali światowej, niezależnie od należnej mu w oczach katolików świątobliwości papieskiej.
+
+Inni znani na świecie Polacy to wybitni naukowcy i matematycy: np. fizyk i matematyk [[Stanisław Ulam]], współkonstruktor bomby atomowej z [[Los Alamos]] i twórca iteratywnej [[Metoda Monte Carlo|metody obliczeniowej Monte Carlo]], czy fizyk i chemik [[Maria Skłodowska-Curie]], pracująca nad uzyskaniem i zastosowaniem [[Radioaktywność|radioaktywności]] ze swoim francuskim mężem fizykiem-chemikiem [[Pierre Curie|Pierre'em Curie]] w Paryżu, czy polski i rosyjski astronom [[Marian Kowalski (astronom)|Marian Kowalski]], klasyfikujący [[ruch własny]] tysięcy gwiazd.
+
+Są to równie wybitni architekci: [[Wacław Zalewski]], twórca liniowo-prętowego zawieszenia dachu [[Supersam w Warszawie|Supersamu]] czy [[Spodek (hala widowiskowa)|Spodka]], profesor emeritus [[Massachusetts Institute of Technology]], czy [[Maciej Nowicki (architekt)|Maciej Nowicki]] z żoną [[Stanisława Nowicka (rysownik i architekt)|Stanisławą]], nagradzani przedwojenni rysownicy polskiego plakatu; on: twórca parabolicznej architektury wielkich hal ([[Paraboleum]] w [[Raleigh (Karolina Północna)|Raleigh]]), niedoszły, zmarły w katastrofie lotniczej projektant miasta [[Czandigarh]], ona: profesor emeritus [[University of Pennsylvania]].
+
+Są to sportowcy: uczący i rozwijający sport w Niemczech mistrz olimpijski z Moskwy w skoku o tyczce [[Władysław Kozakiewicz]], liczni byli i aktualni piłkarze, w tym światowej klasy francuski [[Raymond Kopaszewski]], śląscy i polsko-niemieccy [[Ernest Wilimowski]] oraz [[Miroslav Klose]] i [[Lukas Podolski]].
+
+Są to także artyści: długo stale pracująca i przebywająca za granicą rzeźbiarka [[Magdalena Abakanowicz]], wokalistki jazzowe [[Urszula Dudziak]] i [[Grażyna Auguścik]] oraz piosenkarka [[Violetta Villas]], która w latach 60. XX wieku zyskała popularność międzynarodową, głównie w [[Stany Zjednoczone|USA]], gdzie była pierwszą gwiazdą Casino de Paris w [[Las Vegas]]; filmowcy: reżyser [[Roman Polański]], polska reżyser [[Agnieszka Holland]] i aktorka kina niemego [[Pola Negri]]; aktorka teatralna [[Helena Modrzejewska]], podróżnicy: carski zesłaniec i geograf [[Jan Czerski]], badacz [[Australia|Australii]] [[Paweł Edmund Strzelecki]], współczesny polarnik [[Marek Kamiński (podróżnik)|Marek Kamiński]]; lekarze i działacze społeczni: w międzywojennej Czechosłowacji [[Jan Buzek (1874-1940)|Jan Buzek]], w Polsce jeszcze pod zaborem i w Niemczech [[Róża Luksemburg]].
+
+Zwłaszcza w XXI wieku do światowej czołówki modelek weszły Polki, m.in. [[Joanna Krupa (modelka)|Joanna Krupa]], [[Anja Rubik]], [[Kasia Struss]] oraz [[Magdalena Frackowiak]].
+
+Przez wiele dekad, Polacy emigrowali przeważnie do Stanów Zjednoczonych, Kanady, oraz Australii. W dużej mierze są zintegrowani tamże, nadając w odczuwalnej mierze polskość miejscowej mozaice społecznościowej, podobnie jak kiedyś Polska była mozaiką ludów.
+
+Polacy na świecie to również liczna grupa pracujących zarobkowo, ostatnimi laty szczególnie w Wielkiej Brytanii, Irlandii, Szwecji, Włoszech, Hiszpanii.
+
+== Gospodarka ==
+{| class="wikitable" align=right
+! Rok
+! Wzrost PKB
+! Rok
+! Wzrost PKB
+! Rok
+! Wzrost PKB
+|-
+| 1992 || 1,5% || 2001 || 1,0% || 2010 || 3,8%<ref>[http://www.rp.pl/artykul/601269_PKB-w-2010-roku-wzrosl-o-3-8-proc-.html ''GUS: Wzrost PKB wyniósł w 2010 roku 3,8 proc.'']</ref>
+|-
+| 1993 || 3,8% || 2002 || 1,4% || ||
+|-
+| 1994 || 5,2% || 2003 || 3,8% || ||
+|-
+| 1995 || 7,0% || 2004 || 5,3% || ||
+|-
+| 1996 || 6,0% || 2005 || 3,5% || ||
+|-
+| 1997 || 6,8% || 2006 || 6,2% || ||
+|-
+| 1998 || 4,8% || 2007 || 6,7%<ref>[http://www.portalspozywczy.pl/finanse/wiadomosci/gus-2007-r-wzrost-pkb-wyniosl-6-7-proc,7978.html ''GUS: 2007 r. wzrost PKB wyniósł 6,7 proc.'']</ref> || ||
+|-
+| 1999 || 4,1% || 2008 || 4,9%<ref>[http://www.bankier.pl/wiadomosc/GUS-Wzrost-PKB-wyniosl-w-2008-roku-po-korekcie-4-9-1940989.html ''GUS: Wzrost PKB wyniósł w 2008 roku po korekcie 4,9%.'']</ref> || ||
+|-
+| 2000 || 4,0% || 2009 || 1,8%<ref>[http://forsal.pl/artykuly/415742,gus_wzrost_pkb_polski_wyniosl_w_2009_r_1_8_proc_po_korekcie.html GUS: ''Wzrost PKB Polski wyniósł w 2009 r. 1,8 proc. po korekcie.'']</ref> || ||
+|}
+{{Main|Gospodarka Polski}}
+
+=== Charakterystyka polskiej gospodarki ===
+Pod względem wielkości [[Produkt krajowy brutto|PKB]], Polska jest szóstą<ref>{{Cytuj stronę | url = http://finanse.wp.pl/kat,102634, title,Polska-szosta-gospodarka-Unii-Europejskiej-Holendrzy-ogladaja-nasze-plecy, wid,11805963, wiadomosc.html?ticaid=19615&_ticrsn=3 | tytuł = Polska szóstą gospodarką Unii Europejskiej | opublikowano = finanse.wp.pl | lang = pl | data dostępu = 24 grudnia 2009}}</ref> gospodarką [[Unia Europejska|Unii Europejskiej]] i 21. gospodarką świata (w 2009)<ref>{{cytuj stronę|url=https://www.cia.gov/library/publications/the-world-factbook/rankorder/2001rank.html|tytuł= CIA The World Factbook, Rank Order – GDP (purchasing power parity)|lang=en|data dostępu=4 grudnia 2008}}</ref>.
+
+[[PKB per capita|Produkt krajowy na głowę mieszkańca]] wynosił według obliczeń [[Międzynarodowy Fundusz Walutowy|MFW]] w 2009 nominalnie 11 288 dolarów<ref name=imf>{{cytuj stronę| url = http://www.imf.org/external/pubs/ft/weo/2010/01/weodata/weorept.aspx?sy=2009&ey=2009&scsm=1&ssd=1&sort=country&ds=.&br=1&c=964&s=NGDPRPC%2CNGDPPC%2CNGDPDPC%2CPPPGDP%2CPPPPC&grp=0&a=&pr.x=25&pr.y=6 | tytuł = Report for Selected Countries and Subjects | data dostępu = 07.2010 | autor = MFW (International Monetary Fund) | język = EN | id = | cytat=}}</ref>, a po zmierzeniu [[Parytet siły nabywczej|parytetem siły nabywczej]] 18 072 dolarów<ref name=imf /> i wyniósł 61% średniej unijnej<ref>{{cytuj stronę| url =http://epp.eurostat.ec.europa.eu/tgm/table.do?tab=table&init=1&plugin=1&language=en&pcode=tsieb010 | tytuł = Gross domestic product in Purchasing Power Standards(EU= 100%) | data dostępu = 2010-09-10 | autor = Eurostat | język = EN | id = | cytat=}}</ref>. Tempo wzrostu gospodarczego stawia Polskę wśród najszybciej rozwijających się krajów [[Europa|Europy]] – w 2009 PKB wzrósł o 1,7%, co było jedynym dodatnim wynikiem w UE (średnia –4,1%)<ref name=imf2>{{cytuj stronę| url = http://www.imf.org/external/pubs/ft/weo/2010/01/pdf/c2.pdf | tytuł = World Economic Outlook | data dostępu = 07.2010 | autor = MFW (International Monetary Fund) | język = EN | id = | cytat=}}</ref>. Wzrost PKB per capita w Polsce w latach 1992–2002 należał według OECD do najwyższych na świecie i wyniósł 216% z poziomu 4994 dolarów w 1992 do 10 800 dolarów w 2002<ref>{{cytuj stronę|url=http://www.csioz.gov.pl/60/iii31.htm|opublikowano=Centrum Ochrony Systemów Informacyjnych Ochrony Zdrowia|autor=Alicja Sobczak|tytuł=3.1. Produkt Krajowy Brutto|data dostępu=3 grudnia 2008}}</ref> według parytetu siły nabywczej. Sektor usług odpowiada za wytworzenie 67,3% całego PKB, przemysł 28,1%, rolnictowo 4,6%<ref>{{cytuj stronę|url = https://www.cia.gov/library/publications/the-world-factbook/geos/pl.html|autor = CIA |tytuł= The World Factbook 2009 |data dostępu = 2010-09-10}}</ref>.
+
+[[Inflacja]] w 2004 wyniosła 3,5%, w 2005 2,1%, w 2006 1,0%, w 2007 2,5%, w 2008 4,2%, w 2009 3,5%<ref>{{Cytuj stronę|url=http://www.stat.gov.pl/gus/5840_1634_PLK_HTML.htm|tytuł=Roczne wskaźniki cen towarów i usług konsumpcyjnych w latach 1950–2009|autor=GUS|data dostępu=27 sierpnia 2010}}</ref>.
+
+Polska uznawana jest przez [[Organizacja Narodów Zjednoczonych|ONZ]] za kraj bardzo wysoko rozwinięty ze względu na [[wskaźnik rozwoju społecznego]] (HDI), który bierze pod uwagę takie czynniki jak długość życia, średnią długość edukacji odbytej przez 25-latków i oczekiwany czas edukacji dzieci w wieku szkolnym, jak również PKB ''per capita'' po zmierzeniu [[parytet siły nabywczej|parytetem siły nabywczej]]<ref>{{Cytuj stronę|url=http://hdr.undp.org/en/statistics/hdi/|tytuł=The Human Development Index (HDI)|opublikowany=Human Developmnt Reports|język=en|data dostępu=2010-11-04}}</ref>. Wskaźnik HDI wynosił w 2010 r. 0,795, dając Polsce 41. miejsce na świecie na 169 uwzględnionych państw, między [[Portugalia|Portugalią]] a [[Barbados]]em<ref>{{cytuj stronę|url=http://hdr.undp.org/en/media/HDR_2010_EN_Table1.pdf|tytuł=Table 1 – Human Development Index and its components|opublikowany=Human Development Reports|język=en|data dostępu=2010-11-04}}</ref>. Polska zadłużona jest na około 50% PKB<ref>{{cytuj stronę| url = http://epp.eurostat.ec.europa.eu/tgm/table.do?tab=table&init=1&language=en&pcode=tsieb090&plugin=1 | tytuł = General government consolidated gross debt as a percentage of GDP | data dostępu = 07.2010 | autor = Eurostat | język = EN | id = | cytat=}}</ref>, jest to poziom niższy od średniej UE, która wynosi 73%.
+
+[[Plik:Gielda3 Wwa beax.jpg|mały|[[Giełda Papierów Wartościowych w Warszawie]] – największa giełda w Europie Środkowo-Wschodniej]]
+Polska gospodarka jest [[Gospodarka mieszana|gospodarką mieszaną]]. Sektor państwowy wytwarza obecnie około 25% PKB (w rękach państwowych pozostaje [[Polskie Koleje Państwowe|PKP]], [[KGHM Polska Miedź|KGHM]], część akcji [[PKN Orlen]], [[Polskie Górnictwo Naftowe i Gazownictwo|PGNiG]] i wielu mniejszych przedsiębiorstw) i jest to poziom porównywalny do takich krajów, jak [[Francja]] czy [[Norwegia]]. Inwestycje zagraniczne w latach 1990–2006 wyniosły ponad 87 mld dolarów.
+
+W 2008 w Polsce wydobyto 84,28 mln t węgla kamiennego, wyprodukowano: 9,73 mln t stali surowej; 154,36 [[Kilowatogodzina|TWh]] energii elektrycznej, oddano do użytku 165,2 tys. nowych mieszkań<ref name="stat.gov.pl"/>.
+
+Głównym partnerem handlowym Polski są kraje Unii Europejskiej i Rosja: na Niemcy przypada ponad 35% polskiego eksportu i importu<ref name=handel/>. Polska ma ujemny bilans w handlu zagranicznym<ref name=obroty/>.
+
+{{Zobacz też|Gospodarka Polski Ludowej|Transformacja systemowa w Polsce|Inwestycje zagraniczne w Polsce}}
+
+=== Zatrudnienie ===
+[[Plik:Poland unemployment BK.PNG|mały|Stopa bezrobocia wg powiatów (31 sierpnia 2009)]]
+[[Plik:Bezrobocie w Polsce 2002 2008 Barry Kent.PNG|mały|upright=1.3|Stopa bezrobocia 01.2002 – 08.2009 w ujęciu miesięcznym, w miesiącach zimowych następuje sezonowy skok bezrobocia]]
+Struktura zatrudnienia w polskiej gospodarce odbiega od europejskich standardów, gdyż 13% ludności pracuje w rolnictwie, podczas gdy średnia UE to 5%, w sektorze usług pracuje 57% ludności (średnia UE to 68%), w przemyśle pracuje 30% ludności (średnia UE to 26%)<ref name=aktywnosc>{{cytuj stronę| url = http://www.stat.gov.pl/cps/rde/xbcr/gus/PUBL_pw_aktyw_ekonom_ludnosci_Ikw_2010.pdf | tytuł = Aktywność ekonomiczna ludności Polski I kwartał 2010 r. | data dostępu = 2010-08-06| autor = GUS | opublikowany = 07.2010}}</ref><ref name=labour>{{cytuj stronę| url = http://epp.eurostat.ec.europa.eu/cache/ITY_OFFPUB/KS-QA-10-035/EN/KS-QA-10-035-EN.PDF | tytuł = European Union Labour Force Survey – Annual results 2009 | data dostępu = 2010-08-06| autor = Eurostat | opublikowany = 2010 | język = en}}</ref>. W Polsce 59% społeczeństwa w wieku produkcyjnym jest zatrudniona, podczas gdy średnia UE to 64%<ref name=labour/>. Według OECD w 2009 r. Polacy byli trzecim najdłużej pracującym narodem na świecie po [[Grecja|Grekach]] i [[Węgry|Węgrach]] – przeciętna roczna liczba przepracowanych godzin na 1 pracownika wyniosła 1966<ref>{{cytuj stronę| url = http://stats.oecd.org/Index.aspx?DatasetCode=ANHRS | tytuł = Average annual hours actually worked per worker | data dostępu = 2010-09-10| autor = OECD | opublikowany =}}</ref>.
+
+W związku z lepszą mechanizacją pracy wzrosła także wydajność pracy w Polsce<ref>{{Cytuj stronę|url=http://praca.gazeta.pl/gazetapraca/1,73343,2567421.html|tytuł=Dlaczego Polacy pracują wydajniej niż Niemcy?|autor=Aneta Borowiec, Marek Ratajczak|data dostępu=4 grudnia 2008}}</ref>. Polska ma także jeden z najniższych w Europie współczynników przynależności do [[Związek zawodowy|związków zawodowych]], wynoszący 14% z przewagą w sektorze państwowym<ref>{{cytuj stronę|url=http://web.archive.org/web/*/http://www.geocities.com/lbc_1917/2073mrozowicki.htm|opublikowano=Bez Dogmatu nr 70|autor=Adam Mrozowski|tytuł=Dlaczego robotnicy nie protestują?|data dostępu=4 grudnia 2008}}</ref>, w [[Irlandia|Irlandii]] wynosi on 45%<ref>{{Cytuj stronę|url=http://www.lewica.pl/index.php?id=15083|tytuł=Czego liberałowie nie mówią o Irlandii|autor=Bartosz Machalica|opublikowano=Krytyka Polityczna|data dostępu=4 grudnia 2008}}</ref>, a w Szwecji 80%.
+
+[[Płaca minimalna|Minimalne wynagrodzenie brutto]] w 2012 roku: 1500 zł<ref name="gp-minimalne-wynagrodzenie">{{cytuj stronę|url=http://praca.gazetaprawna.pl/artykuly/547248,rzad_zdecydowal_placa_minimalna_w_2012_r_wyniesie_1500_zl.html|tytuł=Rząd zdecydował: płaca minimalna w 2012 r. wyniesie 1500 zł|opublikowany=Gazeta Prawna|język=pl|data dostępu=2011-12-31}}</ref>
+
+[[Bezrobocie]] na koniec 2009 wyniosło 11,9%. Od początku 2004 do końca 2008 następował systematyczny spadek bezrobocia. Na koniec 2004 wynosiło ono 19%; w 2005 – 17,6%, w 2006 14,8%, w 2007 – 11,2%, w 2008 – 9,5%<ref>{{cytuj stronę|url=http://www.stat.gov.pl/gus/5840_677_PLK_HTML.htm|tytuł=Stopa bezrobocia w latach 1990–2010 (bezrobocie rejestrowane))|autor=GUS|data dostępu=27 sierpnia 2010}}</ref>.
+Według [[Europejski Urząd Statystyczny|Eurostat]] bezrobocie wynosi 8,2%, a według GUS 10,6%<ref name=aktywnosc/><ref name=labour/>.
+
+=== Handel zagraniczny ===
+==== Eksport ====
+[[Eksport]] w 2009 był szacowany na 136 mld dolarów<ref name=obroty>{{cytuj stronę| url = http://www.stat.gov.pl/gus/5840_6704_PLK_HTML.htm | tytuł = Obroty handlu zagranicznego ogółem i według krajów (I – XII 2009 r. wyniki ostateczne) | data dostępu = 2010-08-09| autor = GUS | opublikowany = 2010-07-19}}</ref> i dał 27. miejsce w świecie za [[Brazylia|Brazylią]] i przed [[Szwecja|Szwecją]]<ref>{{cytuj stronę|url=https://www.cia.gov/library/publications/the-world-factbook/rankorder/2078rank.html|tytuł=CIA – The World Factbook|lang=en|data dostępu=13.08.2010}}</ref>.
+
+Największą część polskiego eksportu stanowią maszyny i urządzenia transportowe, w tym samochody (41,4% dochodów z eksportu), towary przemysłowe (21,8%) i produkty przemysłu chemicznego (13%)<ref name=handel>{{cytuj stronę| url = http://www.stat.gov.pl/cps/rde/xbcr/gus/PUBL_rocznik_statystyczny_handlu_zagranicznego_2009.pdf | tytuł = Rocznik Statystyczny Handlu Zagranicznego 2009 | data dostępu = 2010-08-09| autor = GUS | opublikowany = 2009-11-06}}</ref>. Najważniejszymi partnerami handlowymi pod względem eksportu są [[Niemcy]] (23% obrotu), [[Francja]] (6%) i [[Włochy]] (6%)<ref name=handel/>.
+
+==== Import ====
+[[Import]] w 2009 szacowany był na 149 mld dolarów<ref name=obroty/> i dał 23. miejsce na świecie za [[Zjednoczone Emiraty Arabskie|Zjednoczonymi Emiratami Arabskimi]] i przed [[Austria|Austrią]]<ref>{{cytuj stronę|url=https://www.cia.gov/library/publications/the-world-factbook/rankorder/2087rank.html?countryName=Poland&countryCode=pl&regionCode=eu&rank=23#pl|tytuł=CIA – The World Factbook|lang=en|data dostępu=13.08.2010}}</ref>.
+
+Importuje się przede wszystkim maszyny i urządzenia transportowe (35,5% wydatków związanych z importem), towary przemysłowe (18,7%) i paliwa mineralne, w tym gaz ziemny (11,2%)<ref name=handel/>. Najważniejszymi partnerami handlowymi pod względem importu są Niemcy (23% obrotu), [[Rosja]] (10%) i [[Chiny]] (8%)<ref name=handel/>.
+
+==== Bilans handlowy ====
+[[Bilans handlowy]] był w 2009 ujemny, deficyt obrotów towarowych wyniósł ponad 12,8 mld dolarów<ref name=obroty/>.
+
+=== Polskie przedsiębiorstwa ===
+W 2008, cztery polskie przedsiębiorstwa – [[PKN Orlen]], [[PKO Bank Polski]], [[Polskie Górnictwo Naftowe i Gazownictwo]] i [[KGHM Polska Miedź]] – zostały umieszczone na dorocznej liście ''dwóch tysięcy największych i najprężniejszych spółek giełdowych na świecie'' magazynu [[Forbes]]<ref>{{Cytuj stronę|tytuł=Forbes Global 2000: Poland|url=http://www.forbes.com/lists/2008/18/biz_2000global08_The-Global-2000-Poland_10Rank.html|data dostępu=12 czerwca 2008|język=en}}</ref>. Większość polskiego PKB wytwarzają jednak małe i średnie przedsiębiorstwa.
+
+=== Polska w rankingach ===
+{{Main|Polska w rankingach}}
+* [[Wskaźnik Jakości Życia]] 2007 (''Quality of Life Index''): 43 miejsce na 195 razem z [[Kostaryka|Kostaryką]], za [[Litwa|Litwą]] i [[Islandia|Islandią]], tuż przed [[Republika Południowej Afryki|RPA]] i [[Rumunia|Rumunią]]<ref>{{cytuj stronę|url=http://www.il-ireland.com/il/qofl07/|tytuł=2007 Quality of Life Index|data dostępu=4 grudnia 2008|lang=en}}</ref>;
+* [[Wskaźnik Wolności Gospodarczej]] 2010 (''Index of Economic Freedom'', Heritage Foundation i „[[The Wall Street Journal]]”): Polska została zakwalifikowana do grupy państw o „umiarkowanej wolności gospodarczej” i zajęła 71. miejsce na 179 państw<ref>{{cytuj stronę|url=http://www.heritage.org/index/Ranking.aspx|tytuł=Index of Economic Freedom|lang=en|data dostępu=2010-08-06}}</ref>;
+* [[Globalny raport konkurencyjności]]
+:* 39. miejsce w rankingu 139 państw, [[Światowe Forum Ekonomiczne]] 2010<ref>{{cytuj stronę|url=http://www.weforum.org/documents/GCR10/Full%20rankings.pdf|tytuł=The Global Competitiveness Report, 2010–2011|autor:WEF|data dostępu=2010-09-10|lang=en}}</ref>;
+:* 44. miejsce w rankingu 57 gospodarek (państw i regionów), IMD International 2010<ref>{{cytuj stronę|url=http://www.imd.ch/research/publications/wcy/upload/scoreboard.pdf |tytuł=The World Competitiveness Scoreboard 2009|data dostępu=7 czerwca 2009}}</ref>;
+* [[Transparency International|Wskaźnik Percepcji Korupcji]] 2009 (''Corruption Perceptions Index 2009'', [[Transparency International]]): 49 miejsce razem z [[Bhutan]]em i [[Jordania|Jordanią]] na 180 krajów<ref>{{cytuj stronę|url=http://www.transparency.org/policy_research/surveys_indices/cpi/2009/cpi_2009_table|tytuł=CPI Table}}</ref>;
+* ''World Investment Report 2011'', ([[Konferencja Narodów Zjednoczonych ds. Handlu i Rozwoju]] – UNCTAD): Polska szóstym najbardziej atrakcyjnym do inwestowania krajem świata. [[Kraków]] został natomiast uznany za najbardziej perspektywiczne miasto dla działalności innowacyjnej na świecie<ref>
+http://www.newsweek.pl/artykuly/sekcje/biznes/pawlak--polska-jest-bardzo-atrakcyjnym-krajem-dla-inwestorow,79961,1.</ref>.
+* Wskaźnik Zaufania Inwestorów Zagranicznych 2010 (''Foreign Direct Investment Confidence Index'' wg firmy konsultingowej A.T. Kearney): 6. miejsce<ref>{{cytuj stronę|url=http://www.atkearney.com/index.php/Publications/foreign-direct-investment-confidence-index.html|tytuł=2010 Foreign Direct Investment Confidence Index|data dostępu=10 sierpnia 2010|lang=en}}</ref>;
+
+* Wskaźnik Globalizacji, obrazujący stopień integracji państw i społeczeństw ze światem (Globalization Index 2007, A.T. Kearney i Foreign Policy Magazine): 41 miejsce na 72 badane kraje<ref>{{cytuj stronę|url=http://www.atkearney.com/images/global/pdf/GIndex_2007.pdf|tytuł= A.T. Kearney/FOREIGN POLICY Globalization Index 2007|lang=en|data dostępu=27 sierpnia 2010}} str. 71.</ref>;
+
+* Światowy Wskaźnik Rozwoju Handlu Detalicznego, określający perspektywy rozwoju handlu (''Global Retail Development Index'', A.T. Kearney), Polska zajmuje 27. miejsce na świecie, za [[Meksyk]]iem, tuż przed [[Indonezja|Indonezją]]<ref>{{cytuj stronę|url=http://www.atkearney.com/shared_res/pdf/GRDI2004Monograph_S.pdf|lang=en|data dostępu=4 grudnia 2008|tytuł=The 2004 Global Retail Development Index}} str. 2.</ref>.
+
+== Infrastruktura i transport ==
+[[Plik:Speedlimitsinpoland.png|mały|upright|Dozwolone prędkości na polskich drogach]]
+{{Main|Transport w Polsce}}
+
+=== Transport samochodowy ===
+{{Main|Autostrady i drogi ekspresowe w Polsce|Drogi krajowe w Polsce|Drogi wojewódzkie w Polsce}}
+[[Transport samochodowy]] odgrywa w Polsce duże znaczenie, ponieważ ponad 85% ładunków przewożonych jest ciężarówkami. Oprócz tego przez Polskę porusza się wiele pojazdów w ruchu tranzytowym między Europą Zachodnią i Południową oraz krajami wschodniej części kontynentu – [[Estonia|Estonią]], [[Białoruś|Białorusią]], [[Litwa|Litwą]], [[Łotwa|Łotwą]], [[Rosja|Rosją]], [[Ukraina|Ukrainą]] i innymi państwami.
+
+Do 2006 w Polsce było 381 tys. km dróg, w tym 253 tys. km dróg o nawierzchni twardej i 127 tys. km o nawierzchni gruntowej.
+
+{|class="wikitable" align=center
+|+ Zmiany w sieci dróg publicznych i w ich obciążeniu<ref
+name="GUS1">{{Cytuj stronę | tytuł = Raport: Transport – Wyniki działalności w 2007 r. | rok = 2007 | url = http://www.stat.gov.pl/cps/rde/xbcr/gus/PUBL_transport_wyniki_dzialalnosci_2007.pdf | autor = Główny Urząd Statystyczny}}</ref><ref
+name="NIK1">{{Cytuj stronę | tytuł = Informacja o wynikach kontroli funkcjonowania transportu drogowego i kolejowego w latach 1990–2004 | autor = Najwyższa Izba Kontroli (NIK) | rok = 2005 | url = http://classic-web.archive.org/web/20071017061134/http://bip.nik.gov.pl/pl/bip/wyniki_kontroli_wstep/inform2005/2005161}}.</ref>
+! Wyszczególnienie
+! 1990
+! 1995
+! 2000
+! 2001
+! 2002
+! 2003
+! 2004
+! 2005
+! 2007
+|-
+| Drogi publiczne o twardej nawierzchni (w tys. km):
+| 218,4
+| 237,1
+| 249,8
+| 248,3
+| 250,3
+| 248,8
+| 252,3
+| 253,7
+| 258,9
+|-
+| Autostrady (w km):
+| 212
+| 246
+| 358
+| 337
+| 405
+| 405
+| 552
+| 552
+| 663
+|-
+| Liczba zarejestrowanych samochodów (tys. szt.):
+| 9041
+| 11 186
+| 14 106
+| 14 724
+| 15 525
+| 15 899
+| 16 701
+| 16 815
+| 19 035
+|-
+| Liczba zarejestrowanych samochodów ciężarowych (tys. szt.):
+| 1045
+| 1354
+| 1879
+| 1979
+| 2163
+| 2313
+| 2392
+| 2304
+| 2345
+|}
+
+{{Zobacz też|Klasy i kategorie dróg w Polsce|Droga powiatowa|Droga gminna}}
+
+=== Transport kolejowy ===
+[[Plik:Polska-IC-EC.png|mały|Sieć [[InterCity|IC]] i [[EuroCity|EC]] w Polsce]]
+{{Main|Kolej w Polsce|Historia kolei w Polsce}}
+Największą firmą zajmującą się przewozami kolejowymi jest grupa [[Polskie Koleje Państwowe|PKP]] S.A., w skład której wchodzi wiele spółek m.in.:
+* [[PKP Polskie Linie Kolejowe]] S.A. – odpowiedzialna za infrastrukturę,
+* [[PKP Cargo]] S.A. – odpowiedzialna za przewóz towarów,
+* [[PKP Intercity]] Sp. z o.o. – obsługująca połączenia „kwalifikowane”, tj. pociągi [[EuroCity|EC]], [[InterCity|IC]], [[Express InterCity|EIC]] oraz pasażerski ruch międzyregionalny dotowany z budżetu państwa ([[Twoje Linie Kolejowe|TLK]]<ref name="PKP_Intercity" group="uwagi">Do 1 grudnia 2008 międzywojewódzkie pociągi pospieszne obsługiwane były przez PKP Przewozy Regionalne.</ref>).
+
+Z grupy PKP S.A. wydzielono i przekazano [[Samorząd województwa|samorządom województw]] spółkę [[Przewozy Regionalne]] Sp. z o.o., obsługującą głównie pasażerski ruch regionalny i w mniejszym stopniu ruch międzyregionalny. Przewozy Regionalne są aktualnie największym przewoźnikiem pasażerskim w kraju<ref>{{Cytuj stronę | url = http://forsal.pl/artykuly/446093,liczba_pasazerow_polskiej_kolei_systematycznie_spada.html | tytuł = Liczba pasażerów polskiej kolei systematycznie spada | data dostępu = 21 września 2010}}</ref>.
+
+W [[Województwo mazowieckie|województwie mazowieckim]] pasażerski ruch regionalny realizują [[Koleje Mazowieckie]], [[Warszawska Kolej Dojazdowa]] i [[Szybka Kolej Miejska w Warszawie|warszawska Szybka Kolej Miejska]]. W przeciwieństwie do spółek grupy PKP, są one własnością samorządów.
+
+W [[Trójmiasto|Trójmieście]] i Warszawie istnieją koleje aglomeracyjne poruszające się po torach [[PKP Polskie Linie Kolejowe|PLK]] ([[Szybka kolej miejska|SKM]]).
+
+Istnieje także wielu przewoźników nie powiązanych z grupą PKP (w tym wielu prywatnych), obsługujących głównie transport towarowy. Kilku przewoźników posiada także licencję na przewóz osób<ref name="lista przewoźników kolejowych">{{Cytuj stronę | url = http://www.utk.gov.pl/portal/pl/27/245/WYKAZ_LICENCJONOWANYCH_PRZEWOZNIKOW_KOLEJOWYCH.html | tytuł = Pełna lista licencjonowanych przewoźników kolejowych na www.utk.gov.pl | data dostępu = 4 grudnia 2008}}</ref>.
+
+Zdecydowana większość [[Infrastruktura kolejowa|infrastruktury kolejowej]] w Polsce znajduje się pod zarządem PLK S.A. Za dostęp do niej pobierane są od poszczególnych przewoźników opłaty.
+
+Łączna długość [[Linia kolejowa|linii kolejowych]] wynosi 20 665&nbsp;km<ref name="gestosc linii kolejowych">{{Cytuj stronę | url = http://www.paiz.gov.pl/poland_in_figures/transport | tytuł = Transport | autor = PAIiIZ | data dostępu = 27 września 2010 | język = en}}</ref>.
+
+{{Zobacz też|Przewoźnicy kolejowi w Polsce|Zarządcy infrastruktury kolejowej w Polsce|Linie kolejowe w Polsce (PKP PLK)|Dworce kolejowe w Polsce|Zakłady Naprawcze Taboru Kolejowego|Koleje wąskotorowe w Polsce}}
+
+=== Transport lotniczy ===
+[[Plik:Poland airports 2010.svg|mały|upright=1.2|Porty lotnicze w Polsce i liczba pasażerów odprawionych w 2010]]
+{{Main|Polskie porty lotnicze|Polskie lotniska}}
+Cywilny [[transport lotniczy]] w Polsce zapoczątkowany został w 1919 r. pierwszym przelotem z pasażerami na trasie z Poznania do Warszawy. W 1923 r. uruchomiono regularne linie lotnicze z Warszawy do Gdańska i Lwowa, a w 1929 r. powstało przedsiębiorstwo [[Polskie Linie Lotnicze LOT]].
+
+Polskie [[linie lotnicze]] to [[Polskie Linie Lotnicze LOT|PLL LOT]], [[EuroLOT]], [[OLT Jetair]], [[Enter Air]], [[YES Airways]] i [[White Eagle Aviation]]. Największy udział w przewozach pasażerów w Polsce ma [[PLL LOT]] i węgierski [[Wizz Air]].
+
+Cywilne lotniska komunikacyjne użytku publicznego (posiadające betonowy pas startowy), według ilości operacji lotniczych, to: [[Lotnisko Chopina w Warszawie|Warszawa (Okęcie)]], [[Port lotniczy Kraków-Balice|Kraków (Balice)]], [[Port lotniczy Wrocław-Strachowice|Wrocław (Strachowice)]], [[Port lotniczy Katowice-Pyrzowice|Katowice (Pyrzowice)]], [[Port lotniczy Gdańsk im. Lecha Wałęsy|Gdańsk (Rębiechowo)]], [[Port lotniczy Poznań-Ławica|Poznań (Ławica)]], [[Port lotniczy Łódź-Lublinek|Łódź (im. Władysława Reymonta)]], [[Port lotniczy Rzeszów-Jasionka|Rzeszów (Jasionka)]], [[Port lotniczy Szczecin-Goleniów|Szczecin (Goleniów)]], [[Port lotniczy Bydgoszcz|Bydgoszcz (Szwederowo)]], [[Port lotniczy Zielona Góra-Babimost|Zielona Góra (Babimost)]], [[Port lotniczy Modlin|Nowy Dwór Mazowiecki (Modlin)]] (od 2012 roku). Oprócz nich istnieje wiele innych lotnisk należących do [[aeroklub]]ów.
+
+Sieć połączeń lotniczych między polskimi miastami nie jest rozbudowana; większość połączeń nadal odbywa się za pośrednictwem [[Lotnisko Chopina w Warszawie|portu Okęcie]].
+
+{{Zobacz też|Przemysł lotniczy w Polsce|Agrolotnictwo w Polsce}}
+
+=== Transport wodny ===
+[[Żegluga]] morska, przybrzeżna i śródlądowa jest w Polsce stosunkowo dobrze rozwinięta. Korzystne warunki przyrodnicze i dostęp do wielu zbiorników wodnych ([[Morze Bałtyckie]], żeglowne rzeki [[Wisła]], [[Odra]], [[Warta]] i [[Noteć]], [[Zalew Szczeciński]], [[Zalew Wiślany]] i in.) umożliwiają dalszy rozwój żeglugi i żeglarstwa.
+
+Główne porty morskie to [[port Gdańsk]], [[port Szczecin]], [[port Gdynia]], [[port Świnoujście]], [[port Police]] i [[port Kołobrzeg]].
+
+W Polsce utrzymywane są połączenia promowe między [[Terminal Promowy Świnoujście|Świnoujściem]] a [[Ystad]], [[Trelleborg]]iem, [[Kopenhaga|Kopenhagą]] oraz między [[Kołobrzeg]]iem a [[Nexø]], między Gdańskiem a [[Nynäshamn]] ([[Szwecja]]) i między Gdynią a [[Karlskrona|Karlskroną]]. Dodatkowo latem istnieje połączenie promowe między Świnoujściem a [[Rønne]].
+
+{{Zobacz też|Polska Marynarka Handlowa|Polska Żegluga Morska|Biała flota w Polsce|Kanały wodne Polski}}
+
+=== Transport miejski ===
+[[Transport miejski]] w Polsce składa się głównie z [[autobus]]ów i [[tramwaj]]ów. W Warszawie funkcjonuje jedna [[Metro w Warszawie|linia metra]], a druga linia jest w trakcie realizacji. [[Szybki tramwaj]] funkcjonuje w Poznaniu ([[Poznański Szybki Tramwaj]]); podobne torowiska są w budowie w Krakowie ([[Krakowski Szybki Tramwaj]]), w Szczecinie ([[Szczeciński Szybki Tramwaj]]), we Wrocławiu ([[Tramwaje we Wrocławiu|Tramwaj Plus]]) oraz w Łodzi ([[Łódzki Tramwaj Regionalny]] – część [[Tramwaje w Łodzi|najdłuższej w Europie linii tramwajowej]]). Ponadto w [[Lublin]]ie, [[Gdynia|Gdyni]] i [[Tychy|Tychach]] jeżdżą [[trolejbus]]y.
+
+{{Zobacz też|Przedsiębiorstwo Komunikacji Samochodowej|Lista istniejących i zlikwidowanych sieci tramwajowych w Polsce}}
+
+=== Telekomunikacja ===
+{{Main|Telekomunikacja w Polsce}}
+* liczba aktywnych telefonów komórkowych: 44,09 mln (GUS, grudzień 2008)
+* liczba telefonów stacjonarnych: 8,2 mln (GUS, listopad 2009)<ref>[http://media2.pl/telekomunikacja/54167-gus:-telefonia-stacjonarna-traci.html Telefonia Stacjonarna].</ref>, było 12,3 mln (GUS, styczeń 2006).
+
+== Edukacja i nauka ==
+[[Plik:Kraków - Collegium Maius - Dziedziniec 01.JPG|mały|[[Uniwersytet Jagielloński]] – Collegium Maius]]
+{{Main|System oświaty w Polsce|Szkoły wyższe w Polsce|Nauka w Polsce}}
+Edukacja w szkołach publicznych w Polsce jest bezpłatna. Płatne są jedynie studia wyższe niestacjonarne. W roku akademickim 2008/2009 istniało 458 uczelni publicznych i niepublicznych, na których kształciło się 1,9 mln osób<ref name=edu/>. Na uczelniach wyższych pracowało 98 tys. pracowników naukowych<ref name=edu>{{cytuj stronę|url=http://www.stat.gov.pl/cps/rde/xbcr/gus/PUBL_E_szkoly_wyzsze_2008.pdf|autor=GUS|data dostępu=2010-09-17|data=2009-08|tytuł=Szkoły wyższe i ich finanse 2008 |strony= 25,49,288,315}}</ref>. Wydatki publiczne na szkolnictwo wyższe ze źródeł publicznych i prywatnych stanowiły w 2005 roku 1,6% PKB. Dla porównania we [[Włochy|Włoszech]] wynosiły one 0,9%, w [[Niemcy|Niemczech]] 1,1%, a w [[Dania|Danii]] 1,7% PKB.<ref name=edu/>. Całkowite wydatki na edukacje w 2005 roku osiągnęły 5,5% PKB<ref>{{cytuj stronę|url=https://www.cia.gov/library/publications/the-world-factbook/rankorder/2206rank.html?countryName=Poland&countryCode=pl&regionCode=eu&rank=49#pl|autor=CIA |data dostępu=2010-09-17|tytuł=World Factbook-Education expenditures}}</ref>.
+
+W Polsce powstała jedna z najstarszych uczelni w Europie, [[Uniwersytet Jagielloński|Akademia Krakowska]]. Po kilku wojnach w XVII w. i na początku XVIII, polska nauka znajdowała się w stagnacji, do czasów [[Stanisław August Poniatowski|Stanisława Augusta Poniatowskiego]]. Powołano wówczas [[Komisja Edukacji Narodowej|Komisję Edukacji Narodowej]], pierwsze ministerstwo edukacji na świecie. W tym czasie odradzało się także polskie piśmiennictwo, przemysł i handel. Dalszy rozwój został stłumiony przez państwa ościenne w wyniku [[Rozbiory Polski|rozbiorów Polski]]. W XIX i XX wieku wielu Polskich naukowców pracowało za granicą. Jednym z nich była [[Maria Skłodowska-Curie]], która studiowała i pracowała we Francji. Skłodowska-Curie otrzymała dwie [[Nagroda Nobla|Nagrody Nobla]], pierwszą w [[Nagroda Nobla w dziedzinie fizyki|dziedzinie fizyki]], a drugą w [[Lista laureatów Nagrody Nobla w dziedzinie chemii|dziedzinie chemii]]. Odkryła ona dwa nowe [[Pierwiastek chemiczny|pierwiastki]] [[Promieniotwórczość|promieniotwórcze]], z których jeden nazwała „[[polon]]” ([[Łacina|łac.]] ''polonium'') na cześć Polski będącej w owym czasie pod [[Rozbiory Polski|zaborami]]. W pierwszej połowie XX wieku Polska była rozwijającym się centrum matematycznym. Polscy matematycy tworzyli [[Lwowska szkoła matematyczna|Lwowską Szkołę Matematyki]] oraz [[Warszawska szkoła matematyczna|Warszawską Szkołę Matematyki]]. Jednym z efektów ich prac było rozszyfrowanie kodu [[Enigma|Enigmy]] w 1932 roku.
+
+W rankingu 500 najlepszych uniwersytetów świata ARWA 2009, z Polski zakwalifikowały się dwa: [[Uniwersytet Jagielloński]] oraz [[Uniwersytet Warszawski]], obydwa w czwartej setce<ref>{{cytuj stronę|tytuł=Academic Ranking of World Universities – 2009 Poland|url=http://www.arwu.org/Country2009Main.jsp?param=Poland|data dostępu=16 listopada 2009}}</ref>.
+
+== Opieka zdrowotna ==
+{{Main|System opieki zdrowotnej w Polsce}}
+Zgodnie z artykułem 68 [[Konstytucja Rzeczypospolitej Polskiej|Konstytucji Rzeczypospolitej Polskiej]], każdy obywatel Polski ma prawo do ochrony zdrowia. Obywatelom, niezależnie od ich sytuacji materialnej, władze publiczne zapewniają równy dostęp do świadczeń opieki zdrowotnej finansowanej ze środków publicznych. Warunki i zakres udzielania świadczeń określa ustawa.
+
+== Architektura i sztuki piękne ==
+[[Plik:Varšava, Śródmieście, náměstí Plac Zamkowy, ráno.JPG|mały|[[Plac Zamkowy w Warszawie|Plac Zamkowy]] w Warszawie z [[Kolumna Zygmunta III Wazy w Warszawie|Kolumną Zygmunta]] i [[Zamek Królewski w Warszawie|Zamkiem Królewskim]], w głebi zabudowa [[Stare Miasto w Warszawie|Starego Miasta]] z [[Bazylika archikatedralna św. Jana Chrzciciela w Warszawie|Archikatedrą św. Jana]] i [[Kościół św. Marcina w Warszawie|kościołem św. Marcina]]]]
+{{Main|Sztuka Polski}}
+Geneza sztuki Polski sięga pradziejów ([[neolit]]). Po [[Chrzest Polski|chrzcie Polski]] w 966 r. Polska wchodzi w obszar kultury łacińskiej i powstają pierwsze dzieła [[Sztuka przedromańska|sztuki przedromańskiej]] i [[Sztuka romańska|romańskiej]]. Ze względu na zmiany terytorialne trwająca od połowy XIII - do II połowy XVI wieku [[Gotyk|sztuka gotycka]] rozwija się nierównomiernie. Od XV wieku zauważa się relacje z kulturami wschodnimi. Od początku XVI stulecia zauważa się zainteresowanie włoskim [[renesans]]em, a stulecie później [[barok]]iem, który trwa do lat 60. XVIII w. Od XIX wieku w dobie zaborów wzrasta rola artystów pochodzenia krajowego, zarówno okresie [[Oświecenie (okres)|Oświecenia]], [[romantyzm]]u, [[pozytywizm]]u i [[Modernizm (literatura)|modernizmu]]. W dwudziestoleciu międzywojennym upowszechniły się m.in. tendencje awangardowe i idea stylu narodowego. Po ostatniej wojnie większość zniszczonych dzieł odbudowano i zrekonstruowano.
+
+=== Średniowiecze ===
+[[Plik:Kraków, St. Andrew.JPG|mały|upright|left|[[Sztuka romańska|Romański]] [[Kościół św. Andrzeja w Krakowie|kościół św. Andrzeja]] w Krakowie]]
+Po [[Chrzest Polski|chrystianizacji]] kraju rozpowszechnia się na terenie całej Polski [[sztuka przedromańska]] a następnie od początku XII w. [[Sztuka romańska|romańska]] która trwa do połowy XIII stulecia. Przykładem sztuki przedromańskiej są relikty katedr w Gnieźnie, Poznaniu i Krakowie, palatia i kaplice centralne m.in. na [[Ostrów Lednicki|Ostrowie Lednickim]]. Cennym dziełem rzemiosła artystycznego są wyroby złotnicze czego przykładem jest [[czara włocławska]]. Najstarsze manuskrypty są dziełami importowanymi, m.in. Sakramentarz Tyniecki, Ewangeliarz Emmerański i Ewangeliarz Kruszwicki. Przykładami architektury dojrzałego romanizmu są fragmenty katedry krakowskiej zwanej hermanowską z [[Krypta św. Leonarda na Wawelu|kryptą św. Leonarda]], pobliski [[Kościół św. Andrzeja w Krakowie|kościół św. Andrzeja]] oraz kolegiaty w [[Kolegiata w Tumie|Tumie]] i [[Kruszwica|Kruszwicy]]. Rozwinęła się rzeźba architektoniczna m.in. w [[Strzelno|Strzelnie]] (zespół tympanonów fundacyjnych, kolumn z figuralnymi przedstawieniami cnót i przywar), zespół portali i tympanonów z [[Opactwo św. Wincentego na Ołbinie|opactwa na Ołbinie]]. Malarstwo książkowe XII-wieku egzemplifikuje m.in. Biblia Czerwińska. Rzadkim przykładem plastyki jest rytowana [[Płyta wiślicka|posadzka z Wiślicy]]. Wysoki poziom prezentuje metaloplastyka, w tym wyroby złotnicze (kielichy i pateny z Trzemeszna, Gniezna, Płocka i Kalisza) oraz z brązu ([[Drzwi Gnieźnieńskie]] i [[Drzwi płockie|Drzwi Płockie]]). Z XIII stulecia pochodzą najstarsze insygnia władzy takie jak [[Szczerbiec]] miecz sprawiedliwości a następnie koronacyjny królów Polski. Znajdujący się w skarbcu katedry krakowskiej krzyż jest wykonany w XV w. ze starszych o dwa stulecia diademów książęcych. Na szeroką skalę rozwija się sztuka i architektura [[Cystersi|cysterska]] (klasztory w [[Opactwo Cystersów w Sulejowie|Sulejowie]], Wąchocku i Koprzywnicy) oraz zakonów mendykanckich ([[kościół św. Jakuba w Sandomierzu|kościół św. Jakuba]] w [[Sandomierz]]u).
+[[Plik:Kosciol sw. Jakuba w Toruniu.jpg|mały|Gotycki [[Kościół św. Jakuba w Toruniu|kościół św. Jakuba]] w [[Toruń|Toruniu]]]]
+[[Gotyk|Sztukę gotycka]] na ziemiach polskich cechuje w pewnym sensie brak spójności chronologicznej jak artystycznej, podyktowane było konsekwencjami [[Polska w okresie rozbicia dzielnicowego|rozbicia dzielnicowego]] i niezależności od Królestwa Polskiego Śląska i Pomorza, gdzie gotyk pojawił się najwcześniej. W architekturze dominuje recepcja gotyku redukcyjnego i północnego [[Gotyk ceglany|gotyku ceglanego]]. Rzadko budowano w całości z kamienia, tenże materiał służył często wyłącznie do dekoracji rzeźbiarskiej. Na wielką skalę rozwija się budownictwo sakralne. Przykładami są kościoły na wrocławskim [[Ostrów Tumski we Wrocławiu|Ostrowie Tumskim]] ([[Archikatedra św. Jana Chrzciciela we Wrocławiu|katedra]] i [[Kolegiata Świętego Krzyża i św. Bartłomieja we Wrocławiu|kolegiata św. Krzyża]]) [[Kościół Mariacki w Krakowie|kościoły NMP]] i [[Kościół św. Katarzyny Aleksandryjskiej i św. Małgorzaty w Krakowie|św. Katarzyny]] w Krakowie, [[Bazylika konkatedralna Wniebowzięcia Najświętszej Maryi Panny w Gdańsku|NMP]], [[Kościół św. Katarzyny w Gdańsku|św. Katarzyny]] i [[Kościół Świętej Trójcy w Gdańsku|św. Trójcy]] w Gdańsku, [[kościół św. Jakuba w Toruniu]], [[Bazylika katedralna Wniebowzięcia Najświętszej Maryi Panny w Pelplinie|katedra w Pelplinie]], [[Bazylika kolegiacka Narodzenia Najświętszej Marii Panny w Wiślicy|kolegiata w Wiślicy]], ponadto kościoły w Olkuszu, Gosławicach, Kamionnej, Starym Bielsku i wiele innych. Na szeroką skalę wznosi się we wszystkich regionach Polski zamki. Prym wiedzie architektura krzyżacka w Prusach, na Pomorzu i w Warmii (zamki w [[Zamek w Malborku|Malborku]], [[Zamek biskupów warmińskich w Lidzbarku Warmińskim|Lidzbarku Warmińskim]]). Przykładami z innych ziem są zamki w [[Zamek w Niedzicy|Niedzicy]] [[Zamek książąt mazowieckich w Czersku|Czersku]], [[Zamek w Dębnie|Dębnie]] itp. Architekturę municypalną reprezentuje [[ratusz we Wrocławiu]], zaś mieszkalną zespół kamienic w Toruniu, Krakowie i [[Stargard Szczeciński|Stargardzie Szczecińskim]]. Wiele miast zachowało w różnym stopniu obwarowania z bramami i basztami, m.in. w Szydłowie, Paczkowie, Stargardzie Szczecińskim z [[Brama Młyńska w Stargardzie Szczecińskim|Bramą Młyńską]], Krakowie z [[Barbakan w Krakowie|Barbakanem]] i [[Brama Floriańska w Krakowie|Bramą Floriańską]].
+[[Plik:20061006-03-032-Altar-12 corrected.JPG|mały|left|[[Wit Stwosz]], ''Zesłanie Ducha Świętego'', fragment [[Ołtarz Wita Stwosza w Krakowie|Ołtarza Mariackiego]]]]
+Wraz z architekturą występują dzieła rzeźby architektonicznej (portale, wsporniki, zworniki sklepień itp.). Do najcenniejszych przykładów zalicza się dekorację zamku malborskiego, kościoła Mariackiego i pobliskiego [[Kamienica Hetmańska w Krakowie|pałacu]] przy [[Rynek Główny w Krakowie|rynku krakowskim]] czy [[Bazylika Świętych Apostołów Piotra i Pawła w Strzegomiu|kościoła w Strzegomiu]]. Dziełami rzeźby sepulkralnej są nagrobki Piastów Ślaskich we Wrocławiu, Opolu, Krzeszowie, Henrykowie, Lwówku Śląskim oraz królów Polski w katedrze wawelskiej. Świadectwem XIV-wiecznej [[Mistyka|mistyki]] są [[Pietà z Lubiąża]], krucyfiksy z kościoła Bożego Ciała we Wrocławiu, katedry w Kamieniu Pomorskim czy fary w Wągrowcu, figurki jasełkowe klasztoru Klarysek w Krakowie. Powstają liczne figury Madonny z Dzieciątkiem (m.in. zespół wrocławskich Madonn na Lwach, Madonna z klasztoru Karmelitek w Krakowie). [[Gotyk międzynarodowy|Styl piękny]] egzemplifikują [[Piękna Madonna]] z Wrocławia, [[Madonna z Krużlowej]], wrocławski relikwiarz św. Doroty. Coraz częściej wykonuje się retabula ołtarzowe, najcenniejszymi przykładami są m.in. [[Ołtarz Wita Stwosza w Krakowie|Ołtarz Mariacki w Krakowie]] dłuta [[Wit Stwosz|Wita Stwosza]], poliptyk w [[Katedra św. Stanisława i św. Wacława w Świdnicy|kościele Świętych Stanisława i Wacława]] w [[Świdnica|Świdnicy]], [[Tryptyk z Pławna]].
+[[Plik:Oplakiwanie z Chomranic.jpg|mały|upright|[[Opłakiwanie z Chomranic]], ok. 1450 r. [[Muzeum Diecezjalne w Tarnowie]]]]
+Malarstwo gotyckie na ziemiach polskich dzieli się na ścienne (polichromie w Małujowicach, Sielęcinie, kościele św. Jana w Gnieźnie, kapitularza klasztoru w Lądzie, ruskie malowidła m.in. w [[Kaplica Trójcy Świętej w Lublinie|kaplicy zamku lubelskiego]]), witrażowe (Toruń, Chełmno, Włocławek, Kraków) książkowe (Legenda Świętej Jadwigi) i tablicowe. Przykładami są Święta Anna Samotrzecia ze Strzegomia, [[Opłakiwanie z Chomranic]] [[Epitafium Wierzbięty z Branic]] krakowskie poliptyki Dominikański i [[Poliptyk augustiański|Augustiański]], dzieła [[Jan Wielki|Jana Wielkiego]], Poliptyk Jana Jałmużnika ponadto m.in. wrocławski [[Ołtarz Świętej Barbary]], ołtarz z Legendą Świętej Jadwigi, dzieła malarstwa gdańskiego jak [[Dyptyk Winterfeldów]], Duży i Mały Ołtarz Ferberów, Ołtarz Jerozolimski i wiele innych.
+
+Wśród dzieł rzemiosła artystycznego wyróżniają się dzieła złotnicze fundacji [[Kazimierz III Wielki|Kazimierza Wielkiego]], drewniane stalle w Toruniu, Pelplinie i Gdańsku, monstrancje ze Staniatek, Wieliczki, wyroby [[Marcin Marciniec|Marcina Marcińca]], w tym relikwiarz św. Stanisława i berło Akademii Krakowskiej.
+
+=== Nowożytność ===
+[[Plik:Ratusz Zamosc.jpg|mały|left|[[Rynek Wielki (Zamość)|Rynek Wielki]] w [[Zamość|Zamościu]] z [[Ratusz w Zamościu|ratuszem]]]]
+Za panowanie Jagiellonów Polska przeżywa „złoty wiek”. Ostatni władcy tej dynastii [[Zygmunt I Stary]] i [[Zygmunt II August]] rozpowszechniają w Polsce idee humanistycznego [[renesans]]u. Gruntownie został przebudowany [[Zamek Królewski na Wawelu]], który otrzymał bogaty wystrój wnętrz z m.in. [[Arras (tkanina)|arrasami]], malowane fryzami i dekoracją stropów ([[głowy wawelskie]]). Przy katedrze krakowskiej wzniesiono [[Kaplica Zygmuntowska na Wawelu|kaplicę Zygmuntowską]]. Zmieniła się częściowo zabudowa mieszkalna m.in. przy [[Ulica Kanonicza w Krakowie|ul. Kanoniczej]]. Renesans upowszechnił się także na terenie Małopolski ([[dwór obronny w Szymbarku]], pałac w [[Książ Wielki|Książu Wielkim]]) i Wielkopolski ([[Ratusz w Poznaniu]]). Przykładem renesansowego „miasta idealnego” jest [[Zamość]]. Powstają kamienice z podcieniami i attykami ([[Kazimierz Dolny]]). Formy renesansowe w miejszym stopniu są powszechne na Śląsku ([[Zamek Piastów Śląskich w Brzegu|zamek w Brzegu]]) i Pomorzu ([[Zamek Książąt Pomorskich w Szczecinie]]). W renesansowej rzeźbie zdominowały dzieła sepulkralnej (nagrobki [[Jan Michałowicz z Urzędowa|Jana Michałowicza z Urzędowa]]). Powstają także retabula ołtarzowe (m.in. ołtarza głównego katedry krakowskiej, obecnie w kolegiacie w [[Bodzentyn]]ie). W malarstwie książkowym utrwaliły się formy gotyckie ([[Kodeks Baltazara Behema]], dzieła [[Stanisław Samostrzelnik|Stanisława Samostrzelnika]]), zaś w malarstwie sztalugowym zdominował portret (twórczość [[Marcin Kober|Marcina Kobera]]). Intensywnie rozwinęło się rzemiosło artystyczne – dzieła snycerskie, płatnerskie, złotnicze czego przykładem jest [[srebrny kur Bractwa Kurkowego]].
+
+Od II połowy XVI stulecia powszechny staje się [[Manieryzm (sztuka)|manieryzm]], przede wszystkim na Śląsku i Pomorzu, gdzie przejmowano formy charakterystyczne dla architektury Niderlandów. Przykładami są zabytki w Gdańsku takie jak [[Wielka Zbrojownia w Gdańsku|Wielka Zbrojownia]], [[Brama Zielona]], [[Złota Kamienica w Gdańsku|Złota Kamienica]], [[Lwi Zamek]]. ''Exemplum gratia'' wrocławskiego manieryzmu jest [[kamienica Pod Gryfami]] przy [[Rynek we Wrocławiu|Rynku]]. Innymi dziełami architektury śląskiego manieryzmu są [[ratusz w Głogówku]] oraz [[dom Wagi Miejskiej w Nysie]]. Świadectwem sztuki [[Reformacja|reformacji]] są ambony w tym kazalnica w [[Katedra św. Marii Magdaleny we Wrocławiu|kościele św. Marii Magdaleny]]. W Małopolsce niderlandzki manieryzm egzemplifikuje ołtarz główny fary w [[Biecz]]u, na Rusi zaś [[Kościół św. Andrzeja i klasztor Bernardynów we Lwowie|kościół Bernardynów we Lwowie]]. Włoską odmianę manieryzmu reprezentują dzieła rzeźbiarskie [[Santi Gucci]]ego. Przykładami architektury Małopolski i Rusi są [[Krzyżtopór|zamek Krzyżtopór]], [[Krasiczyn#Zamek w Krasiczynie|zamek w Krasiczynie]], [[cerkiew Wołoska we Lwowie]] itp.
+[[Plik:Wilanow palace.jpg|mały|[[Pałac w Wilanowie|Pałac]] [[Jan III Sobieski|Jana III Sobieskiego]] w [[Wilanów|Wilanowie]]]]
+[[Barok]] w Polsce sięga poczatku XVII stulecia, jego wczesna faza jest ściśle związana z [[Kontrreformacja|kontrreformacją]] i panowaniem [[Wazowie|Wazów]]. Wzrosła potęga i autorytet duchowieństwa, w miejsce humanizmu lansowano myśli o przemijalności i kruchości ludzkiego życia. Nowym centrum artystycznym staje się nowa stolica, [[Warszawa]] gdzie przed [[Zamek Królewski w Warszawie|zamkiem Królewskim]] postawiono [[Kolumna Zygmunta III Wazy w Warszawie|kolumnę]] oznaczającą potęgę władzy króla. Świadectwem działalności [[Jezuici|Jezuitów]] jest m.in. [[Kościół Świętych Apostołów Piotra i Pawła w Krakowie|kościół św. Piotra i Pawła w Krakowie]]. Poza ośrodkami miejskimi powstają monumentalne klasztory (m.in. na [[Kościół Wniebowzięcia Najświętszej Maryi Panny w Krakowie (Na Bielanach)|Bielanach]], w [[Sanktuarium pasyjno-maryjne w Kalwarii Zebrzydowskiej|Kalwarii Zebrzydowskiej]], [[Klasztor w Czernej|Czernej]]). Powstają liczne rezydencje obronne czego przykładem jest [[pałac Biskupów Krakowskich w Kielcach]]. W malarstwie wczesnego baroku oprócz obrazów o tematyce religijnej i tradycyjnego portretu staropolskiego upowszechnił się tzw. [[portret trumienny]]. Wnętrza kościołów otrzymują bogaty wystrój (m.in. ołtarze w kazimierskich świątyniach św. Katarzyny i Bożego Ciała, stalle w tymże kościele).
+
+Po potopie szwedzkim, który zahamował ruch budowlany nastąpił dalszy rozwój sztuki barokowej. Apogeum sztuki przypada na okres panowania Jana III Sobieskiego, dla którego wzniesiono [[Pałac w Wilanowie]]. Liczne kościoły powstały na terenie całej Rzeczypospolitej (przebudowa kościoła i klasztoru na [[Jasna Góra|Jasnej Górze]], [[Kościół św. Anny w Krakowie]], [[Bazylika katedralna Wniebowzięcia Najświętszej Maryi Panny i św. Mikołaja w Łowiczu|kościół farny w Łowiczu]], kościół farny w Poznaniu, [[Bazylika na Świętej Górze|kościół Filipinów]] w [[Gostyń|Gostyniu]], kościół i klasztor Misjonarzy w [[Siemiatycze|Siemiatyczach]]) oraz na Śląsku (kościoły w [[Nysa|Nysie]]) i Warmii ([[Święta Lipka]]). Powstają także synagogi ([[Wielka Synagoga we Włodawie]]) i cerkwie. Budownictwo świeckie reprezentują pałace ([[Zamek w Rydzynie|Rydzyna]], [[Pałac w Nieborowie|Nieborów]]), [[Dwór|dwory szlacheckie]] ([[Czyżew]], [[Świdnik]], [[Osówiec (powiat słupecki)|Osówiec]]), liczne kamienice. Na dworze Jana III Sobieskiego działał malarz [[Jerzy Siemiginowski-Eleuter]], w Wielkopolsce tworzył m.in. [[Szymon Czechowicz]], Małopolsce [[Franciszek Lekszycki]], na Pomorzu m.in. [[Daniel Schultz]], [[Anton Möller]], zaś na Śląsku [[Michael Willmann]].
+
+Na XVIII stulecie przypada w Polsce okres późnego baroku i rokoka. Centrum artystycznym rezydujących w Polsce i Saksonii Wettynów była Warszawa, gdzie przebudowano zamek królewski, założono [[Oś Saska|Oś Saską]] ozdobioną rzeźbami [[Jan Jerzy Plersch|Jana Jerzego Plerscha]], kościoły przy [[Krakowskie Przedmieście w Warszawie|Krakowskim Przedmieściu]]. Powstały rezydencje magnackie m.in. w [[Pałac Branickich w Białymstoku|Białymstoku]] [[Pałac w Radzyniu Podlaskim|Radzyniu Podlaskim]], [[Pałac w Szczekocinach|Szczekocinach]]. Intensywnie budowano budowle sakralne ([[Kościół Rozesłania św. Apostołów w Chełmie|Kościół Pijarów w Chełmie]], kościoły w [[Kalisz]]u, [[Wieluń|Wieluniu]], [[Leszno|Lesznie]], [[Krotoszyn]]ie itp.) z bogatym wystrojem wnętrz ([[Bazylika Zwiastowania Najświętszej Maryi Panny w Leżajsku|kościół Bernardynów w Leżajsku]], [[Bazylika archikatedralna w Gdańsku-Oliwie|katedra w Gdańsku-Oliwie]] itp.).
+
+Najcenniejszymi dziełami późnego baroku na Śląsku są [[Uniwersytet Wrocławski]] z [[Aula Leopoldina|Aulą Leopoldina]], [[opactwo Cysterskie w Krzeszowie|opactwo Cystersów w Krzeszowie]] i kościół św. Jadwigi w [[Legnickie Pole|Legnickim Polu]]. Na Wileńszczyźnie działa architekt [[Jan Krzysztof Glaubitz]], na Rusi m.in. [[Bernard Meretyn]] i rzeźbiarz [[Jan Jerzy Pinzel]].
+
+
+==== XIX–XXI w. ====
+[[Plik:Stanczyk Matejko.JPG|mały|[[Jan Matejko]], ''[[Stańczyk (obraz Jana Matejki)|Stańczyk]]'']]
+[[Styl Stanisława Augusta]] łączy późne rokoko z [[klasycyzm]]em. Warszawski zamek został rozbudowany o kilka reprezentacyjnych sal. [[Dominik Merlini]] wzniósł m.in. [[Łazienki Królewskie w Warszawie|Łazienki Królewskie]] i [[Królikarnia|Królikarnię]]. Na dworze ostatniego króla Polski działa wedutysta [[Bernardo Bellotto]] i preferujący tematykę historyczną [[Marcello Bacciarelli]]. Malarstwo późnego rokoka reprezentuje [[Jan Piotr Norblin]]. Do ok. 1830 r. powstawały dzieła o formach w pełni klasycyzujących, takie jak np. [[Teatr Wielki w Warszawie|Teatr Wielki]] zabudowa [[Plac Bankowy w Warszawie|Placu Bankowego]] w Warszawie ([[Antonio Corazzi]]), powstają nowe miasta ([[Kock]]) i założenia parkowe ([[Arkadia (powiat łowicki)|Arkadia]]). Rzeźbę reprezentują dzieła [[Bertel Thorvaldsen|Bertela Thorvaldsena]]. Działali także artyści krajowi m.in. architekci [[Jakub Kubicki]] ([[Belweder w Warszawie]]) i [[Palladianizm|palladianista]] [[Stanisław Zawadzki (1743-1806)|Stanisław Zawadzki]] ([[Pałac w Śmiełowie]]). Malarstwo przełomu XVIII i XIX w. reprezentuje m.in. [[Zygmunt Vogel]].
+
+[[Romantyzm]] w Polsce reprezentują malarze [[Piotr Michałowski]] [[Artur Grottger]] [[Henryk Rodakowski]] poruszający wątek narodowo-wyzwoleńczy. W architekturze dominuje [[Historyzm (architektura)|historyzm]] i [[Eklektyzm (architektura)|eklektyzm]]. Na terenie ziem polskich działał m.in. [[Karl Friedrich Schinkel]], lansujący historyzm wznosząc swoje dzieła w Antoninie, [[Ratusz w Kołobrzegu|Kołobrzegu]] czy [[Kościół św. Marcina w Krzeszowicach|Krzeszowicach]]. W II połowie XIX stulecia malarstwo zdominował [[Realizm (malarstwo)|realizm]] i realizm historyczny. Codzienność stała się tematem płócien [[Aleksander Gierymski|Aleksandra Gierymskiego]], wiejski krajobraz i widoki małych miasteczek malował [[Józef Szermentowski]]. Czołowym polskim akademistą był [[Henryk Siemiradzki]]. W Krakowie i Paryżu działał [[Jan Matejko]]. Gros jego ''[[oeuvre]]'' zajmowała historia Polski; artysta podjął [[Filozofia historii|historiozoficzną]] percepcję przeszłości kraju. Rzeźbę II połowy XIX wieku reprezentują [[Cyprian Godebski (rzeźbiarz)|Cyprian Godebski]], [[Teodor Rygier]], [[Pius Weloński]], zaś architekturę m.in. [[Feliks Księżarski]]. Na Śląsku działał neogotycysta [[Alexis Langer]], lansujący nawrót do średniowiecznej pobożności. [[Industrializacja]] sprzyja rozwojowi miast (Łódź, Katowice, Żyrardów) i osiedli robotniczych ([[Nikiszowiec]] na Śląsku). Powstają liczne wille i rezydencje fabrykantów. Na przełomie stuleci działa neogotycysta [[Józef Pius Dziekoński]]. Motywy francuskiego impresjonizmu przyjęli m.in. [[Władysław Podkowiński]] [[Józef Pankiewicz]].
+[[Plik:Malczewski Jacek Hamlet polski.jpg|mały|left|[[Jacek Malczewski]], ''[[Hamlet polski. Portret Aleksandra Wielopolskiego]]'']]
+Okres [[Młoda Polska|Młodej Polski]] wiąże się z nie tylko symbolizmem, lecz także z poszukiwaniem indywidualnego podejścia do sztuki. Działali malarze [[Stanisław Wyspiański]], [[Józef Mehoffer]], [[Olga Boznańska]], [[Jan Stanisławski (malarz)|Jan Stanisławski]], [[Jacek Malczewski]]; rzeźbiarz [[Wacław Szymanowski (rzeźbiarz)|Wacław Szymanowski]], architekci [[Teodor Talowski]], [[Franciszek Mączyński]] i [[Stanisław Witkiewicz]], który preferował [[styl zakopiański]]. W architekturze przeważają formy secesyjne (zabudowa [[ulica Piotrkowska|ul. Piotrkowskiej w  Łodzi]]), które wykorzystywano do aranżacji wnętrz (m.in. [[Dom Lekarski]] z dekoracją i witrażami Stanisława Wyspiańskiego, [[Kawiarnia Jama Michalika]] w Krakowie projektu [[Karol Frycz|Karola Frycza]]). Na szeroką skalę rozwinęło się wzornictwo przemysłowe, sztuka użytkowa preferowana przez m.in. [[Jan Szczepkowski|Jana Szczepkowskiego]].
+
+Po odzyskaniu przez Polskę niepodległości w sztuce pojawiły się tendencje awangardowe. Kubizm swobodnie interpretowali w swoich dziełach malarze [[Zbigniew Pronaszko]], [[Władysław Strzemiński]], [[Henryk Stażewski]], rzeźbiarz [[Xawery Dunikowski]] nie rezygnując z figuratywności. Działają grupy artystyczne (m.in. [[Ryt (ugrupowanie plastyczne)|„Ryt”]] i [[Rytm (ugrupowanie plastyczne)|„Rytm”]]). Architektura charakteryzowała się swobodną często uproszczoną redakcją form dawnych (dzieła [[Adolf Szyszko-Bohusz|Adolfa Szyszko-Bohusza]], [[Oskar Sosnowski|Oskara Sosnowskiego]]) zaś pod koniec lat 20. zdominowały formy czyste, sprzyjające [[Funkcjonalizm (sztuka)|funkcjonalizmowi]]. Wielkim przedsięwzięciem była budowa [[Gdynia|Gdyni]]. Na Śląsku preferowana jest niemiecka awangarda. Wśród dzieł wyróżnia się [[Hala Stulecia]] we Wrocławiu, dzieło [[Max Berg|Maxa Berga]].
+[[Plik:Kt spodek pps.jpg|mały|[[Kazimierz Gustaw Zemła|Gustaw Zemła]], [[Pomnik Powstańców Śląskich]] w Katowicach. W głębi [[Spodek (hala widowiskowa)|„Spodek”]] (proj. [[Maciej Gintowt]], [[Jerzy Hryniewiecki]] i Maciej Krasiński)]]
+Po zakończeniu II wojny światowej ma miejsce odbudowa zabytków i miast. Wielkimi przedsięwzięciami była odbudowa Poznania, Gdańska i Warszawy ukoronowana restytucją Zamku Królewskiego. W sztukach plastycznych nad socrealizmem zdominowały kierunki awangardowe. W latach 50. działała grupa [[Kapizm|kolorystów]] ([[Jan Cybis]], [[Hanna Rudzka-Cybisowa]], [[Jan Szancenbach]]). Z późniejszych ugrupowań m.in. [[Grupa Krakowska]], z [[Tadeusz Kantor|Tadeuszem Kantorem]] na czele, [[Łódź Kaliska (grupa)|Łódź Kaliska]] i wiele innych. Indywidualistami malarstwa są m.in. [[Andrzej Wróblewski (malarz)|Andrzej Wróblewski]], [[Piotr Potworowski]], [[Jan Tarasin]], [[Jerzy Nowosielski]], [[Jerzy Duda-Gracz]], [[Zdzisław Beksiński]]. Wzrosło znaczenie polskiej grafiki ([[Mieczysław Wejman]]) i plakatu (założenie [[Muzeum Plakatu w Wilanowie]], twórczość m.in. [[Henryk Tomaszewski (grafik)|Henryka Tomaszewskiego]], [[Waldemar Świerzy|Waldemara Świerzego]], [[Jan Młodożeniec|Jana Młodożeńca]]). Przedstawicielami rzeźby są m.in. [[Magdalena Abakanowicz]], [[Kazimierz Gustaw Zemła|Gustaw Zemła]] [[Władysław Hasior]]. Do upadku komunizmu w architekturze dominowało budownictwo wielkopłytowe. Wyjątkowym przykładem jest katowickie [[Osiedle Tysiąclecia (Katowice)|Osiedle Tysiąclecia]] z charakterystycznymi „[[Kukurydze (wieżowce)|Kukurydzami]]”. Powstały także pomysłowe dzieła jak [[Kościół Matki Bożej Królowej Polski w Krakowie (Arka Pana)|Arka Pana]] w krakowskich [[Bieńczyce|Bieńczycach]] katowicki [[Spodek (hala widowiskowa)|Spodek]] i wiele innych. Po 1989 r. oprócz krajowych architektów (np. [[Stanisław Niemczyk]]), swoje dzieła w Polsce wznieśli m.in. [[Daniel Libeskind]] i [[Norman Foster]].
+
+== Kultura ==
+{{Main|Kultura polska}}
+
+=== Język ===
+{{Main|Język polski|Gramatyka języka polskiego|Powstanie i rozwój języka polskiego|Dialekty języka polskiego}}
+
+=== Literatura ===
+{{Main|Literatura polska}}
+[[Plik:Lazienki-Palac na Wodzie.jpg|mały|[[Łazienki Królewskie w Warszawie|Łazienki]] – [[Pałac na Wyspie|Pałac na Wodzie]]]]
+[[Plik:Wieliczka salt mine.jpg|mały|[[Kopalnia soli Wieliczka]]]]
+{{Commons|Portrety polskich pisarzy i poetów|Portrety polskich pisarzy i poetów}}
+[[Literatura polska - średniowiecze|Literatura średniowieczna w Polsce]] powstawała pod wpływem krajów zachodnich i [[Chrześcijaństwo|chrześcijaństwa]]. Do końca XII wieku) na terenie kraju literatura rozwijała się wyłącznie w języku łacińskim, była też zazwyczaj anonimowa. W okresie drugim (XII–XIV w.) pojawiły się pierwsze utwory w języku narodowym (''[[Psałterz floriański]]'', ''[[Bogurodzica (pieśń)|Bogurodzica]]''). Utwory literackie pisane po polsku pojawiały się coraz częściej od około 1543 roku, kiedy to większe uznanie zaczęli zdobywać tacy pisarze jak: [[Mikołaj Rej]], [[Andrzej Frycz Modrzewski]], [[Stanisław Hozjusz]]. Na [[Literatura polska - barok|polską literaturę barokową]] (XVII w.) składa się kilka nurtów, m.in. nurt religijny, twórczość [[Jezuici|Jezuitów]]. Poezja wyrażała poczucie marności dóbr doczesnych oraz przemijania miłości i szczęścia (''[[Roksolanki, to jest ruskie panny|Roksolanki]]'' [[Szymon Zimorowic|Zimorowica]]). Powstawały także erotyki ([[Jan Andrzej Morsztyn|J. A. Morsztyn]]). W literaturze baroku wyodrębnia się również twórczość [[literatura sowizdrzalska|sowizdrzalską]] (głównie anonimową), w której dominowała [[parodia]], [[satyra]], [[groteska]] i [[nonsens]]. Epoka Oświecenia w Polsce rozpoczęła się w pierwszej połowie XVIII w.; duża jej część zajmowała się sprawami obywatelskimi i politycznymi. Twórczość taką uprawiali m.in. [[Ignacy Krasicki]] i [[Adam Naruszewicz]]. Pisarze ci (podobnie jak [[Franciszek Bohomolec]], [[Julian Ursyn Niemcewicz]] i [[Franciszek Zabłocki]]) związani byli z [[klasycyzm]]em, nawiązującym do twórczości [[Starożytność|antycznej]]. Obok niego funkcjonował nurt [[sentymentalizm|sentymentalny]], w jego ramach tworzyli m.in. [[Franciszek Karpiński]] i [[Franciszek Dionizy Kniaźnin]]. Najpopularniejszymi gatunkami epoki były: [[Oda (literatura)|oda]], [[sielanka]], [[bajka]] i [[satyra]].
+
+Sytuacja [[III rozbiór Polski|utraty niepodległości]] w 1795 roku wpłynęła w znaczny sposób na [[Literatura polska - romantyzm|literaturę polską epoki romantyzmu]], która pełniła odtąd funkcję utrzymywania świadomości narodowej. W okresie porozbiorowym gromadzono [[Podanie (literatura)|podania]], [[Legenda|legendy]] i [[Lud (dzieło)|pieśni ludowe]] ([[Oskar Kolberg]]). Sytuację literacką zmienił upadek [[Powstanie listopadowe|powstania listopadowego]]: piśmiennictwo od tamtego momentu podzieliło się na literaturę krajową ([[Powieść historyczna|powieści historyczne]] [[Józef Ignacy Kraszewski|Kraszewskiego]], [[Gawęda szlachecka|gawędy szlacheckie]] [[Henryk Rzewuski|Rzewuskiego]], [[Komedia obyczajowa|komedie obyczajowe]] [[Aleksander Fredro|Fredry]]) oraz [[Wielka Emigracja|emigracyjną]], gdzie powstały ważne dzieła dla polskiej literatury: [[Adam Mickiewicz|Mickiewicza]] ''[[Dziady (dramat)|Dziady]]'' i ''[[Pan Tadeusz]]'' (który został uznany za [[Epos narodowy|epopeję narodową]]), [[Juliusz Słowacki|Słowackiego]] ''[[Kordian (dramat)|Kordian]]'', [[Zygmunt Krasiński|Krasińskiego]] ''[[Nie-Boska komedia]]''.
+Rok 1864 (upadek [[Powstanie styczniowe|powstania styczniowego]]) uznaje się zazwyczaj za początek [[pozytywizm]]u w Polsce. W tym okresie zmieniła się rola przypisywana literaturze. Miała być ona przede wszystkim użyteczna i reagować na aktualne wydarzenia i problemy społeczne. Zmniejszyło się znaczenie poezji (choć wciąż powstawała, tworzyli m.in. [[Maria Konopnicka]], [[Adam Asnyk]]), a najwyżej cenionym [[Gatunek literacki|gatunkiem literackim]] stała się [[powieść realistyczna]] (m.in. ''[[Meir Ezofowicz]]'' i ''[[Nad Niemnem]]'' [[Eliza Orzeszkowa|Elizy Orzeszkowej]] oraz ''[[Lalka (powieść)|Lalka]]'' [[Bolesław Prus|Bolesława Prusa]]) lub [[Powieść tendencyjna|tendencyjna]] (m.in. [[Józef Ignacy Kraszewski|Kraszewski]] ''[[Dziadunio]]'', Orzeszkowa ''[[Pan Graba]]'', ''[[Pamiętnik Wacławy]]''). Tworzono również liczną [[Nowela|nowelistykę]] ([[Maria Konopnicka|Konopnicka]], [[Henryk Sienkiewicz|Sienkiewicz]], Prus), a także [[powieść historyczna|powieści historyczne]], takie jak: ''[[Faraon (powieść)|Faraon]]'' Prusa oraz ''[[Ogniem i mieczem]]'', ''[[Potop (powieść)|Potop]]'', ''[[Pan Wołodyjowski]]'', ''[[Krzyżacy (powieść)|Krzyżacy]]'', ''[[Quo vadis]]'' Henryka Sienkiewicza.
+
+Kolejna epoka to [[Literatura polska - Młoda Polska|Młoda Polska]], w której programie zwrócono uwagę na ponadprzeciętność artysty. Powstaje hasło „sztuka dla sztuki” oznaczające rezygnację z obywatelskich powinności piśmiennictwa, a położenie nacisku na [[indywidualizm]] i jednostkowe przeżycie. Wtedy tworzyli [[Jan Kasprowicz]], [[Tadeusz Miciński]], [[Leopold Staff]], [[Stanisław Wyspiański]], [[Stefan Żeromski]], [[Stanisław Przybyszewski]].
+
+==== XX wiek ====
+{{Main|Literatura polska – okres międzywojenny|Literatura polska w okresie II wojny światowej|Polska literatura współczesna}}
+Polska miała w XX wieku czterech noblistów w dziedzinie literatury: [[Henryk Sienkiewicz|Henryka Sienkiewicza]], [[Władysław Reymont|Władysława Reymonta]], [[Czesław Miłosz|Czesława Miłosza]] i [[Wisława Szymborska|Wisławę Szymborską]]. Inni ważni pisarze to [[Stanisław Ignacy Witkiewicz|Witkacy]], [[Bruno Schulz]] i [[Witold Gombrowicz]], których zalicza się do awangardy; twórca fantastyki naukowej [[Stanisław Lem]], który przewidział w swoich dziełach ogromną liczbę odkryć naukowych i wynalazków, takich jak [[biotechnologia]], [[internet|sieć]], rzeczywistość wirtualna; [[reportaż]]ysta [[Ryszard Kapuściński]], którego portrety innych kultur i nacji są szeroko cenione i przekładane na inne języki. Ponadto: [[Zbigniew Herbert]], [[Sławomir Mrożek]], [[Jarosław Iwaszkiewicz]], [[Leopold Tyrmand]], [[Stefan Chwin]], [[Jerzy Prokopiuk]], [[Robert Stiller]], [[Andrzej Waligórski]], [[Maria Pawlikowska-Jasnorzewska]], [[Julian Tuwim]], [[Ferdynand Goetel]], [[Piotr Kuncewicz]], [[Paweł Jasienica]], [[Stanisław Jerzy Lec]], [[Tadeusz Boy-Żeleński]], [[Tadeusz Różewicz]], [[Józef Mackiewicz]], [[Andrzej Bobkowski]], [[Zofia Nałkowska]], [[Krzysztof Kamil Baczyński]], [[Stanisław Barańczak]], [[Adam Zagajewski]], [[Tadeusz Konwicki]], [[Stefan Wiechecki]], [[Marcin Świetlicki]], [[Andrzej Stasiuk]], [[Eustachy Rylski]], [[Jerzy Sosnowski (pisarz)|Jerzy Sosnowski]] i [[Jacek Dukaj]].
+
+=== Filozofia ===
+{{Main|Filozofia polska}}
+Pierwszym znanym filozofem polskim był [[Witelon]], właściwy rozwój filozofii polskiej wiąże się jednak dopiero z założeniem Akademii Krakowskiej – jak inne uniwersytety środokowoeuropejskie, uczelnia ta powstała w czasach stopniowego zmierzchu myśli scholastycznej. Najszerzej znani polscy filozofowie średniowieczni uprawiali przede wszystkim filozofię praktyczną, zwłaszcza powiązaną z [[koncyliaryzm]]em myśl społeczną i polityczno-religijną: czynił tak już [[Mateusz z Krakowa]], do innych kluczowych reprezentantów tego nurtu należeli [[Paweł Włodkowic]], [[Jan z Ludziska]] i [[Jan Ostroróg (starszy wojewoda poznański)|Jan Ostroróg]]. Na gruncie filozofii spekulatywnej uprawiane były wszystkie główne kierunki filozoficzne późnej scholastyki, tj. [[tomizm]], [[albertyzm]] i [[szkotyzm]] (''via antiqua''; główni reprezentanci: [[Jan z Głogowa]], [[Jakub z Gostynina]], [[Jan ze Stobnicy]]) i [[nominalizm]] (''via moderna'', główni reprezentanci: [[Jan z Paradyża]], [[Benedykt Hesse]]).
+
+Najwybitniejszym reprezentantem [[humanizm renesansowy|humanizmu]] był w XV wieku [[Grzegorz z Sanoka]], do wczesnej recepcji humanizmu w Polsce przyczynił się także Włoch [[Filip Kallimach]]. Głównymi reprezentantami myśli humanistycznej, często o raczej publicystyczno-politycznym niż czysto filozoficznym charakterze, byli w Polsce [[Sebastian Petrycy]], [[Adam Burski]], [[Stanisław Orzechowski (pisarz)|Stanisław Orzechowski]], [[Łukasz Górnicki]], [[Andrzej Frycz Modrzewski]]. Szeroko znana była myśl ariańska: prace [[Faust Socyn|Faustyna Socyna]] i [[Szymon Budny|Szymona Budnego]]. Znaczące elementy filozoficzne, zwłaszcza w dziedzinie metodologii nauk przyrodniczych, zawierają dzieła [[Mikołaj Kopernik|Mikołaja Kopernika]].
+
+W XVI wieku na uniwersytetach kontynuowano filozofię szkolną, która odrodziła się wraz z przybyciem do polski [[jezuici|jezuitów]]. Głównym ośrodkiem filozofii jezuickiej była [[Uniwersytet Wileński|Akademia Wileńska]] – dużą popularność w Europie zyskał podręcznik logiki [[Marcin Śmiglecki|Marcina Śmigleckiego]], a także dzieło [[Jan Szydłowski|Jana Szydłowskiego]]. W XVII-wiecznej Polsce rozwijała się także filozofia innowiercza, a zwłaszcza ariańska. Jej przedstawicielami byli krytyk Kartezjusza [[Jan Wolzogen]] oraz [[Samuel Przypkowski]] i [[Andrzej Wiszowaty]]. Pisma filozoficzne pozostawił też poeta i prozaik [[barok]]owy [[Stanisław Herakliusz Lubomirski]].
+
+Od XVII wieku docierały do Polski nowe, antyscholastyczne idee filozoficzne (nazywane ''philosophia recentiorum''), a w czasach saskich pierwsze idee oświeceniowe ([[Lorenz Christoph Mizler|Mitzler von Kolof]], [[Kazimierz Narbutt]], [[Antoni Wiśniewski (pijar)|Antoni Wiśniewski]]). W czasach stanisławowskich upowszechniła się kultura oświeceniowa na wzór francuski – wśród filozofów najwybitniejszymi byli [[Jan Śniadecki]], [[Jędrzej Śniadecki]], [[Hugo Kołłątaj]] i [[Stanisław Staszic]]. Filozofia typu oświeceniowego rozwijała się nadal w pierwszych dekadach wieku XIX, zwłaszcza w Wilnie. Do recepcji [[Immanuel Kant|kantyzmu]] przyczynił się natomiast zwłaszcza [[Józef Kalasanty Szaniawski]].
+
+Filozofia pierwszej połowy XIX wieku rozwijała się pod przemożnym wpływem idealizmu niemieckiego: głównymi reprezentantami idealizmu w Polsce byli [[Józef Hoene-Wroński]], [[Bronisław Ferdynand Trentowski|Bronisław Trentowski]], [[August Cieszkowski]] i [[Karol Libelt]]. Istotne elementy filozoficzne zawierają także utwory [[Juliusz Słowacki|Juliusza Słowackiego]] i [[Adam Mickiewicz|Adama Mickiewicza]]. Główną ideą filozofii polskiej tego okresu był tzw. [[mesjanizm polski]]. Druga połowa XIX wieku ma mniejsze znaczenie filozoficzne: tendencje pozytywistyczne reprezentowali [[Aleksander Świętochowski]] i [[Julian Ochorowicz]], ważnym myślicielem socjalistycznym był [[Edward Abramowski]]. Przełom XIX i XX wieku to recepcja filozofii życia (Nietzschego i Schopenhauera) – reprezentantem aktywizmu i ważnym teoretykiem kultury był w tym okresie [[Stanisław Brzozowski (pisarz)|Stanisław Brzozowski]].
+
+Wiek XX to okres największego rozkwitu filozofii polskiej, szczególnie logiki. Wiązało się to z działalnością [[szkoła lwowsko-warszawska|szkoły lwowsko-warszawskiej]], założonej przez [[Kazimierz Twardowski|Kazimierza Twardowskiego]]. Jej reprezentantami byli m.in. [[Alfred Tarski]], [[Stanisław Leśniewski]], [[Jan Łukasiewicz]], [[Kazimierz Ajdukiewicz]], [[Tadeusz Kotarbiński]], [[Leon Chwistek]], [[Tadeusz Czeżowski]], [[Izydora Dąmbska]]. Tarski należy do najwybitniejszych logików współczesnych<ref>{{cytuj książkę |nazwisko = Feferman | imię = Anita B. | nazwisko2 = Feferman | imię2 = Solomon | autor link2 = | tytuł = Alfred Tarski: Life and Logic | wydawca = Cambridge University Press | rok = 2004 | isbn = ISBN 978-0-521-80240-6 | oclc = OCLC 54691904}}</ref>, do jego najwazniejszych osiągnięć należą: definicja prawdy, pojęcie definiowalności, konsekwencji i ω-zupełności. Do głównych osiągnięć Leśniewskiego należą tzw. systemy Leśniewskiego, Łukasiewicza – logiki wielowartościowe, Ajdukiewicza – teoria kategorii semantycznych i inne badania semantyczne, Kotarbińskiego – koncepcja reizmu i rozwój prakseologii. Bliscy szkole lwowsko-warszawskiej byli także socjolog [[Stanisław Ossowski]], współtwórca psychologii polskiej [[Władysław Witwicki]], historyk filozofii i estetyk [[Władysław Tatarkiewicz]], etyk [[Maria Ossowska]]. Głównym reprezentantem [[fenomenologia|fenomenologii]] w Polsce i jednym z czołowych fenomenologów w ogóle był [[Roman Ingarden]]. Własny system [[ontologia|ontologiczny]] wypracował [[Stanisław Ignacy Witkiewicz]]. Ważnymi filozofami kultury byli [[Henryk Elzenberg (filozof)|Henryk Elzenberg]] i [[Marian Zdziechowski]]. Tomizm i osiągnięcia logiki współczesnej łączyło [[Koło Krakowskie]] ([[Jan Salamucha]], [[Józef Maria Bocheński]]).
+
+Po II wojnie światowej, mimo trudności politycznych związanych z dominacją filozofii marksistowskiej, filozofia polska nadal się rozwijała, kontynuowali działalność Kotarbiński, Ajdukiewicz, Ingarden i Ossowscy. Do tradycji szkoły lwowsko-warszawskiej nawiązują filozofowie analityczni ([[Bogusław Wolniewicz]], [[Jan Woleński]], [[Wacław Mejbaum]], logik [[Roman Suszko (logik)|Roman Suszko]]), rozwija się filozofia katolicka, w tym zwłaszcza neotomizm i personalizm ([[Mieczysław Albert Krąpiec|Mieczysław Krąpiec]], [[Mieczysław Gogacz]], [[Jan Paweł II|Karol Wojtyła]], [[Józef Tischner]]) oraz wszystkie nurty filozofii XX-wiecznej ([[Ija Lazari-Pawłowska]], [[Tadeusz Kroński]], [[Leszek Kołakowski]], [[Bronisław Baczko]], [[Marek Siemek]], [[Leszek Nowak]], [[Adam Schaff]], [[Zygmunt Bauman]], historyk filozofii [[Adam Krokiewicz]]).
+
+=== Muzyka ===
+{{Commons|Portrety polskich kompozytorów|Portrety polskich kompozytorów}}
+{{Main|Muzyka polska}}
+Najczęściej wymieniani polscy kompozytorzy muzyki poważnej to<ref>{{Cytuj stronę|url=http://www.mytopdozen.com/Best_Polish_Composers.html|tytuł=Lista polskich kompozytorów najczęściej wymienianych w internecie|data dostępu=3 grudnia 2008|lang=en}}</ref>: [[Fryderyk Chopin]], [[Karol Szymanowski]], [[Krzysztof Penderecki]], [[Zbigniew Preisner]], [[Wojciech Kilar]], [[Ignacy Jan Paderewski]], [[Henryk Wieniawski]], [[Krzysztof Komeda]], [[Andrzej Panufnik]], [[Stanisław Moniuszko]], [[Jan Kaczmarek (kompozytor)|Jan A. P. Kaczmarek]], [[Witold Lutosławski]].
+
+{{Zobacz też|Polska muzyka rozrywkowa}}
+
+=== Film ===
+{{Main|Film polski|Polska szkoła filmowa|Kino moralnego niepokoju}}
+[[Reżyser]]zy polscy, których filmy zgłoszone zostały do rywalizacji o [[Nagroda Akademii Filmowej|Oscara]] w kategorii filmu nieanglojęzycznego: [[Jerzy Antczak]], [[Sławomir Fabicki]], [[Feliks Falk]] (2 razy), [[Robert Gliński]], [[Jerzy Hoffman]], [[Andrzej Jakimowski]], [[Jerzy Kawalerowicz]] (3 razy), [[Dorota Kędzierzawska]], [[Krzysztof Kieślowski]] (3 razy), [[Agnieszka Holland]] (1 raz), [[Jan Jakub Kolski]], [[Andrzej Kotkowski]], [[Kazimierz Kutz]] (2 razy), [[Witold Leszczyński]], [[Juliusz Machulski]], [[Czesław Petelski]], [[Magdalena Piekorz]], [[Radosław Piwowarski]], [[Roman Polański]], [[Jerzy Stuhr]], [[Piotr Trzaskalski]], [[Andrzej Wajda]] (7 razy), [[Leszek Wosiewicz]], [[Krzysztof Zanussi]] (4 razy).
+
+{{Zobacz też|Polskie filmy zgłoszone do rywalizacji o Oscara w kategorii filmu nieanglojęzycznego}}
+
+=== Środki masowego przekazu ===
+==== Stacje telewizyjne ====
+{{Main|Polskojęzyczne stacje telewizyjne|Polskie platformy cyfrowe|Polskie sieci kablowe}}
+[[Plik:Moderne wolkenkrabber Warschau 0875.PNG|mały|Budynek TVP po rozbudowie]]
+
+===== Telewizja publiczna =====
+Historia telewizji w Polsce sięga roku 1937, kiedy w Warszawie uruchomiona została pierwsza doświadczalna stacja telewizyjna. W 1959 emisję regularnego programu rozpoczął nadawca publiczny – [[Telewizja Polska]]. Od 1970 nadawany jest program 2 telewizji publicznej, a od 1992 – program satelitarny dla Polonii zagranicznej. W Polsce działa dziewięć kanałów publicznej TVP: [[TVP1]], [[TVP2]], [[TVP Info]], [[TVP Polonia]], [[TVP Kultura]], [[TVP Historia]], [[TVP Sport]], [[Biełsat TV]] i [[TVP HD]] oraz niedawno uruchomiona stacja telewizyjna [[TVP Seriale]] i [[TVP1 HD]].
+
+===== Telewizje prywatne =====
+Pierwszą prywatną polską telewizją o zasięgu lokalnym była [[PTV Echo]], założona w roku 1990, która z czasem z innymi prywatnymi telewizjami lokalnymi utworzyła ogólnopolską sieć o nazwie [[Polonia 1]]. W 1992 roku w Polsce powstała kolejna telewizja prywatna ale nie lokalna o nazwie [[Polsat]], ta telewizja w 1993 roku dostała koncesję na nadawanie naziemne. Obecnie w Polsce działają prywatne telewizje [[Polsat]], [[Polsat 2]], [[Polsat Café]], [[Polsat Film]], [[Polsat Futbol]], [[Polsat HD]], [[Polsat News]], [[Polsat Play]], [[Polsat Sport]], [[Polsat Sport Extra]], [[Polsat Sport News]], [[TV Biznes]], [[Polonia 1]], [[Superstacja]], [[Tele 5]], [[Top Shop]], [[Mediatext]], [[Religia.tv]], [[Telewizja Trwam]], [[TV4 (Polska)|TV4]], [[TV Puls]], [[Mango 24]], [[TVN]], [[TVN 7]], [[TVN CNBC]], [[TVN International]], [[TVN Lingua]], [[TVN Meteo]], [[TVN News and Services Agency]], [[TVN Style]], [[TVN Turbo]], [[TVN Warszawa]], [[TVN24]], [[TVS]].
+
+===== Platformy satelitarne =====
+Na terenie Polski działają platformy satelitarne: [[Cyfrowy Polsat]], [[n (platforma cyfrowa)|n]], [[CYFRA+]], [[N na kartę]], [[UPC Polska]] i [[Vectra]].
+
+==== Stacje radiowe ====
+{{Main|Polskie i polskojęzyczne stacje radiowe odbierane w Polsce}}
+W domenie przekazu radiowego, działa publiczne [[Polskie Radio]]: [[Polskie Radio Program I|Jedynka]], [[Polskie Radio Program II|Dwójka]], [[Polskie Radio Program III|Trójka]], [[Polskie Radio Program IV|Czwórka]]. Poza publicznym Polskim Radiem, działa radio prywatne: [[Radio ZET]], [[RMF FM]], [[Radio Złote Przeboje]], [[Radio Maryja]], [[Radio Eska]], [[Planeta FM]], [[RMF MAXXX]], [[Antyradio]], [[Roxy FM]] i inne, a także wiele stacji lokalnych i internetowych.
+
+==== Prasa ====
+{{Main|Prasa w Polsce}}
+Według danych [[Związek Kontroli Dystrybucji Prasy|Związku Kontroli Dystrybucji Prasy]], największy nakład wśród dzienników, które poddały się kontroli nakładu, mają (dane za wrzesień 2008, w kolejności od największego): [[Fakt (gazeta)|Fakt]], [[Gazeta Wyborcza]], [[Metro (dziennik)|Metro]], [[Super Express]], [[Echo Miasta]], [[Dziennik Gazeta Prawna]], [[Rzeczpospolita (czasopismo)|Rzeczpospolita]], [[Przegląd Sportowy]], [[Dziennik Zachodni]], [[Gazeta Pomorska]], [[Głos Wielkopolski]], [[Dziennik Polski]], [[Gazeta Podatkowa]], [[Express Ilustrowany]], [[Dziennik Łódzki]], [[Dziennik Bałtycki]], [[Gazeta Lubuska]], [[Głos - Dziennik Pomorza|Głos – Dziennik Pomorza]], [[Gazeta Wrocławska]], [[Echo Dnia]]<ref name="ZKDP">{{Cytuj stronę|url=https://www.teleskop.org.pl/zkdp/index.jsp?p=publicData|tytuł=Dane Związku Kontroli Dystrybucji Prasy|dostęp=3 grudnia 2008}}. Dane za wrzesień 2008. Ogólnodostępne wyłącznie do celów dydaktycznych i naukowych.</ref>.
+
+Największe opiniotwórcze czasopisma kraju to [[Gość Niedzielny]], [[Polityka (tygodnik)|Polityka]], [[Newsweek Polska]] i [[Wprost]]<ref>[http://www.wirtualnemedia.pl/artykul/gosc-niedzielny-przed-polityka-wprost-w-dol-o-34-proc# „Gość Niedzielny” przed „Polityką”, „Wprost” w dół o 34 proc<!-- Tytuł wygenerowany przez bota -->].</ref>.
+
+==== Portale internetowe ====
+Największymi polskimi portalami są: [[Wirtualna Polska]] (WP), [[Onet.pl]], [[Gazeta.pl]], [[Interia.pl]], które oferują m.in. darmową pocztę elektroniczną, czat, a niektóre również blogi. Najpopularniejszym portalem społecznościowym jest [[nk.pl]] (istnieje również polskojęzyczny [[Facebook]]). Internetowe wersje gazet to np. [[Newsweek Polska]] i [[Gazeta Wyborcza]].
+
+=== Kuchnia ===
+[[Plik:Pierogi frying.jpg|mały|[[Pierogi]]]]
+{{Main|Kuchnia polska|Kuchnia polska w średniowieczu}}
+Na kształtowanie się swoistych cech kuchni polskiej miały wpływ przemiany historyczne. Na przestrzeni dziejów kuchnia polska ulegała wpływom i zmianom regionalnym, zwłaszcza, że tereny Rzeczypospolitej Polskiej historycznie zamieszkiwała zmieniająca się mozaika narodów. W efekcie silne są kulinarne wpływy wschodnie (tatarsko-tureckie, wcześniej mongolskie), rusińskie, niemieckie, francuskie, włoskie i żydowskie.
+
+Najpopularniejsze polskie potrawy to m.in.: [[pierogi]], [[Kasza|kasze]], [[Kluski (potrawa)|kluski]], [[Gołąbki (potrawa)|gołąbki]], [[kotlet schabowy]], [[kotlet mielony]], [[bigos]], [[galareta mięsna]], [[golonka]], [[Zupa|zupy]] ([[Żur|żurek]], [[kapuśniak]], [[Krupnik (zupa)|krupnik]], [[Barszcz (potrawa)|barszcz czerwony]], [[rosół]], [[zupa pomidorowa]], [[zupa ogórkowa]], [[zupa grzybowa]], [[chłodnik]]), potrawy z [[Kapusta|kapusty]] i [[ziemniak]]ów, [[pieczywo]] (chleb żytni, pszenny), ciasta, warzywa, owoce (jabłka, gruszki, rozmaite jagody, porzeczki), [[Ser|ser biały]], jak i wszelkiego rodzaju mięsa (głównie wieprzowe, drobiowe i wołowe), rozmaicie przygotowane, oraz w mniejszym stopniu ryby morskie i słodkowodne. Specyficznym polskim deserem są [[faworki]], popularne są też inne wypieki, w tym [[Baba wielkanocna|babka]], [[Makowiec (ciasto)|makowiec]], [[sernik]], [[piernik]]i czy [[Pączek|pączki]].
+Do bardzo specyficznych potraw i napojów należą także [[Flaki (potrawa)|flaki]], [[Ogórek kiszony|ogórki kiszone]], [[kapusta kiszona]], [[zsiadłe mleko]], [[maślanka]], [[kefir]].
+
+Wśród napojów alkoholowych [[wódka]] pędzona ze zbóż i ziemniaków wyparła rozpowszechniony niegdyś [[miód pitny]]. [[Piwo]], w Polsce [[chmiel]]owe, jest napojem tradycyjnym i pospolitym, [[wino]] natomiast pija się rzadziej.
+
+Popularnym napojem jest [[herbata]] pita często z dodatkiem plasterka cytryny i słodzona [[Cukier buraczany|cukrem]]. Herbata przybyła do Polski z Anglii wkrótce po jej ukazaniu się w Zachodniej Europie (za sprawą kupców holenderskich). Jednak jej rozpowszechnienie przypisywane jest zaborcom rosyjskim w XIX wieku. Wówczas do polskich domów w tzw. Kongresówce trafiły [[samowar]]y z Rosji, gdzie herbata niezależnie pojawiła się w postaci daru z Chin na dworze carskim, na ok. 50 lat przed jej rozpowszechnieniem w Holandii. Popularna jest także [[kawa]], powszechnie pita w Polsce od XVIII wieku, także przez niższe warstwy społeczne, jak rzemieślnicy czy zamożne chłopstwo<ref>{{cytuj książkę |nazwisko = Kitowicz | imię = Jędrzej | autor link = Jędrzej Kitowicz | tytuł = Opis obyczajów | wydawca = [[Zakład Narodowy im. Ossolińskich]] | miejsce = Wrocław | rok = 1970 | strony = 453–456}}</ref>.
+* ''Źródła'': {{cytuj książkę|autor=Prosper MontaLarousse Librarie, Prosper Montagné, Larousse, Comité gastronomique, Joel Robuchon|tytuł=Larousse Gastronomique|wydawca=Clarkson Potter / Larousse|miejsce=Paris / Nowy Jork|data=2001 (oryg. wydanie 1938)|isbn=0609609718, ISBN 978-0-609-60971-2|oclc=46872358|url=http://books.google.com/books?id=KaK5AAAACAAJ|data dostępu=2009-01-10 | język=en}}
+
+=== Sport ===
+[[Plik:Kubica Renault Jerez (cropped).jpg|mały|[[Robert Kubica]] w bolidzie [[Renault R30]] podczas testów przedsezonowych na torze [[Circuito Permanente de Jerez|Jerez]]]]
+{{Main|Sport w Polsce}}
+Najpopularniejszym sportem w Polsce jest [[piłka nożna]]<ref>{{cytuj stronę | url = http://www.sport.pl/celebrities/1,83529,6260399,Spadlo_zainteresowanie_sportem__Malysz_wciaz_najpopularniejszy.html | tytuł = Spadło zainteresowanie sportem | opublikowany = Sport.pl | data dostępu = 2010-09-29}}</ref>. Największe sukcesy w tej dyscyplinie [[reprezentacja Polski w piłce nożnej]] odnosiła w latach 70. do początku lat 80., kiedy to na [[Mistrzostwa świata w piłce nożnej|Mistrzostwach Świata w Piłce Nożnej]] zajęła 3 miejsca w [[Mistrzostwa Świata w Piłce Nożnej 1974|1974]] i [[Mistrzostwa Świata w Piłce Nożnej 1982|1982]] . Drużyna narodowa zdobyła również złoty medal na [[Letnie Igrzyska Olimpijskie 1972|Letnich Igrzyskach Olimpijskich w 1972 roku]], a także dwa srebrne medale w [[Letnie Igrzyska Olimpijskie 1976|1976]] oraz w [[Letnie Igrzyska Olimpijskie 1992|1992]]. 18 kwietnia 2007 prezydent [[UEFA]] [[Michel Platini]] ogłosił, że [[Mistrzostwa Europy w Piłce Nożnej 2012|Mistrzostwa Europy w Piłce Nożnej w 2012 roku]] odbędą się w Polsce i na [[Ukraina|Ukrainie]]. Polskie miasta-gospodarze meczów tej imprezy to [[Warszawa]], [[Gdańsk]], [[Poznań]] i [[Wrocław]]. Najwyższa liga piłki nożnej w Polsce nazywa się [[Ekstraklasa w piłce nożnej|Ekstraklasa]].
+
+Dużym zainteresowaniem cieszy się również [[sport żużlowy|żużel]]. W tej dyscyplinie m.in. [[Tomasz Gollob]], [[Jarosław Hampel]] i [[Janusz Kołodziej (żużlowiec)|Janusz Kołodziej]] odnoszą sukcesy na arenie międzynarodowej. Najbardziej utytułowane kluby żużlowe w Polsce to [[Unia Leszno]], [[Stal Gorzów Wielkopolski|Stal Gorzów]], [[RKM Rybnik]], [[Polonia Bydgoszcz]]. Popularna jest także [[Piłka siatkowa|siatkówka]], po zdobyciu [[Mistrzostwa Europy w piłce siatkowej kobiet|mistrzostwa Europy]] w [[Mistrzostwa Europy w Piłce Siatkowej Kobiet 2003|2003]] i [[Mistrzostwa Europy w Piłce Siatkowej Kobiet 2005|2005]], a także trzeciego miejsca w [[Mistrzostwa Europy w Piłce Siatkowej Kobiet 2009|2009]] przez [[reprezentacja Polski w piłce siatkowej kobiet|reprezentację narodową kobiet]], tzw. „Złotka”, oraz [[Mistrzostwa świata w piłce siatkowej mężczyzn|wicemistrzostwa świata]] w [[Mistrzostwa Świata w Piłce Siatkowej Mężczyzn 2006|2006]] i [[Mistrzostwa Europy w piłce siatkowej mężczyzn|mistrzostwa Europy]] w [[Mistrzostwa Europy w Piłce Siatkowej Mężczyzn 2009|2009]] przez [[reprezentacja Polski w piłce siatkowej mężczyzn|reprezentację narodową mężczyzn]]. Innym chętnie oglądanym sportem jest [[koszykówka]], choć polskie ligi i reprezentacje w tej dyscyplinie nie stoją na wysokim poziomie. W ostatnim okresie na znaczeniu zyskały [[skoki narciarskie]] dzięki sukcesom [[Adam Małysz|Adama Małysza]], [[Formuła 1]] za sprawą [[Robert Kubica|Roberta Kubicy]], [[piłka ręczna]] ze względu na sukcesy [[Reprezentacja Polski w piłce ręcznej mężczyzn|reprezentacji Polski]] na dwóch kolejnych [[Mistrzostwa świata w piłce ręcznej|Mistrzostwach Świata]] w roku [[Mistrzostwa Świata w Piłce Ręcznej Mężczyzn 2007|2007]] i [[Mistrzostwa Świata w Piłce Ręcznej Mężczyzn 2009|2009]], a także [[pływanie]] dzięki sukcesom m.in. [[Otylia Jędrzejczak|Otylii Jędrzejczak]] i [[Paweł Korzeniowski|Pawła Korzeniowskiego]].
+
+{{Zobacz też|Polscy medaliści letnich igrzysk olimpijskich|Polscy medaliści zimowych igrzysk olimpijskich}}
+
+== Święta ==
+{{Main|Święta państwowe w Polsce}}
+
+=== Dni ustawowo wolne od pracy ===
+{{Main|Dni wolne od pracy w Polsce}}
+Na obszarze Polski, zgodnie z ustawą z dnia 18 stycznia 1951 r. o dniach wolnych od pracy<ref>{{Dziennik Ustaw|rok=1951|numer=4|pozycja=28}}, z późn. zm.</ref>, dniami wolnymi od pracy są wszystkie niedziele oraz 13 dni będących świętami: trzy państwowe, osiem [[święta katolickie w Polsce|katolickich]] oraz [[Nowy Rok]] (z tego dwa święta wypadają zawsze w niedzielę).
+
+{{Uwagi}}
+<references group="uwagi"/>
+{{Przypisy|2}}
+
+== Bibliografia ==
+{{Bibliografia start}}
+* {{cytuj stronę|url=http://www.stat.gov.pl/gus/45_737_PLK_HTML.htm|tytuł=Mały Rocznik Statystyczny Polski 2008|autor=Praca zbiorowa|id=GUS. ISSN 1640-3630|data dostępu=3 grudnia 2008}}
+* {{cytuj książkę|autor=Praca zbiorowa|tytuł=Literatura polska. Encyklopedia PWN|wydawca=Wydawnictwo Naukowe PWN|rok=2007|miejsce=Warszawa|isbn=978-83-01-15130-0}}
+* {{cytuj książkę|autor link=Norman Davies|nazwisko=Davies|imię=Norman|tytuł=Boże Igrzysko|wydawca=Wydawnictwo Znak|miejsce=Kraków|rok=2006|isbn=83-240-0654-0}}
+* {{cytuj książkę|autor link=Marian Eckert|imię=Marian|nazwisko=Eckert|tytuł=Historia Polski 1914–1939|miejsce=Warszawa|rok=1990|isbn=83-02-04044-4}}
+* {{cytuj książkę|nazwisko=Garlicki|imię=Leszek|autor link=Leszek Garlicki|tytuł=Polskie prawo konstytucyjne|wydanie=11|wydawca=Liber|miejsce=Warszawa|rok=2007|isbn=978-83-7206-142-3}}
+* {{cytuj książkę|imię=Roman|nazwisko=Grodecki|imię2=Stanisław|nazwisko2=Zachorowski|imię3=Jan|nazwisko3=Dąbrowski|tytuł=Dzieje Polski Średniowiecznej|tom=1|wydawca=Platan|miejsce=Kraków|rok=1995 (wyd. pierwsze 1926)|isbn=83-7052-230-0}}
+* {{cytuj książkę|imię=Krzysztof|nazwisko=Groniowski|imię2=Jerzy|nazwisko2=Skowronek|tytuł=Historia Polski 1795–1914|miejsce=Warszawa|rok=1977|wydawca=Wydawnictwa Szkolne i Pedagogiczne}}
+* {{cytuj książkę|imię=Janusz |nazwisko=Kaliński| imię2=Zbigniew |nazwisko2=Landau |tytuł=Gospodarka Polski w XX wieku|isbn=83-208-1428-6|wydawca=Polskie Wydawnictwo Ekonomiczne|wydanie=2 zmienione}}
+* {{cytuj książkę|imię=Jerzy|nazwisko=Kondracki|tytuł=Geografia regionalna Polski|rok=2002|miejsce=Warszawa|wydawca=PWN|isbn=83-01-13897-1}}
+* {{Cytuj książkę | nazwisko = Kondracki | imię = Jerzy | tytuł = Geografia Polski : mezoregiony fizycznogeograficzn | data = 1994 | wydawca = Wyd. Nauk. PWN | miejsce = Warszawa | isbn = 83-01-11422-3 | strony =}}
+* {{cytuj książkę|imię=Wiesław|nazwisko=Skrzydło|tytuł=Ustrój polityczny RP w świetle Konstytucji z 1997 r.|miejsce=Warszawa|rok=2008|isbn=978-83-7526-573-6}}
+* {{cytuj książkę|imię=Stanisław|nazwisko=Szczur|tytuł=Historia Polski – Średniowiecze|wydawca=Wydawnictwo Literackie|rok=2002|isbn=83-08-03272-9}}
+{{Bibliografia stop}}
+
+== Linki zewnętrzne ==
+{{Portal Wikinews|Polska}}
+{{Commons|Atlas of Poland|Atlas of Poland}}
+{{Siostrzane projekty
+ | commons   = Category:Poland
+ | słownik   =
+ | źródła    = Kategoria:Polska
+ | cytaty    = Kategoria:Polska
+ | news      =
+ | books     =
+ | species   =
+ | wikiwerek =
+}}
+* [http://www.prezydent.pl/ Prezydent RP] {{lang|pl}}
+* [http://www.kprm.gov.pl Kancelaria Prezesa Rady Ministrów] {{lang|pl}}
+* [http://www.sejm.gov.pl/ Sejm RP] {{lang|pl}}
+* [http://www.senat.gov.pl/ Senat RP] {{lang|pl}}
+* [http://www.nik.gov.pl/ Najwyższa Izba Kontroli] {{lang|pl}}
+* [http://www.sn.pl/ Sąd Najwyższy] {{lang|pl}}
+* [http://www.trybunal.gov.pl/index2.htm Trybunał Konstytucyjny] {{lang|pl}}
+* [http://www.brpo.gov.pl Rzecznik Praw Obywatelskich] {{lang|pl}}
+* [http://www.stat.gov.pl/ Główny Urząd Statystyczny] {{lang|pl}}
+* [http://bazateleadresowa.poland.gov.pl/ Adresy Polskich placówek dyplomatycznych na świecie] [http://www.polemb.net/ Strony internetowe Ambasad Polski na świecie] {{lang|pl}}
+* [https://www.cia.gov/library/publications/the-world-factbook/geos/pl.html Polska w corocznej publikacji CIA „The World Factbook”] {{lang|en}}
+
+{{Województwa}}
+{{Miasta wojewódzkie}}
+{{Państwa Europy}}
+{{Grupa szablonów
+|tytuł = Członkostwo w organizacjach międzynarodowych
+|lista =
+{{Unia Europejska}}
+{{Rada Europy}}
+{{OBWE}}
+{{NATO}}
+{{WTO}}
+{{OECD}}
+{{Wspólnota Demokratycznego Wyboru}}
+{{Grupa Wyszehradzka}}
+{{Trójkąt Weimarski}}
+{{Rada Państw Morza Bałtyckiego}}
+{{Inicjatywa Środkowoeuropejska}}
+}}
+
+[[Kategoria:Członkowie Organizacji Narodów Zjednoczonych]]
+[[Kategoria:Państwa członkowskie Unii Europejskiej]]
+[[Kategoria:Państwa należące do NATO]]
+[[Kategoria:Polska| ]]
+[[Kategoria:Hasła kanonu polskiej Wikipedii]]
+
+{{link FA|af}}
+{{link FA|no}}
+{{link FA|ro}}
+{{link FA|sk}}
+{{link FA|sl}}
+
+{{link GA|da}}
+{{link GA|ja}}
+
+[[ace:Polandia]]
+[[kbd:Полшэ]]
+[[af:Pole]]
+[[ak:Poland]]
+[[als:Polen]]
+[[am:ፖላንድ]]
+[[ang:Polaland]]
+[[ab:Полша]]
+[[ar:بولندا]]
+[[an:Polonia]]
+[[arc:ܦܘܠܢܕ]]
+[[roa-rup:Polandia]]
+[[frp:Pologne]]
+[[ast:Polonia]]
+[[gn:Poloña]]
+[[az:Polşa]]
+[[bn:পোল্যান্ড]]
+[[zh-min-nan:Polska]]
+[[map-bms:Polandia]]
+[[ba:Польша]]
+[[be:Польшча]]
+[[be-x-old:Польшча]]
+[[bcl:Polonya]]
+[[bi:Poland]]
+[[bg:Полша]]
+[[bar:Poin]]
+[[bo:ཕོ་ལན།]]
+[[bs:Poljska]]
+[[br:Polonia]]
+[[ca:Polònia]]
+[[cv:Польша]]
+[[ceb:Poland]]
+[[cs:Polsko]]
+[[co:Polonia]]
+[[cy:Gwlad Pwyl]]
+[[da:Polen]]
+[[pdc:Polen]]
+[[de:Polen]]
+[[dv:ޕޮލެންޑު]]
+[[nv:Póolish Dineʼé Bikéyah]]
+[[dsb:Pólska]]
+[[et:Poola]]
+[[el:Πολωνία]]
+[[eml:Pulógna]]
+[[en:Poland]]
+[[es:Polonia]]
+[[eo:Pollando]]
+[[ext:Poloña]]
+[[eu:Polonia]]
+[[ee:Poland]]
+[[fa:لهستان]]
+[[hif:Poland]]
+[[fo:Pólland]]
+[[fr:Pologne]]
+[[fy:Poalen]]
+[[ff:Poloonya]]
+[[fur:Polonie]]
+[[ga:An Pholainn]]
+[[gv:Yn Pholynn]]
+[[gag:Polşa]]
+[[gd:A' Phòlainn]]
+[[gl:Polonia - Polska]]
+[[gan:波蘭]]
+[[gu:પોલેંડ]]
+[[hak:Pô-làn]]
+[[xal:Польшин Орн]]
+[[ko:폴란드]]
+[[ha:Poland]]
+[[haw:Pōlani]]
+[[hy:Լեհաստան]]
+[[hi:पोलैंड]]
+[[hsb:Pólska]]
+[[hr:Poljska]]
+[[io:Polonia]]
+[[ig:Poland]]
+[[ilo:Polandia]]
+[[bpy:পোল্যান্ড]]
+[[id:Polandia]]
+[[ia:Polonia]]
+[[ie:Polonia]]
+[[iu:ᐳᓚᓐᑦ]]
+[[os:Польшæ]]
+[[zu:IPolandi]]
+[[is:Pólland]]
+[[it:Polonia]]
+[[he:פולין]]
+[[jv:Polandia]]
+[[kl:Poleni]]
+[[kn:ಪೋಲೆಂಡ್]]
+[[pam:Polonya]]
+[[krc:Польша]]
+[[ka:პოლონეთი]]
+[[csb:Pòlskô]]
+[[kk:Польша]]
+[[kw:Poloni]]
+[[rw:Polonye]]
+[[rn:Polonia]]
+[[sw:Poland]]
+[[kv:Польша]]
+[[kg:Pologne]]
+[[ht:Polòy]]
+[[ku:Poland]]
+[[ky:Польша]]
+[[mrj:Польша]]
+[[lad:Polonia]]
+[[ltg:Puoleja]]
+[[la:Polonia]]
+[[lv:Polija]]
+[[lb:Polen]]
+[[lt:Lenkija]]
+[[lij:Polonia]]
+[[li:Pole]]
+[[ln:Poloni]]
+[[jbo:polskas]]
+[[lg:Bupoolo]]
+[[lmo:Pulònia]]
+[[hu:Lengyelország]]
+[[mk:Полска]]
+[[mg:Polonia]]
+[[ml:പോളണ്ട്]]
+[[mt:Polonja]]
+[[mi:Pōrana]]
+[[mr:पोलंड]]
+[[xmf:პოლონეთი]]
+[[arz:بولاندا]]
+[[mzn:لهستون]]
+[[ms:Poland]]
+[[mwl:Polónia]]
+[[mdf:Полень мастор]]
+[[mn:Польш]]
+[[my:ပိုလန်နိုင်ငံ]]
+[[nah:Polonia]]
+[[na:Poran]]
+[[nl:Polen]]
+[[nds-nl:Pooln]]
+[[ne:पोल्याण्ड]]
+[[ja:ポーランド]]
+[[nap:Pulonnia]]
+[[ce:Польша]]
+[[frr:Poolen]]
+[[pih:Poeland]]
+[[no:Polen]]
+[[nn:Polen]]
+[[nrm:Polongne]]
+[[nov:Polonia]]
+[[oc:Polonha]]
+[[mhr:Польша]]
+[[uz:Polsha]]
+[[pnb:پولینڈ]]
+[[pap:Polonia]]
+[[ps:پولنډ]]
+[[koi:Польска]]
+[[km:ប្រទេសប៉ូឡូញ]]
+[[pcd:Polonne]]
+[[pms:Polònia]]
+[[tpi:Polan]]
+[[nds:Polen]]
+[[pnt:Πολωνία]]
+[[pt:Polónia]]
+[[kaa:Polsha]]
+[[crh:Lehistan]]
+[[ro:Polonia]]
+[[rmy:Polska]]
+[[rm:Pologna]]
+[[qu:Pulunya]]
+[[rue:Польско]]
+[[ru:Польша]]
+[[sah:Польша]]
+[[se:Polska]]
+[[sm:Polagi]]
+[[sa:पोलैंड]]
+[[sg:Pölôni]]
+[[sc:Polonia]]
+[[sco:Poland]]
+[[stq:Polen]]
+[[st:Poland]]
+[[sq:Polonia]]
+[[scn:Pulonia]]
+[[si:පෝලන්තය]]
+[[simple:Poland]]
+[[ss:IPholandi]]
+[[sk:Poľsko]]
+[[sl:Poljska]]
+[[cu:Пол҄ьска]]
+[[szl:Polsko]]
+[[so:Boland]]
+[[ckb:پۆڵەندا]]
+[[sr:Пољска]]
+[[sh:Poljska]]
+[[su:Polandia]]
+[[fi:Puola]]
+[[sv:Polen]]
+[[tl:Poland]]
+[[ta:போலந்து]]
+[[kab:Pulunya]]
+[[roa-tara:Pulonie]]
+[[tt:Польша]]
+[[te:పోలాండ్]]
+[[tet:Polónia]]
+[[th:ประเทศโปแลนด์]]
+[[tg:Лаҳистон]]
+[[tr:Polonya]]
+[[tk:Polşa]]
+[[udm:Польша]]
+[[uk:Польща]]
+[[ur:پولینڈ]]
+[[ug:پولشا]]
+[[vec:Połonia]]
+[[vi:Ba Lan]]
+[[vo:Polän]]
+[[fiu-vro:Poola]]
+[[wa:Pologne]]
+[[zh-classical:波蘭]]
+[[vls:Pooln]]
+[[war:Polonya]]
+[[wo:Poloñ]]
+[[wuu:波兰]]
+[[yi:פוילן]]
+[[yo:Pólàndì]]
+[[zh-yue:波蘭]]
+[[diq:Polonya]]
+[[zea:Poôl'n]]
+[[bat-smg:Lėnkėjė]]
+[[zh:波兰]]

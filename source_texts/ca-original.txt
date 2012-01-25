@@ -1,0 +1,672 @@
+{{vegeu lliure|Aquest article és sobre la comunitat autònoma. Pel territori històric i polític vegeu [[Principat de Catalunya]], i per altres definicions [[Catalunya (desambiguació)]].}}
+{{redirecció|catalana|catalana (desambiguació)}}
+{{protegida}}
+{{Infotaula de Comunitat Autònoma|de |Catalunya|
+|nom_oficial = Catalunya<br />Catalonha<br />Cataluña
+|escut = Escut de Catalunya (apuntat).svg
+|bandera = Flag of Catalonia.svg
+|localització = [[Fitxer:Mapa de localització a la CCAA de Catalunya.svg|250px|Localització de Catalunya]]
+|subtítol = Dades indicadores:
+|percent_ref = [[Espanya]]
+|sup_percent = 6,3%
+|sup_posició = [[Llista de comunitats autònomes espanyoles per superfície|Posició núm. 6]]
+|long_límits_concepte = Delim. territorial
+|long_costa = 580
+|pob_percent = 16,0%
+|població_any = 2010
+|població = 7504881
+|superfície = 31895
+|pob_posició = [[Llista de comunitats autònomes espanyoles per població|Posició núm. 2]]
+|coordenades = {{coor dm|41|49|N|01|28|E|region:ES_type:state}}
+|gentilicis = Català, catalana
+|concepte_llengua = [[Idioma oficial|Idiomes oficials]]
+|llengua = [[Català]] (llengua pròpia) i [[castellà]]
+|capital = [[Barcelona]]
+|fundació_concepte = Nacionalitat
+|fundació_històrica =&nbsp;•&nbsp;Origen<br />&nbsp;•&nbsp;Principat<br /><br />&nbsp;•&nbsp;[[Castella]]<br />&nbsp;•&nbsp;[[Espanya]]
+|fundació_històrica_data = [[Segle X|S. X]] ([[Marca Hispànica|Comtats Catalans]])<br />[[988]] (''de facto'')<br />[[1258]] (''de iure'')<br />[[1716]] ([[Decrets de Nova Planta|Nova Planta]])<br />[[1833]] ([[Províncies d'Espanya|divisió prov.]])
+|fundació_actual = '''[[Estatut d'Autonomia]]'''
+|fundació_actual_data = [[2006]]
+|celebració_concepte = [[Diada nacional de Catalunya|Diada nacional]]
+|celebració = [[11 de setembre]]
+|org_territorial_concepte = Org. territorial
+|org_territorial = [[Províncies d'Espanya|Províncies]] i [[Comarques de Catalunya|comarques]]
+|forma_govern =([[parlamentarisme]])
+|president = [[Artur Mas i Gavarró|Artur Mas]] ([[Convergència i Unió|CiU]])
+|president_parlament = [[Núria de Gispert i Català|Núria de Gispert]] ([[Convergència i Unió|CiU]]) 
+|parlament_autonòmic = [[Parlament de Catalunya]]
+|representació_autonòmica = 135 [[diputat]]s
+|congrès = 47 diputats
+|senat = 23 senadors
+|nuts = ES51 (''regió est'')
+|codi_iso = CT
+|web = http://www.gencat.cat
+|himne = [[Els Segadors]]
+}}
+<!-- EL PRIMER PARÀGRAF D'AQUEST ARTICLE HA ESTAT OBJECTE DE DISCUSSIÓ I LA REDACCIÓ ACTUAL REFLECTEIX EL CONSENS ASSOLIT. NO EL MODIFIQUEU SENSE ASSEGURAR-VOS ABANS A LA PÀGINA DE DISCUSSIÓ QUE HI HA CONSENS PER FER-HO-->
+'''Catalunya''' (''Catalonha'' en [[occità]] i ''Cataluña'' en [[castellà]]) és un [[país]]<ref name="GEC">{{GEC|0016436}}</ref> [[Europa|europeu]] de la [[Mediterrània]] occidental constituït com a [[comunitat autònoma]] d'[[Espanya]]. És situat a la costa nord-est de la [[Península Ibèrica]] limitant al nord amb [[Andorra]] i [[França]], a l'oest amb [[Aragó]], al sud amb el [[País Valencià]] i a l'est amb el [[mar Mediterrani]]. Catalunya és la part més extensa del territori històric i cultural del [[Principat de Catalunya]] i de tot el conjunt de terres de parla catalana o els [[Països Catalans]]. Per diferenciar-la del territori històric, sovint es denomina '''comunitat autònoma de Catalunya'''. Amb un estimat de 7.364.078 d'habitants del 2008, és la segona comunitat autònoma més poblada d'Espanya, i agrupa el 51,55% de la població total de les comunitats on el català és llengua pròpia.
+
+Catalunya va ser una possessió de l'[[imperi Romà]] que va passar a mans dels [[poble got|gots]] i els [[alans]] el [[segle V]]. Els [[musulmà|musulmans]] la van conquerir el 712, però en [[Conquesta carolíngia de Catalunya|van ser expulsats]] de la riba nord del Llobregat a finals del mateix segle i el començament del següent amb el suport de [[Carlemany]].<ref name="Ramon"/><ref name="encartaesp"/> Amb el temps, els comtes francs van convertir Catalunya en un domini independent <ref name=encarta>[http://encarta.msn.com/encyclopedia_761556976/Catalonia.html Catalonia]. MSN Encarta. Data d'accés: 22 de novembre, 2008</ref> i es van confederar el [[1137]] amb la [[Corona d'Aragó]],<ref>{{Ref-llibre |cognom= Coll i Alentorn|nom= Miquel |enllaçautor= Miquel Coll i Alentorn |capítol= |urlcapítol= |editor= |títol= Història |url= |format= |consulta= |llengua= |edició= |editorial= Publicacions de l'Abadia de Montserrat |lloc= |data= |any= 1992 |mes= |pàgines= |col·lecció= |isbn= 978-84-321-1882-1 |oclc= |doi= |id= |citació= |ref= }}</ref> acabant la conquesta dels territoris musulmans de Catalunya el [[1154]].<ref>Ezequiel Gort Juanpere, ''[http://www.cornudellaweb.com/siurana/llegendes.htm La reconquesta de Siurana segons la llegenda]''</ref> La Corona d'Aragó es va unir a la [[Corona de Castella]] el [[1476]] i va conservar les seves institucions autònomes de govern fins a l'acabament de la [[Guerra de Successió Espanyola]]<ref>{{Ref-llibre |cognom= Hernàndez Cardona|nom= Francesc Xavier |enllaçautor= |capítol= |urlcapítol= |editor= |títol= Història militar de Catalunya. Vol III: La defensa de la terra |url= |format= |consulta= |llengua= |edició= |editorial= Rafael Dalmau, Editor |lloc= |data= |any= 2003 |mes= |pàgines= |col·lecció= |isbn= 84-232-0664-5 |oclc= |doi= |id= |citació= |ref= }}</ref> el [[1714]], uns anys després del seu desmembrament per la cessió al [[Regne de França]] del comtat del Rosselló i part del de la Cerdanya.<ref name="smae"/> El 1978, va recuperar autonomia i es va constituir com a comunitat autònoma del Regne d'Espanya. 
+
+El Parlament de Catalunya, recollint el sentiment i la voluntat de la ciutadania de Catalunya, ha definit Catalunya com a [[nació]] d'una manera àmpliament majoritària en el Preàmbul de l'[[Estatut d'Autonomia de Catalunya de 2006|Estatut d'autonomia]]. Tanmateix, la [[Constitució espanyola]], en l'article segon, reconeix la realitat nacional de Catalunya com a [[nacionalitat històrica|nacionalitat]].<ref name="gencat"/>
+
+En l'actualitat, Catalunya és una de les comunitats més riques i pròsperes d'Espanya<ref>{{citar web |url=Catalonia seeks to raise €11bn in fresh debt |títol=Catalonia seeks to raise €11bn in fresh debt |consulta=19/1/2012 |obra= |editor=Financial Times |data=31/1/2011 |llengua=anglès }}</ref> La capital és [[Barcelona]].<ref>[[s:Estatut_d'autonomia_de_Catalunya_(2006)/Títol_preliminar|Article 10 de l'Estatut de Catalunya]].</ref> La població de Catalunya el [[2006]] superava els 7 milions d'habitants, en un total de 947 municipis dels quals 59 superen els 20.000 habitants. Dos terços de la població viuen a la [[Àmbit Metropolità de Barcelona|regió metropolitana de Barcelona]].
+
+== Toponímia ==
+El nom de Catalunya, com a tal, es va començar a utilitzar a mitjan del segle XII per designar el conjunt de comtats que formaven la [[Marca Hispànica]] que es van desvincular, gradualment, de la tutela franca fins esdevenir sobirans. L'origen del mot, ''Catalunya'', encara és incert i obert a interpretacions. Una teoria és que es deriva de "terra de castells",<ref>[http://www.gencat.cat/catalunya/cat/historia/historia2.htm La formació de Catalunya]</ref> i que hagi evolucionat del terme ''castlà'', el governador d'un castell.<ref>[http://neni.galeon.com/aficiones1345631.html Curiositats sobre Catalunya i el català]</ref><ref>[http://dialnet.unirioja.es/servlet/fichero_articulo?codigo=1342520&orden=0 Etimología de Cataluña] </ref> D'acord amb aquesta teoria, el terme castellà en seria homòleg. Una altra teoria suggereix que ''Catalunya'' prové de "Gotholàndia" és a dir la terra dels [[poble got|gots]]; de fet, els francs sovint anomenaven el territori català (o fins i tot, la península ibèrica) com a [[Gòtia]]. [[Joan Vernet]] identificà com a primer testimoni possible del nom de Catalunya l'historiador i geògraf musulmà [[Al-'Udrī]], qui en la seva obra ''Tarsi al-akhbār'' parla de ''[[Qa Talunya|ka Talunya]]'', contracció de ''kalat Talunya'', en català "castell de [[Talunya]]", una localitat situada a mig camí de [[Lleida]] a [[Osca]], cap a l'actual [[Montsó]]. Segons aquesta hipòtesi, els àrabs anomenarien els habitants de la [[Marca Hispànica]] com «els que viuen més enllà de ka Talunya». L'origen àrab, a través d'un topònim iber, podria explicar la falta de correspondència exacta entre el gentilici ''català'' i el topònim ''Catalunya''.<ref name="GEC"/><ref name="Coll">{{Ref-llibre |cognom=Coll i Alentorn |nom=Miquel |enllaçautor=Miquel Coll i Alentorn |títol=Textos i Estudis de Cultura Catalana: Història |url=http://books.google.cat/books?id=nrGpXHsfL3UC&hl=ca |consulta=12 abril 2010 |editorial=Curial/Abadia de Montserrat |lloc=Barcelona |data=1992 |pàgines=p. 185 |isbn=9788478262997}}</ref> Altres teories suggereixen que prové d'un mític príncep alemany, [[Otger Cataló]], o del mot ''[[lacetans|laketani]]'', tribu que habitava les terres del que avui són el [[Vallès]] i el [[Barcelonès]], i que per influència [[italià|italiana]] va evolucionar a ''katelans'' i d'aquí a ''catalans''.<ref>[http://www.histocat.cat/pdf/talaiotic_1.pdf El Misteri de la Paraula Cathalunya]</ref> 
+
+El '''Principat de Catalunya''' és un terme jurídic (en llatí ''principatus'') que aparegué al segle XIV per indicar el territori sota jurisdicció de les [[Corts Catalanes]], el sobirà del qual (en [[llatí]], ''princeps'') era el rei del [[Casal de Barcelona]], sense ser formalment un regne sinó una agrupació de comtats amb unes lleis uniformades per les Corts. Tot i que el territori del Principat fou posteriorment confederat amb la [[corona d'Aragó]] i aquesta amb el [[regne d'Espanya]], i que una porció en va ser annexionada per [[França]] (en l'actualitat, territori conegut com la [[Catalunya del Nord]]), el terme "Principat" sovint ha estat utilitzat per referir-se a les quatre províncies catalanes que conformen la comunitat autònoma, de manera informal, fins l'actualitat.
+
+== Geografia física ==
+[[Fitxer:NASA Satellite Catalonia.jpg|thumb|Imatge de satèl·lit de Catalunya]]
+Catalunya té una superfície aproximada de 32.000 km². Limita al nord amb [[Andorra]] (65,3 km) i [[França]]—el [[Departament dels Pirineus Orientals]]—(315 km), a l'oest amb l'[[Aragó]] (359,9 km), al sud amb el [[País Valencià]] (52,9 km) i a l'est amb la [[Mar Mediterrània]]. La seva situació geogràfica ha afavorit, des de temps medievals, una relació propera i intensa amb la resta dels països mediterranis i alhora amb l'Europa continental. 
+
+Aproximadament el 28,7% del sòl de Catalunya es dedica als [[conreu]]s; el 15,7% son [[prat]]s i pastures, l'1% correspon a [[rius]]; el 43,4% a [[boscos]], el 6,7% a àrees urbanes o urbanitzables, i el 4,6% a altres activitats no especificades.<ref>[http://www15.gencat.net/pres_catalunya_dades/AppPHP/cat/territori.htm#territori Quin tipus de territori tenim?]</ref>
+{{VT|Llista de rius de Catalunya|Llista de platges de Catalunya|Llista de muntanyes de Catalunya}}
+=== Topografia ===
+Catalunya té una diversitat geogràfica molt marcada, tenint en compte la superfície relativament petita del seu territori. La [[geografia]] està condicionada pel litoral mediterrani, aquest, amb 580 quilòmetres de costa, i les grans unitats de relleu dels Pirineus al nord. El relleu català presenta, a grands trets, tres unitats morofestructurals generals:<ref>''[http://www.grec.cat/cgibin/heccl2.pgm?USUARI=&SESSIO=&PGMORI=&NDCHEC=0224004 El Relleu]'', "Grup Enciclopèdia Catalana". [Data de consulta: 26 de desembre, 2007]</ref>
+* els [[Pirineus]]: la formació muntanyosa que connecta la [[Península Ibèrica]] amb el territori continental europeu, i situats al nord de Catalunya;
+* el [[Sistema Mediterrani Català]] o les Serralades Costaneres Catalanes: una alternança d'elevacions i planes paral·leles a la costa mediterrània; i 
+* la [[Depressió Central Catalana]]: unitat estructural que configura el sector oriental de la [[Vall de l'Ebre]]. 
+[[Fitxer:Els Encantats.JPG|thumb|[[Els Encantats]], dos pics emblemàtics dels [[Pirineus]] i l'[[estany de Sant Maurici]].]]
+[[Fitxer:Montserrat des del Bages.jpg|thumb|left|[[Montserrat]]]]
+Els Pirineus catalans representen gairebé la meitat, en longitud, de tot el Pirineu espanyol, ja que s'estén per més de 200&nbsp;km. Tradicionalment s'ha diferenciat el Pirineu Axial, el principal del Prepirineu (meridional al territori català) i que son formacions muntanyoses paral·leles a les serralades principals però amb altituds menors, menys escarpades i d'una formació geològica diferent. Ambdós unitats són més amples a l'occident que no pas a l'orient, on es presenten els pics més elevats. L'elevació més alta de Catalunya, que es troba al nord de la comarca de [[Pallars Sobirà]], és la [[Pica d'Estats]] amb 3.143 m, seguida del [[Puig Cedrós]] (2.914 m) i el [[Puigmal]] (2.910) tots dos en la frontera amb [[França]]. Al Preprineu hi destaquen diverses serralades com la [[serralada del Cadí]] o la de [[Pedraforca]]. 
+
+El Sistema Mediterrani Català té la seva base en dues serralades més o menys paral·leles amb la costa, en una orientació del nord-oest cap al sud-oest. Aquestes dues serralades són la [[Serralada Litoral]] i la [[Serralada Prelitoral]]. La Serralada Litoral és de menor extensió i amb altituds menors, mentre que la Serralada Prelitoral és major tant en extensió com en altitud. Dins el sistema es troba una sèrie de terres planes, les entitats majors de les quals formen la [[Depressió Litoral]] i la [[Depressió Prelitoral]]. La Depressió Litoral se situa a l'est de la Serralada Prelitoral cap a la costa. La Depressió Prelitoral, per contra, se situa a l'interior, entre les dues serralades, i constitueix la base de les terres planes del [[Vallès]] i el [[Penedès]]. Altres planes majors són la [[Depressió de la Selva]] i la Plana de l'[[Empordà]], majoritàriament a les comarques de la [[Selva]] i l'Alt i el Baix Empordà respectivament. Finalment, el Sistema també inclou la [[Serralada Transversal]], que són formacions tardanes al nord de la Serralada Prelitoral i amb contacte amb els Pirineus i Prepirineus que originen altituds mitjanes i volcans a l'àrea de la [[Garrotxa]]. 
+
+La [[Depressió Central Catalana]] és una plana situada entre els Pirineus i la Serralada Prelitoral. Les comarques del sud de la [[província de Lleida]] i les centrals de Barcelona ocupen aquest territori. Les terres de la Depressió se situen entre els 200 i els 600 m d'altitud. Les planes i les aigües que descendeixen dels Pirineus han fet que el territori sigui fèrtil pels camps de conreu i s'hi han construït nombrosos canals d'irrigació.
+
+=== Hidrografia ===
+[[Fitxer:Spain Ebre river in Miravet.jpg|thumb|L'[[Ebre]] a [[Miravet]]]]
+Gairebé la la totalitat de Catalunya pertany a la conca mediterrània. La xarxa hidrogràfica catalana està integrada per dues conques hidrogràfiques importants, la de l'[[Ebre]] i les conques internes de Catalunya, totes desguassant al Mediterrani. A més, hi ha la conca del [[Garona]] que desemboca a l'[[oceà Atlàntic]], però només abasta el 1,73% del territori català.
+
+La xarxa hidrogràfica es pot dividir en dos sectors, un de vessant occidental o de l'Ebre i un de vessant oriental format per rius menors que desemboquen al Mediterrani al llarg del litoral català. El primer aporta una mitjana de 18.700 hm<sup>{{mida|1=3</sup>}}/any, mentre que la segona només aporta una mitjana de 2.020 hm<sup>{{mida|1=3</sup>}}/any. La diferència és deguda a la gran aportació de l'Ebre, del qual el [[Segre]] és un important tributari. A Catalunya hi ha, a més a més, una relativa riquesa d'aigües subterrànies, tot i que també existeix la desigualtat entre comarques, atesa l'estructura geològica complexa del territori.<ref name="GEC clima">{{GEC|0016439|Catalunya: El clima i la hidrografia}}</ref> Als Pirineus catalans hi ha molts estanys petits, restes de l'època glacial. El major n'és el de [[Banyoles]]. 
+
+La costa catalana és gairebé rectilínia, amb una longitud superior als 500&nbsp;km i amb pocs accidents geogràfics—els més rellevants són el [[cap de Creus]] i el [[golf de Roses]] al nord, i el delta de l'Ebre al sud. On la Serralada Litoral se submergeix dins el mar, ho fa en dos segments, un entre l'Estartit i la població de Blanes (la [[costa Brava]]) i més al sur, les [[costes de Garraf]].<ref>[http://es.encarta.msn.com/encyclopedia_761556976_1____4/Catalunya_Catalu%C3%B1a.html#s4 Catalunya]. MSN Encarta. Data d'accés: 26 de novembre, 2008</ref>
+
+=== Clima ===
+{{Article principal|Clima de Catalunya}}
+Catalunya gaudeix d'un [[clima mediterrani]] temperat propi de la seva latitud a l'[[hemisferi septentrional]]. Tot i així, atesa la seva variada topografia, hi ha una diversitat de climes i trets particulars.<ref name="GEC clima"/> Les temperatures mitjanes anuals oscil·len des del 0&nbsp;°C als Pirineus, fins als 17&nbsp;°C a la costa del sud; les temperatures màximes poden arribar als 43&nbsp;°C (a les [[Garrigues]]), i les mínimes als -30&nbsp;°C (als Pirineus).<ref name="GEC clima"/> 
+
+Quant a la pluviositat, Catalunya pot dividir-se en dues regions:
+* la Catalunya humida, integrada pels Pirineus, els Prepirineus, el Subpirineu i alguns illots muntanyosos de la serralada Prelitoral, on la pluviositat és superior als 700 mm anuals; i
+* la Catalunya seca; la resta del territori, on la pluviositat és inferior als 700 mm anuals.
+
+La pluviositat té una tendència equinoccial. Al mediterrani, els estius són secs i hi ha pluges primaverals. Als Pirineus, les precipitacions hi són abundants durant maig i juny, i els estius, en general, són humits. 
+
+En considerar tant les temperatures com la pluviositat, Catalunya es divideix en tres grans dominis climàtics:<ref name="GEC clima"/>
+* un de clima alpí (als alts Pirineus);
+* un de clima atlàntic (a la conca de la Garona);
+* i un de clima mediterrani (la resta del territori), que se subdivideix en una àrea de muntanya alta i una de muntanya baixa.
+
+=== Protecció de la natura ===
+El 1990 el govern català va crear el Consell de Protecció de la Natura, un òrgan consultiu en matèria de protecció de la natura i del paisatge, amb el propòsit de conèixer, estudiar, protegir i gestionar el medi natural català. Existeixen a Catalunya onze parcs naturals: el [[Parc Natural de l'Alt Pirineu]], [[Aiguamolls de l'Empordà]], el [[Parc Natural del Cadí-Moixeró]], el [[Cap de Creus]], [[ports de Tortosa-Beseit|els Ports]], [[Parc Natural del Montseny]], [[Montserrat]], [[Sant Llorenç del Munt]], la [[Serra de Montsant]] i la [[Zona volcànica de la Garrotxa]]; un parc nacional, [[Aigüestortes i Estany de Sant Maurici]]; una reserva natural, la [[Delta del Llobregat]]; i una reserva marina, les [[Illes Medes]].
+
+== Política i govern ==
+{{Article principal|Política i govern de Catalunya}}
+[[Fitxer:Parlament de Catalunya.JPG|thumb|Façana de la seu del Parlament de Catalunya]]
+[[Fitxer:RJ-Barcelona2.jpg|thumb|[[Palau de la Generalitat]] ]]
+[[Fitxer:Artur Mas.jpg|thumb|[[Artur Mas i Gavarró]], actual president de Catalunya]]
+
+=== La Generalitat de Catalunya ===
+La comunitat autònoma de Catalunya exerceix el seu autogovern que la [[constitució espanyola]] li garanteix com a nacionalitat. La norma institucional bàsica de Catalunya és l'[[Estatut d'Autonomia de Catalunya de 2006|Estatut d'Autonomia]]. D'acord amb aquest, l'[[autogovern]] de Catalunya s'organitza políticament en l'[[Administració pública|administració]] de la [[Generalitat de Catalunya]]. La Generalitat de Catalunya està formada per diverses institucions de govern, entre elles:<ref>[http://www.gencat.net/generalitat/cat/estatut/titol_2.htm De les institucions] Estatut d'Autonomia de Catalunya, 2006</ref>
+* el [[Parlament de Catalunya]]: el [[poder legislatiu]] del govern català; al parlament es realitza el debat polític i es controla i impulsa l'acció política i de govern. Entre les seves potestats, el Parlament aprova els pressupostos de la Generalitat. Està constituït per un mínim de 100 diputats i un màxim de 150, elegits per [[representació proporcional]] amb llistes de partits tancades, per un termini de quatre anys;
+* la [[Presidència de la Generalitat de Catalunya|Presidència de la Generalitat]], encapçalada pel [[President de la Generalitat de Catalunya|president]]. El president és la més alta representació de la Generalitat i alhora de l'Estat espanyol a Catalunya. La seva funció és dirigir les accions del Govern; per tant és el representat del [[poder executiu]] de Catalunya; i
+* el Govern o [[Consell Executiu de Catalunya|Consell Executiu]] és l'òrgan superior col·legiat que dirigeix l'acció política i l'administració de la Generalitat. El Govern està presidit pel president de la Generalitat, el conseller primer i els altres consellers. D'acord amb aquest, les competències principals del Govern són en l'àmbit de l'educació, la sanitat i la cultura. El finançament de la Generalitat és regulat per la Llei Orgànica de Finançament de les Comunitats Autònomes i per l'[[Estatut d'Autonomia de Catalunya]].
+
+A més d'aquestes institucions, les altres institucions de la Generalitat són totes les que creï el Parlament mateix. Com a òrgans de garantia i control, en l'actualitat formen part de la Generalitat, el [[Síndic de Greuges de Catalunya|Síndic de Greuges]], el garant dels drets i les llibertats dels ciutadans, la [[Sindicatura de Comptes de Catalunya]] que controla els comptes econòmics de les institucions públiques de Catalunya, i el [[Consell de Garanties Estatutàries]], que vetlla per l'adequació a l'Estatut i a la Constitució de l'Estat espanyol de les disposicions de la Generalitat. 
+
+La màxima institució del [[poder judicial]] a Catalunya recau sobre el [[Tribunal Superior de Justícia de Catalunya|Tribunal Superior de Justícia]], segons l'Estatut del 2006. Les competències del Tribunal Superior de Justícia inclouen conèixer els recursos i procediments en els diversos ordres institucionals i tutelar els drets reconeguts per l'Estatut. En tot cas, és competent en els ordres jurisdiccionals, civil, contenciós administratiu i social, i en els altres que es puguin crear en el futur.
+
+El Govern és part integrant de la [[Generalitat de Catalunya]]. La capital i seu del Govern és la ciutat de [[Barcelona]]. El [[president de la Generalitat de Catalunya|President de la Generalitat]] entre [[1980]] i [[2003]] ha estat [[Jordi Pujol i Soley]], de [[Convergència i Unió]], que fou seguit per [[Pasqual Maragall i Mira]], del [[Partit dels Socialistes de Catalunya]], entre el [[2003]] i el [[2006]], i per [[José Montilla Aguilera]], entre el [[2006]] i finals del [[2010]], també del [[Partit dels Socialistes de Catalunya]]. Després de les [[Eleccions al Parlament de Catalunya (2010)|eleccions del 20 de novembre]] del [[2010]], un cop constituït el [[Diputats al Parlament de Catalunya (IX Legislatura)|nou Parlament]], el [[23 de desembre]] va ser elegit nou president [[Artur Mas i Gavarró]], de [[Convergència i Unió|CiU]].
+
+Catalunya també disposa d'una policia pròpia, els [[Mossos d'Esquadra]], la força de policia civil més antiga d'Europa, els orígens de la qual es remunten al [[segle XVIII]]. Des de [[1980]] està sota les ordres de la Generalitat, i des del [[1994]] fins al [[2008]] va fer un procés de desplegament substituint a la Guàrdia Civil i a la Policia Nacional, cossos dependents directament del Ministeri de l'Interior d'Espanya. L'Estat, però, conserva un nombre limitat d'agents a Catalunya per exercir altres funcions específiques: vigilància dels ports, aeroports, costes, fronteres, duanes, règim general d'estrangeria, documents d'identitat, tràfic d'armes i explosius, protecció fiscal de l'Estat i d'altres funcions que la [[Constitució Espanyola de 1978|Constitució]] estableix.
+
+També en l'àmbit de la seguretat, existeixen en les localitats més importants les Policies Locals, que són cossos policials depenent dels Ajuntaments. En aquests moments existeixen aproximadament 200 d'aquests cossos. Cada Policia Local, també denominat en alguns municipis Policia Municipal (per exemple al Vendrell) o Guàrdia Urbana( per ex. a Barcelona o Reus), és un institut armat, de naturalesa civil amb estructura i organització jerarquitzada.
+
+Exerceixen funcions com:
+
+* Protegir a les autoritats de les corporacions locals, i vigilància o custòdia dels seus edificis i instal·lacions.
+Ordenar, senyalitzar i dirigir el tràfic en el casc urbà, d'acord amb l'establert en les normes de circulació.
+* Instruir atestats per accidents de circulació dins del casc urbà.
+Policia administrativa, quant a les ordenances, bàndols i altres disposicions municipals dins de l'àmbit de la seva competència.
+* Participar en les funcions de policia judicial.
+* La prestació d'auxili, en els casos d'accident, catàstrofe o calamitat pública, participant, en la forma prevista en les Lleis, en l'execució dels plans de protecció civil.
+* Efectuar diligències de prevenció i quantes actuacions tendeixin a evitar comissió d'actes delictius en el marc de col·laboració establert en les juntes de seguretat.
+* Vigilar els espais públics i col·laborar amb les Forces i Cossos de Seguretat de l'Estat i amb la policia de les Comunitats Autònomes la protecció de les manifestacions i el manteniment de l'ordre en grans concentracions humanes, quan siguin requerits per a això.
+* Cooperar en la resolució dels conflictes privats quan siguin requerits per a això.
+
+=== Els símbols nacionals ===
+{{AP|Símbols de Catalunya}}
+
+Catalunya té tres símbols representatius i distintius propis anomenats estatutàriament símbols nacionals:<ref>[http://www.gencat.net/generalitat/cat/estatut/titol_preliminar.htm#a8 Símbols de Catalunya]</ref> la [[bandera de Catalunya|bandera]], l'[[Els Segadors|himne]] i la [[Diada Nacional de Catalunya|festa nacional]]. 
+
+La bandera o senyera, va sorgir de la translació del senyal de l'escut dels [[comte de Barcelona|comtes de Barcelona]] a un teixit. Encara que no n'hi ha cap referència documental abans del [[segle XIII]], és una de les banderes més antigues d'Europa.<ref name="símbols">[http://www.gencat.cat/catalunya/cat/simbols.htm Els Símbols Nacionals] Generalitat de Catalunya</ref> La bandera catalana és una faixada amb cinc faixes grogues i quatre de vermelles, totes del mateix gruix. 
+
+L'himne nacional de Catalunya és ''[[Els Segadors]]'', escrit en la seva forma actual per [[Emili Guanyavents]] el [[1899]]. La versió musical és de [[Francesc Alió]] de l'any [[1892]]. Els orígens darrera l'himne es remunten a una primitiva cançó nascuda arran dels fets històrics de [[1640]] durant la guerra dels catalans contra el rei [[Felip IV de Castella|Felip IV]], en la qual els pagesos van protagonitzar episodis importants. És oficial per llei del Parlament des del [[25 de febrer]], [[1993]]. 
+
+La festa nacional de Catalunya es va constituir com a primera llei que va aprovar el Parlament restaurat de Catalunya el [[1980]]. La diada nacional o Festa de Catalunya, se celebra l'[[11 de setembre]], recordant la pèrdua de les llibertats del mateix dia de l'any [[1714]], després del [[Setge de Barcelona (1713-1714)|Setge de Barcelona]], i alhora l'actitud de reivindicació i resistència activa enfront de l'opressió: l'esperança d'un total recobrament nacional.<ref name="símbols"/>
+
+=== Divisió territorial i administrativa ===
+{{Article principal|Divisió territorial de Catalunya}}
+[[Fitxer:Catalunya+Prov+Català.jpg|thumb|[[Províncies de Catalunya]]]]
+[[Fitxer:Catalunya+Comarques+Català.jpg|thumb|[[Comarques de Catalunya]]]]
+[[Fitxer:Mapa municipal de Catalunya.svg|right|thumb|Mapa [[Municipis de Catalunya|municipal de Catalunya]]]]
+Catalunya s'organitza territorialment en províncies. L'Estatut d'Autonomia del 2006 estableix l'organització administrativa de Catalunya en tres ens locals: els municipis, les comarques i les vegueries. 
+
+==== Províncies ====
+Catalunya està dividida administrativament en quatre [[província|províncies]], l'òrgan rector de les quals és la [[Diputació]].
+* [[Província de Barcelona]]
+* [[Província de Girona]]
+* [[Província de Lleida]]
+* [[Província de Tarragona]]
+
+Les capitals de província són les poblacions del mateix nom: [[Barcelona]], [[Girona]], [[Lleida]] i [[Tarragona]].
+
+==== Els municipis ====
+L'Estatut defineix el municipi com l'ens local bàsic i el mitjà essencial de participació de la comunitat local en els afers públic. A més, li garanteix autonomia per a l'exercici de les seves competències i la gestió dels seus interessos respectius. Hi ha a Catalunya a l'actualitat [[llista de municipis de Catalunya|947 municipis]]. Per sota d'aquests ens locals hi ha les [[Entitat municipal descentralitzada|entitats municipals descentralitzades]], que també gaudeixen d'una certa autonomia tot i dependre dels municipis respectius; actualment a Catalunya n'hi ha un total de [[Llista d'entitats municipals descentralitzades de Catalunya|58]].
+
+Els municipis amb més habitants són ''(vegeu la [[Llista de municipis de Catalunya|Llista Completa]])'':
+{| class="wikitable"
+!style="background: #e3e3e3;"|Posició
+!style="background: #e3e3e3;"|Municipi
+!style="background: #e3e3e3;"|Comarca
+!style="background: #e3e3e3;"|Població<ref>[http://www.ine.es/jaxi/menu.do?type=pcaxis&path=%2Ft20%2Fe260%2Fa2009%2F&file=pcaxis&N=&L=0 Actualització INE 2009]</ref>
+|-
+|1
+|[[Fitxer:Escut de Barcelona.svg|20px|Escut de Barcelona]] [[Barcelona]]
+|[[Barcelonès]]
+|1.619.337
+|-
+|2
+|[[Fitxer:Spain.Hospitalet.de.Llobregat.Escudo.svg|20px|Escut de l'Hospitalet de Llobregat]] [[L'Hospitalet de Llobregat]]
+|[[Barcelonès]]
+|258.642
+|-
+|3
+|[[Fitxer:Escut de Badalona.svg|20px|Escut de Badalona]] [[Badalona]]
+|[[Barcelonès]]
+|218.886
+|-
+|4
+|[[Fitxer:Escut de Terrassa.svg|20px|Terrassa]] [[Terrassa]]
+|[[Vallès Occidental]]
+|212.724
+|-
+|5
+|[[Fitxer:Escut de Sabadell.svg|20px]] [[Sabadell]]
+|[[Vallès Occidental]]
+|207.338
+|-
+|6
+|[[Fitxer:Escut de Tarragona.svg|20px|Tarragona]] [[Tarragona]]
+|[[Tarragonès]]
+|140.184
+|-
+|7
+|[[Fitxer:Escudo de Lérida.svg|20px]] [[Lleida]]
+|[[Segrià]]
+|137.387
+|-
+|8
+|[[Fitxer:Escut de Mataró.svg|20px]] [[Mataró]] 
+|[[El Maresme]]
+|122.905
+|-
+|9
+|[[Fitxer:Escudo Santa Coloma de Gramanet.jpg|20px]] [[Santa Coloma de Gramenet]]
+|[[Barcelonès]]
+|120.060
+|-
+|10
+|[[Fitxer:Ct reus-emblem.gif|20px]] [[Reus]]
+|[[Baix Camp]]
+|106.622
+|-
+|11
+|[[Fitxer:Spain.Girona.Escut.Timbrat.svg|20px]] [[Girona]]
+|[[Gironès]]
+|96.236
+|}
+
+==== Les vegueries ====
+La [[vegueria]], una nova divisió territorial, es defineix com un àmbit territorial específic per a l'exercici del govern intermunicipal i de cooperació local amb personalitat jurídica pròpia, i és la divisió territorial que ha adoptat la Generalitat, d'acord al Estatut del 2006, per a l'organització territorial dels seus serveis. També gaudeix d'autonomia per a la gestió dels seus interessos. L'administració de les vegueries correspon als Consells de Vegueries que van substituir les diputacions. 
+
+==== Les comarques ====
+Finalment, les [[comarques de Catalunya|comarques]] són entitats integrades per municipis per a la gestió de les seves competències i serveis locals. L'actual divisió comarcal té el seu origen en un decret de la Generalitat de Catalunya de [[1936]] en vigència fins al [[1939]] quan seria suprimida pel [[franquisme]]. El 1987 la Generalitat tornà a adoptar aquesta divisió territorial i el [[1988]] s'hi afegiren tres noves comarques. A l'actualitat n'hi ha 41.
+
+==== L'Aran ====
+La comarca de [[Vall d'Aran|l'Aran]] disposa d'un règim jurídic especial amb autonomia per ordenar i gestionar els afers públics del seu territori. La seva institució de govern és el ''[[Consell General d'Aran|Conselh Generau]]'', format pel ''Síndic'', el ''Plen des Conselhèrs e Conselhères Generaus'' i la ''Comission d'Auditors de Comdes''. El síndic hi és la més alta representació i l'ordinària de la Generalitat a l'Aran. La llengua pròpia de l'Aran és l'occità [[aranès]], el qual també és oficial a Catalunya.
+
+== Economia ==
+{{Article principal|Economia de Catalunya}}
+=== Indicadors econòmics ===
+{{Economia|pib=€ 170.450 milions
+|pibc=€ 24.858 (2005)
+|creix=3,6% (2007)<ref name="EvolucióPIB">{{format ref}} http://www.avui.cat/article/economia/36958/leconomia/catalana/creix/segon/trimestre/lany.html Avui, 29-07-2008: L'economia catalana creix un 1,5% el segon trimestre de l'any</ref>
+|infla=4,1% (2005)
+|rnb=n/a
+|atur=6,6% (2006)
+|exp=€ 42.087 milions
+|imp=€ 67.748 milions
+|font=[http://www.cidem.com/catalonia/en/about/facts/index.jsp]}}
+Catalunya és un país de tradició industrial des del [[segle XIX]]. En l'actualitat la [[indústria]], el [[turisme]] i els serveis són els principals sectors econòmics de Catalunya. El creixement mitjà anual del període [[1995]]-[[2004]] en termes reals va ser inferior a la mitjana espanyola. No obstant això, el [[2005]] va créixer un 3,3%, el mateix percentatge que la mitjana espanyola i per damunt la mitjana europea. Segons les mateixes fonts, Catalunya es troba a la quarta posició de la classificació de [[comunitat autònoma|comunitats]] segons llur [[Producte Interior Brut]] per capita en [[paritat de poder adquisitiu]] i aporta el 18,8% del PIB total d'[[Espanya]], 25,5% del sector industrial del PIB i el 17,5% del sector dels serveis.<ref name="facts">[http://www.cidem.com/catalonia/en/about/facts/index.jsp Facts and Figures]</ref> La [[taxa d'atur]] catalana, el [[2005]] era del 6,6%. 
+
+Durant el [[2008]], el creixement del PIB de Catalunya ha anat minvant de forma molt clara, passant del 3,6% d'evolució interanual durant el 2007, a 2,5% el primer trimestre i a 1,5% el segon trimestre.<ref name="EvolucióPIB"/>
+
+Com a percentatge del total espanyol, les exportacions d'alta tecnologia de Catalunya representaren, el [[2005]], el 34,6%. El mateix any les importacions de Catalunya van representar el 29% del total espanyol i les exportacions el 26,8%. De les despeses per a la recerca i el desenvolupament de l'Estat, el 22,8% es van realitzar a Catalunya.<ref name="facts"/>
+
+Catalunya és la primera destinació turística d'Espanya; el 2005 va rebre 13,2 milions de turistes entre gener i novembre, equivalent al 25,3% de tots els turistes que van arribar a Espanya, un increment del 12,7% en un any. Les principals destinacions turístiques de Catalunya són la ciutat de [[Barcelona]] i les platges de [[Costa Brava]] i de [[Costa Daurada]], així com els [[Pirineus]] amb 10 estacions d'esquí: [[Vaquèira-Beret]], [[La Molina]], [[Espot Esquí]], [[La Masella]], [[Port Ainé]], [[Vall de Núria]], [[Boí Taüll]], [[Port del Comte]], [[Rasos de Peguera]], [[Tavascan Pleta del Prat]] i [[Vallter 2000]].
+
+El preu de l'habitatge a Catalunya és el segon més alt d'Espanya, després de Madrid. El 2005 es pagaven 3.397 [[euro]]s per metre quadrat. No obstant això, per ciutat, [[Barcelona]] és la ciutat més cara d'Espanya, amb un preu mitja de 3.700 euros el metre quadrat. 
+
+Des del punt de vista financer, cal destacar la tradició i èxit de les [[caixes d'estalvis]] de Catalunya, major, fins i tot, que els bancs privats. De les 46 caixes d'estalvi espanyoles, 10 són catalanes. Destaquen, especialment, [[La Caixa]], la primera caixa d'estalvis d'Europa i [[Caixa Catalunya]]. Dels bancs, el més important de Catalunya és el [[Banc de Sabadell]], el quart grup bancari més gran de l'Estat.
+
+=== Infraestructura ===
+Catalunya està ben comunicada tant per terra, mar i aire. Per a accedir per terra existeix una àmplia xarxa d'autopistes i carreteres i la xarxa de trens.
+
+==== Aeroports ====
+[[Fitxer:Terminal B.JPG|thumb|Fotografia de la Terminal T2B de l'[[Aeroport del Prat]].]]
+* [[Aeroport Internacional de Barcelona - El Prat]], situat a quinze quilòmetres de Barcelona, és el més important de Catalunya i el segon d'Espanya. L'aeroport disposa de dos grans terminals, la T1 i la T2, amb una capacitat per a més de 55 milions de passatgers a l'any.
+* [[Aeroport de Girona-Costa Brava]], utilitzat especialment per les companyies de baix cost, és la base del trasllat de turistes a la Costa Brava.
+* [[Aeroport de Reus]], orientat al turisme de la província de Tarragona. A poc més d'una hora de Barcelona.
+* [[Aeroport de Sabadell]], no té vols comercials però admet aviació executiva.
+* [[Aeroport de Lleida-Alguaire]], inaugurat el 2010.
+* [[Aeroport de la Seu d'Urgell]], tancat en 1984 i reobert el 2010.
+{{Aeroports a Catalunya}}
+
+==== Ports ====
+Els dos principals ports de Catalunya, tant pel transport de passatgers com de mercaderies són el [[Port de Barcelona]] i el [[Port de Tarragona]] que, a més, estan considerats dos dels ports més importants d'Espanya i del Mediterrani.
+
+A part, el litoral català té una gran quantitat de ports, tant de pescadors com d'esportius.
+
+==== Xarxa viària ====
+:''Vegeu també: [[Llista de carreteres de Catalunya]] i [[Llista d'autopistes i autovies de Catalunya]]
+A Catalunya hi ha 12.000 quilòmetres de vies per al trànsit d'automòbils, tot i que 10.843 d'aquests quilòmetres corresponen a carreteres de calçada única. 962 són d'[[Autopista|autopistes]] (665 amb peatge i 307 lliures de pagament). D'aquests 12.000 quilòmetres, 5.600 corresponen a carreteres la titularitat de les quals és de la Generalitat de Catalunya, 4.400 a les diputacions provincials i 1.955 al [[Ministeri de Foment]] de l'Administració central.
+
+L'estructura de les autopistes està centralitzada cap a Barcelona. La principal autopista és l'[[AP-7]], coneguda com "Autopista del Mediterrani", que travessa Catalunya unint, per un costat, Barcelona amb [[La Jonquera]], passant per Girona, i Barcelona amb [[València]], passant per Tarragona. L'AP-7 té un desviament que uneix [[Molins de Rei]] amb [[Montmeló]], evitant passar per Barcelona ciutat. Aquesta carretera, la B-30, és el tercer cinturó de Barcelona i va de nord a sud del [[Vallès]]. L'[[AP-2]], que uneix Barcelona amb [[Saragossa]], passant per Lleida, és la segona autopista en trànsit de vehicles. La [[C-32]], també coneguda com "Autopista Pau Casals", uneix Barcelona amb [[El Vendrell]] amb túnels que eviten el [[Parc Natural del Garraf]]. Amb una longitud total de 56,3 quilòmetres, la C-32 és l'autopista més cara d'Europa al tenir dos peatges. L'autopista de pagament de Barcelona a [[Palafolls]] també s'anomena C-32 tot i que és coneguda com "Autopista del Maresme". Finalment, la [[C-25]] uneix [[Riudellots de la Selva]] (Girona) amb [[Cervera]] (Lleida) evitant Barcelona. Té 153 quilòmetres i és coneguda com "Eix Transversal".
+
+==== Ferrocarril ====
+{{principal|Xarxa ferroviària de Catalunya}}
+Catalunya va ser el primer territori de la península en tenir [[ferrocarril]], el [[28 d'octubre]] de [[1848]], quan es va inaugurar la línia entre Barcelona i [[Mataró]], d'una distància de 28,4&nbsp;km. Els anys següents, abans de l'entrada del [[segle XX]], es van construir més de 1.000 quilòmetres de via (quasi el 80% de les vies actuals), amb diverses rutes entre les principals ciutats catalanes i Barcelona. La majoria de les vies van ser finançades pel capital privat d'industrials que volien agilitzar el transport de les seves mercaderies fins la gran ciutat.
+
+Actualment, tot i que s'han modernitzat els trens, la xarxa viària segueix sent pràcticament la mateixa que fa cent anys, amb una estructura molt centralitzada cap a Barcelona. Les dues rutes principals són la de la costa, que uneix França i el País Valencià pel litoral català, i la ruta cap a Saragossa, que uneix Barcelona amb Lleida passat per [[Manresa]].
+[[Fitxer:Barcelona.Estacio.Sants.jpg|thumb|L'[[Estació de Sants]].]]
+Les propietàries de les línies ferroviàries de Catalunya són l'[[ADIF]] i els [[Ferrocarrils de la Generalitat de Catalunya]]. Operen a Catalunya les operadores [[Red Nacional de los Ferrocarriles Españoles|Renfe]] i FGC.
+
+Durant els primers mesos del 2008, va entrar en servei la línia d'[[Tren d'Alta Velocitat|alta velocitat]] ([[Alta Velocidad Española|AVE]]) a l'[[Estació de Sants]], amb tres línies de servei: Barcelona - Madrid, Barcelona - [[Sevilla]] i Barcelona - [[Màlaga]]. La línia d'alta velocitat serà prolongada fins la frontera francesa, on continuarà fins a connectar amb l'actual xarxa francesa d'alta velocitat, de manera que s'establirà, també, una connexió ferroviària ràpida entre Barcelona i [[París]].
+
+D'altra banda, el govern de la Generalitat de Catalunya va anunciar el desembre del 2005 un pla per a construir 1.100 quilòmetres de noves línies, 300 en vies convencionals i 800 en vies d'alta velocitat, que uniran les principals ciutats catalanes de forma transversal. El pla suposarà la inversió de 25.000 milions d'euros entre el 2006 i el [[2026]].
+
+==== Altres transports públics ====
+L'única xarxa de [[metro]] de Catalunya és el [[Metro de Barcelona]] que comunica entre si les ciutats de Barcelona, [[l'Hospitalet de Llobregat]], [[Cornellà de Llobregat]], [[Santa Coloma de Gramenet]], [[Badalona]], [[Sant Boi de Llobregat]] i [[Montcada i Reixac]]. Actualment hi ha nou línies en marxa comptant les que gestiona [[TMB]] i les de FGC. A la província de Barcelona també s'hi pot trobar el [[tramvia]] ([[Trambaix]] i [[Trambesòs]]) i el [[Bicing]], un sistema de lloguer de bicicletes.
+
+També hi ha una complerta xarxa d'autobusos arreu dels municipis catalans.
+
+== Geografia humana i societat ==
+{{Article principal|Demografia de Catalunya}}
+=== Demografia ===
+[[Fitxer:Poblacio-cat.jpg|thumb|Evolució de la població de Catalunya en termes absoluts (barres) i en relació amb la població total d'[[Espanya]] (línia)]]
+[[Fitxer:Densitat població comarques catalanes-absolut (2006).svg|thumb|Densitat de població absoluta de les comarques catalanes]]
+La població catalana en l'actualitat supera els 7 milions d'habitants.<ref>[http://www.idescat.net/dequavi/?TC=444&V0=1&V1=1 IDESCAT]</ref> Segons l'[[Institut d'Estadística de Catalunya]] la població de Catalunya el [[2005]] era de 6.995.206 habitants, el 15,9% del total de la població espanyola. D'aquests, 603.636 o el 8,9% eren estrangers, el 22,3% del total d'estrangers que habiten a Espanya. Aproximadament 1,5 milions viuen a la capital, la ciutat de [[Barcelona]] (el 22,8% de la població de Catalunya); i 5 milions viuen a l'[[àrea metropolitana de Barcelona]], (el 72,7% de la població total de Catalunya), fent-la una de les [[àrea metropolitana|àrees metropolitanes]] més grans d'[[Europa]]. Per contra, les zones més despoblades de Catalunya són les comarques pirinenques. 
+
+Al voltant de 2,5 milions de persones viuen en un [[radi (Geometria)|radi]] de 25&nbsp;km des de la capital. Dins la primera corona metropolitana es troben ciutats com ara l'[[Hospitalet de Llobregat]], [[Badalona]], [[Santa Coloma de Gramenet]] i [[Cornellà de Llobregat|Cornellà]]. Les principals poblacions de la segona corona són [[Terrassa]], [[Sabadell]], [[Montcada i Reixac]], [[Granollers]], [[Martorell]], [[Molins de Rei]], [[Sant Feliu de Llobregat]], [[Gavà]] i [[Castelldefels]].
+
+Catalunya ha rebut diverses onades d'immigrants al llarg del [[segle XX]]. El [[1900]] la població de Catalunya era de dos milions d'habitants. En la dècada de [[1960]] ja comptava amb més de cinc milions d'habitants; aquest creixement no només va ser degut a l'explosió demogràfica natural ans també al gran contingent migratori des de diverses regions d'Espanya, especialment d'[[Andalusia]], [[Múrcia]] i [[Extremadura]]. Una segona onada migratòria hi va arribar des de principis de la dècada de 1990, aquesta vegada no només d'altres regions d'Espanya sinó de l'estranger. 
+
+La [[taxa de natalitat]], el [[2005]] era de l'11,6% i la [[taxa de mortalitat]], del 8,9%.<ref>[http://www.idescat.net/territ/BasicTerr?TC=5&V0=3&V1=3&V3=914&V4=917&ALLINFO=TRUE&PARENT=1&CTX=B Moviment Natural. Fecunditat]</ref><ref>[http://www.idescat.net/territ/BasicTerr?TC=5&V0=3&V1=3&V3=914&V4=918&ALLINFO=TRUE&PARENT=1&CTX=B Moviment natural. Mortalitat]</ref> La [[taxa de creixement poblacional]] era del 2%. Pel que fa a la piràmide d'edats, el grup més nombrós es troba entre els 20 i 50 anys d'edat, i com és el cas de la majoria de les societats europees benestants, es percep un envelliment substancial de la població (és a dir, el cohort d'ancians cada vegada és major)<ref>[http://www.idescat.net/territ/BasicTerr?TC=5&V0=3&V1=3&V3=914&V4=915&ALLINFO=TRUE&PARENT=1&CTX=B Estructura per edats, envelliment i dependència. Sèrie temporal]</ref> i alhora un increment en l'[[esperança de vida]], que arriba als 80 anys.<ref>[http://www.gencat.cat/catalunya/cat/poblacio.htm La població de Catalunya]</ref>
+
+=== Llengua ===
+{{Article principal|Català}}
+La llengua pròpia de Catalunya és el [[català]], excepte a la [[Vall d'Aran]] on ho és l'[[aranès]]. Tant el català com el [[castellà]], llengua oficial de l'[[Espanya|Estat espanyol]], són oficials en tot el territori. L'[[llengua occitana|occità]], denominat [[aranès]] a la [[Vall d'Aran]], és també oficial a Catalunya. Segons les dades de l'[[Institut d'Estadística de Catalunya]], el 36% dels catalans utilitza el català com a llengua habitual, el 46% el castellà, 12% ambdues i el 0,03% l'aranès. El 6% de la població resident de la comunitat utilitza habitualment altres llengües.<ref>{{citar web
+ | url = http://www.idescat.cat/dequavi/Dequavi?TC=444&V0=15&V1=2
+ | títol = Usos lingüístics. Llengua inicial, d'identificació i habitual
+ | consulta = 12 juliol 2009
+ | obra = Anuari estadístic de Catalunya 
+ | editor = Idescat
+ | data =2008
+}}</ref>
+
+==== Coneixement del català ====
+Segons dades del 2007,<ref>[http://www20.gencat.cat/portal/site/Llengcat/menuitem.b318de7236aed0e7a129d410b0c0e1a0/?vgnextoid=13d54e17d7993210VgnVCM1000008d0c1e0aRCRD&vgnextchannel=13d54e17d7993210VgnVCM1000008d0c1e0aRCRD&vgnextfmt=default Dades oficials de la Secretaria de Política Lingüística]</ref> el 93,8% de la població de Catalunya coneix el català, tot i que el 31,6% la tenen com a llengua inicial i el 37,2% com a llengua d'identificació.<ref>{{format ref}} http://www20.gencat.cat/portal/site/Llengcat/menuitem.b318de7236aed0e7a129d410b0c0e1a0/?vgnextoid=d5349cede4c43210VgnVCM1000008d0c1e0aRCRD&vgnextchannel=d5349cede4c43210VgnVCM1000008d0c1e0aRCRD&vgnextfmt=default Estadística d'usos Lingüístics a Catalunya</ref> La taula següent mostra el coneixement i ús del català a Catalunya:
+
+{| align=left border=1 cellpadding=2 cellspacing=0 style="margin: 0 0 0 0; background: #ffffff; border: 1px #aaaaaa solid; border-collapse: collapse; text-align:center; font-size: 95%;"
+! style="background:#efefef;" colspan=3 | Català
+|-
+! style="background:#efefef;" | Coneixement
+! style="background:#efefef;" | Persones
+! style="background:#efefef;" | Percentatge
+|-
+! style="background:#efefef;" | L'entén
+| 6.610.202
+| 93,8%
+|-
+! style="background:#efefef;" | El sap parlar
+| 5.331.000
+| 75,6%
+|-
+! style="background:#efefef;" | El sap llegir
+| 5.143.100
+| 73,0%
+|-
+! style="background:#efefef;" | El sap escriure
+| 3.967.500
+| 56,3%
+|-
+! style="background:#efefef;" | Població total major de 2 anys
+| 7.049.900
+| 100%
+|}
+<br clear=all>
+
+==== Coneixement del castellà ====
+Segons dades oficials de 2008 publicats a la web de l'Institut d'Estadística de Catalunya, el castellà és la llengua més parlada de Catalunya, on supera el català tant com a llengua materna,<ref>[http://www.idescat.cat/territ/BasicTerr?TC=5&V0=3&V1=3&V3=3313&V4=3314&ALLINFO=TRUE&PARENT=25&CTX=B]</ref> d'identificació<ref>[http://www.idescat.cat/territ/BasicTerr?TC=5&V0=3&V1=3&V3=3319&V4=3320&ALLINFO=TRUE&PARENT=25&CTX=B]</ref> i habitual.<ref>[http://www.idescat.cat/territ/BasicTerr?TC=5&V0=3&V1=3&V3=3325&V4=3326&ALLINFO=TRUE&PARENT=25&CTX=B]</ref>
+
+{| align=left border=1 cellpadding=2 cellspacing=0 style="margin: 0 0 0 0; background: #ffffff; border: 1px #aaaaaa solid; border-collapse: collapse; text-align:center; font-size: 95%;"
+! style="background:#efefef;" colspan=3 | Castellà
+|-
+! style="background:#efefef;" | Coneixement
+! style="background:#efefef;" | Persones
+! style="background:#efefef;" | Percentatge
+|-
+! style="background:#efefef;" | L'entén
+| 6.973.500
+| 99,0%
+|-
+! style="background:#efefef;" | El sap parlar
+| 6.793.900
+| 96,4%
+|-
+! style="background:#efefef;" | El sap llegir
+| 6.440.300	
+| 91,4%
+|-
+! style="background:#efefef;" | El sap escriure
+| 6.258.200
+| 88,8%
+|-
+! style="background:#efefef;" | Població total major de 2 anys
+| 7.049.900
+| 100%
+|}
+<br clear=all>
+
+Font: Idescat. Enquesta demogràfica <ref>{{format ref}} http://www.idescat.cat/territ/BasicTerr?TC=5&V0=3&V1=3&V3=2523&V4=2568&ALLINFO=TRUE&PARENT=1&CTX=B</ref>
+
+==== Coneixement de l'occità aranès ====
+La taula següent mostra les dades sobre el nivell de coneixement de l'occità aranès a la [[Vall d'Aran]] (a l'any [[2001]]). Els percentatges corresponen a la població total d'aquest territori i no pas a la població total de Catalunya.
+
+{| align=left border=1 cellpadding=2 cellspacing=0 style="margin: 0 0 0 0; background: #ffffff; border: 1px #aaaaaa solid; border-collapse: collapse; text-align:center; font-size: 95%;"
+! style="background:#efefef;" colspan=3 | Coneixement de l'aranès <ref>[http://www20.gencat.cat/docs/Llengcat/Documents/Altres/Arxius/aran_cens.pdf Cens lingüístic de l'aranès de 2001]</ref>
+|-
+! style="background:#efefef;" | Coneixement
+! style="background:#efefef;" | Persones
+! style="background:#efefef;" | Percentatge
+|-
+! style="background:#efefef;" | L'entén
+| 6.712
+| 88,88%
+|-
+! style="background:#efefef;" | El sap parlar
+| 4.700
+| 62,24%
+|-
+! style="background:#efefef;" | El sap llegir
+| 4.413
+| 58,44%
+|-
+! style="background:#efefef;" | El sap escriure
+| 2.016
+| 26,69%
+|}
+<br clear=all>
+
+==== Coneixement de llengües estrangeres ====
+El març del 2011 el Baròmetre de la Comunicació en col·laboració amb l'[[IEC]] feren un estudi sobre l'ús social de les llengües a Catalunya i el seu coneixement entre la població amb els següents resultats:<ref>{{citar web |url=http://www.avui.cat/noticia/article/2-societat/5-societat/391204-el-catala-mes-atractiu.html |títol=El català, més atractiu |consulta=1 d'abril de 2011 |obra= |editor=Avui |data=1 d'abril de 2011 |llengua= }}</ref>
+{| align=left border=1 cellpadding=2 cellspacing=0 style="margin: 0 0 0 0; background: #ffffff; border: 1px #aaaaaa solid; border-collapse: collapse; text-align:center; font-size: 95%;"
+|-
+! style="background:#efefef;" | Coneixement
+! style="background:#efefef;" | Català
+! style="background:#efefef;" | Castellà
+! style="background:#efefef;" | Anglès
+! style="background:#efefef;" | Francès
+! style="background:#efefef;" | Àrab
+! style="background:#efefef;" | Altres
+|-
+! style="background:#efefef;" | L'entén
+| 95,3%
+| 99,9%
+| 24,1%
+| 13,2%
+| 3,1%
+| 9,6%
+|-
+! style="background:#efefef;" | El sap parlar
+| 77,5%
+| 99,8%
+| 18,8%
+| 10,8%
+| 3,0%
+| 8,5%
+|-
+! style="background:#efefef;" | El sap escriure
+| 60,6%
+| 99,0%
+| 15,8%
+| 8,2%
+| 2,6%
+| 6,7%
+|}<br clear=all>
+
+== Cultura i oci ==
+[[Fitxer:Dalí.Perseo.JPG|thumb|Perseu de Salvador Dalí]]
+[[Fitxer:Cathedral Sagrada Familia.jpeg|thumb|La [[Sagrada Família]]]]
+=== Belles arts i arts populars ===
+{{Article principal|Art de Catalunya}}
+Catalunya ha donat al món moltes figures importants en els àmbits de la cultura. Els pintors catalans més coneguts internacionalment són [[Salvador Dalí]], [[Joan Miró]] i [[Antoni Tàpies]]. Molt enllaçat amb l'ambient pictòric català, va ser el malagueny [[Pablo Picasso]] que va viure a Barcelona durant la seva joventut, formant-s'hi com a artista i iniciant-hi el moviment del [[cubisme]]. Altres artistes plàstics catalans són [[Ramon Casas]], [[Josep Maria Subirachs]] i [[Marià Fortuny]]. Els museus pictòrics més rellevants de Catalunya són el Teatre-Museu Dalí, el [[Museu Picasso]] de [[Barcelona]], la [[Fundació Antoni Tàpies]], la [[Fundació Joan Miró]], el [[Museu Nacional d'Art de Catalunya]] (MNAC), el [[Museu d'Art Contemporani de Barcelona]] (MACBA), el [[Centre de Cultura Contemporània de Barcelona]] (CCCB) i el [[CaixaFòrum]]. 
+
+En l'àmbit de l'arquitectura es van desenvolupar i adaptar a Catalunya els diversos estils artístics predominants a Europa, deixant petjada en les moltes esglésies, monestirs i catedrals, d'estils romànic (els millors exemples de la qual es troben a l'antiga [[Gòtia]] o [[Marca Hispànica]]) i gòtic (els millors exemples de la qual es troben a les ciutats i a la Catalunya Nova). Altres exemples són l'arquitectura renaixentista, barroca i neoclàssica. El [[modernisme]], a la fi del [[segle XIX]] es presenta com l'art nacional, en especial en les arts decoratives. Els arquitectes catalans de renom mundial d'aquest estil són [[Antoni Gaudí]], [[Lluís Domènech i Montaner]] i [[Josep Puig i Cadafalch]]. En l'àmbit del racionalisme arquitectònic, destacaren [[Josep Lluís Sert]], [[Torres Clavé]], i altres. Més recentment, destaquen els urbanistes [[Josep A. Coderch]] i [[Ricard Bofill Levi|Ricard Bofill]] entre molts altres. 
+
+En la [[literatura]], destaquen dos moments històrics d'esplendor de les lletres catalanes. El primer comença amb les cròniques historiogràfiques dels [[segle XIII|segles XIII]] i [[segle XIV|XIV]] contemporànies a les novel·les cavalleresques del [[País Valencià|valencià]] [[Joanot Martorell]] i la [[poesia]] del també valencià [[Ausiàs March]]. El segon moment d'esplendor va començar durant el [[segle XIX]] amb la [[Renaixença (catalana)|Renaixença]] cultural i política. Destacaren [[Jacint Verdaguer]], [[Narcís Oller]], [[Joan Maragall]] i [[Àngel Guimerà]]. Durant el [[segle XX]] es van desenvolupar el [[noucentisme]] i els [[moviments d'avantguarda]] i hi destacaren els poetes [[Josep Carner i Puig-Oriol|Josep Carner]], [[Carles Riba]] i [[J.V. Foix]]. Durant la [[Guerra civil espanyola|Guerra Civil]] i el període del [[franquisme]] destacaren [[Josep Pla i Casadevall|Josep Pla]], [[Mercè Rodoreda]] i [[Salvador Espriu]].
+
+L'àmbit de la [[música]] és un dels sector més vigorosos de la indústria cultural catalana, pel nombre d'activitats i esdeveniments musicals així com per la xarxa de recintes musicals, productores, compositors, intèrprets i grups de diferents gèneres que van néixer a Catalunya. Entre els compositors de música culta catalana més hom pot citar el [[violoncel·lista]] [[Pau Casals]], la [[piano|pianista]] [[Alícia de Larrocha]] i el [[violí|violinista]] de gamba i [[musicologia|musicòleg]] [[Jordi Savall]]. Entre els cantants d'[[òpera]] destaquen [[Victòria dels Àngels]], [[Montserrat Caballé]], [[Jaume Aragall]] i [[Josep Carreras]].
+
+Entre els [[cantautor]]s de música popular en llengua catalana destaquen els artistes del moviment de la [[Nova Cançó]], com ara [[Lluís Llach]], [[Joan Manuel Serrat]], [[Maria del Mar Bonet]] i [[Francesc Pi de la Serra]]; en [[castellà]] van destacar Serrat, [[Luis Eduardo Aute]] i [[Manolo García]]. En el [[jazz]] destaca [[Tete Montoliu]], i en el [[rock]] [[Companyia Elèctrica Dharma]] [[El Último de la Fila]], [[Sopa de Cabra]], [[Els Pets]] i amb un estil més [[Música Pop|pop]], [[Gossos]]. La música electrònica, experimental i independent s'ha vist beneficiada amb la celebració de festivals com ara [[LEM]], el [[Sònar]] o el [[Primavera Sound]].
+
+=== Costums i tradicions ===
+[[Fitxer:3d10 fm de vilafranca.jpg|thumb|200px|Tres de deu amb folre i manilles dels [[Castellers de Vilafranca]]]]
+La [[sardana]] es considera la [[dansa]] nacional de Catalunya. És una dansa de grup que es balla en rotllana, on els balladors s'agafen de les mans, si és possible home-dona-home-dona... mirant tots al centre de la rotllana. S'acompanya amb el so dels instruments de vent de la cobla. El [[ball de bastons]] i la [[jota]] de les Terres de l'Ebre també són danses populars catalanes, així com les [[cantada d'havanera|cantades d'havaneres]], pròpies de la costa. 
+
+Una manifestació molt rellevant i molt coneguda internacionalment és l'aixecament de [[casteller|castells]] (torres humanes), tradició original del Camp de [[Tarragona]], i que s'ha estès a altres regions de Catalunya. Els participants rivalitzen per formar-ne es més alts i de millor estructura, coronats amb l'[[enxaneta]], un nen o nena que aixeca el [[braç]]. 
+
+El [[23 d'abril]], se celebra [[Sant Jordi]], patró de Catalunya. Aquesta festa se celebra amb la tradició de regalar [[rosa|roses]] i [[llibre]]s als familiars i amics.
+
+El [[23 de juny]], vigília del dia de Sant Joan, se celebra la revetlla de San Joan. La tradició antiga popular inclou cremar fogueres per a allunyar els [[dimoni]]s, les malalties i altres desgràcies; es menja [[coca (pastís)|coca]] i es beu [[Cava (beguda)|cava]].
+
+El [[28 de juliol]] del [[2010]], Catalunya va aprovar una [[ILP per a l'abolició de les corrides de toros a Catalunya|llei per abolir les curses de braus]]. Aquesta nova llei, que serà efectiva a partir de l'[[1 de gener]] de l'any [[2012]], va partir d'una [[ILP|Iniciativa Legislativa Popular]] en la què van firmar unes 180,000 persones.<ref>[http://www.cronica.cat/noticia/Catalunya_diu_adeu_a_les_corrides_de_toros Catalunya diu adéu a les corrides de toros]</ref><ref>[http://avui.elpunt.cat/noticia/article/3-politica/17-politica/200585-catalunya-prohibeix-les-corrides-de-toros-a-partir-del-2012.html Catalunya prohibeix les corrides de toros a partir del 2012]</ref>
+
+=== Esports ===
+{{AP|Esport a Catalunya}}
+[[Fitxer:Barcelona 296.JPG|thumb|Estadi [[Camp Nou]]]]
+Catalunya és un país amb gran tradició esportiva, especialment des de finals del [[segle XX]], data en què s'hi van fundar els grans clubs en tots els àmbits que, en alguns casos, van ser els primers a fundar-se d'[[Espanya]]. Els esports més populars són el [[futbol]], el [[bàsquet]], el [[tennis]], l'[[hoquei]] i d'altres. Cal esmentar també l'afició per l'[[esquí]], i les nombroses estacions d'esquí situades als Pirineus catalans. 
+
+Els clubs de futbol més importants de Catalunya són el [[Futbol Club Barcelona]] i el [[RCD Espanyol]], ambdós de Barcelona, que jugen a la primera divisió del [[futbol espanyol]]. Altre equip important és el [[Gimnàstic de Tarragona]], de la segona divisió. El FCB ha guanyat 21 vegades el títol de campió de la [[Lliga Espanyola]] i quatre vegades la [[Lliga de Campions]], a més d'altres títols importants. Destaca la consecució en una mateixa temporada (2008-09) dels sis títols possibles ([[Liga BBVA]],[[Copa del Rei de futbol|Copa del Rei]], [[Lliga de Campions]], [[Supercopa d'Espanya]], [[Supercopa d'Europa]] i [[Mundial de Clubs de la FIFA]] per part del [[Barça]], estant el primer equip de la història que ho aconsegueix.
+
+Catalunya ha organitzat dos dels esdeveniments esportius internacionals més importants: els [[Jocs Olímpics]] d'estiu, i sent-ne l'única seu espanyola a fer-ho, el [[1992]], els [[Jocs Mediterranis]] de [[1955]], els campionats del món d'[[atletisme]] i [[natació]], i l'[[Eurobasket]]. Catalunya va ser seu local per a la [[Copa del Món de Futbol]] d'[[Espanya]] el [[1982]]. S'hi celebren també el ''Gran Premio de España'' de [[Fórmula 1]], i el [[Gran Premi d'Espanya de Fórmula 1|Gran Premi de Catalunya]] de MotoGP en el Circuit de Catalunya de Montmeló; així com el Ral·li Costa Brava.
+
+Dotze federacions esportives catalanes són oficialment reconegudes per les federacions internacionals. Aquestes federacions compten amb seleccions en catorze disciplines, cap d'elles olímpica, que participen a nivell internacional de manera oficial, representant Catalunya. Les catorze seleccions catalanes són de [[futbol sala]], [[corfbol]], [[pitch & putt]], [[futbol australià]], [[fisicoculturisme]], [[taekwondo]], [[twirling]], [[kickboxing]], [[karate]], [[icestock]], [[raquetball]], [[cursa de muntanya]], [[esquí de muntanya]] i [[escalada]].
+
+=== Ciència i tecnologia ===
+La recerca científica i tecnològica ha estat un dels pilars del desenvolupament econòmic i industrial de Catalunya. Alguns dels científics més cèlebres de Catalunya són [[Narcís Monturiol]], l'[[astronomia|astrònom]] [[Josep Comas i Solà]], el [[clima|climatòleg]] [[Eduard Fontserè]] i el [[bioquímic]] [[Joan Oró]]. En la recerca científica econòmica destaca [[Andreu Mas-Colell]]. 
+
+Actualment tant el govern com les empreses privades estan realitzant grans inversions econòmiques per a potenciar les recerques científiques i tecnològiques, no només dels centres [[universitat|universitaris]] ans també en les institucions de recerca privades. Destaca en aquest cas el Consell Superior d'Investigacions Científiques de Catalunya.
+
+== Història ==
+{{Article principal|Història de Catalunya}}
+La història de Catalunya, tant al nord com al sud dels [[Pirineus]] es pot dividir en les següents etapes:
+* [[Formació geològica de Catalunya]]
+* [[Prehistòria a Catalunya]]
+* [[Període iber a Catalunya]]
+* [[Període romà a Catalunya]]
+* [[Període visigot a Catalunya]]
+* [[Edat mitjana de Catalunya]]
+* [[Edat moderna de Catalunya]]
+* [[Història contemporània de Catalunya]]
+* [[Segle XX a Catalunya]]
+
+[[Fitxer:1714-defenderse cataluña por el rey y por la patria.jpg|thumb|250px|right|El [[1714]] la radicalització política catalana accentuà els plantejaments [[Republicanisme|republicans]]. L'opúscle [http://books.google.cat/books?id=_snwzlQro4sC&printsec=frontcover&source=gbs_atb#v=onepage&q&f=false ''Lealthad Catalana''] publicat el [[1714]] sostenía que a la [[Nació]] només la representen [[Corts Catalanes|les Corts]], soles, com a reunió dels [[Braç|tres braços]], sense la necessària presència del rei: «''Solo las resoluciones que se toman en cortes de un reyno o provincia son las que se atribuyen a la ''[[nació|Nación]]'' [...], que sólo se representa en sus braços unidos. Toda la'' '''Nación Cathalana''', ''junta en sus Braços, resolvió el defenderse por el rey, en cuyo dominio estava [...]''» <ref>Fontana (2004: 20).</ref>]]
+El territori que ocupa Catalunya fou conquerit per l'[[imperi Romà]] el [[218 aC]] i formà part de la província [[Tarraconense]]; al [[segle V]] la Tarraconense fou conquerida pels gots i formà part del [[Regne de Toledo]]. Els 712 els [[musulmà|musulmans]] derrotaren els gots i ocuparen la Tarraconense, però a finals d'aquell mateix segle en foren expulsats de la part nord pels francs amb el suport de [[Carlemany]].<ref name="Ramon">{{Ref-llibre |cognom= Abadal i de Vinyals|nom= Ramon |enllaçautor= Ramon d'Abadal i de Vinyals |capítol= |urlcapítol= |editor= |títol= Catalunya carolíngia |url= |format= |consulta= |llengua= |edició= |editorial= Institut d'Estudis Catalans |lloc= |data= |any= 1926-55 |mes= |pàgines= |col·lecció= |isbn= |oclc= |doi= |id= |citació= |ref= }}</ref><ref name=encartaesp>[http://es.encarta.msn.com/encyclopedia_761556976_4/Catalunya_Catalu%C3%B1a.html#s13 Cataluña]. 6. Historia. MSN Encarta en español. [Consulta: 27 de setembre de 2009]</ref> La [[Gòtia]] franca fou organitzada en comtats, que a l'extinció de la dinastia carolíngia no renovaren el vassallatge a la nova dinastia reial franca. El [[comte de Barcelona]] va fer-se amb el control de diversos comtats i el [[1137]] es casà amb [[Peronella d'Aragó|Peronella]], filla del rei d'Aragó, constituint una unió dinàstica entre ambdós llinatges. [[Alfons el Cast]], el primer en ser rei d'Aragó i comte de Barcelona, unificà políticament l'heterogeni grup de [[comtats catalans]] que estaven sota la jurisdicció mitjançant tres documents de caràcter legislatiu, jurídic i cultural: els ''[[Usatici Barchinonae]]'' (Usatges de Barcelona), el ''[[Liber feudorum maior|Liber domini regis]]'' (Llibre del domini del rei), i la ''[[Gesta Comitum Barchinonensium]]'' (Gestes dels comtes de Barcelona), documents que configuraren Catalunya com un estat medieval<ref name="SESMA02">[[#SESMA-2000|Sesma 2000]], pàg. 14</ref> amb un corpus legislatiu i judicial unificat, uns referents culturals comuns, i unes fronteres que foren definides com «la terra que va des de Salses fins a Tortosa i Lleida» («''de Salsis usque Dertusam et Ilerdam cum suis finibus''»).<ref name="SESMA">[[#SESMA-2000|Sesma 2000]], pàg. 60</ref> Administrativament Catalunya fou articulada mitjançant una estructura jurisdiccional d'àmbit territorial, les [[vegueries]],<ref name="SESMA01">[[#SESMA-2000|Sesma 2000]], pàg. 62</ref> al capdavant de les quals hi havia un representant de l'autoritat reial, el veguer. La fundació de Catalunya com a estat es veu representada per l'aparició del terme ''Cathalonia'' en la documentació legal de la cancelleria del [[rei d'Aragó]],<ref name="SESMA"/> que passà de tenir la mera i vaga accepció geogràfica anterior a esdevenir la denominació oficial d'un espai polític i ètnic definit. 
+
+El [[1319]] el rei [[Jaume el Just]] consagrà la «Unió» indissoluble d'Aragó, València i Catalunya, transformant la unió dinàstica en una potent federació d'estats<ref name="HINOJOSA-2006">[[#HINOJOSA-2006|Hinojosa 2006]], pp. 268-269 {{cita|El impulso decisivo vino de la mano de Jaime II, que con gran habilidad transformó la unión dinàstica en una federación de Estados, todavía imperfecta, pero de gran efectividad, sobre todo cara a la proyección mediterránea de la Corona, utilizando para ello las Cortes particulares de cada Estado, delimitando las fronteras entre ellos, y dotándolos de administraciones y gobiernos similares, aunque conservando sus particularidades fiscales, monetarias o judiciales. Como señaló E. Sarasa (La Corona de Aragón en la Edad Media, Zaragoza, 2001) "la dualidad monarquía común y diversidad territorial parece que fue la clave del éxito de la Corona de Aragón como realidad histórica, al margen de las denominaciones aplicadas por algunos autores (Imperio catalano-aragonés, Confederación catalano-aragonesa, Condes-Reyes, etc.)". En tiempos de Jaime II "Corona de Aragón" (Corona Aragonie) era la denominación habitual para el dominio real. La monarquía cohesionaría la actuación exterior de los tres Estados, cuyos objetivos eran similares, pero siempre tratando de equilibrar las fuerzas centrales y las periféricas; de modo que para fortalecer el conjunto, Jaime II promovió en la Cortes de Tarragona -en 1319- el Privilegio de Unión, proclamando la indivisibilidd de los tres Estados que integraban la Corona de Aragón, y en el juramento real se introdujo la fórmula de mantener íntegra y unida la Corona. En definitiva, La Corona de Aragón era la Corona del rey. No olvidemos, por lo demás, que la Corona de Aragón no fue sólo una construcción política, sinó también una potencia mercantil, marítima y cultural de primer orden en el Mediterráneo, cuyo éxito se basó en el papel de la monarquía como institución indiscutible y aglutinadora, posición que se afirmó en el tránsito de los siglos XIII y XIV, precisamenet durante el reinado del rey Justo.|Hinojosa Montalvo, José; Jaime II y el esplendor de la Corona de Aragón; pp. 268-269}}</ref> anomenada [[Corona d'Aragó]]<ref>''Cfr.'' [http://www.seacex.es/Spanish/Publicaciones/126/corona_aragon_08_03_expan.pdf «La expansión: el Casal d'Aragó (1213-1412) / L'expansió: el Casal d'Aragó (1213-1412)»], en [[Ernest Belenguer]], Felipe V. Garín Llombart y Carmen Morte García, ''La Corona de Aragón. El poder y la imagen de la Edad Media a la Edad Moderna (siglos XII - XVIII)'', Sociedad Estatal para la Acción Cultural Exterior (SEACEX), Generalitat Valenciana y Ministerio de Cultura de España - Lunwerg, 2006. ISBN 84-9785-261-3: {{Cita|Entre los siglos XII y XIV, la documentación poco habla de Corona de Aragón y más del [[Casal d'Aragó]], si bien la expresión de Corona de Aragón ya se observa con Jaime el Justo, prevaleciendo así el título jerárquico del reino por delante del de condado y principado.|Belenguer, Garín Llombart y Carmen Morte, «La expansión: el Casal d'Aragó (1213-1412) / L'expansió: el Casal d'Aragó (1213-1412)», ''op. cit''. 2006.}}</ref><ref>{{Ref-llibre |cognom= Coll i Alentorn|nom= Miquel |enllaçautor= Miquel Coll i Alentorn |capítol= |urlcapítol= |editor= |títol= Història |url= |format= |consulta= |llengua= |edició= |editorial= Publicacions de l'Abadia de Montserrat |lloc= |data= |any= 1992 |mes= |pàgines= |col•lecció= |isbn= 978-84-321-1882-1 |oclc= |doi= |id= |citació= |ref= }}</ref> respectant les singularitats de cada territori i desenvolupant-hi una estructura política equivalent i similar entre sí: [[Corts Catalanes|Parlaments]], [[Generalitat]]s i [[Constitucions|sistema constitucional]].<ref name="SESMA"/> La unió dinàstica del [[Casal d'Aragó]] amb la [[Dinastia Trastàmara]] i la [[Dinastia dels Habsburg]] no alterà el sistema constitucional dels estats de la Corona d'Aragó. El [[1640]] el projecte centralista del comte duc d'Olivares desencadenà la [[Guerra dels Segadors]], que acabà ocasionant la separació del [[regne de Portugal]] i pèrdua per cessió al [[Regne de França]] dels [[Governació dels comtats de Rosselló i Cerdanya|Comtats de Rosselló i Cerdanya]].<ref name="smae">{{fr}} [http://www.smae.diplomatie.gouv.fr/choiseul/ressource/pdf/D16590001.pdf Text complet del Tractat dels Pirineus] transcripció dels arxius nacionals de França (en [[PDF]])</ref> L'entronització de la [[Dinastia borbònica]] desencadenà la [[Guerra de Successió Espanyola]]<ref>{{Ref-llibre |cognom= Hernàndez Cardona|nom= Francesc Xavier |enllaçautor= |capítol= |urlcapítol= |editor= |títol= Història militar de Catalunya. Vol III: La defensa de la terra |url= |format= |consulta= |llengua= |edició= |editorial= Rafael Dalmau, Editor |lloc= |data= |any= 2003 |mes= |pàgines= |col•lecció= |isbn= 84-232-0664-5 |oclc= |doi= |id= |citació= |ref= }}</ref> a nivell europeu i el [[1705]] la vulneració del [[Pactisme|sistema constitucional català]] desencadenà un aixecament que convertí el conflicte en una guerra interna entre els estats de la [[Monarquia Catòlica]]. La guerra acabà amb la cessió de estats hispànics d'Itàlia, de Flandes, de [[Menorca]] i [[Gibraltar]], i la imposició de l'[[Absolutisme|absolutisme borbònic]] amb els [[Decrets de Nova Planta]].  
+
+El col·lapse de l'[[Antic règim|Antic règim absolutista]] al llarg del [[segle XIX]] i l'establiment de [[Construcció de l'estat liberal a Espanya|règims lliberals]] no suposà la recuperació del sistema constitucional propi de Catalunya i dels altres estats de la Corona d'Aragó, sinó que consagraren el [[Regne d'Espanya]] com un règim polític centralitzat. Al llarg del [[segle XX]] s'assajaren diferents mètodes de descentralització administrativa com la [[Mancomunitat de Catalunya]] o la [[Generalitat republicana]], però no fou fins a la promulgació de la [[Constitució Espanyola de 1978]] i l'aprovació de l'[[Estatut d'Autonomia de Catalunya de 1979|Estatut d'Autonomia]] quan es consolidà l'actual sistema espanyol de delegació político-administrativa en les comunitats autònomes. L'[[Estatut d'Autonomia de Catalunya de 2006]] estatueix en el seu preàmbul que «el Parlament de Catalunya, recollint el sentiment i la voluntat de la ciutadania de Catalunya, ha definit Catalunya com a [[nació]]», tot i que la vigent [[Constitució Espanyola de 1978|Constitució espanyola]] limita el reconeixement de la realitat nacional de Catalunya al d'una [[nacionalitat històrica]].<ref name="gencat">[http://www.gencat.net/generalitat/cat/estatut/preambul.htm Preàmbul de l'Estatut d'Autonomia de Catalunya]</ref>
+
+== Notes i referències ==
+{{referències|2}}
+
+== Bibliografia ==
+* {{Ref-llibre |ref= SESMA-2000 |cognom= Sesma Muñoz |nom=José Angel |enllaçautor= José Ángel Sesma Muñoz |títol=La Corona de Aragón. Una introducción crítica |editorial= Caja de la Inmaculada |lloc=Zaragoza |col·lecció= Colección Mariano de Pano y Ruata - Dir. Guillermo Fatás Cabeza |data= '''2000''' |isbn= 84-95036-80-8}}
+* {{Ref-llibre  | ref =HINOJOSA-2006 |cognom=Hinojosa Montalvo |nom= José |enllaçautor=  | capítol = Jaime II y las instituciones  | títol =  Jaime II y el esplendor de la Corona de Aragón | url=  |urlcapítol= http://books.google.cat/books?id=jbwoP1unhg0C&lpg=PP1&ots=rz2a8ZWtYt&dq=jose%20hinojosa%20montalvo&hl=ca&pg=PA268#v=onepage&q&f=false | edició = | editorial = Editorial NEREA | isbn = 8489569991 | data = '''2006''' }}
+
+== Vegeu també ==
+{{Portal de Catalunya}}
+{{Portal Historia Militar de Catalunya}}
+* [[Catalunya Nord]]
+* [[Fauna de Catalunya]]
+* [[Vegetació de Catalunya]]
+{{-}}
+
+== Enllaços externs ==
+{{Projectes germans 
+|Commons={{PAGENAME}}
+|Viccionari={{PAGENAME}}
+|Viquidites={{PAGENAME}}
+|Viquiespècies= 
+|Viquillibres= 
+|Viquinotícies=Categoria:{{PAGENAME}}
+|Viquitexts= 
+|Viquiversitat= 
+}}
+* [http://www.gencat.cat/ Pàgina de la Generalitat de Catalunya]
+* [http://www.idescat.cat/ Institut d'Estadística de Catalunya] Informació estadística detallada de Catalunya
+* [http://1911encyclopedia.org/Catalonia Catalonia] a la Classic Encyclopedia, basada a l'edició de l'Encyclopaedia Britannica de 1911
+* [http://www.atlesnacional.cat/icc/atles-nacional/ Atles Nacional de Catalunya]
+
+{{Patrimoni de la Humanitat als Països Catalans}}
+{{Patrimoni Cultural Immaterial de la Humanitat als Països Catalans}}
+{{Comarques de Catalunya}}
+{{Països Catalans}}
+{{CCAA d'Espanya}}
+
+[[Categoria:Catalunya| ]]
+
+[[af:Katalonië]]
+[[als:Katalonien]]
+[[an:Catalunya]]
+[[ar:منطقة كتالونيا ذاتية الحكم]]
+[[arc:ܩܛܠܘܢܝܐ]]
+[[arz:كاتالونيا]]
+[[ast:Cataluña]]
+[[az:Kataloniya]]
+[[ba:Каталония]]
+[[be:Каталонія]]
+[[be-x-old:Каталёнія]]
+[[bg:Каталония]]
+[[bn:কাতালোনিয়া]]
+[[br:Katalonia]]
+[[bs:Katalonija]]
+[[co:Catalunia]]
+[[cs:Katalánsko]]
+[[cy:Catalonia]]
+[[da:Catalonien]]
+[[de:Katalonien]]
+[[diq:Katalonya]]
+[[el:Καταλονία]]
+[[en:Catalonia]]
+[[eo:Katalunio]]
+[[es:Cataluña]]
+[[et:Kataloonia]]
+[[eu:Katalunia]]
+[[ext:Cataluña]]
+[[fa:کاتالونیا]]
+[[fi:Katalonia]]
+[[fr:Catalogne]]
+[[frp:Comunôtât ôtonoma de Catalogne]]
+[[fy:Kataloanje]]
+[[ga:An Chatalóin]]
+[[gd:Catalòinia]]
+[[gl:Cataluña - Catalunya]]
+[[gv:Yn Chataloan]]
+[[he:קטלוניה]]
+[[hr:Katalonija]]
+[[hsb:Katalanska]]
+[[hu:Katalónia]]
+[[hy:Կատալոնիա]]
+[[ia:Catalonia]]
+[[id:Catalunya]]
+[[io:Katalunia]]
+[[is:Katalónía]]
+[[it:Catalogna]]
+[[ja:カタルーニャ州]]
+[[jv:Catalunya]]
+[[ka:კატალონია]]
+[[ko:카탈루냐 지방]]
+[[krc:Каталония]]
+[[ku:Katalonya]]
+[[kw:Kataloni]]
+[[ky:Каталония]]
+[[la:Catalaunia]]
+[[lad:Katalunya]]
+[[lb:Katalounien]]
+[[lij:Catalogna]]
+[[lmo:Catalògna]]
+[[lt:Katalonija]]
+[[lv:Katalonija]]
+[[mi:Catalonia]]
+[[mk:Каталонија]]
+[[mr:कातालोनिया]]
+[[ms:Catalonia]]
+[[mzn:کاتالونون]]
+[[nah:Catalania]]
+[[nl:Catalonië]]
+[[nn:Catalonia]]
+[[no:Catalonia]]
+[[nov:Katalunia]]
+[[oc:Catalonha (comunautat autonòma)]]
+[[os:Каталони]]
+[[pam:Catalonia]]
+[[pl:Katalonia]]
+[[pms:Catalògna (comunità autònoma)]]
+[[pnb:کیتلونیا]]
+[[pt:Catalunha]]
+[[qu:Katalunya]]
+[[ro:Catalonia]]
+[[roa-rup:Catalunya]]
+[[roa-tara:Catalogna]]
+[[ru:Каталония]]
+[[sc:Catalogna]]
+[[scn:Catalugna]]
+[[sco:Catalonie]]
+[[sh:Katalonija]]
+[[simple:Catalonia]]
+[[sk:Katalánsko]]
+[[sl:Katalonija]]
+[[sq:Katalonia]]
+[[sr:Каталонија]]
+[[stq:Katalonien]]
+[[sv:Katalonien]]
+[[szl:Katalůńijo]]
+[[ta:காத்தலோனியா]]
+[[th:แคว้นคาเทโลเนีย]]
+[[tl:Catalunya]]
+[[tr:Katalonya]]
+[[tt:Каталония]]
+[[ty:Tatarūnia]]
+[[uk:Каталонія]]
+[[vec:Catełogna]]
+[[vi:Catalonia]]
+[[vls:Catalonië]]
+[[war:Cataluña]]
+[[wuu:加泰罗尼亚]]
+[[zh:加泰罗尼亚]]
+[[zh-min-nan:Catalunya]]

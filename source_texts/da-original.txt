@@ -1,0 +1,669 @@
+{{Infoboks land2
+| konventionelt_lang_navn		= Kongeriget Danmark 
+| almindeligt_navn			= Danmark 
+| billede_flag 				= Flag of Denmark.svg
+| billede_våbenskjold			= National Coat of arms of Denmark.svg
+| symbol_type_artikel			= Danmarks rigsvåben
+| symbol_type				= Rigsvåben
+| nationalt_motto			= Intet.<br />(Dronningens [[valgsprog]]: ''Guds hjælp, Folkets kærlighed, Danmarks styrke'')
+| billede_kort 				= EU-Denmark.svg
+| kort_tekst 				= {{korttekst|placering_farve=mørkegrøn|region=[[Europa]]|region_farve=mørkegrå|underregion=EU|underregion_farve=lysegrøn|forklaring=EU-Denmark.svg}}
+| nationalmelodi 			= ''[[Der er et yndigt land]]''
+| kongesang 				= ''[[Kong Christian stod ved højen Mast|Kong Christian]]''
+| officielle_sprog 			= [[Rigsdansk|Dansk]]<sup>1</sup>
+| etnicitet 				= 90,5% [[danskere]], 9,5% andre)<ref name="DSTimm">{{kilde www |url=http://www.dst.dk/HomeUK/Statistics/focus_on/focus_on_show.aspx?sci=565 |titel=Statistics Denmark - Immigrants and their descendants and foreign nationals |udgiver=Dst.dk |dato=[[8. december]] [[2009]] |besøgsdato=[[8. december]] [[2009]]}}</ref>
+| demonym 				= Dansk eller [[Danskere|dansker]]/danskere
+| hovedstad 				= [[København]] (se [[Danmarks hovedstæder]])
+| bredde_d=55 |bredde_m=43 |bredde_ns=N |længde_d=12 |længde_m=34 |længde_øv=E
+| største_by 				= hovedstad
+| uafhængighedsform 	´		= 
+| etableret_begivenhed1 		= [[Statsdannelse]] 
+| etableret_dato1			= I forhistorisk tid 
+| regeringsform 			= [[Parlamentarisme|Parlamentarisk demokrati]] og [[konstitutionelt monarki]]
+| leder_titel1 				= [[Kongerækken|Monark]]
+| leder_titel2 				= [[Statsministre fra Danmark|Statsminister]] 
+| leder_titel3 				= [[Folketinget#Folketingets formænd|Folketingets formand]]
+| leder_navn1 				= [[Margrethe 2.|Dronning Margrethe II]]
+| leder_navn2 				= [[Helle Thorning-Schmidt]]
+| leder_navn3				= [[Mogens Lykketoft]]
+| leder_titel5 				= [[Folketingsvalget 2011|Nuværende regering]]
+| leder_navn5 				= [[Regeringen Helle Thorning-Schmidt]]
+| optagetEUdato 			= [[1. januar]] [[1973]] (7.)
+| areal 				= 43.098,31
+| areal_placering 			= 134²
+| areal_størrelse 			= 1 E10
+| procent_vand 				= 1,6²
+| befolkningstal_anslået 		= 5.566.856 <ref>{{cite web|title=Folketal 1. januar, 1. april, 1. juli og 1. oktober|url=http://www.dst.dk/Statistik/nogletal/seneste/Befolkning/Folketal.aspx|publisher=Danmarks Statistik|accessdate=22. oktober 2011|date=1. juli 2011}}</ref>
+| befolkningstal_anslået_år		= [[1. juli]] [[2011]]
+| befolkningstal_anslået_placering 	= 111
+| befolkningstæthed 			= 126,1
+| befolkningstæthed_placering 		= 62
+| BNP_KKP_år 				= 2010
+| BNP_KKP 				= 201,7 [[Milliard|mia.]] [[amerikanske dollar|USD]]<ref name=autogeneret1>[https://www.cia.gov/library/publications/the-world-factbook/geos/da.html CIA - The World Factbook<!-- Bot genereret titel -->]</ref>
+| BNP_KKP_placering 			= 53
+| BNP_KKP_pr._indbygger 		= 36.600 [[amerikanske dollar|USD]]<ref name=autogeneret1 /><ref name=imf2/>
+| BNP_KKP_pr._indbygger_placering 	= 28
+| BNP_nominelt 				= 310,8 [[Milliard|mia.]] [[amerikanske dollar|USD]]<ref name=autogeneret1 /><ref name=imf2/>
+| BNP_nominelt_placering 		= 27
+| BNP_nominelt_år 			= 2010
+| BNP_nominelt_pr._indbygger 		= 62.097 [[amerikanske dollar|USD]]<ref name=imf2/>
+| BNP_nominelt_pr._indbygger_placering 	= 5
+| Gini 					= 21,7
+| Gini_år 				= 2008
+| Gini_placering 			= 1
+| Gini_kategori 			= <span style="color:#090;">lav</span>
+| HDI_år				= 2007
+| HDI 					= {{stigning}} 0,955<ref>{{kilde www |url=http://hdr.undp.org/en/media/HDR_2009_EN_Complete.pdf |titel=Human Development Report 2009. |udgiver=FN |besøgsdato=[[5. oktober]] [[2009]]}}</ref>
+| HDI_placering 			= 16
+| HDI_kategori 				= <span style="color:#090;">meget&nbsp;høj</span>
+| valuta 				= [[Danske kroner|Dansk krone]] 
+| valutakode 				= DKK 
+| tidszone 				= [[CET]]²
+| utc_forskel 				= +1 
+| tidszone_sommertid 			= [[CEST]]² 
+| utc_forskel_sommertid 		= +2 
+| kører_på				= højre
+| internetdomæne			= [[.dk]]<sup>2,3</sup>
+| telefonkode 				= 45 
+| kendingsbogstaver (bil)               = '''DK'''
+| luftfartøjsregistreringskode          = '''OY'''<br />helikoptere '''OY-H''' 
+| fodnote1				= På [[Grønland]] [[grønlandsk (sprog)|grønlandsk]] og dansk; på [[Færøerne]] [[Færøsk (sprog)|færøsk]] og dansk. [[Tysk (sprog)|Tysk]] er [[Den europæiske pagt om regionale sprog eller mindretalssprog|mindretalssprog]] i Sønderjylland. 
+| fodnote2				= Kun Danmark, ikke Færøerne og Grønland.
+| fodnote3				= Internetdomænet [[.eu]] er delt med andre [[EU]]-lande.
+| fodnote4				= Færøerne bruger <code>+298</code> og Grønland bruger <code>+299</code>.
+}}
+{{harflertydig}}
+'''Danmark''' (fra oldnordisk: ''Danernes mark'') er et land i [[Skandinavien]] beliggende i det nordlige [[Europa]]. Danmark kaldes sammen med [[Grønland]] og [[Færøerne]] officielt [[Kongeriget Danmark]]. Danmark grænser til [[Tyskland]] mod syd og er omgivet af flere have: [[Vesterhavet]] (Nordsøen), [[Skagerrak]] og [[Kattegat]] på vest-, nord-, og østsiden af Jylland, [[Kattegat]] og [[Østersøen]] nord og syd for de danske øer. Danmark består af halvøen [[Jylland]] og 443 navngivne øer, småøer og [[holm (ø)|holme]].
+
+De tidligste tegn på menneskelig tilstedeværelse i dagens Danmark begyndte for 100.000 år siden, selv om området først blev beboet i den [[ældre stenalder]]. Under [[vikingetiden]] og senerehen fik danskernes kontakt til omverdenen større betydning, heriblandt deltagelsen i [[Kalmarunionen]] og andre forbund. [[Renæssancen]] betød et markant skift i Danmark, da [[reformationen]] fandt sted. Den danske grundlov blev underskrevet 5. juni 1849, hvilket markerede starten på en demokratisk styreform. [[Besættelsen|Tyskland besatte Danmark]] under [[2. verdenskrig]] og ved krigens afslutning blev Danmark befriet. Herefter har landet indgået i [[NATO]] og senere EF (nu [[EU]]). Landet har haft en stor tilstrømning af indvandrere i 80'erne og 90'erne. 
+
+[[Danmarks demografi|Den danske befolkning]] er en blanding af etniske danskere og indvandrere og anslås til at være på ca. 5,5 mio indbyggere.
+
+Dansk er det officielle sprog. Danmark er et [[konstitutionelt monarki]], og statsministeren fungerer som regeringschef, mens [[Folketinget]] er den lovgivende forsamling. Landet er inddelt i [[Danmarks regioner|5 regioner]] og [[Kommuner i Danmark|98 kommuner]]. Danmark betragtes med et [[bruttonationalprodukt]] på 203.519 milliarder [[Amerikanske dollar|US$]] som et rigt land, og over halvdelen af den arbejdende befolkning er beskæftiget i servicesektoren.
+
+== Etymologi ==
+[[Fil:Runic stone Jellinge Denmark.jpg|thumb|150px|left|[[Jellingestenene|Jellingestenen]], kaldet Danmarks dåbsattest, på grund af dens inskription om [[Gorm den Gamle]], Danmarks første konge.]]
+[[Fil:Solvogn.jpg|thumb|Solvognen fra bronzealderen ca. 1350 f. Kr. er et tydeligt tegn på en religiøs og kulturel udvikling.]]
+{{uddybende|Danmarks etymologi}}
+
+Navnet ''Danmark''s oprindelse og især forholdet mellem danerne og Danmark som et samlet kongerige er kontroversielt. Debatten handler først og fremmest om hvorvidt forstavelsen "Dan-" henviser til danerne eller kong [[Kong Dan|Dan]].<ref>[http://www.nordiskisrael.dk/artikler/daner_og_jyder_dan_og_judadan.html Daner og Jyder: Dan og Juda-Dan - af Mikkel Stjernholm Kragh]</ref> Endelsen "-mark" er i mindre grad også diskutabel. Problematikken forværres pga. de utallige referencer til daner forskellige steder i Europa både hos [[Antikken|antikkens]] græske og romerske historikere (som [[Gregor af Tours]], [[Jordanes]] og [[Procopius]]) og hos [[Middelalderen|middelalderens]] (som [[Adam af Bremen]], [[Beovulfkvadet|Beowulf]], [[Widsith]] og [[Ældre Edda]])
+
+På [[norrønt]] blev folket i [[genitiv]] flertal kaldt "danir", som kan betyde noget i retning af "fladlandsbeboere". "[[Daner]]" er sandsynligvis en afledning af det [[indoeuropæisk]]e ''*dhen-'', som betyder "flade, fladt bræt".<ref>[http://www.utexas.edu/cola/centers/lrc/ielex/PokornyMaster-X.html Indo-European Lexicon, Pokorny Master PIE Etyma], side 249, Linguistics Research Center, College of Liberal Arts, The University of Texas at Austin, hentet fra Julius Pokorny: ''Indogermanisches etymologisches Wörterbuch'', Bern: Francke, 1959, 1989.</ref>
+
+"[[Markgrevskab|Mark]]" blev på [[oldhøjtysk]] og [[angelsaksisk]] brugt i betydningen "grænseland". Ordet ''Danmark'' kan altså have betydet "fladlandsbeboernes grænseland" og var muligvis afgrænset til skovene i [[Slesvig (område)|Slesvig]], altså danernes grænseland til tyskerne mod syd,<ref>Nielsen, Niels Åge (1969). "Daner", i Dansk etymologisk ordbog. Gyldendal, København.</ref> ligesom endelsen muligvis også har forbindelse til skovområder som [[Finnmark]], [[Telemark]] eller [[Ditmarsken]].<ref>Asernes æt [http://verasir.dk/show.php?file=chap5-10.html Daner, Danir, Vandfolket]</ref>
+
+Populært siges det, at ordet "Danmark" første gang nævnes på [[Jellingstenene|Jellingestenen]] omkring år 985. Danmark  (''Denamearc'') nævnes imidlertid allerede omkring år 890 af nordmanden Ottar i den [[Angelsaksiske Krønike]] [[Orosius]],<ref>Paulus Orosius (editor Henry Sweet, M.A.): [http://www.archive.org/stream/extractsfromalfr02alfruoft#page/n5/mode/2up Extracts from Alfred's Orosius], Oxford Clarendon Press, [[London]], september 1885, bind 2, side 16</ref> og senere af [[Alfred af England|Alfred den Stores]], den østfrankiske krønikeskriver [[Regino af Prüm]]<ref name="Christiansen_s119">Christiansen, side 119</ref> og [[Otto den Store|Otto I]] .<ref name="Christiansen_s119"/><ref>Niels Refskou,: ''In marca vel regno Danorum. En diplomatarisk analyse af forholdet mellem Danmark og Tyskland under Harald Blåtand'', Kirkehistoriske Samlinger, [[1985]], side 19-33</ref><ref>Niels Refskou: ''Det retlige indhold af de ottonske diplomer til de danske bispedømmer'', Scandia 52, [[1986]], side 173</ref>
+
+== Historie ==
+
+{{uddybende|Danmarks historie}}
+
+=== Forhistorie fra oldtid til vikingetid (10500 f.Kr. - 1047 e.Kr.) ===
+
+{{uddybende|Danmarks forhistorie}}
+{{uddybende|Vikingetiden|Danmarks_forhistorie#Etableringen_af_kongeriget_Danmark}}
+
+Den danske forhistorie før [[stenalder]]en hører mest til geologisk historie, for der er ikke mange tegn på mennesker,. Dog har man fundet flintestensredskaber i [[Himmerland]] og i [[Lillebælt]], som tyder på menneskelig aktivitet i området for omkring 100.000 år siden i [[Eem-mellemistiden]], hvor klimaet har svaret nogenlunde til det vi har i dag.<ref>{{Harvnb|Scocozza|Jensen|1999|p=11.}}</ref> For ca. 15.000 år siden begyndte [[indlandsis]]en at vige nordpå i forbindelse med en klimaændring.<ref name="Britannica"/> Hér levede rensdyrjægerne og afløstes senere af andre jægerfolk, som ernærede sig af jagt og fiskeri igennem årtusinder.<ref>{{Harvnb|Kjeersgaard|1993|p=10.}}</ref> 
+
+For ca. 6.000 år siden (år ca [[4000 f.Kr.]]) blev [[jægerstenalder]]en afløst af [[bondestenalder]]en, som igen afløstes af [[bronzealder]] (år ca 1700 BC) og [[jernalder]] (år ca 500 BC).<ref>{{Harvnb|Kjeersgaard|1993|p=24.}}</ref><ref>{{Harvnb|Ebbesen|1993|p=6-7.}}</ref>, som var inddelt i flere perioder: [[keltisk jernalder]], [[romersk jernalder]] og [[germansk jernalder]]. Allerede i slutningen af jernalderen, dvs. i 700-tallet, kan der have eksisteret en stærk, dansk centralmagt. Her kunne det kolossale forsvarsværk [[Dannevirke]] og [[Kanhavekanalen]] [[Samsø]] være et "bevis".<ref>{{Harvnb|Ebbesen|1993|p=18.}}</ref><ref>[http://www.fortidsmindeguide.dk/Udskriv-PDF.288.0.html Kanhave vikingetidskanal over Samsø]</ref>
+
+Forhistorien sluttede med [[vikingetiden]], hvor danske [[vikinger]] begyndte at hærge og handle i det meste af [[Europa]].<ref>{{Harvnb|Christensen|1996|p=11.}}</ref><ref>{{Harvnb|Ebbesen|1993|p=15-6+65+92.}}</ref> Vikingerne begyndte at kræve den såkaldte [[Danegæld]], hvilket betød at konger fra [[England]] betalte skat til den danske konge mod at undgå plyndringer.<ref>Pihlip Steele, s. 44 ''Træd ind i vikingetiden''. 1998. Flachs. ISBN 87-7826-404-9.</ref> Danske og skandinaviske vikinger spillede i det meste af vikingetiden en stormagtsrolle i Europa, bl.a. på grund af den stærke flåde.<ref>Poul Bo Christensen: ''Danmarks historie'' 1996. LM. s. 12 ISBN 87-7476-252-4.</ref> Senere vendte opturen sig under [[Knud den Store]], da vikingeimperiet blev svækket og England gik tabt. Da [[Svend Estridsen]] fik tronen i 1047, var Danmarks tid som vikingemagt forbi.<ref>{{Harvnb|Deurs|1996|pp=60.}}</ref> 
+
+Med afslutningen på, hvad der af historikerne kaldes [[Menneskets oldtid|oldtiden]] begynder det Danmark, der har [[Jellingstenene]] og [[Gorm den Gamle]] som første konge i den danske [[Kongerækken]]. Den danske historie indledes i det [[8. århundrede]], hvor de første, skriftlige kilder begynder at omtale forholdene her. På den måde er [[vikingetiden]] en overgangsfase mellem forhistorien og den danske [[middelalder]].
+
+=== Middelalder (1047-1536) ===
+
+{{uddybende|Danmarks historie (1047-1397)|Danmarks historie (1397-1536)}}
+
+Efter ca 1050 begynder en periode, hvor en mere fredelig kontakt med det øvrige Europa fik stadigt stigende betydning. Kristendommen, kulturpåvirkinger, nye driftformer for landbrugerne. Andre tre forhold fik også større betydning: kongernes forsøg på at øge deres indenlandske magt, deres forsøg på at udvide det udenrigske magtområde og striden med [[Hanseforbundet]].<ref>{{Harvnb|Simonsen|2000|p=14+31.}}</ref><ref>[http://www.aerenlund.dk/lubeck/lubeck.html Lübeck] aerenlund.dk. Besøgt 13. januar 2010.</ref> 
+
+Den indenlandske magtkamp stod først mellem stormændene på den ene side og kongemagten og kirken på den anden. Senere blev det til en strid mellem kirken og kongemagten. Udenrigs forsøgte man at skabe og fastholde et østersørige, kulminerende i [[Kalmarunionen]] af 1397.<ref>{{Harvnb|Kjeersgaard|1993|p=92.}}</ref> Samarbejde med Hanseforbundet var en handelsmæssig nødvendighed, men også et konstant økonomisk problem. Dette byforbund fik stor indflydelse på landets forhold og var i perioder den reelle magt i landet.<ref>{{Harvnb|Brinckmann|Poulsen|1998|p=10+12.}}</ref>
+
+=== Reformationen og tabte krige (1536-1660) ===
+
+{{uddybende|Danmarks historie (1536-1660)}}
+
+[[Fil:Denmark-Norway in 1658, Treaty of Roskilde.GIF|right|250px|thumb|Ved [[freden i Roskilde]] måtte Danmark-Norge afstå de danske landsdele i Skåneland og de norske len Trondheim og Bohus til [[Sverige]]. Med rødt: Halland var allerede afstået til Sverige for en 30-årig periode. Med gult: Landsdelene Skåneland og Bohus len. Med violet: Landsdele, som gjorde oprør og vendte tilbage til dansk styre i 1660.]]
+[[Renæssancen]] betød et markant skift i Danmarks historie, særligt fordi [[reformationen]] blev en del af ændringen. Kongerne inddrog kirkegodset og stod på den baggrund stærkt over for adelen,<ref>{{Harvnb|Ingvorsen|1981|p=31.}}</ref> dog blev meget af rigdommen blev brugt til krigsførelse. Mest tydeligt er dette eksemplificeret i renæssancekongen [[Christian IV]], der nok lod opføre smukke bygninger mange steder i landet, men som led alvorlige nederlag ved sin deltagelse i [[Trediveårskrigen]] i Tyskland.<ref>{{Harvnb|Ingvorsen|1981|p=39.}}</ref> Den fortsatte kamp med Sverige medførte nederlag på nederlag med stadige tab af territorier, først øerne i Østersøen, men senere også danske kerneprovinser som [[Skånelandene]] ved [[Freden i Roskilde]] i 1658.<ref>{{Harvnb|Scocozza|1997|p=141.}}</ref><ref>[http://roskildefreden.dk/ Roskildefreden] på roskildefreden.dk. Besøgt 17. februar 2010.</ref>
+
+=== Enevælde, tab af Norge og Guldalder (1660-1848) ===
+
+{{uddybende|Danmarks historie (1660-1814)|Danmarks historie (1814-1848)}}
+
+Adelens svigt under [[Karl Gustav-krigen]] gav plads til et statskup, hvor kongen væltede den gamle forfatning og indførte [[enevælde]]n med støtte fra borgerskabet.<ref>{{Harvnb|Ingvorsen|1981|p=44.}}</ref> En ny embedsadel voksede frem ved kongernes gunst, og byernes borgere fik efterhånden øget indflydelse. Landet var præget af den kulturelle påvirkning fra Frankrig og af kongernes tyskprægede forvaltning. Med [[stavnsbåndet]]s ophævelse og senere med andre reformer inden for landbruget fik landet en økonomisk fremgang, der blev afbrudt, da [[England|englænderne]] tog den danske flåde.<ref>{{Harvnb|Ingvorsen|1981|p=60+67.}}</ref> Dette og [[Københavns bombardement]] tvang Danmark i armene på [[Napoleon 1. af Frankrig|Napoleon]], mens Sverige allierede sig med England. Med [[Wienerkongressen|freden i Wien]] (1815) blev Danmarks union med Norge opløst.<ref>{{Harvnb|Scocozza|1997|p=166-7.}}</ref> Forud var gået en [[Statsbankerotten 1813|statsbankerot]] i 1813, men alligevel blev perioden en opgangstid for f.eks. dansk filosofi, digtning og billedkunst ([[guldalder]]en) med kunstnere som f.eks. [[H.C. Andersen]], [[Søren Kirkegaard]] og [[N.F.S. Grundtvig]].<ref>[http://www.danmarkskonger.dk/konge47f.htm Statsbankerotten 1813] danmarkskonger.dk. Besøgt 12. januar 2010.</ref><ref>[http://www.denstoredanske.dk/Kunst_og_kultur/Litteratur/Litter%C3%A6re_perioder/guldalder Guldalder] [[Den Store Danske]] Besøgt 12. januar 2010.</ref>
+
+=== Demokrati, industrialisering og besættelse (1849-1945) ===
+
+{{uddybende|Danmarks historie (1848-1901)|Danmarks historie (1901-1945)}}
+
+[[Danske Monarki|Det danske monarki]] bestod efter freden i Wien af kongeriget og [[hertugdømmerne]] [[Hertugdømmet Slesvig|Slesvig]], [[Hertugdømmet Holsten|Holsten]] og [[Sachsen-Lauenburg|Lauenborg]] samt kolonierne. Fordi at Slesvig var et dansk [[len]] med både dansk- og tysktalende befolkning, hvorimod Holsten og Lauenborg var med i det [[Tyske forbund]], udbrød der stridigheder mellem [[Helstatspolitikken|Helstats-]] og [[Ejderpolitikken]], som hver havde sit nationale synspunkt.<ref>[http://www.denstoredanske.dk/Danmarks_geografi_og_historie/Danmarks_historie/Danmark_-_historie/Danmark_-_historie_(1814-1900) Danmark - historie (1814-1900)] [[Den Store Danske]]. Besøgt 12. januar 2010.</ref><ref name="B og P s. 130">{{Harvnb|Brinckmann|Poulsen|1999|p=130.}}</ref> Dette førte til et oprør mod Danmark og den [[Treårskrigen|1. Slesvigske Krig]], som Danmark med hjælp fra England vandt. I forbindelse [[Revolutionerne i 1848|med revolutionerne i Europa i 1848]] fik Danmark en fri og demokratisk [[Danmarks Riges Grundlov|forfatning]] i 1849.<ref>{{Harvnb|Brinckmann|Poulsen|1999|p=131+133.}}</ref> 
+[[Fil:Grundlovgivende rigsforsamling - Constantin Hansen.jpg|thumb|left|210px|[[Den grundlovsgivende forsamling]] den 23. oktober 1848. Maleri af [[Constantin Hansen]].]] De underliggende brudlinjer var dog ikke fjernet, og i 1864 brød den [[2. Slesvigske Krig]] ud. Den tidligere støtte fra udlandet var der ikke længere og hæren led nederlag, især [[slaget ved Dybbøl]]. Resultatet blev tabet af hertugdømmerne, herunder også den dansktalende del af Slesvig.<ref>{{Harvnb|Brinckmann|Poulsen|1981|p=136.}}</ref><ref>{{Harvnb|Skovmand|1980|p=71-76+81.}}</ref>
+
+Omkring 1870 kom [[industrialisering]]en i gang i Danmark, og den blev fremmet ved anlægget af et tætmasket jernbanenet og af talrige færge- og fragtbådsforbindelser mellem landsdelene.<ref>{{Harvnb|Staun|2001|p=4.}}</ref><ref>{{Harvnb|Kjeersgaard|1993|p=250.}}</ref> 
+
+Samtidig betød opsvinget i landbruget ([[andelsbevægelsen]]), der begyndte med mælkecentrifugen i 1878, en forøget købekraft hos landbefolkningen, som medførte et overskud af mennesker, der rasende hurtigt blev voksne, så de allerede ti år før - fra 1870 - kunne strømme til hovedstaden. Dermed fik byerhvervene en kærkommen reserve af billig arbejdskraft. 
+
+Husning af disse mange (og virkelig unge) tilflyttere skete på meget tilfældige vilkår og en række [[epidemi]]er hærgede København og de større provinsbyer allerede 16 år før andelsbevægelsen kom i gang.<ref>[http://www.kb.dk/udstillinger/Medhist/Kolera/koebenhavn1853.htm Epidemien i København] 2002. Danmarks Natur- og Lægevidenskabelige Bibliotek. Besøgt 19. januar 2010.</ref><ref>{{Harvnb|Skovmand|1980|p=103.}}</ref> Ved [[kloak (byplan)|kloakering]], oprettelse af skoler og udbygning af sundhedsvæsnet fik man efterhånden skik på sygdommene.<ref>[http://www.leksikon.org/art.php?n=1091 Sundhedsvæsen]. [http://www.leksikon.org/author.php?n=261 Signild Vallgårda] på det ''[[socialist]]iske'' [[leksikon.org]]. Besøgt 19. januar 2010.</ref> 
+
+På arbejsmarkedsfronten lykkedes det at dæmpe uroen, da det danske arbejdsmarked ved [[Storkonflikten i 1899]] fik sin [[Septemberforliget|grundlov]], hvor [[fagbevægelsen]] anerkendte arbejdsgivernes ret til at lede og fordele arbejdet, og arbejderne fik ret til at organisere sig.<ref>[http://www.christianehoej.dk/arkiv/infsamf05.asp Fagbevægelsen og fleksibiliteten] Lars K. Christensen. Besøgt. 12. januar 2010.</ref>  Efter over 30 år (1870-1901) med regeringsmagten, mistede Højre i 1901 flertallet i både folke- og landstinget, og efter en [[forfatningskampen|kortvarig forfatningskamp]], som førte til [[systemskiftet]] har [[parlamentarisme]]n været fast skik i Danmark <ref> Først som sædvane, men fra 1953 [[grundlov]]ssikret.</ref>
+
+Danmark holdt sig uden for [[1. verdenskrig]], og forsyninger til de krigsførende lande gav arbejde og indtjening til mange.<ref>{{Harvnb|Kjeersgaard|1993|p=266.}}</ref> Efterhånden fik kvinderne også valgret (1915),<ref>[http://www.danmarkshistorien.dk/leksikon-og-kilder/vis/materiale/danske-kvinders-adresse-til-regering-og-rigsdag-den-5-juni-1915/ Danske kvinders adresse til regering og rigsdag den 5. juni 1915] danmarkshistorien.dk. Besøgt 12. januar 2010.</ref> og det tyske nederlag i 1918 medførte en folkeafstemning, så Nordslesvig ved [[Slien]] blev genforenet med Danmark, men afstemningsvilkårene betød, at der blev skabt et tysk mindretal i Danmark og et dansk i Tyskland.<ref>{{Harvnb|Kjeersgaard|1993|p=271.}}</ref> Den økonomiske krise i 1930'erne betød massearbejdsløshed, men også forbedring af [[Kanslergadeforliget|samfundets støtte]] til dårligt stillede.<ref>{{Harvnb|Kjeersgaard|1993|p=285-6.}}</ref> Med genoprustningen af de europæiske stormagter kom der atter gang i produktionen i Danmark, og ved krigsudbruddet i 1939 var der optimisme hos alle. Selv om Danmark blev besat i 1940, opretholdt landet sin egen regering indtil 1943, men der opstod efterhånden så stærk en [[Modstandsbevægelsen|modstandsbevægelse]], at landet kunne tælles med blandt de allierede lande, der oprettede [[FN]] i 1945.<ref>[http://www.danmarkshistorien.dk/leksikon-og-kilder/vis/materiale/hartvig-frisch-s-om-fn-medlemskab-i-rigsdagen-6-september-1945/ Hartvig Frisch (S) om FN-medlemskab i Rigsdagen 6. september 1945] danmarkshistorien.dk. Besøgt 12. januar 2010.</ref> I [[1944]] erklærede [[Island]] sig som selvstændig nation fra Danmark.<ref>[http://www.1sted.dk/ii/ii44.html 1944] 1sted.dk. Besøgt 17. januar 2010.</ref>
+
+=== Efterkrigstid (1945-1990) ===
+
+{{uddybende|Danmarks historie (1945-1990)}}
+
+[[Fil:Paris 2006-02-11 anti-caricature protest bannieres dsc07543.jpg|thumb|Demostranter protesterer mod de [[Muhammed-tegninger]], som 12 danske tegnere lavede. Langt de fleste danskere frygtede året efter tegningernes udgivelse, at Danmark skulle blive et mål for terror.]]
+I årene derefter var Europa delt, ideologisk og efter landegrænser. Frygten for [[Sovjetunionen]] førte til, at Norge og Danmark valgte at deltage i NATO (1949).<ref>{{Harvnb|Holm-Svendsen|1999|p=50.}}</ref> Det gav dog samtidig landet adgang til [[Marshall-planen]], der var ment som en støtte til genopbygning af de europæiske lande.<ref>{{Harvnb|Holm-Svendsen|1993|p=9.}}</ref> Det skabte gode tider i landet, og [[kommunisme]]n mistede efterhånden taget i den brede befolkning. Storpolitisk var situationen fastlåst, og det gav meget få manøvremuligheder i dansk udenrigspolitik, men på det økonomiske område var der dog plads til ændringer. Herunder udbygningen af [[velfærdsmodel|velfærdssamfundet]], som regeringer af forskellig politisk observans var aktivt medvirkende til at forme. I 1960'erne udløste den store tilgang af kvinder til arbejdsmarkedet en stærk udbygning af [[den offentlige sektor]]. I løbet af 1960'erne kom der gang i forhandlingerne om dansk deltagelse i EF (det senere [[EU]]), og i 1972 bekræftede en [[folkeafstemning]] Danmarks optagelse i fællesskabet.<ref>[http://www.eu-oplysningen.dk/spsv/off/alle/54/ Hvordan kom Danmark med i EF?] eu-oplysningen.dk. 11. august 2005. Besøgt 12. januar 2010.</ref> Ved flere senere afstemninger blev samarbejdet udvidet trinvis.<ref>{{Harvnb|Clasen|Fibiger|2003|p=22.}}: "Denne gang stemte danskerne ja til [[Maastricht-traktaten]]"</ref><ref>[http://www.eu-oplysningen.dk/nyheder/euidag/2009/oktober/Irland/ Folkeafstemning i Irland: Ja til Lissabontraktaten] 10. oktober 2009. Besøgt 12. januar 2010.</ref>. Med [[oliekrisen]] i 1973 startede en økonomisk [[recession]], som bl.a. medførte, at Danmark måtte tage store lån i udlandet, ligesom '' [[jordskredsvalget]]'' samme år førte til politisk ustabilitet. Fra 1982 førte forskellige regeringer, ledet af [[Poul Schlüter]] en stram økonomisk politik, der kulminerede med "[[Kartoffelkuren|kartoffelkur]]". Årtiet blev på denne baggrund betegnet som "fattig-firserne".<ref>{{Harvnb|Rasmussen|2004|pp=15.}}</ref><ref>{{Harvnb|Villaume|2005|pp=306.}}</ref>
+
+=== Efter Den Kolde Krig (1990-2011) ===
+<!-- har fjernet CURRENTYEAR pga. WPCW -->
+{{uddybende|Danmarks historie (1990-)}}
+
+Med [[jerntæppet]]s fald i 1989, Tysklands genforening i 1990 og Sovjetunionens opløsning i de følgende år blev der skabt helt nye vilkår for dansk udenrigspolitik, der blev langt mere aktiv<ref>[http://www.danskhistorie.dk/emner/krige/udenrigspolitik_i_1990erne/ Udenrigspolitik i 1990'erne] danskhistorie.dk. Besøgt 13. januar 2010.</ref>: Støtte til de baltiske lande, udvidelsen af NATO, øget integration i EU og militær deltagelse i aktioner på Balkan, i Afghanistan og Irak.<ref>[http://www.tidsskrift.dk/visning.jsp?markup=&print=no&id=92451 Dansk udenrigspolitik efter Kosovo] tidsskrift.dk. Besøgt 13. januar 2010.</ref><ref>[http://www.information.dk/187216 Afghanistan og Irak har gavnet Foghs kandidatur]. Charlotte Aagaard. 3. april 2009. Besøgt 13. januar 2010.</ref> I 1992 havde Schlüter - regeringernes stramme økonomiske politik skabt [[betalingsbalance|overskud på betalingsbalancen]] for første gang siden 1962, og løbet af 90'ernes lykkedes det under [[Poul Nyrup Rasmussen]]s regering at afbetale den oparbejdede [[nationalregnskab|udlandsgæld]] fra 70'erne, hjulpet af højkonjukturen i de lande, som er væsentlige danske [[eksport]]markeder. I flere bølger fik landet en stærk tilstrømning af udenlandske statsborgere, især fra [[den tredje verden]], der kom hertil dels som [[flygtning]]e og dels som [[indvandring|indvandrere]].<ref>[http://www.denstoredanske.dk/Samfund,_jura_og_politik/Sociologi/Grupper/indvandrere/indvandrere_(Indvandring_til_Danmark) indvandrere (Indvandring til Danmark)] [[Den Store Danske]]. Besøgt 13. januar 2010.</ref><ref>[http://www.solidaritet.dk/soli02-1/Indvandring.htm Indvandringens danmarkshistorie] solidaritet.dk. Ågot Berger. Besøgt 13. januar 2010.</ref> Efterhånden viste det sig, at indvandringen skabte problemer og diskussionen om hvilken politisk linje der skal lægges har været og er stadig et aktuelt tema.<ref name="DenStoreDanske">[http://www.denstoredanske.dk/Samfund,_jura_og_politik/Sociologi/Grupper/indvandrere/indvandrere_(Indvandring_til_Danmark)/indvandrere_(Indvandring_til_Danmark_-_Indvandrerpolitik_og_indvandrerdebat_i_Danmark) indvandrere (Indvandring til Danmark - Indvandrerpolitik og indvandrerdebat i Danmark)] [[Den Store Danske]]. Besøgt 13. januar 2010.</ref><ref>[http://www.berlingske.dk/danmark/df-indvandrere-skal-dele-danske-vaerdier DF: Indvandrere skal dele danske værdier] Philip Egea Flores og Bjarne Steensbeck. 13. september 2007. Besøgt 13. januar 2010.</ref><ref>[http://annalyttiger.wordpress.com/2008/01/26/sf-vil-have-%C3%B8get-indvandring/ SF vil have øget indvandring] Anna Lyttiger. 26. januar 2008. Besøgt 13. januar 2010.</ref><ref name="DenStoreDanske"/> 
+
+Udenrigspolitisk var årtiet, der startede med [[millennium]] præget af [[terrorisme|terrorhandlingen]] den [[11. september 2001]], som udløste krigen i [[Afghanistan]], <ref>http://www.mod.uk/DefenceInternet/AboutDefence/CorporatePublications/DoctrineOperationsandDiplomacyPublications/OperationsInAfghanistan/OpHerrickCasualtyAndFatalityTables.htm , http://www.mod.uk/NR/rdonlyres/03645441-065E-4E0A-9F62-B8AEBDAC8151/0/opherrickcasualtytablesto15june2010.pdf</ref> og senere i [[Irak]], hvor den amerikansk ledede [[koalitionen af villige lande|koalition af villige lande]] med dansk deltagelse angreb Irak og styrtede [[Saddam Hussein]]s regering.
+I 2005 tegnede 12 danskere hver en [[satire|satirisk]] tegning af islams [[profet]] [[Muhammed]], hvilket førte til reaktioner fra muslimer i Danmark og udlandet. Efter tegningerne har spekulationer gået på, om Danmark skal blive et mål for terror.<ref>[http://www.dr.dk/Nyheder/Temaer/Oevrige_temaer/2006/Tegninger/Artikler/195323.htm Tegninger var meningsløse, men muslimer overreagerer] 16. februar 2006. Besøgt 13. februar 2010.</ref>;<ref>[http://www.dr.dk/Nyheder/Indland/2009/10/29/204727.htm De fleste frygter ikke terror] 29. februar 2009. Besøgt 13. februar 2010.</ref>
+Indenrigspolitisk førte [[VK-regering]]erne, ledet af [[Anders Fogh Rasmussen]] en [[kontraktpolitik]] med [[skattestop]]et som grundlag, der sikrede Fogh Rasmussen 8 år i statsministeriet, indtil han trak sig tilbage for at overtage posten som [[generalsekretær]] i [[NATO]].
+Efterfølgeren, [[Lars Løkke Rasmussen]] tiltrådte under [[finanskrisen]], som bl.a. medførte stigende arbejdsløshed og et stort underskud på [[finansloven|statsfinanserne]]. [[Det Økonomiske Råd]] forudsagde stigende strukturproblemer på [[arbejdsmarked]]et og erklærede, at de økonomiske genopretningsplaner, som hhv. regeringen og oppositionen fremlagde i løbet af [[2010]], var utilstrækkelige. Især udsigten til øget offentigt budgetunderskud bekymrede vismændene.<ref>[http://www.dors.dk/graphics/Synkron-Library/Publikationer/Rapporter/Efter%E5r%202010/Trykt%20rapport/Samlet%20resume.pdf ''Dansk Økonomi efterår 2010'']</ref>
+
+== Politik og regering ==
+
+{{Uddybende|Danmarks politik}}
+{{Uddybende|tekst=Se også|Regeringen Helle Thorning-Schmidt}}
+
+[[Fil:Helle-Thorning-Schmidt.jpg|thumb|upright|Danmarks statsminister, [[Helle Thorning-Schmidt]]]]
+[[Fil:Dronning Margerethe 5 sep 2004 .jpg|thumb|upright|[[Margrethe II af Danmark|Margrethe II]] er regent, men styrer ikke landet]]
+Danmark er et [[konstitutionelt monarki]], og det [[Danmarks politik|politiske system]] tager udgangspunkt i [[Grundloven af 1849]]. Statsministeren, [[Helle Thorning-Schmidt]], er regeringschef.<ref>[https://www.cia.gov/library/publications/the-world-factbook/fields/2077.html Field Listing – Executive Branch] CIA Besøgt 18. oktober 2008.</ref> Før Grundloven af 1849 udgjorde [[Kongeloven]] fra [[1665]] det centrale stykke lovgivning i den danske forfatning. Visse dele af loven gælder fortsat. Danmark er et [[repræsentativt demokrati]], som dog i visse tilfælde afholder [[folkeafstemning]] ved vigtige beslutninger.<ref>{{harvnb|Munksgaard|2000|p=48-9.}}</ref><ref>[http://www.dr.dk/NYHEDER/htm/magasiner/politik/ordbog/indhold.htm Håndbog i politik] dr.dk.</ref> 
+
+Monarken, [[Margrethe 2.|Dronning Margrethe]] er [[statsoverhoved]] med ceremonielle opgaver.<ref>{{harvnb|Gammelgaard|Sørensen|1998|p=36.}}</ref> Hun er afskåret fra at udføre politiske opgaver, men har en vigtig rolle i forhold til udnævnelse af og afskedigelse af regeringer og underskrivning af vedtagede love.<ref>{{harvnb|Jørgensen|1995|p=10-22.}}</ref> Landet er opdelt mellem de tre magter, den udøvende magt, som ligger hos regeringen, den lovgivende magt og den dømmende magt, som ligger hos domstolene. Grundloven siger, at både monarken og Folketinget er den lovgivende magt, selv om Folketinget er den reelle magt.<ref>{{harvnb|Gammelgaard|Sørensen|1998|p=18. (billedet på siden)}}</ref> Danmark har den [[Lutheranisme|evangelisk-lutherske kirke]] som [[statsreligion]], men Grundloven sikrer [[religionsfrihed]]. Dog står der, at den danske regent skal være af luthersk-evangelisk tro.<ref name="Grundloven">[http://grundloven.dk/ Grundloven nr. 169. 5. juli 1953] Besøgt 20. januar 2010.</ref>
+
+[[Fil:Ft-oct-2009-1.jpg|thumb|left|Det danske parlament, [[Folketinget]]]]
+[[Folketinget]] er landets parlament og lovgivende magt, som består af 179 medlemmer, hvoraf to vælges fra Færøerne og to fra Grønland.<ref name="Jør.">{{harvnb|Jørgensen|1995|p=16.}}</ref> De fire mandater plejer hverken at stemme for eller imod i forbindelse med indenrigspolitiske forhold, men støtter dog som regel i krisesituationer det parti, de føler sig tættest knyttede til. Folketingsmedlemmerne vælges ved [[forholdstalsmetoden|forholdstals-]] og enkeltmandstalmetoden, hvormed politikerne bevarer en vis afhængighed af de lokale valgkredse. Folketinget har en [[spærregrænse]] på 2%, men et [[kredsmandat]] kan give adgang.<ref>[https://www.borger.dk/Emner/samfund-og-rettigheder/politik-og-valgsystem/valgsystemet/folketingsvalg-og-folkeafstemninger/Sider/om-folketingsvalg.aspx? Om folketingsvalg] borger.dk. Besøgt 20. januar 2010.</ref> Valg holdes hvert fjerde år, men statsministeren kan opløse Folketinget når som helst og starte et nyt valg. Det seneste folketingsvalg blev afholdt d. 15. september 2011.<ref name="State Dept">[http://www.state.gov/r/pa/ei/bgn/3167.htm Background Notes: Denmark] [[Det amerikanske udenrigsministerium]]. Maj 2008.</ref> Regeringen skal hele tiden have opbakning fra et flertal i [[Folketinget]], men regeringen behøver ikke bestå af partier med samlet flertal.<ref>{{harvnb|Gammelgaard|Sørensen|1998|p=45.}}</ref> Folketingsmedlemmerne mødes fire gange om ugen til debat.<ref>{{harvnb|Gammelgaard|Sørensen|1998|p=25.}}</ref>
+
+[[Regeringen Helle Thorning-Schmidt|Den nuværende regering]] består af partierne [[Socialdemokraterne]], [[Det Radikale Venstre]] og [[SF]] med støtte fra [[Enhedslisten]] og blev etableret 3. oktober 2011. Traditionelt har danske regeringer bestået af [[mindretalsregering]]er med støtte fra ikke-regeringspartier og samarbejde hen over midten har været mest typisk.<ref>{{cite web|url=http://www.berlingske.dk/din-mening/radikale-ved-historisk-skillevej|title=Radikale ved historisk skillevej|publisher=[[Berlingske Tidende]]|date=2007-06-17|accessdate=2007-08-17}}</ref><ref>Svendsen, Palle:[http://www.tidsskrift.dk/visning.jsp?markup=&print=no&id=93801= Brud eller kontinuitet i nyere dansk parlamentarisme] fra ''Politica'', bind 26 (1994). Besøgt 13. februar 2010</ref> [[Socialdemokraterne]] har haft en del indflydelse som regeringsparti i historien.<ref>[http://www.digitaldanmarkshistorie.dk/filer/Partihistorie.doc. Partiernes århundrede] Besøgt 12. januar 2010.</ref> Den nuværende regering har 23 [[ministerium|ministre]]. Ministrene udpeges af statsministeren og behøver ikke at sidde i Folketinget eller være i noget parti.<ref>{{harvnb|Munksgaard|2000|p=71-2.}}</ref>
+
+Domstolene er uafhængige af regering og folketing. [[Højesteret#Højesteret i Danmark|Højesteret]] er den øverste domstol, der ved tvister og tvivlsspørgsmål har det sidste ord. Højesteret har dermed en vis politisk betydning, da de i sidste ende kan dømme lovforslag og politiske handlinger ulovlige i forhold til Grundloven.<ref>[http://www.domstol.dk/HOJESTERET/PRAKTISKEOPLYSNINGER/HOJESTERET/Pages/default.aspx Højesterets virksomhed]. 19. december 2006. Besøgt 11. januar 2010.</ref> EU-domstolen har efterhånden også form af øverste myndighed på mange områder i landet.<ref>[http://www.euo.dk/fakta/institutioner/domstolen/ EU-domstolen] euooplysningen.dk. Besøgt 15. januar 2010.</ref>
+
+Grundloven af 1953 sikrer i fællesskab med indarbejdelsen af [[Den Europæiske Menneskerettighedskonvention]] i dansk lov i 1992 givet danske borgeres menneskerettigheder.<ref>[http://menneskeret.dk/internationalt/den+europ%c3%a6iske+menneskerettigheds-+konvention/om+konventionen International] Besøgt 12. januar 2010.</ref> I 2008 placerede [[Transparency International]] Danmark som det mindstkorrupte land i verden sammen med Sverige og New Zealand.<ref>[http://www.transparency.org/news_room/in_focus/2008/cpi2008 Transparency International, 2008 Corruption Perceptions Index]</ref> [[Freedom House]] rangerer Danmark som "fri" med hensyn til politiske rettigheder og civil frihed.<ref>[http://www.freedomhouse.org/template.cfm?page=22&year=2006&country=6950 Denmark (2006) Freedom House] Danmark rangeres som nr. 1 i begge kategorier på en skala fra et til syv, hvor et er "mest fri" og syv "mindst fri". Besøgt 21. oktober 2008.</ref>
+
+== Udenrigsforhold og militær ==
+
+{{uddybende|Danmarks udenrigsforhold}} {{Uddybende|Forsvaret}}
+
+[[Fil:20050706-3 w9w6544-515h.jpg|thumb|Tidligere statsminister Anders Fogh Rasmussen med USA's tidligere præsident George W. Bush, hvis udenrigspolitik Danmark støttede.]]
+Danmark er medlem af forskellige sammenslutninger som [[EU]], [[FN]], [[NATO]] og [[Nordisk Råd]].<ref>{{harvnb|Munksgaard|2000|p=78-81+83}}</ref> I [[efterkrigstiden]] afbrød Danmark med medlemskabet af [[NATO]] halvandet århundredes [[neutralitet]] og forsøgte under [[Kolde Krig|koldkrigstiden]] at knytte de østeuropæiske lande til [[Vesten]], heriblandt de [[baltiske lande]] ([[Estland]], [[Letland]] og [[Litauen]]), som Danmark ydede stor støtte til. Tidligere har danskerne haft et skeptisk forhold til EU, de stemte som de eneste imod [[Maastricht-traktaten]] og andre traktater. Danmark har dog også haft en vis indflydelse i EU, landet fik i 2002 10 lande fra [[Centraleuropa|Central-]] og [[Østeuropa]] til deltage i unionen.<ref name="State Dept"/> I en [[Amsterdam-traktaten|folkeafstemning fra 2000]] stemte danskerne imod [[euro]]en, men alligevel fremføres spørgsmålet om en ny afstemning hyppigt.<ref>Anonym:[http://www.nordea.dk/Om+Nordea/Nyt+fra+eksperterne/Helge+Pedersen/Er+danskerne+klar+til+euro/1093552.html Er danskerne klar til euro?] på ''nordea.dk''. 7. januar 2009 Besøgt 7. februar 2010.</ref>. Spørgsmålet blev aktuelt den 9. februar 2011, hvor statsminister [[Lars Løkke Rasmussen]] forudsagde en hurtigt brslutning om en ny folkeafstemning om deltagelse i euroen.
+
+Efter krisen om [[Muhammed-tegninger]]ne boykottede flere muslimske lande danske produkter i en vis tidi protest mod den danske regerings afvisning af at fordømme disse tegninger.  En af Danmarks ambassader blev af samme årsag udsat for brandstiftelse. Forholdet til de fleste muslimsk regerede lande er siden blevet forbedret, mens [[islamisme|islamister]] endnu i 2010 fremsatte trusler mod danske interesser.<ref> Se også om angrebet på [[Kurt Westergaard]]</ref> 
+
+Da [[Arktis]] rummer store mængder af olie og naturgas, hvilket [[Grønland]], som hører under Danmark, grænser til sammen med [[Canada]], [[USA]] og [[Norge]] og [[Rusland]], er der opstået tvist mellem de enkelte om retten til området.<ref>[[Uffe-Ellemann Jensen]]: [http://uffeellemann.blogs.berlingske.dk/2009/04/01/kold-krig-i-arktis/ Kold krig i Arktis ?] på ''berlingsketidende.dk''. 1. april 2009. Besøgt 7. februar 2010.</ref> Danmark går ind for fri marked og fortsætter derfor sammen med bl.a. England med at presse på for yderlige liberaliseringer af markedet, dog med modstand mod udvidede beføjelser til kemi- og [[levnedsmiddel]]industri. 
+Norden er en vigtig [[ideologi]]sk samarbejdspartner, som Danmark har tætte kulturelle bånd sammen med. Landene handler indbyrdes med hinanden og [[Den nordiske pasunion|deres indbyggere kan rejse frit i hinandens lande]].<ref name="Abildgaard, s.50">{{harvnb|Abildgaard et. al|2001|p=50}}</ref> I de seneste par år har rigsdelene i [[Rigsfællesskabet]], Grønland og Færøerne fået større medbestemmelse på udenrigspolitiske emner af stor interesse, såsom geopolitiske emner samt jagt på olie. Danmark har altid givet FN en stærk opbakning både politisk og økonomisk,<ref name="Abildgaard, s.50"/> men de danske [[NGO]]'er og private organisation er varetager  også en væsentlig andel af den [[bilateral]]e bistand. Danmark bidrager med 0,8 af bruttonationalproduktet<ref>[http://2015.danida.dk/da/servicemenu/Aktuelt/NyMaal8rapport.htm Ny Mål 8-rapport – 2015 Målene<!-- Bot generated title -->]</ref> og forsøger at støtte sine 20 primære samarbejdslande i [[den tredje verden]] på områder som økonomisk vækst, social- og miljøforhold.<ref>{{harvnb|Abilgaard et. al|2001|p=51}}</ref> 
+
+[[Fil:Danish Military Police.JPG|thumb|left|Danske MP-soldater. Danmark er tæt knyttet til USA, og deltog blandt andet i Invasionen af Irak og Krigen i Afghanistan.]]
+
+Det danske forsvarsbudget for 2010 var på ca. 23 milliarder kroner,<ref>Finansloven for 2001 - § 12 Forsvarsministeriet</ref> og forsvarsudgifterne udgør dermed 1,06 % af [[BNP]].<ref>{{Kilde www|url=http://www.information.dk/181481|titel=Danske soldater er billigst i drift|besøgsdato=2010-02-17|udgiver=Dagbladet Information|dato=2009-02-02}}</ref> Det danske forsvar består af de fire grene [[Hæren]], [[Hjemmeværnet]], [[Søværnet]] og [[Flyvevåbnet]]. Mænd har [[værnepligt]], men langt fra alle skal aftjene den – det afgøres, hvem der skal, ved lodtrækning. Kvinder (og de mænd som ikke blev udtrukket) kan vælge at aftjene frivillig militærtjeneste.<ref>{{kilde www| url = http://www.fmn.dk/videnom/Pages/ForsvaretsdagogVaernepligt.aspx| titel =  Forsvarets dag og værnepligt| besøgsdato = 2010-05-15| forfatter = [[Forsvarsministeriet]]}}</ref> Årlig aftjener omtrent 6500 unge danske kvinder og mænd militærtjeneste. Tjenestetiden varer 4-12 måneder afhængig af tjenestested.<ref>{{kilde www| url = https://www.borger.dk/Emner/politi-retsvaesen-forsvar/forsvar-og-beredskab/Sider/vaernepligt.aspx| titel = Værnepligt| besøgsdato = 2010-05-15| forfatter = borger.dk| udgivelsesdato = 2010-03-19}}</ref>
+
+Efter 2. verdenskrigs afslutning, måtte Danmarks militær næsten bygges op fra grunden. Til dette arbejde, blev der bl.a. ydet støtte fra USA og andre allierede i NATO,<ref>[http://www.dr.dk/magtensbilleder/index.asp?pageID=forsvar&menuID=m_pol Forsvar] Besøgt 12. januar 2010.</ref> som Danmark var med til at stifte i 1949. Da der siden Den Kolde Krigs afslutning, ikke har været nogen trusler om invasioner af landet, har man i stedet indsat styrkerne i udlandet for at støtte konfliktramte lande i at dæmpe og forebygge konflikter.<ref>{{harvnb|Abildgaard et. al|2001|p=52}}</ref> De tre største bidrag har været i [[Afghanistan]] ([[International Security Assistance Force|ISAF]]), [[Irak]] ([[Koalitionen af Villige Lande under Irakkrigen|MNF-I]]) [[Kosovo]] ([[Kosovo Force|KFOR]]). Siden [[terrorangrebet 11. september 2001]] har Danmark desuden aktivt deltaget i terrorbekæmpelsen.<ref name="State Dept"/>
+
+== Rigsfællesskabet, regioner og kommuner ==
+
+{{uddybende|Rigsfællesskabet|Danmarks kommuner|Regioner i Danmark}}
+
+[[Fil:The Danish Commonwealth.gif|thumb|[[Rigsfællesskab|Det danske rigsfællesskab]] består af Danmark, Grønland og Færøerne]]
+Udover det Danmark der ligger i [[Skandinavien]], ligger også, gennem [[Rigsfællesskabet]], de to områder, [[Grønland]] og [[Færøerne]]. Områderne hører ifølge grundlovens §1 til [[Kongeriget Danmark]], og deler derfor grundlov og statsoverhoved med Danmark. De to områder har dog begge egen regering ledet af henholdsvis en [[Landsstyreformand]] (Grønland) og en [[Lagmand]] (Færøerne). Færøerne opnåede indre selvstyre i [[1948]] og Grønland i [[1979]]. De to områder er dog ikke fuldt uafhængige,<ref>[http://www.google.dk/search?hl=da&q=gr%C3%B8ndland+og+f%C3%A6r%C3%B8erne+er+en+del+af+rigsf%C3%A6llesskabet&meta=&aq=f&oq= Rigsfællesskabet] [[Udenrigsministeriet]]s hjemmeside. 8. juli 2008. Besøgt 12. januar 2010.</ref> f.eks. skal [[folkeskole]]rne udover det lokale sprog undervise i [[dansk (sprog)|dansk]], begge områder modtager bloktilskud fra Danmark, og udenrigsforhold varetages som hovedregel af regeringen i København. Hvert land repræsenter også to sæder i Folketinget.<ref name="Jør."/>
+
+Danmark er inddelt i [[Danmarks regioner|fem regioner]] og [[Kommuner i Danmark|98 kommuner]]. Regionerne blev oprettet 1. januar 2007 og erstattede de tidligere 13 [[amt]]er. På samme tid blev kommunerne samlet til større enheder og tallet reduceredes fra 270 til 98.<ref>[http://www.denstoredanske.dk/Samfund,_jura_og_politik/Samfund/Danmarks_lokalforvaltning/region Strukturreformen] [[Den Store Danske]]. Besøgt 12. januar 2010.</ref> De nye regioners største ansvar er at opretholde sundhedssektoren.<ref>[http://www.conmoto.dk/Default.aspx?ID=398 Fra helhed til sundhed] conmoto.dk. Besøgt 12. januar 2010.</ref>
+
+Regionerne er [[Region Hovedstaden]], [[Region Sjælland]], [[Region Syddanmark]], [[Region Midtjylland]] og [[Region Nordjylland]]. 
+
+[[Ertholmene]] er ikke del af nogen [[kommune]], men hører under [[Forsvarsministeriet]].<ref>{{cite news | first=Jonas | last=Michael Kjær | title=Christiansø betaler ikke sundhedsbidrag | date=15. november 2006 | url =http://www.dr.dk/Regioner/Bornholm/Nyheder/Christiansoe/2006/11/15160130.htm | work =dr.dk | accessdate =12. august 2007}}</ref>
+
+== Geografi, klima og miljø ==
+
+{{Uddybende|Danmarks geografi}}
+{{Uddybende|Danmarks flora og fauna}}
+
+Danmark er med sine 43.094&nbsp;km² [[Verdens landes arealer|verdens 132. største land]] og er i areal lidt mindre end [[Estland]] og lidt større end [[Holland]].<ref>[https://www.cia.gov/library/publications/the-world-factbook/rankorder/2147rank.html "Rank Order" – Area] CIA. 9. oktober 2008. Besøgt 20. oktober 2008.</ref> Danmark ligger i [[Skandinavien]], beliggende i det [[Nordeuropa|nordlige Europa]], og grænser kun til Tyskland mod syd. Landet er omgivet af flere have: [[Vesterhavet]] mod vest, [[Skagerrak]] mod nord, [[Kattegat]] og [[Øresund]], og [[Østersøen]] mod syd.<ref name="Lexopen">[http://lexopen.dk/lande/geo/Danmarks%20geografi.html Danmarks geografi] hos [[Lexopen]]. Besøgt Besøgt 1. februar 2010.</ref> Mellem disse have findes mange sunde og bælter: Dels [[Limfjorden]] (som er et sund) mellem Vesterhavet og Kattegat, dels [[Lillebælt]], [[Storebælt]] og [[Øresund]] mellem Kattegat og Østersøen og dels en lang række mindre farvande mellem øerne. Den største del af arealet udgør [[halvø]]en [[Jylland]] (23.872&nbsp;km²), mens resten fordeler sig på 1419 øer, heraf 443 navngivne.<ref>[http://www2.kms.dk/C1256AED004EA666/(AllDocsByDocId)/1D7EE8822587E667C1256AEF0030ABF6?open&page=strste&omr=KORT_DK_I_TAL Danmarks øer]</ref> De tre største øer er [[Sjælland]], Den [[Nørrejyske Ø]] (Vendsyssel-Thy) (siden 1825, nuværende åbning siden 1862) og [[Fyn]].<ref>Politikens oplysning [http://politiken.dk/pol_oplys/article469073.ece Hvilke øer er de 10 største i Danmark efter areal og befolkning?] på ''politiken.dk''. 8. februar 2008. Besøgt 7. februar 2010.</ref>
+
+[[Fil:Sandy_cliff_beach_at_North_Sea,_Denmark_2004_ubt.jpeg|thumb|left|Sandet kyst på [[Vendsyssel]], [[Nordjylland]]]]
+Det lille land har på grund af det store antal mindre øer og fjorde en af Europas længste kystlinjer på 7.314&nbsp;km.<ref>[http://dbis.informatik.uni-freiburg.de/content/courses/SS06/Praktikum/Programmierung%20in%20SQL/coastline.html Oversigt over verdens kystlinjer]</ref> Visse steder findes der mange små søer. Landskabet er generelt fladt med [[slette]]r, [[klint]]er og [[klit]]ter og [[Lammefjord]] som det laveste punkt på landjorden med -7,5 [[meter|m]].<ref>[http://tgt.dk/inspiration/tema/ferieidanmark/margueritruten/article914.ece Sjælland:Bløde bakker og stor slotte] tgt.dk. Besøgt 20. oktober 2008.</ref><ref name="Lexopen"/> Det højest ikke-menneskeskabte punkt er [[Møllehøj]]<ref>[http://www.kms.dk/Nyheder/Arkiv/2005/280205_hoejste_punkt.htm Nyt højeste punkt i Danmark], Kort- og Matrikelstyrelsen.</ref> ved [[Skanderborg]] med 170,86 m, næsthøjest [[Yding Skovhøj]] med 170,77 m og endelig [[Ejer Bavnehøj]] med 170,35 m. Disse punkter er alle beliggende i samme område nogle [[kilometer|km]] sydvest for [[Skanderborg]].<ref>[http://www.danskebjerge.dk/dansktop.htm Se Google-kort med de højeste punkter markeret]</ref> 
+
+Landskabet varierer på de forskellige landsdele: [[Østdanmark]] har et varieret terræn. Heriblandt har [[Bornholm]] et specielt landskab med [[grundfjeld]]. [[Vestjylland]]s landskab består af marker, plantager og smalle enge. [[Nordjylland]] har sandede kyster med storklitter og lave forsumpede sletter.<ref>{{harvnb|Abildgaard et.al|2001|p=148-52}}</ref>
+
+[[Fil:Grib skov.jpg|thumb|170px|[[Bøgetræ]]et findes stort set overalt i Danmark]]
+[[Danmarks klima]] er tempereret. Vintrene er milde med temperaturer på 0 grader celsius i januar og februar og somrene er kølige med temperaturer på 15,7 grader celsius i august.<ref>{{kilde www | url=http://www.dmi.dk/dmi/index/danmark/oversigter/klimanormaler.htm | titel=Klimanormaler for Danmark | accessdate=2007-02-08 | =[[DMI]]}}</ref> Undertiden kan der forekomme kolde, kontinentalt prægede vintre, kaldet [[isvinter|isvintre]], ligesom der kan forekomme hede somre. Den højeste [[temperatur]], som hidtil er blevet målt i Danmark (siden [[1874]]) er 36,4&nbsp;°C, hvilket blev målt [[10. august]] [[1975]] i Klosterheden ved [[Holstebro]].<ref name="Meteorologiske ekstremer">[http://www.dmi.dk/dmi/index/danmark/meteorologiske_ekstremer_i_danmark.htm Meteorologiske ekstremer i Danmark] Sidst opdateret 8. januar 2008. Besøgt 17. oktober 2008</ref> Den laveste temperatur, som siden 1874 er blevet målt på dansk jord er -31,2&nbsp;°C, som blev målt i [[Hørsted Sogn|Hørsted]] i [[Thy]] [[8. januar]] [[1982]].<ref name="Meteorologiske ekstremer"/>
+
+Danmarks [[flora (botanik)|flora]] har en større mangfoldighed, end det forventes af sådan et lille land. De danske skove består næsten kun af [[bøgetræ]]er, som trives bedre i Danmark end noget andet land i Europa. Træer som [[eg]], [[Almindelig Ask|ask]] og [[elm]] er sjældne i den danske natur. [[Fauna|Dyrelivet]] ligner det samme som i resten af Centraleuropa. De typiske husholdningsdyr, bortset fra geden, findes i Danmark.<ref name="Britannica">[http://ia311326.us.archive.org//load_djvu_applet.php?file=2/items/EncyclopaediaBritannica1911HQDJVU/Encyclopedia_Britannica_08_Demijohn_-_Edward_the_black_prince.djvu Denmark] på [[Encyclopaedia Britannica Eleventh Edition]], s. 24.</ref> Udbygningen af [[infrastruktur]]en udsætter dyrenes [[genpulje]] i at blive større, hvilket er årsag til, at mange [[arter]] er truede eller [[uddød]]e i Danmark.<ref>Se [http://www.sns.dk/1pdf/rodlis.pdf Skov- og naturstyrelsens rødliste for planter og dyr]</ref>
+
+== Økonomi og infrastruktur ==
+
+{{Uddybende|Danmarks økonomi}}
+{{Uddybende|Danmarks infrastruktur}}
+
+[[Fil:Claas combine in Denmark.jpg|thumb|Landbrug er en lille, men vigtig økonomisk, sektor i Danmark]]
+Den danske valuta er [[kronen]] og [[Danmarks økonomi|landets økonomi]] er bygget op om den [[skandinaviske velfærdsmodel]], der sikrer alle borgere sociale ydelser. Danmark har også verdens højeste skatteprocent, og for personer i de højeste indtægtsgrupper kan skatteprocenten komme op i 62,3 (plus 8 % [[sundhedsafgift]]).<ref>Anonym: [http://www.kpmg.dk/view.asp?ID=5969 Danmark bagud i international skattekonkurrence om kvalificeret arbejdskraft] på ''kmpg.dk''. 28. oktober 2008. Besøgt 7. februar 2010.</ref>  Bruttonationalprodukt blev vurderet til at være på 203,519 milliarder [[Amerikanske dollar|US$]] ([[købekraftsparitet]]) i 2008, mens indbyggerindkomsten var 37.264 US$ ifølge Den [[Internationale Valutafond]].<ref name="autogenerated1">{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2008/02/weodata/weorept.aspx?sy=2004&ey=2008&scsm=1&ssd=1&sort=country&ds=.&br=1&c=128&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=&pr.x=70&pr.y=20|title=Report for Selected Countries and Subjects}}</ref> Gennem [[ERM|Den europæiske vekslingsmekanisme]] er den danske krone tæt knyttet til [[euro]]en, og vekslingskursen ligger altid på omtrent 7,45 kroner pr. euro. Dette opnår man ved at lægge [[pengepolitik]]en meget tæt op imod [[Den Europæiske Centralbank]]s politik.<ref name="Jones">
+{{Kilde www
+ |forfatter=Jones, Erik
+ |url=http://www.eurointelligence.com/Article3.1018+M53eac6b4b57.0.html
+ |titel=137
+ |besøgsdato=2010-02-20
+ |udgiver=Eurointelligence
+ |dato=2009-02-27
+}}
+</ref> Danmark møder kravene, som skal til at tage del i [[eurozonen|eurosamarbejdet]], men i en folkeafstemning fra september 2000 valgte man med en lille margin at beholde kronen.
+
+Økonomien i landet er meget afhængig af samhandel med udlandet og pga. det har Danmark en stor interesse i, at varer og tjenesteydelser frit kan handles mellem landene. Danmark er derfor medlem af EU, [[OECD]] og [[WTO]].<ref>{{harvnb|Abildgaard et. al|p=61.}}</ref> 76% af den arbejdende befolkning beskæftigede i 2004 sig med [[serviceerhverv]] og 21% med industri<ref name=CIA/>, selvom landbruget trods sin størrelse også er en vigtig økonomisk sektor. Danmark får heraf også 10 milliarder kroner årligt i landbrugsstøtte.<ref>[http://www.dr.dk/nyheder/htm/baggrund/tema2004/danmark%20f%C3%A5r%2010/index.htm Danmark får 10 milliarder i EU-landbrugsstøtte]</ref> Ca. 10% af Danmarks areal er dækket af skov, og årligt fældes 2 mio. m<sup>3</sup>, hvilket giver 800 mio. kr., men som kun dækker 25% af træforbruget.<ref>{{harvnb|Abildgaard et. al|2001|p=70.}}</ref> Fiskeri udgør omkring 3% af den samlede eksport, og de vigtigste fiskerihavne ligger i Esbjerg, Thyborøn, Hanstholm, Hirtshals og Skagen.<ref>{{harvnb|Abildgaard et. al|2001|p=71.}}</ref> Ifølge [[Verdensbanken]] har Danmark Europas mest fleksible arbejdsmarked, og det er enkelt både at ansætte ny arbejdskraft og at nedbemande. Denne politik kaldes "[[flexicurity]]". Den danske arbejdskraft tæller omkring 2,9 millioner personer.<ref>{{Kilde www
+ |url=http://epp.eurostat.ec.europa.eu/tgm/table.do?tab=table&language=en&pcode=teilm020&tableSelection=1&plugin=1
+ |titel=Harmonised unemployment rate by gender
+ |besøgsdato=2010-02-20
+ |udgiver=Eurostat
+ |dato=
+}}
+</ref>
+[[Danske turistattraktioner|Turisterne i Danmark]] kommer hovedsageligt fra de nordiske lande, og turismen er en voksende sektor.<ref>[http://www.oem.dk/sw7187.asp Dansk turisme klarer sig godt trods øget international konkurrence] Økonomi- og Erhvervsministeriet. 5. april 2004. Besøgt 18. oktober 2008.</ref> Blandt de største turistattraktioner er [[Den Lille Havfrue]], [[Tivoli]] og [[Christiania]], alle sammen beliggende i [[København]]. Arbejdsløshed er et stigende problem,<ref>Lene Petersen: [http://forsiden.3f.dk/article/20100128/NYHEDER/100129904/2140/NYHEDER Ledighed stiger stadig] på ''forsiden.3f.dk''. Besøgt 7. februar 2010.</ref> og flere borgere lever også af statskassen end der bidrages til den.<ref name>[http://www.information.dk/telegram/223768 Flertallet lever nu af statskassen] på ''information.dk''. 7. februar 2010.</ref> Landet er selvforsynende med energi, og udvinding af naturgas og olie i Nordsøen giver en stor indtægt som f.eks. i 2006, hvor værdien var på 60,7 milliarder kroner, hvoraf staten fik 31,5 milliarder.<ref>[http://www.dr.dk/Nyheder/Penge/2007/06/13/125635.htm?rss=true Nordsøindtægter]</ref> Energien kommer hovedsageligt fra kul, olie og naturgas, men også i stigende grad vindenergi. Imens udgør [[biobrændsel]], solenergi og [[geotermi]]sk energi en lille del.<ref>{{harvnb|Abildgaard et. al|2001|p=74.}}</ref> Frem til begyndelsen af 1980'erne var økomomien plaget af store stabilitetsproblemer, som man kun gradvis og med besvær fik bugt med i løbet af 1980'erne. Under [[Poul Schlüter|Schlüters]] regering kom en såkaldt "[[Kartoffelkuren|Kartoffelkur]]", som gjorde lån meget dyre og fik forbruget til at rasle ned.<ref>{{harvnb|Kjersgaard|1993|p=328-30}}</ref> Arbejdsløsheden var rekordhøj i 1993.<ref>{{kilde www |url=http://www.fm.dk/Publikationer/1999/Finanslovforslaget%202000%20Velfaerd%20i%20det%20nye%20aarhundrede%20-%20faelles%20ansvar/1%20Fremgang%20paa%20syvende%20aar.aspx |titel=1. Fremgang på syvende år |udgiver=[[Finansministeriet]] |udgivelsesdato=31. august 1999
+|besøgsdato=30. august 2010 |arbejde=Finanslovforslaget 2000: Velfærd i det nye århundrede - fælles ansvar}}</ref> Også det problem blev efterhånden bekæmpet ret effektivt, takket være regeringerne [[Poul Nyrup Rasmussen]] og [[Anders Fogh Rasmussen]]s effektive, men ret kostbare arbejdsmarkedspolitik, berømmet i udlandet under navnet [[flexicurity]].<ref>[http://www.time.com/time/magazine/article/0,9171,1684528,00.html Why Denmark loves globalization]</ref>
+
+[[Fil:Storebæltsbroen from Sjælland.jpg|thumb|left|[[Storebæltsbroen]] forbinder [[Fyn]] og [[Sjælland]]]]
+[[Danmarks infrastruktur]] er veludbygget og generelt i god stand<ref>[http://www.oem.dk/publikationer/html/vvilkaar/kap09_1.htm Vækstvilkår i Danmark] på ''oen.dk''. Besøgt 7. februar 2010.</ref> og består hovedsageligt af almindelige [[landevej]]e, [[motorvej]]e og et tognet med to primære togselskaber, [[Arriva]] og [[DSB]]. Danmark er et af de lande i verden med mest [[motorvej]] pr. indbygger. [[Lastbil]]en er oftest den del af transportskæden, der leverer godset til den endelige destination, og dominerer derfor den danske godstransport. Den står også for ca. 80 pct. af den samlede godstransport, skibe og færger står for ca. 19 pct., mens jernbanen står for kun ca. 1 pct.<ref>Transportminiteriet, april - [http://www.trm.dk/graphics/Synkron-Library/trafikministeriet/Publikationer/2009/godsredeg%F8relsen/Endelig%20redeg%F8rlse%2007-04-09.pdf Redegørelse om "Fremtidens godstransport"], s 1-2</ref> Mere end 170 millioner passagerer bliver årligt transporteret på jernbanenettet.<ref name="Jernbanen i tal">[http://www.bane.dk/visArtikel.asp?artikelID=136 Banedanmark: Jernbanen i tal]</ref> Der findes fem internationale lufthavne i Danmark, hvor [[Kastrup Lufthavn]] med sine knap 21 millioner passagerer årligt er Skandinaviens største lufthavn.<ref>[http://borsen.dk/transport/nyhed/135264/ Kastrup styrkes som Nordens største lufthavn] Børsen.dk 7. februar 2008. Besøgt 18. oktober 2008.</ref> Den fungerer som lufthavn ikke bare for danskere, men også for store dele af den sydsvenske befolkning. Andre store lufthavne er [[Billund Lufthavn]] i Jylland, samt [[Ålborg Lufthavn|Ålborg]], [[Esbjerg Lufthavn|Esbjerg]] og [[Århus Lufthavn|Århus]]. 
+
+Som en af verdens største søfartsnationer, har Danmark et omfattende færgenetverk, både i ind- og  udland.<ref>[http://www.oem.dk/sw18649.asp Verdens beslutningstagere for søsikkerhed samles i København] på ''oem.dk''. 1. maj 2007. Besøgt 7. februar 2010.</ref> Færgerne bruges dog ikke specielt meget til de forskellige landsdele, idet de er forbundet med [[Lillebæltsbroen (1970)|Lille-]] og [[Storebæltsbroen]]. Danmark har den bedste pressefrihed i verden.<ref>[http://www.rsf.org/en-classement1003-2009.html Press Freedom Index 2009] Besøgt 7. februar 2010.</ref> [[DR]] er Danmarks offentlige broadcaster,<ref name=BBC>[http://news.bbc.co.uk/2/hi/europe/country_profiles/1032760.stm Country Profile: Denmark] BBC News. Sidst opdateret 8. juli 2008. Besøgt 18. oktober 2008.</ref> og landet har 26 tv-stationer plus 51 [[repeater]]e.<ref name=CIA/> Internet og mobiltelefon er meget udbredt; der findes mere end dobbelt så mange mobiltelefoner end normale telefoner.<ref name=CIA/>
+
+== Demografi ==
+
+{{Uddybende|Danmarks demografi}}
+{{uddybende|tekst=Se også|Danmarks største byer}}
+
+[[Fil:Vor Frelsers Kirke-view10.jpg|thumb|København er den største by i Danmark med over 1 million indbyggere]]
+Ifølge estimater fra juli 2008 havde Danmark en befolkning på 5.482.266 indbyggere,<ref name=statistik>"Danmarks Statistik"</ref> hvoraf etniske danskere udgjorde pr. 1. januar 2007 91,1%, 4.968.436, af indbyggerne, mens de resterende 8,9%, som var indvandrere og efterkommere udgjorde 477.700.<ref name=Statistik1>[http://www.dst.dk/nytudg/11817 Danmarks statistik: Stadig flere polske indvandrere i Danmark]</ref> Befolkningen er ujævnt fordelt: I [[Østdanmark]] bor ca. 250 personer pr. km², mens der vest for [[Storebælt]] bor omkring 100 personer pr. km².<ref>[http://www.statistikbanken.dk/BEF1A07 Statistikbanken BEF1A07] Besøgt 2. februar 2010.</ref> I hovedstaden [[København]] bor lidt over 1 million eller ca. en femtedel af hele landets befolkning.<ref>[http://www.dst.dk/pukora/epub/Nyt/2009/NR160.pdf Nyt fra Danmarks Statistik - tabel 2]</ref> 85% af befolkningen bor i byerne.<ref>[http://www.nyidanmark.dk/da-dk/Medborgerskab/Medborger_i_danmark/1+geografi+og+befolkning.htm 1 Geografi og befolkning]. 1. februar 2010.</ref> Der findes et tysk-sindet mindretal i [[Sønderjylland]].
+
+Næsten en femtedel af befolkningen er under 15 år eller 65 år eller over, mens over halvdelen er 15-64 år.<ref name=CIA>[https://www.cia.gov/library/publications/the-world-factbook/geos/da.html "Denmark" – ''The World Factbook''] 23. oktober 2008. Besøgt 24. oktober.</ref> Det danske folk rangeres som det gladeste folk i hele verden, baseret på helbreds-, velfærds- og uddannelsesstandarder.<ref>[http://news.bbc.co.uk/2/hi/health/5224306.stm Denmark 'happiest place on earth'] BBC News. 28. juli 2006. Besøgt 17. oktober 2008.</ref> 
+
+[[Fil:Tjorring kirke.jpg|thumb|left|Kirke i Danmark: kristendommen er den mest udbredte religion i Danmark]]
+Landet er befolket af forskellige etniske grupper som skandinavere, grønlændere, færinger, tyskere, tyrkere, iranere og somaliere.<ref name=CIA/> Siden [[2003]] har der bl.a. været arbejdskraftindvandring fra [[Polen]], [[Tyskland]], [[Litauen]] og andre europæiske lande.<ref name=Statistik1/> Antallet af immigranter, der kommer ind i Danmark pga. familiesammenføring er faldet dramatisk i perioden 2001 - 2006. I den samme periode er antallet af asylansøgelsesgodkendelser også faldet dramatisk, hvilket også gælder asylansøgerne.<ref>[http://www.nyidanmark.dk/NR/rdonlyres/01D113D6-EA0D-4DB6-B2F9-DA47A6706EFF/0/tal_og_fakta_2006.pdf Tal og fakta på udlændingeområdet 2006]</ref> I 2007 kom den største gruppe af flygtninge fra Irak.<ref>[http://flygtning.dk/Hvem_flygter_til_Dan.877.0.html Hvem flygter til Danmark?] Dansk Flygtningehjælp. 13. august 2008. Besøgt 20. oktober 2008.</ref> 
+
+I forbindelse med den stigende udvikling og [[industrialisering]] er Danmarks befolkning også steget stødt. I 1700-tallet steg befolkningstallet kraftigt.<ref name="Signalement">[www.unipress.dk/docs/managed/.../9788779341692_excerpt.pdf Signalement af perioden 1730-1850] hos ''unipress.dk''. Besøgt 2. februar 2010.</ref> Den første folkeoptælling af Danmarks indbyggere går helt tilbage til 1735,<ref>{{harvnb|Abildgaard et.al|2002|p=91.}}</ref> hvor befolkningen der dengang lå på ca. 718.000.<ref>[http://www.vimu.info/general_04.jsp?id=mod_18_6&lang=da&u=child&flash=true&s=E679C26CFFD4D35346AD662EF46EF229 Befolkningsudvikling] på ''vimu.info.''. Besøgt 2. februar 2010.</ref> Fra 1769 til 1900 mere end tredoblede befolkningen.<ref name="Signalement"/><ref name="Historie-nu">Preben Etwil [http://www.historie-nu.dk/site/index.php?option=com_content&task=view&id=590&Itemid=82 Den danske stamme]. 15. april 2008. Besøgt 2. februar 2010.</ref> Frem til 1960'erne var Danmark et meget ensartet samfund, da indvandringen langsomt til.<ref name="Historie-nu"/>
+
+[[Dansk (sprog)|Dansk]] som er det officielle sprog, tales overalt i landet.<ref>[http://www.bbc.co.uk/languages/european_languages/countries/denmark.shtml Languages across Europe - Denmark] Besøgt 17. oktober 2008.</ref> Dansk består af [[Danske dialekter|mange dialekter]] og kan deles ind i tre hovedgrupper: [[Østdansk]], [[ødansk]]
+og [[jysk]].<ref>{{harvnb|Cramer|Kirkegaard|1993|p=29-37.}}</ref> Færøsk, grønlandsk, og tysk er minoritetssprog. Engelsk er et meget udbredt fremmedsprog.<ref name=CIA/>
+
+=== Religion ===
+Danmark har religionsfrihed, 80,9% af den danske befolkning var i 2010 medlem af den evangelisk-lutherske, danske [[Folkekirken|folkekirke]].<ref>[http://www.statbank.dk/statbank5a/default.asp?w=1117 StatBank.DK Medlemmer af den danske folkekirke] Besøgt 16. feb 2010.</ref> Det var et fald på 4% gennem 10 år; i 2000 var det næsten 85%.<ref>[http://www.km.dk/folkekirken/statistik-og-oekonomi/kirkestatistik/folkekirkens-medlemstal.html Statistik 1990 - 2009] Kirkeministeriet</ref> Alligevel betragter kun 71% sig som troende,<ref>[http://www.staff.hum.ku.dk/hojs/gudstro/pdf/Luchau.nov.2004.pdf Peter Lüchau/European Values Study 1999]</ref> og lidt under halvdelen sig som religiøse<ref>[http://www.staff.hum.ku.dk/hojs/gudstro/pdf/Luchau.nov.2004.pdf Peter Lüchau/Gallup 1997]</ref> og få som meget religiøse.<ref>[http://www.kristeligt-dagblad.dk/artikel/313810:Kirke---tro--Skandinaver-er-de-mindst-religioese-i-verden Kristeligt Dagblad/Gallup 2006-2008]</ref> Med en stigende indvandring fra især muslimske lande er [[islam]] blevet Danmarks næststørste religion med omkring 3,8-4,0 % muslimer (2004).<ref>[[Tim Jensen]]: [http://www.religion.dk/artikel/117924:Spoerg-om-tro-og-viden--Statistik-over-religioest-tilhoersforhold-i-Danmark ''Statistik over religiøst tilhørsforhold i Danmark''], [[religion.dk]]</ref> De øvrige trosretninger er [[katolicisme]] 35.000 tilhængere, [[Jehovas vidner]] med 15.000 tilhængere, 7.000 [[Jødedom|jøder]], [[Baptisme|baptister]] med 5.500 tilhængere, 5.000 tilhængere af [[Pinsebevægelsen]], og 4.500 er [[mormon]]er. Desuden en del andre trosretninger med under 3.000 medlemmer hver. I 2006 mente omkring 5,4% at de ikke havde nogen religiøs tilknytning, og 1,5% ser sig selv om [[Ateisme|ateister]].<ref name="International Religious Freedom Report">[http://www.state.gov/g/drl/rls/irf/2006/71377.htm ''Denmark - International Religious Freedom Report 2006''] 15. september 2006. Besøgt 23. oktober 2008.</ref>
+
+== Kultur ==
+
+{{Uddybende|Danmarks kultur}}
+
+[[Fil:Leverpostejmad.jpg|thumb|right|[[Rugbrød]] med [[leverpostej]] og evt. med noget [[rødbede]] er en typisk dansk mellemmad]]
+Den danske kultur ligner til størstedels, det man finder i andre europæiske lande. Man fejrer [[fødselsdag]], [[konfirmation]] og [[fastelavn]]. [[Dansk humor]] og begrebet [[hygge]] er ting, som opfattes som særligt danske.<ref>[http://www.visitdenmark.us/usa/en-us/menu/turist/nyheder/nyheder/kunstenathyggesig.htm The Danish Art of Hygge from Visit Denmark]. Retrieved 4 December 2008.</ref>
+
+[[Dansk køkken|Den danske mad]] er sammensætning af traditionel dansk mad som [[rugbrød]] og [[frikadelle]]r og udenlandsk mad som [[pizza]], [[burger]] og [[kebab]].<ref>{{harvnb|Holm|1997|p=9.}}</ref>
+Det mest almindelige måltidsmønster består af tre hovedmåltider ([[morgenmad]], [[frokost]] og [[aftensmad]]),<ref name=dfvfmaaltid>Tal fra Danmarks Fødevareforskning: [http://www.dfvf.dk/Default.aspx?ID=12974&PID=112036&NewsID=928 Danskerne holder fast ved familiemåltidet]</ref> hvoraf aftensmaden for de fleste er det største og vigtigste måltid. [[Det kolde bord]], som er en sammensætning af kolde og lune retter med brød serveres typisk ved højtider, som [[jul]], og [[påske]]. Danskerne har på verdensplan det største eller et af de største forbrug af [[kød]] pr. indbygger på over 100&nbsp;kg årligt.<ref>Tal for kødforbruget per dansker fra ''[[FAO|Food and Agricultural Organisation]] of the United Nations (FAO)'' hentet fra [http://earthtrends.wri.org/searchable_db/index.php?theme=8&variable_ID=193&action=select_countries Earthtrends.org] angiver 145,9 kg for 2002, mens indlandske tal fra [http://www.statistikbanken.dk/statbank5a/SelectVarVal/Define.asp?MainTable=FVF1&PLanguage=0&PXSId=0 Statistikbanen] angiver noget lavere 109,8 kg for 2002 og 98,8 kg for 2005.</ref>
+
+De første kendte komponister fra Danmark var faktisk tyskere, [[C.E.F. Weyse]] og [[Friedrich Kuhlau]] fra slutningen af 1700-tallet og frem. Sammen med [[B.S. Ingemann]] og [[J.P.E. Hartmann]] blev [[Niels W. Gade]] toneangivende i dansk musik i 1800-tallet. Carl Nielsen fra starten af 1900-tallet er den eneste internationalt kendte danske, klassiske komponist. Det var først i 2000'erne, at dansk musik gjorde internationalt bemærket. Popgrupper som [[Aqua (band)|Aqua]] og [[Cartoons]] synger både i og uden for Danmark, og visse danske rockmusikere synger på engelsk. Ved andre genrer som [[hiphop]] har [[Den Gale Pose]] gjort sig bemærket internationalt.<ref>{{harvnb|Abildgaard et.al|2001|p=271.}}</ref>
+
+[[Fil:Hans Christian Andersen.jpg|130px|thumb|left|Den verdenskendte danske digter, [[Hans Christian Andersen]]]]
+[[Fodbold]] er den mest populære sport i Danmark, og landsholdet har kvalificeret sig til [[Verdensmesterskabet i fodbold|VM]] 3 gange.<ref>[http://www.landsholdet100.dk/100/100_vidste_du.html Vidste du, at...] [[DBU]]. Besøgt 25. januar 2010.</ref> [[Brian Laudrup]], [[Michael Laudrup]] og [[Peter Schmeichel]] er blandt Danmarks mest kendte fodboldlegender.<ref>[http://www.fifa.com/associations/association=den/goalprogramme/index.html FIFA] Besøgt 17. oktober 2008.</ref> Sejl- og vandsportsgrene er også populære, og ligeså er [[badminton]] og [[håndbold]], mens håndbold også er opfundet i Danmark.<ref>[http://www.denstoredanske.dk/Livsstil,_sport_og_fritid/Sport/H%C3%A5ndbold/H%C3%A5ndbold/h%C3%A5ndbold_(Historie_og_udvikling) Håndbold (Historie og udvikling)] hos [[Den Store Danske]]. Besøgt 1. februar 2010.</ref> I løbet af 90'erne og 2000 vandt det [[Danmarks håndboldlandshold (damer)|danske kvindelandshold i håndbold]] adskillige præmier.<ref>{{harvnb|Abildgaard et.al|2001|p=286.}}</ref> 
+
+Danske film har fået international anerkendelse, ikke mindst for sin vilje til at eksperimentere.<ref name=autogeneret2>[http://news.bbc.co.uk/2/hi/europe/country_profiles/1032760.stm Country profile: Denmark] på ''news.bbc.co.uk''. Besøgt 3. februar 2010.</ref> I 1995 udviklede danske filminstruktører en helt ny filmart, ''[[Dogme 95]]'', der udfordrede filmreglerne og skabte stor international opmærksomhed omkring dansk film.<ref>{{harvnb|Abildgaard et.al|2001|p=282.}}</ref> Biograffilmsproduktionen var på 18 biograffilm i 1975 og steg siden til 41 biograffilm i 2005, hertil kan høre, at de danske films anerkendelse de senere år er vokset.<ref>{{de sprog}}[http://www.fafo.at/download/WorldFilmProduction06.pdf Weltfilmproduktionsbericht (Auszug)], Screen Digest, Juni 2006, s. 205–207 (besøgt 15. juni 2007)</ref> Blandt berømte filminstruktører er [[Lars von Trier]], [[Bille August]], [[Thomas Vinterberg]] og [[Susanne Bier]]. 
+
+[[Fil:Frederiksborg-2.jpg|thumb|[[Frederiksborg Slot]] der er i [[renæssance-arkitektur|renæssancestil]]]]
+Den første [[Dansk litteratur|danske litteratur]] stammer helt tilbage i 400 f.Kr.<ref name="Abildgaard, s. 235">{{harvnb|Abildgaard et.al|2001|p=235.}}</ref> Senere kom nedskrivninger af sagn og folkeeventyr man kender fra 1100- og 1200-tallet. En del af den første danske litteratur er derfor også de [[Islandsk litteratur i middelalderen|islandske]] [[saga]]er og [[Snorre Sturlasson]], som tilhørte den fælles [[Nordisk litteratur i middelalderen|nordiske litteratur]] dengang.<ref>[[Else Roesdahl]]: ''Vikingerners verden'', s. 16-18. Gyldendal. 4. udgave. 1993. ISBN 87-00-15666-3.</ref> [[Saxo Grammaticus]] fra 1100-tallet er den første store danske forfatter, selv om han skrev på latin.<ref name="Abildgaard, s. 235"/> Lidt [[Dansk litteratur i middelalderen|dansk litteratur]] kendes fra middelalderen i øvrigt, men først i løbet af den spirende oplysningstid begyndte den danske litteratur for alvor med [[Ludvig Holberg]]s stadig aktuelle komedier. Som forløber for romantikken kan nævnes [[Johannes Ewald]] og [[Jens Baggesen]]. Den bedst kendte dansker er forfatteren [[H.C. Andersen]], der er kendt for sine eventyr som ''[[Den Lille Havfrue]]'' og ''[[Den grimme ælling]].''<ref>Lars Bo Jensen: [http://www.andersen.sdu.dk/rundtom/stil.html H.C. Andersen - den største forfatter nogensinde!] Februar 2004. Besøgt 25. januar 2010.</ref>
+
+[[Danmarks arkitektur|Den danske arkitektur]] har sin tid helt tilbage hos vikingerne.<ref>[http://www.vikingdenmark.com/viking-houses-architecture-inside-layout.html Viking Houses from Viking Denmark]. Retrieved 14 November 2009.</ref> Den blev mere betydelig i [[middelalderen]], da de første kirker i [[romansk stil|romansk]] og [[gotik|gotisk stil]] opstod i hele landet.<ref>[http://www.natmus.dk/cons/walls/chrchpnt.htm Introduction to the Restoration of Danish Wall Paintings. From the National Museum of Denmark]. Retrieved 11 November 2009.</ref><ref>[http://www.visitdenmark.com/irland/en-ie/menu/turist/inspiration/detkulturelledanmark/kunst/churces-and-cathedrals.htm Churches and cathedrals. From VisitDenmark]. Retrieved 5 December 2009.</ref> [[Frederik 3.]] og [[Christian 4.]] fik hollandske og flamske designere til at bygge storslåede kongeslotte og paladser i [[renæssance-artiktektur|renæssancestil]].<ref>[http://whc.unesco.org/en/list/696 Kronborg. UNESCO World Heritage Site]. Retrieved 11 November 2009.</ref><ref>[http://www.rosenborgslot.dk/asp/menu/menuPages/omslottet_2.asp?countryID=2 The History of Rosenborg Castle.] Retrieved 7 December 2009.</ref> I sin sene regeringstid kunne Christian 4. også indføre [[barok]]stilen, som var populær i en vis periode. Den [[neoklassisk arkitektur|neoklassiske arkitektur]] kom oprindeligt fra Frankrig, men blev langsomt indført af danskere, som i stigende grad udtrykte stilen. En produktiv periode med [[Historicisme (arkitektur)|historicisme]] endte med at udvikle sig til den [[nationalromatisk stil|nationalromantiske stil]]. Det var dog ikke indtil 60'erne, at danske arkitekter gjorde sig bemærket udenlands med en stilart kendt som [[funktionalisme (arkitektur)|funktionalisme]].<ref>[http://www.denstoredanske.dk/Kunst_og_kultur/Arkitektur/Danmark/Henning_Larsen Henning Larsen from Den Store Danske.] In Danish. Retrieved 5 November 2009.</ref> Den har udviklet det, der i dag kendes som [[Sydney Opera House]] og [[Storebæltsbroen]].<ref>{{cite web| author  = Kathy Marks| title  = World Heritage honour for 'daring' Sydney Opera House| url   = http://www.independent.co.uk/news/world/australasia/world-heritage-honour-for-daring-sydney-opera-house-455193.html| work  = [[The Independent]]| publisher = [[Independent News & Media]]| date  = 27 June 2007| accessdate = 14 September 2009}}</ref>
+
+Danmark har fire [[Verdensarvsliste|verdensarve]]: [[Jellingestenene]], [[Kronborg Slot]], [[Roskilde Domkirke]] og [[Ilulissat Isfjord]].<ref>[http://whc.unesco.org/en/statesparties/dk World Heritage] Besøgt 18. oktober 2008.</ref>
+
+== Noter ==
+{{Reflist|3}}
+
+== Referencer ==
+<div class="references-small" style="-moz-column-count:1; column-count:1">
+* {{Citation|last= Abildgaard et.al |first= Hanne
+|year= 2001
+|title= Bogen om Danmark
+|publisher= Nordisk Bog Center A/S
+|isbn= 87-7789-096-5}} 
+* {{Citation|last1= Brinckmann |first1= Henning |last2= Poulsen |first2= Jens Aage
+|year= 1999
+|title= Da Danmark blev mindre og verden større
+|publisher= Gyldendal
+|isbn= 87-00-32578-3 }} 
+* {{Citation|last1= Clasen |first1= Gry |last2= Fibiger |first2= Helle
+|year= 2003
+|title= Demokratiske øjebliksbilleder
+|publisher= CDR-forlag
+|isbn= 87-7841-339-7}} 
+* {{Citation
+  |last1=Cramer|first1=Jens|last2=Kirkegaard|first2=Peter
+  |year=1993
+  |title=Dansk sproglære for nordmænd
+  |publisher=Gyldendal
+  |isbn=82-417-0675-8}}
+* {{Citation|last= Deurs |first= Piet van |year= 1996
+|title= Spillet om magten - myte og virkelighed ■ 1
+|publisher= DR Multimedie |location= København
+|isbn= 87-7047-545-8 }}
+* {{Citation|last= Ebbesen |first= Klaus
+|year= 1993
+|title= Danske regenter og deres tid
+|publisher= Munksgaard
+|isbn= 87-16-10401-3}} 
+* {{Citation|last1= Gammelgaard |first1= Frederik |last2=Sørensen |first2=Niels
+|year= 1998
+|title= Danmark - en demokratisk stat
+|publisher= Alinea
+|isbn= 87-23-00280-8}} 
+* {{Citation|last =Holm|first=Lotte|year = 1996|contribution-url = http://www.kum.dk/sw1925.asp
+ | editor-last =Overgaard
+ | editor-first =Tina
+ | editor2-last =Hansen
+ | editor2-first =Martin Winther
+ | title =Den danske madkultur
+ | edition =
+ | series = Kulturprofilen
+ | place =
+ | publication-place =
+ | publisher = Kulturministeriet|isbn =87-87361-47-7| url = http://www.kum.dk/sw1918.asp
+}}
+* {{Citation|last= Holm-Svendsen |first= Niels
+|year= 1999
+|title= Rock'n roll og nylon
+|publisher= Gyldendal
+|isbn= 87-00-33780-3}} 
+* {{Citation|last= Ingvorsen |first= Leif
+|year= 1981
+|title= Danmarks i syv århundrede 1100-1800
+|publisher= Gad
+|isbn= 87-12-52460-3}} 
+* {{Citation|last= Jensen |first= Ole Helmer
+|year= 1990
+|title= Modstand og befrielse
+|publisher= Munksgaard
+|isbn= 87-16-10540-0}} 
+* {{Citation|last= Jørgensen |first= Gitte
+|year= 1995
+|title= Sådan styres Danmark
+|publisher= Flachs
+|isbn= 87-7826-031-0}} 
+* {{Citation|last= Kjersgaard |first= Erik
+|year= 1993
+|title= Danmarks historie
+|publisher= Aschehoug
+|isbn= 87-11-12195-5}} 
+* {{Citation|last= Munksgaard |first= Knud
+|year= 2000
+|title= Demokratiet i arbejde
+|publisher= Nyt Nordisk Forlag Arnold Busck
+|isbn= 87-17-06963-7}} 
+* {{Citation|last= Scocozza |first= Benito
+|year= 1997
+|title= Politikens bog om danske monarkier
+|publisher= Politikens forlag
+|isbn= 87-567-5772-7}} 
+* {{Citation|last1= Scocozza |first1= Benito |last2= Jensen |first2= Grethe
+|year= 1999
+|title= Danmarkshistoriens Hvem, Hvad og Hvornår
+|publisher= Politikens Forlag |location= København
+|isbn= 87-567-6094-9 }} 
+* {{Citation|last= Simonsen |first= Kjartan
+|year= 2000
+|title= Danske regenter og deres tid
+|publisher= Alinea
+|isbn= 87-23-00641-2}} 
+* {{Citation|last= Skovmand |first= Sven
+|year= 1980
+|title= Historie 3
+|publisher= Munksgaard
+|isbn= 87-16-08135-8}}
+</div>
+
+== Eksterne henvisninger ==
+{{Søsterlinks
+| emne = Danmark
+| commons = Danmark
+| wikt = Danmark
+}}
+{{Portal|Danmark}}
+{{Portal2|Danmark}}
+;På dansk
+* [http://www.stm.dk/Index/mainstart.asp?o=1&n=3&s=1&str=stor Statsministeriets hjemmeside]
+* [http://www.ft.dk Folketingets officielle hjemmeside]
+* [http://www.dmoz.org/World/Dansk/Regional/Europa/Danmark/ Danmark] hos [[Open Directory Project]]
+* [http://www.dst.dk/ Danmarks Statistik]
+* [http://www.dmi.dk/dmi/index/danmark.htm DMI, vejr klima og hav]
+* [http://www.visitdenmark.com/danmark/da-dk/menu/turist/turistforside.htm Turistinformation om Danmark]
+;På engelsk
+{{World Factbook|da|Danmark}}
+* [http://wikitravel.org/en/Denmark Danmark] hos [[Wikitravel]]
+* [http://ia311326.us.archive.org//load_djvu_applet.php?file=2/items/EncyclopaediaBritannica1911HQDJVU/Encyclopedia_Britannica_08_Demijohn_-_Edward_the_black_prince.djvu Danmark] på det nu frie [[Encyclopaedia Britannica Eleventh Edition]] (kan findes på s. 23-43)
+
+{{Minibus|[[Wikipedia:Minibussernes holdeplads|Minibusruten Danmark]]|[[Folkekirken]]|[[Parlamentarisme]]}}
+{{Danmarks regioner}}
+<!-- {{Danmarks amter}} Findes ikke mere! -->
+{{Europa}}
+{{EU}}
+{{OECD}}
+{{Nordisk Råd}}
+{{Dagens artikel|dato=2. september 2005}}
+
+{{lovende}}
+
+[[Kategori:Skandinavien]]
+[[Kategori:Norden]]
+[[Kategori:Lande i Europa]]
+[[Kategori:Europarådet]]
+[[Kategori:Danmark| ]]
+
+{{Link FA|be-x-old}}
+{{Link FA|no}}
+{{Link FA|vi}}
+{{Link FA|af}}
+{{Link GA|ar}}
+
+[[ace:Denmark]]
+[[af:Denemarke]]
+[[als:Dänemark]]
+[[am:ዴንማርክ]]
+[[an:Dinamarca]]
+[[ang:Denemearc]]
+[[ar:الدنمارك]]
+[[arc:ܕܐܢܡܐܪܩ]]
+[[arz:دنمارك]]
+[[ast:Dinamarca]]
+[[az:Danimarka]]
+[[bar:Dänemark]]
+[[bat-smg:Danėjė]]
+[[bcl:Denmark]]
+[[be:Данія]]
+[[be-x-old:Данія]]
+[[bg:Дания]]
+[[bi:Denmark]]
+[[bn:ডেনমার্ক]]
+[[bo:དན་མྲག]]
+[[bpy:ডেনমার্ক]]
+[[br:Danmark]]
+[[bs:Danska]]
+[[ca:Dinamarca]]
+[[ceb:Denmark]]
+[[ckb:دانمارک]]
+[[co:Danimarca]]
+[[crh:Danimarka]]
+[[cs:Dánsko]]
+[[csb:Dëńskô]]
+[[cu:Данїꙗ]]
+[[cv:Дани]]
+[[cy:Denmarc]]
+[[de:Dänemark]]
+[[diq:Danimarka]]
+[[dsb:Dańska]]
+[[dv:ޑެންމާކު]]
+[[dz:ཌེན་མཱཀ་]]
+[[ee:Denmark]]
+[[el:Δανία]]
+[[en:Denmark]]
+[[eo:Danio]]
+[[es:Dinamarca]]
+[[et:Taani]]
+[[eu:Danimarka]]
+[[ext:Dinamarca]]
+[[fa:دانمارک]]
+[[fi:Tanska]]
+[[fiu-vro:Taani]]
+[[fo:Danmark]]
+[[fr:Danemark]]
+[[frp:Danemârc]]
+[[frr:Dånmark]]
+[[fur:Danimarcje]]
+[[fy:Denemark]]
+[[ga:An Danmhairg]]
+[[gag:Daniya]]
+[[gan:丹麥]]
+[[gd:An Danmhairg]]
+[[gl:Dinamarca - Danmark]]
+[[gn:Ndinamayka]]
+[[got:𐌳𐌰𐌽𐌹𐌼𐌰𐍂𐌺𐌰]]
+[[gu:ડેનમાર્ક]]
+[[gv:Yn Danvarg]]
+[[hak:Tan-ma̍k]]
+[[haw:Kenemaka]]
+[[he:דנמרק]]
+[[hi:डेनमार्क]]
+[[hif:Denmark]]
+[[hr:Danska]]
+[[hsb:Danska]]
+[[ht:Danmak]]
+[[hu:Dánia]]
+[[hy:Դանիա]]
+[[ia:Danmark]]
+[[id:Denmark]]
+[[ie:Dania]]
+[[ilo:Denmark]]
+[[io:Dania]]
+[[is:Danmörk]]
+[[it:Danimarca]]
+[[ja:デンマーク]]
+[[jbo:danmark]]
+[[jv:Denmark]]
+[[ka:დანია]]
+[[kaa:Daniya]]
+[[kbd:Даниэ]]
+[[kg:Danemark]]
+[[kk:Дания]]
+[[kl:Danmarki]]
+[[kn:ಡೆನ್ಮಾರ್ಕ್‌]]
+[[ko:덴마크]]
+[[koi:Данмарк]]
+[[krc:Дания]]
+[[ku:Danîmarka]]
+[[kv:Дания]]
+[[kw:Danmark]]
+[[ky:Дания]]
+[[la:Dania]]
+[[lad:Danimarka]]
+[[lb:Dänemark]]
+[[lg:Denimaaka]]
+[[li:Denemarke]]
+[[lij:Danemarca]]
+[[lmo:Danimarca]]
+[[ln:Danemark]]
+[[lt:Danija]]
+[[ltg:Daneja]]
+[[lv:Dānija]]
+[[mdf:Данмастор]]
+[[mg:Danmarka]]
+[[mhr:Даний]]
+[[mi:Tenemāka]]
+[[mk:Данска]]
+[[ml:ഡെന്മാർക്ക്]]
+[[mn:Дани]]
+[[mr:डेन्मार्क]]
+[[ms:Denmark]]
+[[mt:Danimarka]]
+[[my:ဒိန်းမတ်နိုင်ငံ]]
+[[na:Denemark]]
+[[nah:Dinamarca]]
+[[nap:Danemarca]]
+[[nds:Däänmark]]
+[[nds-nl:Denmaark]]
+[[ne:डेनमार्क]]
+[[nl:Denemarken]]
+[[nn:Danmark]]
+[[no:Danmark]]
+[[nov:Dania]]
+[[nrm:Dannemar]]
+[[nv:Déinish Dineʼé Bikéyah]]
+[[oc:Danemarc]]
+[[os:Дани]]
+[[pam:Denmark]]
+[[pap:Dinamarka]]
+[[pdc:Denemarrick]]
+[[pih:Denmark]]
+[[pl:Dania]]
+[[pms:Danimarca]]
+[[pnb:ڈنمارک]]
+[[pnt:Δανία]]
+[[ps:ډېنمارک]]
+[[pt:Dinamarca]]
+[[qu:Dansuyu]]
+[[rm:Danemarc]]
+[[rmy:Danemarka]]
+[[rn:Danemarke]]
+[[ro:Danemarca]]
+[[roa-rup:Danimarca]]
+[[roa-tara:Danemarche]]
+[[ru:Дания]]
+[[rue:Даньско]]
+[[rw:Danimarike]]
+[[sa:डेनमार्क]]
+[[sah:Дания]]
+[[sc:Danimarca]]
+[[scn:Danimarca]]
+[[sco:Denmark]]
+[[se:Dánmárku]]
+[[sh:Danska]]
+[[si:ඩෙන්මාකය]]
+[[simple:Denmark]]
+[[sk:Dánsko]]
+[[sl:Danska]]
+[[so:Denmark]]
+[[sq:Danimarka]]
+[[sr:Данска]]
+[[ss:IDenimakhi]]
+[[st:Denmark]]
+[[stq:Dänemark]]
+[[su:Dénmark]]
+[[sv:Danmark]]
+[[sw:Denmark]]
+[[szl:Dańijo]]
+[[ta:டென்மார்க்]]
+[[te:డెన్మార్క్]]
+[[tet:Dinamarka]]
+[[tg:Дания]]
+[[th:ประเทศเดนมาร์ก]]
+[[tk:Daniýa]]
+[[tl:Dinamarka]]
+[[tpi:Denmak]]
+[[tr:Danimarka]]
+[[tt:Дания]]
+[[udm:Дания]]
+[[ug:دانىيە]]
+[[uk:Данія]]
+[[ur:ڈنمارک]]
+[[uz:Daniya]]
+[[vec:Danimarca]]
+[[vi:Đan Mạch]]
+[[vls:Denemarkn]]
+[[vo:Danän]]
+[[war:Dinamarka]]
+[[wo:Danmaark]]
+[[wuu:丹麦]]
+[[xal:Данскгин Нутг]]
+[[xmf:დანია]]
+[[yi:דענמארק]]
+[[yo:Dẹ́nmárkì]]
+[[zea:Denemarken]]
+[[zh:丹麦]]
+[[zh-classical:丹麥]]
+[[zh-min-nan:Dan-kok]]
+[[zh-yue:丹麥]]
+[[zu:IDenimaki]]
