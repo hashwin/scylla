@@ -13,6 +13,7 @@ group :development do
   gem "character-encodings"
   gem "wikipedia-client"
   gem "json"
+  gem "unicode"
 end
 
 group :test do

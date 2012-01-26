@@ -9,6 +9,7 @@ GEM
       bundler (~> 1.0)
       git (>= 1.2.5)
       rake
+    json (1.6.3)
     linecache (0.46)
       rbx-require-relative (> 0.0.4)
     mail (2.3.0)
@@ -32,6 +33,7 @@ GEM
     treetop (1.4.10)
       polyglot
       polyglot (>= 0.3.1)
+    unicode (0.4.0)
     wikipedia-client (1.0.0)
 
 PLATFORMS
@@ -41,9 +43,11 @@ DEPENDENCIES
   bundler (~> 1.0.0)
   character-encodings
   jeweler (~> 1.6.4)
+  json
   mail
   mocha
   ruby-debug (~> 0.10.4)
   sanitize
   shoulda
+  unicode
   wikipedia-client
