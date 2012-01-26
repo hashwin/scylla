@@ -1,6 +1,5 @@
 require 'sanitize'
 require 'cgi'
-require 'wikipedia'
 require 'unicode'
 
 module Scylla
@@ -32,6 +31,7 @@ module Scylla
     end
     
     def get_wikis
+      require 'wikipedia'
       locales = Scylla::Resources.locales
       locales.each do |key, value|
         text = get_wiki(value[0],value[1])
