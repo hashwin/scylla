@@ -7,7 +7,6 @@ require 'scylla'
 require 'sanitize'
 require 'mocha'
 
-
 begin
   Bundler.setup(:default, :development)
 rescue Bundler::BundlerError => e
