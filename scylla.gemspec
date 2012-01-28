@@ -12,7 +12,9 @@ Gem::Specification.new do |s|
     "LICENSE.txt",
     "README.rdoc"
   ]
-  s.files = Dir.glob("**/**")
+  s.files       = Dir['lib/**/*'] + %w(README.rdoc)
+  s.test_files  = Dir['test/**/*']
+  s.executables = ['scylla']
   s.homepage = %q{http://github.com/hashwin/scylla}
   s.licenses = ["MIT"]
   s.require_paths = ["lib"]
