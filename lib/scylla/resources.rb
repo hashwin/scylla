@@ -33,7 +33,6 @@ module Scylla
     "welsh" => ["cy","cymru"],
     "catalan" => ["ca","Catalunya"],
     "thai" => ["th","ประเทศไทย"],
-    "afrikaans" => ["af","Afrikaanse"],
     "czech" => ["cs", "Československo"],
     "hindi" => ["hi", "भारत"],
     "kannada" => ["kn","ಕರ್ನಾಟಕ"],

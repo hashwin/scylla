@@ -5,7 +5,7 @@ require 'unicode'
 module Scylla
   class Generator
     attr_accessor :dirtext, :dirlm, :minsize, :delimiter
-
+    NONLATIN = ["bg","ar","ru","zh","ja","he","kn","ko","mr","hi","th","fa","el"]
     # dirtext: The location of the source training text files
     # minsize: The minimum size of the ngrams that you would like to store
     def initialize(dirtext = DEFAULT_SOURCE_DIR, dirlm = DEFAULT_TARGET_DIR, minsize = 0, silent = false, delimiter = "[[classifier_delimiter]]")
@@ -22,11 +22,13 @@ module Scylla
       languages = Dir.glob(@dirlm + "/*.lm")
       languages.each {|l| File.delete(l) }
       locales = Scylla::Resources.locales
+      get_wikis
       locales.each do |key, value|
         path = File.join(@dirtext, "#{key}.txt")
         text = ""
         File.open(path).each { |line| text += " " + line }
         write_lm(text, key)
+        File.delete(path)
       end
     end
     
@@ -53,7 +55,9 @@ module Scylla
       value = value.gsub(/\{\{(.+?)\}\}/m,"")
       value = value.gsub(/\{(.+?)\}/m,"")
       value = value.gsub(/\[(.+?)\]/m,"")
-      Sanitize.clean(value)
+      value = Sanitize.clean(value)
+      value = value.gsub(/[a-zA-Z]/,"") if NONLATIN.include?(locale)
+      clean(value)
     end
 
     # Reads a single text file specified by a path and writes a .lm file in 
