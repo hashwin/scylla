@@ -3,12 +3,7 @@ GEM
   specs:
     character-encodings (0.4.1)
     columnize (0.3.4)
-    git (1.2.5)
     i18n (0.6.0)
-    jeweler (1.6.4)
-      bundler (~> 1.0)
-      git (>= 1.2.5)
-      rake
     json (1.6.3)
     linecache (0.46)
       rbx-require-relative (> 0.0.4)
@@ -42,10 +37,10 @@ PLATFORMS
 DEPENDENCIES
   bundler (~> 1.0.0)
   character-encodings
-  jeweler (~> 1.6.4)
   json
   mail
   mocha
+  rake
   ruby-debug (~> 0.10.4)
   sanitize
   shoulda
