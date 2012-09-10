@@ -1,4 +1,4 @@
-require 'test/helper'
+require 'helper'
 
 class GeneratorTest < Test::Unit::TestCase
   context "create_lm ngrams" do
@@ -40,48 +40,6 @@ class GeneratorTest < Test::Unit::TestCase
 
     should "Remove characters that throw off language detection" do
       assert_equal "hello go to to watch some shitty videos woooooo friend win today", @sg.clean(@bad_text)
-    end
-  end
-
-  context "create .lm files out of text files" do
-    setup do
-      Scylla::Loader.set_dir(File.join("test","fixtures","lms"))
-      sourcedir = File.join("test", "fixtures", "source_texts")
-      lmdir = File.join("test", "fixtures", "lms")
-      @engtext = File.join(sourcedir, "english.txt")
-      @englm = File.join(lmdir,"english.lm")
-      @sg = Scylla::Generator.new(sourcedir, lmdir)
-      languages = Scylla::Loader.languages
-      text = ""
-      File.readlines(@engtext).each {|line| text += line }
-      @map = @sg.create_lm(text, true)
-    end
-
-    should "create lm file out of text file" do
-      @sg.write_lm(@engtext)
-      i = 0
-      File.readlines(@englm).each do |line|
-        break if i > 400
-        set = line.split("\t")
-        key = set.first
-        value = set.last.strip.to_i
-        assert_equal value, @map[i][1]
-        i += 1
-      end
-    end
-
-    should "create .lm files in bulk" do
-      @sg.train
-      languages = Scylla::Loader.languages
-      i = 0
-      File.readlines(@englm).each do |line|
-        break if i > 400
-        set = line.split("\t")
-        key = set.first
-        value = set.last.strip.to_i
-        assert_equal value, @map[i][1]
-        i += 1
-      end
     end
   end
 end

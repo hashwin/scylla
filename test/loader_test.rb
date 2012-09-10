@@ -1,4 +1,4 @@
-require 'test/helper'
+require 'helper'
 
 class LoaderTest < Test::Unit::TestCase
   context "#languages" do

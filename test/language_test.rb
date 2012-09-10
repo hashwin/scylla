@@ -1,4 +1,4 @@
-require 'test/helper'
+require 'helper'
 
 class LanguageTest < Test::Unit::TestCase
   context "language detection" do
@@ -20,6 +20,10 @@ class LanguageTest < Test::Unit::TestCase
         @sentences[key].each do |sentence|
           next if sentence.size < 50
           p sentence if key != sentence.language
+          if key != sentence.language
+            debugger
+            p "hello"
+          end
           assert_equal key, sentence.language
         end
       end

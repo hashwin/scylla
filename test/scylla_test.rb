@@ -1,4 +1,4 @@
-require 'test/helper'
+require 'helper'
 
 class ScyllaTest < Test::Unit::TestCase
   context "String methods" do
@@ -14,12 +14,12 @@ class ScyllaTest < Test::Unit::TestCase
     should "load language results for strings" do
       assert_not_nil @language
       assert_not_nil @languages
-      assert String, @language.class
-      assert Array, @languages.class
+      assert_equal String, @language.class
+      assert_equal Array, @languages.class
       assert_equal "english", @language
       assert_equal "english", @languages.first
       assert_equal "en", @locale
-      assert_equal "en", @locale.first
+      assert_equal "en", @locales.first
     end
   end
 end

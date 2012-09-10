@@ -10,7 +10,6 @@ group :development do
   gem "rake"
   gem "mail"
   gem "sanitize"
-  gem "character-encodings"
   gem "wikipedia-client"
   gem "json"
   gem "unicode"
@@ -19,5 +18,5 @@ end
 group :test do
   gem "shoulda", ">= 0"
   gem "mocha"
-  gem "ruby-debug", "~> 0.10.4"
+  gem "debugger"
 end
