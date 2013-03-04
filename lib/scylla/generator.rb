@@ -1,3 +1,4 @@
+# encoding: utf-8
 require 'sanitize'
 require 'cgi'
 require 'unicode'
@@ -5,7 +6,7 @@ require 'unicode'
 module Scylla
   class Generator
     attr_accessor :dirtext, :dirlm, :minsize, :delimiter
-    NONLATIN = ["bg","ar","ru","zh","ja","he","kn","ko","mr","hi","th","fa","el"]
+    NONLATIN = ["bg","ar","ru","zh","ja","he","kn","ko","mr","hi","th","fa","el","uk"]
     # dirtext: The location of the source training text files
     # minsize: The minimum size of the ngrams that you would like to store
     def initialize(dirtext = DEFAULT_SOURCE_DIR, dirlm = DEFAULT_TARGET_DIR, minsize = 0, silent = false, delimiter = "[[classifier_delimiter]]")
@@ -50,7 +51,9 @@ module Scylla
       }
       p article
       page = Wikipedia.find( article )
-      value = page.content.gsub(/\{\{(.*?)\}\}/,"")
+      value = page.raw_data['query']['pages'].values.first['revisions'].first.fetch('*')
+      value = value.force_encoding("UTF-8").chars.select {|c| c.valid_encoding?}.join
+      value = value.gsub(/\{\{(.*?)\}\}/,"")
       value = value.gsub(/\[\[(.+?)\]\]/m,"")
       value = value.gsub(/\{\{(.+?)\}\}/m,"")
       value = value.gsub(/\{(.+?)\}/m,"")
@@ -84,6 +87,7 @@ module Scylla
       string = CGI.unescapeHTML(string)
       string.gsub!(/(?:http|https):\/\/[a-z0-9]+(?:[\-\.]{1}[a-z0-9]+)*\.[a-z]{2,5}(?:(?::[0-9]{1,5})?\/[^\s]*)?/, "")
       string.gsub!(/[\*\^><!\"#\$%&\'\(\)\*\+:;,._\/=\?@\{\}\[\]|\-\n\r0-9]/," ")
+      string.gsub!(/[a-zA-Z]/, "") if string.scan(/[\p{L}&&[^a-zA-Z]]/).size/(string.scan(/[a-zA-Z]/).size*1.0) > 0.5
       Unicode::downcase(string.strip.split(" ").join(" "))
     end
 
