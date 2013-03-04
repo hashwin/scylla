@@ -26,19 +26,10 @@ Multiple results for other possible languages:
 
 == Training
 
-You can train scylla in new languages by providing sample texts in different languages. The default set is located in the 'source_texts' folder in the gem directory. Add new .txt files to this directory named according to the language i.e. a text file full of Hebrew text should be called 'hebrew.txt'. At least 500 lines of text recommended. Then, in the gem folder, run this:
+Training is done by fetching data from wikipedia. To fetch latest articles (The country name in the language
+in question, eg. "England" for English or "日本" for Japanese), run
 
  rake scylla:train
-
-If you want to store texts in your own folder, you can specify that to the rake task.
-WARNING: specifying a different folder deletes all language support for files located in the default directory if they are not copied over.
-
- rake scylla:train[/Users/hash/mytextdir]
- "Creating language map for /Users/hash/mytextdir/english.txt"
- "Creating language map for /Users/hash/mytextdir/kannada.txt"
- .
- .
- etc
 
 == Contributing to scylla
  
