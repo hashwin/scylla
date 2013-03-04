@@ -50,7 +50,8 @@ module Scylla
     # Gets the score of the text in question compared to a particular language
     def get_score(unknown, ngram)
       i, p = 0,0
-      while i < unknown.size
+      max_size = [unknown.size, 400].min
+      while i < max_size
         if (ngram[unknown[i]])
           p += (ngram[unknown[i]]-i).abs
         else

@@ -85,12 +85,13 @@ module Scylla
       string = string[0, delimit] if delimit
       string = Sanitize.clean(string)
       string = CGI.unescapeHTML(string)
+      string = Unicode::downcase(string)
       string.gsub!(/(?:http|https):\/\/[a-z0-9]+(?:[\-\.]{1}[a-z0-9]+)*\.[a-z]{2,5}(?:(?::[0-9]{1,5})?\/[^\s]*)?/, "")
-      string.gsub!(/[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}/, "")
+      string.gsub!(/[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}/, "")
       string.gsub!(/[\*\^><!\"#\$%&\'\(\)\*\+:;,._\/=\?@\{\}\[\]|\-\n\r0-9]/," ")
-      latin, nonlatin = string.scan(/[a-zA-Z]/), string.scan(/[\p{L}&&[^a-zA-Z]]/)
+      latin, nonlatin = string.scan(/[a-z]/), string.scan(/[\p{L}&&[^a-z]]/)
       string.gsub!(/[a-zA-Z]/, "") if !latin.empty? && !nonlatin.empty? && nonlatin.size/(latin.size*1.0) > 0.5
-      Unicode::upcase(string.strip.split(" ").join(" "))
+      string.strip.split(" ").join(" ")
     end
 
     # Creates a language map for a given input string. 
