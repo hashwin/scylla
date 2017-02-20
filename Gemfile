@@ -18,5 +18,5 @@ end
 group :test do
   gem "shoulda", ">= 0"
   gem "mocha"
-  gem "debugger"
+  gem "byebug"
 end
