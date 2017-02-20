@@ -21,6 +21,6 @@ Gem::Specification.new do |s|
   s.rubygems_version = %q{1.5.3}
   s.summary = %q{Ruby port of Textcat language guesser}
   s.add_development_dependency(%q<bundler>)
-  s.add_dependency(%q<sanitize>)
+  s.add_dependency(%q<sanitize unicode>)
 end
 
