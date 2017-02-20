@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = %q{scylla}
-  s.version = "1.0.8"
+  s.version = "1.1.0"
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Ashwin Hegde"]
   s.date = %q{2012-02-10}
