@@ -1,6 +1,6 @@
 require 'helper'
 
-class LoaderTest < Test::Unit::TestCase
+class LoaderTest < Minitest::Test
   context "#languages" do
     setup do
       Scylla::Loader.clear

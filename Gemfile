@@ -16,6 +16,8 @@ group :development do
 end
 
 group :test do
+  gem 'minitest'
+  gem 'test-unit'
   gem "shoulda", ">= 0"
   gem "mocha"
   gem "byebug"

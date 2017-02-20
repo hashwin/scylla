@@ -1,6 +1,6 @@
 require 'helper'
 
-class LanguageTest < Test::Unit::TestCase
+class LanguageTest < Minitest::Test
   context "language detection" do
     setup do
       @sentences = Hash.new

@@ -1,6 +1,6 @@
 require 'helper'
 
-class GeneratorTest < Test::Unit::TestCase
+class GeneratorTest < Minitest::Test
   context "create_lm ngrams" do
     setup do
       Scylla::Loader.set_dir(File.join("test","fixtures","lms"))

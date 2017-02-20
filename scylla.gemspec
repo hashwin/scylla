@@ -22,6 +22,5 @@ Gem::Specification.new do |s|
   s.summary = %q{Ruby port of Textcat language guesser}
   s.add_development_dependency(%q<bundler>)
   s.add_dependency(%q<sanitize>)
-  a.add_runtime_dependency('unicode', '~> 0.4.4')
+  s.add_runtime_dependency('unicode', '~> 0.4.4')
 end
-

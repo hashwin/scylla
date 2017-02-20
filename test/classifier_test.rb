@@ -1,7 +1,7 @@
 # encoding: utf-8
 require 'helper'
 
-class ClassifierTest < Test::Unit::TestCase
+class ClassifierTest < Minitest::Test
 
   context "#classify" do
     setup do

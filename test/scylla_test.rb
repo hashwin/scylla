@@ -1,6 +1,6 @@
 require 'helper'
 
-class ScyllaTest < Test::Unit::TestCase
+class ScyllaTest < Minitest::Test
   context "String methods" do
     setup do
       Scylla::Loader.set_dir(File.join("test","fixtures","lms"))
@@ -12,8 +12,8 @@ class ScyllaTest < Test::Unit::TestCase
     end
 
     should "load language results for strings" do
-      assert_not_nil @language
-      assert_not_nil @languages
+      assert @language
+      assert @languages
       assert_equal String, @language.class
       assert_equal Array, @languages.class
       assert_equal "english", @language

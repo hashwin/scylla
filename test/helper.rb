@@ -1,7 +1,7 @@
 require 'rubygems'
-require 'ruby-debug'
 require 'bundler'
-require 'test/unit'
+require "minitest/autorun"
+# require 'test/unit'
 require 'shoulda'
 require 'scylla'
 require 'sanitize'
@@ -18,5 +18,5 @@ end
 $LOAD_PATH.unshift(File.join(File.dirname(__FILE__), '..', 'lib'))
 $LOAD_PATH.unshift(File.dirname(__FILE__))
 
-class Test::Unit::TestCase
+class Minitest::Test
 end
