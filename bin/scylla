@@ -9,5 +9,5 @@ while(phrase != "exit")
   puts "Phrase:"
   STDOUT.flush
   phrase = gets.chomp
-  puts phrase.guess.join(" or ")
+  puts phrase.guess_language.join(" or ")
 end
