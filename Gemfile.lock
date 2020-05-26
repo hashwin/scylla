@@ -1,15 +1,17 @@
 GEM
   remote: http://rubygems.org/
   specs:
-    activesupport (5.0.1)
+    activesupport (6.0.3.1)
       concurrent-ruby (~> 1.0, >= 1.0.2)
-      i18n (~> 0.7)
+      i18n (>= 0.7, < 2)
       minitest (~> 5.1)
       tzinfo (~> 1.1)
+      zeitwerk (~> 2.2, >= 2.2.2)
     byebug (9.0.6)
-    concurrent-ruby (1.0.4)
+    concurrent-ruby (1.1.6)
     crass (1.0.2)
-    i18n (0.8.0)
+    i18n (1.8.2)
+      concurrent-ruby (~> 1.0)
     json (2.0.3)
     mail (2.6.4)
       mime-types (>= 1.16, < 4)
@@ -39,11 +41,12 @@ GEM
       activesupport (>= 3.0.0)
     test-unit (3.2.3)
       power_assert
-    thread_safe (0.3.5)
-    tzinfo (1.2.2)
+    thread_safe (0.3.6)
+    tzinfo (1.2.7)
       thread_safe (~> 0.1)
     unicode (0.4.4.2)
     wikipedia-client (1.6.3)
+    zeitwerk (2.3.0)
 
 PLATFORMS
   ruby
