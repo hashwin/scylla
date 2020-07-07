@@ -21,7 +21,7 @@ Multiple results for other possible languages:
  "isso poderia ser confundido com espanhol, bem".language
  => "portuguese"
 
- "isso poderia ser confundido com espanhol, bem".guess
+ "isso poderia ser confundido com espanhol, bem".guess_language
  => ["portuguese", "spanish"]
 
 == Training
